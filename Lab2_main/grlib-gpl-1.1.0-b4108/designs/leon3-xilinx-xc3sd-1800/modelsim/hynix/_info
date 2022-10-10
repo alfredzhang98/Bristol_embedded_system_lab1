@@ -1,0 +1,129 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Pcomponents
+Z1 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z4 DPx4 work 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 w1309262196
+Z8 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd
+l0
+L26
+Vo8_LgJF_XU[3A5M_AZLI@0
+!s100 @PB>[M:315[7=J[I8E87o1
+Z9 OL;C;10.1b;51
+31
+!i10b 1
+!s108 1348674502.258000
+!s90 -reportprogress|300|-work|hynix|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd|
+Z10 !s102 -cover s
+Z11 o-work hynix -93 -source -nowarn 1 -nowarn 5 -cover s
+Z12 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+Ehy5ps121621f
+R7
+R4
+Z13 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z14 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z15 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z16 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+Z17 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R1
+R2
+R3
+R5
+R6
+R8
+Z18 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F.vhd
+Z19 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F.vhd
+l0
+L30
+V2`dm2B16UBg<Fi=Z1Fl`<3
+R9
+31
+Z20 !s108 1348674501.446000
+Z21 !s90 -reportprogress|300|-work|hynix|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F.vhd|
+Z22 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F.vhd|
+R10
+R11
+R12
+!s100 4o3RM1PRi<B2J`^<lbTP^3
+!i10b 1
+Abehavioral_model_hy5ps121621f
+R4
+R13
+R14
+R15
+R16
+R17
+R1
+R2
+R3
+R5
+R6
+DEx4 work 12 hy5ps121621f 0 22 2`dm2B16UBg<Fi=Z1Fl`<3
+l234
+L59
+VUJa?HVgO;CEcUcgH_Dba^1
+!s100 :SEdci[A]mc6Q7D@78KQ`0
+R9
+31
+R20
+R21
+R22
+R10
+R11
+R12
+!i10b 1
+Phy5ps121621f_pack
+R1
+R2
+R3
+R5
+R6
+R7
+R8
+Z23 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F_PACK.vhd
+Z24 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F_PACK.vhd
+l0
+L24
+V2fTWOlB8ogXG774Wa;^@R0
+R9
+31
+b1
+Z25 !s108 1348674500.641000
+Z26 !s90 -reportprogress|300|-work|hynix|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F_PACK.vhd|
+Z27 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F_PACK.vhd|
+R10
+R11
+R12
+!s100 F<LjS:PjH8H[EgLUOHRe_2
+!i10b 1
+Bbody
+R4
+R1
+R2
+R3
+R5
+R6
+l0
+L242
+V@kTF0>z]<S@E;Ml;0;j[c2
+R9
+31
+R25
+R26
+R27
+R10
+R11
+R12
+nbody
+!s100 MnMfai[7M2Z@N9I5JYg][3
+!i10b 1

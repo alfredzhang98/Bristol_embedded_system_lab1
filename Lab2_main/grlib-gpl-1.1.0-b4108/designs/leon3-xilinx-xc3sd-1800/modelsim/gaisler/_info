@@ -1,0 +1,5842 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Eahb_mst_iface
+Z1 w1309262194
+Z2 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
+Z3 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z4 DPx7 gaisler 4 misc 0 22 d6SO014Ae7CN46I_AT_L73
+Z5 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z6 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z7 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z8 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z9 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z10 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z11 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z12 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+Z13 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahb_mst_iface.vhd
+Z14 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahb_mst_iface.vhd
+l0
+L33
+V5TT@G2[ZG0Fjm0ZVG3hLO3
+Z15 OL;C;10.1b;51
+31
+Z16 !s108 1348674456.867000
+Z17 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahb_mst_iface.vhd|
+Z18 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahb_mst_iface.vhd|
+Z19 !s102 -cover s
+Z20 o-work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s
+Z21 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 Yb`65]NbIQP=1Xab<:aQB1
+!i10b 1
+Artl
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 13 ahb_mst_iface 0 22 5TT@G2[ZG0Fjm0ZVG3hLO3
+l62
+L49
+Vac5Zhc7@h:J>z6WB5oK=G1
+R15
+31
+R16
+R17
+R18
+R19
+R20
+R21
+!s100 USTeQzA4Seb3^eIB_k2SL0
+!i10b 1
+Eahbdpram
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z22 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbdpram.vhd
+Z23 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbdpram.vhd
+l0
+L35
+V>oZKnCEI2zk]DNCW;0fX32
+R15
+31
+Z24 !s108 1348674435.257000
+Z25 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbdpram.vhd|
+Z26 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbdpram.vhd|
+R19
+R20
+R21
+!s100 Ra<IDzzZn>:kdc3[T`X862
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ahbdpram 0 22 >oZKnCEI2zk]DNCW;0fX32
+l84
+L58
+V4_Z<L0S4D8OANFO1L<0cU3
+R15
+31
+R24
+R25
+R26
+R19
+R20
+R21
+!s100 U3Aj==Je:[0i7kXP2_ISI0
+!i10b 1
+Eahbjtag
+R1
+Z27 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
+Z28 DPx7 gaisler 10 libjtagcom 0 22 :0?J?T@5c<RYHkJl9<<RQ3
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z29 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag.vhd
+Z30 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag.vhd
+l0
+L44
+V9z5z@5bkE673hP3[SGR=T2
+R15
+31
+Z31 !s108 1348674475.484000
+Z32 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag.vhd|
+Z33 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag.vhd|
+R19
+R20
+R21
+!s100 n_lYnGNCRdeJUG]EGicL32
+!i10b 1
+Astruct
+R27
+R28
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbjtag 0 22 9z5z@5bkE673hP3[SGR=T2
+l93
+L78
+VlkJK4>k9LC3XM3Z8gD7U82
+R15
+31
+R31
+R32
+R33
+R19
+R20
+R21
+!s100 b[Kn1]lFcDcBjA;b^CQJ@3
+!i10b 1
+Eahbjtag_bsd
+R1
+R27
+R28
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z34 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag_bsd.vhd
+Z35 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag_bsd.vhd
+l0
+L39
+V_=o?=OKMSR86W^9h4C3Ym3
+R15
+31
+Z36 !s108 1348674476.070000
+Z37 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag_bsd.vhd|
+Z38 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag_bsd.vhd|
+R19
+R20
+R21
+!s100 TXazKLzk21^`=J1;J;kgP3
+!i10b 1
+Astruct
+R27
+R28
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 11 ahbjtag_bsd 0 22 _=o?=OKMSR86W^9h4C3Ym3
+l75
+L60
+VBBzk_7d5cn_]N:ZdBXV0h2
+R15
+31
+R36
+R37
+R38
+R19
+R20
+R21
+!s100 >J[0^fm:l4>g7b`gNkEZc2
+!i10b 1
+Eahbmst
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z39 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst.vhd
+Z40 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst.vhd
+l0
+L35
+V5jW]3W>4in9zQgOGD1H3<2
+R15
+31
+Z41 !s108 1348674438.085000
+Z42 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst.vhd|
+Z43 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst.vhd|
+R19
+R20
+R21
+!s100 ^Ej8beK`nc8l`:]fgHNJ:3
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 ahbmst 0 22 5jW]3W>4in9zQgOGD1H3<2
+l69
+L54
+V0_Nb<hE]mJK6MO1a8MPh03
+R15
+31
+R41
+R42
+R43
+R19
+R20
+R21
+!s100 GWlTZbV2mmmRHedQb1G]O1
+!i10b 1
+Eahbmst2
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z44 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst2.vhd
+Z45 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst2.vhd
+l0
+L63
+VRKO`NPj:adm?91[iP__`a3
+R15
+31
+Z46 !s108 1348674456.125000
+Z47 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst2.vhd|
+Z48 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst2.vhd|
+R19
+R20
+R21
+!s100 9Z@[0O1NEUX>5[@^ELOkV0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbmst2 0 22 RKO`NPj:adm?91[iP__`a3
+l103
+L84
+VhC;BCTRiD<HiRXX^ZUhHa2
+R15
+31
+R46
+R47
+R48
+R19
+R20
+R21
+!s100 O5K0dU@2h4?>MW<WO_HF^2
+!i10b 1
+Eahbram
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z49 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbram.vhd
+Z50 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbram.vhd
+l0
+L43
+VziDJ^APf<n88Dd8UOegkZ0
+R15
+31
+Z51 !s108 1348674434.476000
+Z52 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbram.vhd|
+Z53 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbram.vhd|
+R19
+R20
+R21
+!s100 3TVh?^GJoA8mMn`cUM6`X2
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 ahbram 0 22 ziDJ^APf<n88Dd8UOegkZ0
+l88
+L60
+VVQgcFG:;LR_i3X0kVGYE^2
+R15
+31
+R51
+R52
+R53
+R19
+R20
+R21
+!s100 ??3DEOBzRmD?U>1X;HTGA2
+!i10b 1
+Eahbrep
+R1
+R3
+R5
+R6
+Z54 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+R7
+R8
+R9
+Z55 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R10
+R11
+R12
+Z56 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ahbrep.vhd
+Z57 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ahbrep.vhd
+l0
+L44
+V_fa3kI:=N`3G5I=APOk3;2
+R15
+31
+Z58 !s108 1348674468.914000
+Z59 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ahbrep.vhd|
+Z60 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ahbrep.vhd|
+R19
+R20
+R21
+!s100 13G30b0PWGGUUMTin^[lh2
+!i10b 1
+Artl
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R55
+R10
+R11
+DEx4 work 6 ahbrep 0 22 _fa3kI:=N`3G5I=APOk3;2
+l77
+L58
+VkfEG3XZ1@HIMZV>2Kcfjk2
+R15
+31
+R58
+R59
+R60
+R19
+R20
+R21
+!s100 PiZU>fWoi3FQ`Z95PY@900
+!i10b 1
+Eahbstat
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z61 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbstat.vhd
+Z62 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbstat.vhd
+l0
+L38
+VUQ9_PJe<l^fLS@@NLDm3e0
+R15
+31
+Z63 !s108 1348674439.500000
+Z64 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbstat.vhd|
+Z65 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbstat.vhd|
+R19
+R20
+R21
+!s100 <XhBR4m>I0]e3F_V@@:EE0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbstat 0 22 UQ9_PJe<l^fLS@@NLDm3e0
+l76
+L56
+V3mTLf?;0bL2>TgG8O6moI0
+R15
+31
+R63
+R64
+R65
+R19
+R20
+R21
+!s100 c^3<AWFNEm<>F?o2:9U?J3
+!i10b 1
+Eahbtrace
+R1
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z66 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace.vhd
+Z67 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace.vhd
+l0
+L37
+V22Rz]P]_3cl]ALaHQo_QK3
+R15
+31
+Z68 !s108 1348674435.937000
+Z69 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace.vhd|
+Z70 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace.vhd|
+R19
+R20
+R21
+!s100 9L3bGXTIhFA@:ONIUkHQ`2
+!i10b 1
+Artl
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ahbtrace 0 22 22Rz]P]_3cl]ALaHQo_QK3
+l57
+L55
+VH9@FDJh=nk`L<fP7e6iT[2
+R15
+31
+R68
+R69
+R70
+R19
+R20
+R21
+!s100 J;@lgf:_3o77<k5k_GZoF2
+!i10b 1
+Eahbtrace_mb
+R1
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z71 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mb.vhd
+Z72 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mb.vhd
+l0
+L38
+VLSMe@dKco^KW[:5LcW`Tk0
+R15
+31
+Z73 !s108 1348674436.632000
+Z74 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mb.vhd|
+Z75 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mb.vhd|
+R19
+R20
+R21
+!s100 @Ez=_A6FkzQf]cUF9GCL?3
+!i10b 1
+Artl
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 11 ahbtrace_mb 0 22 LSMe@dKco^KW[:5LcW`Tk0
+l63
+L57
+VcXa=fU_zOncz2[jSN<_0X2
+R15
+31
+R73
+R74
+R75
+R19
+R20
+R21
+!s100 c7c0c@m4`2DeWEaJ?cdVM2
+!i10b 1
+Eahbtrace_mmb
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z76 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mmb.vhd
+Z77 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mmb.vhd
+l0
+L38
+V7CNVkBcT;h_51DN5_b4oN0
+R15
+31
+Z78 !s108 1348674437.374000
+Z79 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mmb.vhd|
+Z80 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mmb.vhd|
+R19
+R20
+R21
+!s100 l3UCLNTaV@4fm=i]Gk;c_0
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 12 ahbtrace_mmb 0 22 7CNVkBcT;h_51DN5_b4oN0
+l170
+L58
+VioYzWCn6P]J9b>jzFGk4E3
+R15
+31
+R78
+R79
+R80
+R19
+R20
+R21
+!s100 OZk@36`_mU3IlS@b;?jU80
+!i10b 1
+Eahbuart
+R1
+Z81 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+Z82 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z83 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/ahbuart.vhd
+Z84 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/ahbuart.vhd
+l0
+L45
+VjfL;a?aA7ogO]Te0`2U4T3
+R15
+31
+Z85 !s108 1348674462.328000
+Z86 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/ahbuart.vhd|
+Z87 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/ahbuart.vhd|
+R19
+R20
+R21
+!s100 ORflfAaB8@1e:CdozK4o=3
+!i10b 1
+Astruct
+R81
+R82
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbuart 0 22 jfL;a?aA7ogO]Te0`2U4T3
+l72
+L63
+V?aP>@7;A3E21jaVo]]Y[W2
+R15
+31
+R85
+R86
+R87
+R19
+R20
+R21
+!s100 BDB`d4I@XBTmEUhd^fVOD0
+!i10b 1
+Eapbps2
+R1
+R2
+R4
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z88 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbps2.vhd
+Z89 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbps2.vhd
+l0
+L44
+VN8m^2CkmXRYKfAAFV]eS23
+R15
+31
+Z90 !s108 1348674441.070000
+Z91 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbps2.vhd|
+Z92 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbps2.vhd|
+R19
+R20
+R21
+!s100 g`]0N?UBNCokSeMzkA^=50
+!i10b 1
+Artl
+R2
+R4
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 6 apbps2 0 22 N8m^2CkmXRYKfAAFV]eS23
+l129
+L64
+V?FQ=R9ObL;31=OmbSn8X22
+R15
+31
+R90
+R91
+R92
+R19
+R20
+R21
+!s100 hD7J1k8<aHihQ3ZK:=Rio0
+!i10b 1
+Eapbuart
+R1
+R82
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z93 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/apbuart.vhd
+Z94 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/apbuart.vhd
+l0
+L47
+V8kcbiao>gSbgj_0fmcEb`2
+R15
+31
+Z95 !s108 1348674459.594000
+Z96 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/apbuart.vhd|
+Z97 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/apbuart.vhd|
+R19
+R20
+R21
+!s100 I94>[m?4UU=RnLnSKT@<Z2
+!i10b 1
+Artl
+R82
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 apbuart 0 22 8kcbiao>gSbgj_0fmcEb`2
+l140
+L68
+V[W5Oa??8iZJzVmBA5O?c_1
+R15
+31
+R95
+R96
+R97
+R19
+R20
+R21
+!s100 Pn<U?T7Ylch43C?fZXkSX3
+!i10b 1
+Eapbvga
+R1
+Z98 DPx7 gaisler 15 charrom_package 0 22 bHYeBhG4=]YW?X_NU@bzm3
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z99 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbvga.vhd
+Z100 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbvga.vhd
+l0
+L46
+VMl5VboUCFQG8V:MX]2Uic1
+R15
+31
+Z101 !s108 1348674443.906000
+Z102 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbvga.vhd|
+Z103 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbvga.vhd|
+R19
+R20
+R21
+!s100 Ge9VAGzKHTE?;1CSRL3cQ0
+!i10b 1
+Artl
+R98
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 apbvga 0 22 Ml5VboUCFQG8V:MX]2Uic1
+l133
+L62
+VHQ0jEEY5FfR52<7P0V78`2
+R15
+31
+R101
+R102
+R103
+R19
+R20
+R21
+!s100 zQ`mf1N?[;<0[_?[Ya`8N0
+!i10b 1
+Parith
+R8
+R10
+R11
+R1
+R12
+Z104 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/arith.vhd
+Z105 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/arith.vhd
+l0
+L30
+V_=LRYA4OXgl@aII>74dUj2
+R15
+31
+b1
+Z106 !s108 1348674405.124000
+Z107 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/arith.vhd|
+Z108 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/arith.vhd|
+R19
+R20
+R21
+!s100 ?eBFS6zfjkKW[YnUEAMX60
+!i10b 1
+Bbody
+DPx4 work 5 arith 0 22 _=LRYA4OXgl@aII>74dUj2
+R8
+R10
+R11
+l0
+L99
+VG`Ifk32bDge`g6JBXPBc]0
+R15
+31
+R106
+R107
+R108
+R19
+R20
+R21
+nbody
+!s100 Vj5f:918P^i=FCAfn@5NW3
+!i10b 1
+Eata_device
+R1
+R3
+R5
+R6
+R54
+R55
+R7
+R8
+R9
+R10
+R11
+R12
+Z109 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ata_device.vhd
+Z110 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ata_device.vhd
+l0
+L35
+V=ifOHnXco@4PHL`ZWQI8L1
+R15
+31
+Z111 !s108 1348674467.070000
+Z112 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ata_device.vhd|
+Z113 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ata_device.vhd|
+R19
+R20
+R21
+!s100 kdBS5n@D6na39JOC<P<nR2
+!i10b 1
+Abehaveioral
+R3
+R5
+R6
+R54
+R55
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 ata_device 0 22 =ifOHnXco@4PHL`ZWQI8L1
+l162
+L54
+V1f4@LPOCD8cW_U=31MPzg1
+R15
+31
+R111
+R112
+R113
+R19
+R20
+R21
+!s100 BP?Qz_o>TYA^dA<8DjKEW3
+!i10b 1
+Ebscanregs
+R1
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z114 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregs.vhd
+Z115 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregs.vhd
+l0
+L31
+V=VmW_P]X^KYYj7]>f^:^30
+R15
+31
+Z116 !s108 1348674476.781000
+Z117 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregs.vhd|
+Z118 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregs.vhd|
+R19
+R20
+R21
+!s100 6nmljK:US2fEBmH@1cJHc3
+!i10b 1
+Ahier
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 9 bscanregs 0 22 =VmW_P]X^KYYj7]>f^:^30
+l57
+L53
+V;UAdVRi`o@9h4J?aHQ>YS3
+R15
+31
+R116
+R117
+R118
+R19
+R20
+R21
+!s100 4cco4U1ETMUSfbQA^7dnG1
+!i10b 1
+Ebscanregsbd
+R1
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z119 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregsbd.vhd
+Z120 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregsbd.vhd
+l0
+L31
+V]oIKFFHO2`jeZ6UDZ`BkS0
+R15
+31
+Z121 !s108 1348674477.508000
+Z122 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregsbd.vhd|
+Z123 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregsbd.vhd|
+R19
+R20
+R21
+!s100 ZRR:39DC]SzYbY[^FEbm`0
+!i10b 1
+Artl
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 11 bscanregsbd 0 22 ]oIKFFHO2`jeZ6UDZ`BkS0
+l61
+L59
+VjodX<TelIPhoi6=2ROD0`0
+R15
+31
+R121
+R122
+R123
+R19
+R20
+R21
+!s100 2_<JK=6dj^UU]6[^01KEA2
+!i10b 1
+Ecachemem
+R1
+Z124 DPx7 gaisler 8 mmuiface 0 22 Fhj]QMEY01od5C1T^g=eX0
+Z125 DPx7 gaisler 8 libcache 0 22 aV;=4A[>bbjog]X1Z0HJ:1
+Z126 DPx7 gaisler 9 mmuconfig 0 22 l9?hj8<QAo@SadNR1d7<`1
+Z127 DPx7 gaisler 5 arith 0 22 _=LRYA4OXgl@aII>74dUj2
+Z128 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
+R7
+R9
+R5
+R8
+R6
+R2
+Z129 DPx7 gaisler 5 libiu 0 22 JKP6N9;1X5QB9g3T9?[3o3
+R10
+R11
+R12
+Z130 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cachemem.vhd
+Z131 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cachemem.vhd
+l0
+L37
+VQ]oDan7meI[]zMaN@4DZU1
+R15
+31
+Z132 !s108 1348674415.374000
+Z133 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cachemem.vhd|
+Z134 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cachemem.vhd|
+R19
+R20
+R21
+!s100 c0T70S@;kUo1m^SN3eUJh0
+!i10b 1
+Artl
+R124
+R125
+R126
+R127
+R128
+R7
+R9
+R5
+R8
+R6
+R2
+R129
+R10
+R11
+DEx4 work 8 cachemem 0 22 Q]oDan7meI[]zMaN@4DZU1
+l160
+L68
+V3FHVlCI2FFbGlmoCbPABY0
+R15
+31
+R132
+R133
+R134
+R19
+R20
+R21
+!s100 2TlPOz<n7G>6HABHc6BV_3
+!i10b 1
+Echarrom
+R1
+R7
+R8
+R9
+R10
+R11
+R12
+Z135 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom.vhd
+Z136 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom.vhd
+l0
+L30
+VM^F:TRK1NHYPkjNYb@GmD2
+R15
+31
+Z137 !s108 1348674442.507000
+Z138 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom.vhd|
+Z139 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom.vhd|
+R19
+R20
+R21
+!s100 WEzz<c`^>E7Tm[Co?U`bR2
+!i10b 1
+Artl
+R7
+R8
+R9
+R10
+R11
+DEx4 work 7 charrom 0 22 M^F:TRK1NHYPkjNYb@GmD2
+l43
+L38
+VlE>kQ9Yh1:[T?74aIJzWG0
+R15
+31
+R137
+R138
+R139
+R19
+R20
+R21
+!s100 zkWWo18V7QaJFS3ihXZo`3
+!i10b 1
+Pcharrom_package
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom_package.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom_package.vhd
+l0
+L31
+VbHYeBhG4=]YW?X_NU@bzm3
+R15
+31
+R19
+R20
+R21
+!s100 OQ2@TAFFY_1aNVVg^g0E>1
+!i10b 1
+!s108 1348674441.804000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom_package.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom_package.vhd|
+Ecpu_disasx
+R1
+Z140 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
+Z141 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
+R7
+R8
+R9
+DEx5 grlib 9 cpu_disas 0 22 gKUhgN8eCU9UVR9dX:eDR2
+R10
+R11
+R12
+Z142 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cpu_disasx.vhd
+Z143 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cpu_disasx.vhd
+l0
+L33
+V7AzHR=2C^6==@P7j@QCPg0
+R15
+31
+Z144 !s108 1348674422.445000
+Z145 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cpu_disasx.vhd|
+Z146 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cpu_disasx.vhd|
+R19
+R20
+R21
+!s100 Qe>YXSG4UDDFZ[@7YBl483
+!i10b 1
+Abehav
+R140
+R141
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 cpu_disasx 0 22 7AzHR=2C^6==@P7j@QCPg0
+l68
+L50
+V=YLPQQR0?dCl7O^`X:3`V0
+R15
+31
+R144
+R145
+R146
+R19
+R20
+R21
+!s100 eJVK^IYk0zi;oA9bBVT3_2
+!i10b 1
+Edcom
+R1
+R82
+R81
+R2
+R3
+R4
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z147 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom.vhd
+Z148 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom.vhd
+l0
+L35
+V7fLJAFIghiC=^RWd]:7kj2
+R15
+31
+Z149 !s108 1348674460.586000
+Z150 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom.vhd|
+Z151 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom.vhd|
+R19
+R20
+R21
+!s100 T0AfMLXP[j;;E?S8VN`Jg0
+!i10b 1
+Astruct
+R82
+R81
+R2
+R3
+R4
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 4 dcom 0 22 7fLJAFIghiC=^RWd]:7kj2
+l63
+L47
+V0<:PLK^k53EH4mm>coB2=3
+R15
+31
+R149
+R150
+R151
+R19
+R20
+R21
+!s100 ee_ReJjI>eNOYLeioQzH91
+!i10b 1
+Edcom_uart
+R1
+R2
+R4
+R82
+R81
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z152 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom_uart.vhd
+Z153 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom_uart.vhd
+l0
+L39
+Vci]RZVFdW_dnFME60KEic2
+R15
+31
+Z154 !s108 1348674461.445000
+Z155 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom_uart.vhd|
+Z156 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom_uart.vhd|
+R19
+R20
+R21
+!s100 [PoI<ZZIG5mECmO3M:hF93
+!i10b 1
+Artl
+R2
+R4
+R82
+R81
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 dcom_uart 0 22 ci]RZVFdW_dnFME60KEic2
+l98
+L57
+V9;0]HIRH@KENUfCT9I20?0
+R15
+31
+R154
+R155
+R156
+R19
+R20
+R21
+!s100 UjoVGPae:MlX01H556X890
+!i10b 1
+Eddr2buf
+R1
+R5
+R6
+R2
+R7
+R9
+R8
+R10
+R11
+R12
+Z157 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2buf.vhd
+Z158 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2buf.vhd
+l0
+L41
+Vfmgl^na]lIJnQZOS73l@?3
+R15
+31
+Z159 !s108 1348674487.110000
+Z160 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2buf.vhd|
+Z161 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2buf.vhd|
+R19
+R20
+R21
+!s100 HJdV;Y7OT^2_eOXJD2RcK3
+!i10b 1
+Artl
+R5
+R6
+R2
+R7
+R9
+R8
+R10
+R11
+DEx4 work 7 ddr2buf 0 22 fmgl^na]lIJnQZOS73l@?3
+l105
+L58
+V^azVjFTecDS^l3<:MgAgT0
+R15
+31
+R159
+R160
+R161
+R19
+R20
+R21
+!s100 UYj41`ANe69A3L=zaIiU51
+!i10b 1
+Eddr2phy_wrap
+R1
+Z162 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+Z163 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrphy_wrap.vhd
+Z164 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrphy_wrap.vhd
+l0
+L109
+Vn<LcLS31iC]O@O?Jle8S[2
+R15
+31
+Z165 !s108 1348674482.633000
+Z166 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrphy_wrap.vhd|
+Z167 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrphy_wrap.vhd|
+R19
+R20
+R21
+!s100 L69gLi6K<V^RRLB5b=C:Y3
+!i10b 1
+Artl
+R162
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 12 ddr2phy_wrap 0 22 n<LcLS31iC]O@O?Jle8S[2
+l199
+L161
+VfFQmIiP7gV^5J4=7IMR@`0
+R15
+31
+R165
+R166
+R167
+R19
+R20
+R21
+!s100 5W[eBXzY>^CdJimm9nzoN2
+!i10b 1
+Eddr2phy_wrap_cbd
+R1
+R162
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+R163
+R164
+l0
+L276
+VSzbfZF;eD:CjY8d`k377:3
+R15
+31
+R165
+R166
+R167
+R19
+R20
+R21
+!s100 5b2_b9>e5`GdhQO[]NemG0
+!i10b 1
+Artl
+R162
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 16 ddr2phy_wrap_cbd 0 22 SzbfZF;eD:CjY8d`k377:3
+l375
+L324
+V@cnb:NElnT]Q;a`[>30Im3
+R15
+31
+R165
+R166
+R167
+R19
+R20
+R21
+!s100 6LdhzRI55Io6LV>WVO<<83
+!i10b 1
+Eddr2spa
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z168 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spa.vhd
+Z169 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spa.vhd
+l0
+L37
+V4oP7B8I[H>4CAP9_[KQbc0
+R15
+31
+Z170 !s108 1348674486.484000
+Z171 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spa.vhd|
+Z172 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spa.vhd|
+R19
+R20
+R21
+!s100 OBD``UAQfm_>99]9b?e6P2
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ddr2spa 0 22 4oP7B8I[H>4CAP9_[KQbc0
+l143
+L117
+VZRbcF=f[:ejSo8odN5mjI3
+R15
+31
+R170
+R171
+R172
+R19
+R20
+R21
+!s100 T>2mm1SH>eRa?0c9P_RkB3
+!i10b 1
+Eddr2spax
+R1
+R2
+R162
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+R12
+Z173 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax.vhd
+Z174 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax.vhd
+l0
+L37
+V^g22L5z@`RZTY_Xz?<dli2
+R15
+31
+Z175 !s108 1348674487.641000
+Z176 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax.vhd|
+Z177 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax.vhd|
+R19
+R20
+R21
+!s100 LY^:>3hnA?HC_4aCmOAS^3
+!i10b 1
+Artl
+R2
+R162
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+DEx4 work 8 ddr2spax 0 22 ^g22L5z@`RZTY_Xz?<dli2
+l145
+L82
+VTIkUaAI4`1z5oakGnNN^k1
+R15
+31
+R175
+R176
+R177
+R19
+R20
+R21
+!s100 Td9=oFk?[QcZ6f_^gE=?W3
+!i10b 1
+Eddr2spax_ahb
+R1
+R2
+R162
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+R12
+Z178 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ahb.vhd
+Z179 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ahb.vhd
+l0
+L37
+VC_Q_[3A0H26l<Iaj579QA2
+R15
+31
+Z180 !s108 1348674488.235000
+Z181 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ahb.vhd|
+Z182 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ahb.vhd|
+R19
+R20
+R21
+!s100 B1R`hdTggOQUKo6TV_oSH3
+!i10b 1
+Artl
+R2
+R162
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+DEx4 work 12 ddr2spax_ahb 0 22 C_Q_[3A0H26l<Iaj579QA2
+l123
+L65
+Vb[[1@MCn6WLbdMnO4R]OY3
+!s100 o5ZCgbbz42zZ:QJ]hBPV_1
+R15
+31
+R180
+R181
+R182
+R19
+R20
+R21
+!i10b 1
+Eddr2spax_ddr
+R1
+R2
+R162
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+R12
+Z183 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ddr.vhd
+Z184 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ddr.vhd
+l0
+L37
+V`KPfN72kImKhDVPWzDKi01
+!s100 10O1mX@a4hD02UV1fg7JX1
+R15
+31
+!i10b 1
+Z185 !s108 1348674488.860000
+Z186 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ddr.vhd|
+Z187 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ddr.vhd|
+R19
+R20
+R21
+Artl
+R2
+R162
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+Z188 DEx4 work 12 ddr2spax_ddr 0 22 `KPfN72kImKhDVPWzDKi01
+l220
+L79
+Z189 V7KS`bamdlh[Pl2D1W2^4n3
+Z190 !s100 ZSW=DKb;aZ[1_^f7L5U<G1
+R15
+31
+!i10b 1
+R185
+R186
+R187
+R19
+R20
+R21
+Eddrphy_wrap
+R1
+R162
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+R163
+R164
+l0
+L40
+VITo>?lj7kO6]a_U]ln9Hn2
+R15
+31
+R165
+R166
+R167
+R19
+R20
+R21
+!s100 aFSdKgbV1mM=dZheC>AcT0
+!i10b 1
+Artl
+R162
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 11 ddrphy_wrap 0 22 ITo>?lj7kO6]a_U]ln9Hn2
+l73
+L71
+V=4BiWX::oHRRDCa2AKf7J2
+R15
+31
+R165
+R166
+R167
+R19
+R20
+R21
+!s100 9VH0<h:De_DDe6S>;Cl;42
+!i10b 1
+Eddrsp16a
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z191 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp16a.vhd
+Z192 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp16a.vhd
+l0
+L37
+VWc;YUW3:Cg6JzAQHBzAAN0
+R15
+31
+Z193 !s108 1348674483.781000
+Z194 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp16a.vhd|
+Z195 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp16a.vhd|
+R19
+R20
+R21
+!s100 1UKQH[mVnoWoPPi^f2:2j2
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ddrsp16a 0 22 Wc;YUW3:Cg6JzAQHBzAAN0
+l205
+L69
+VkEEP03EaUhB9:L2PGfehR2
+R15
+31
+R193
+R194
+R195
+R19
+R20
+R21
+!s100 ohmR9H[nkSzM]D9]c08OG3
+!i10b 1
+Eddrsp32a
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z196 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp32a.vhd
+Z197 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp32a.vhd
+l0
+L37
+VETQzUm?NcY[bbM912kkRG2
+R15
+31
+Z198 !s108 1348674484.438000
+Z199 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp32a.vhd|
+Z200 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp32a.vhd|
+R19
+R20
+R21
+!s100 mhT`8GP[V=kE?X>=l8g?m0
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ddrsp32a 0 22 ETQzUm?NcY[bbM912kkRG2
+l204
+L68
+Vm]hbbHknW4dB:RSB:?;Yj0
+R15
+31
+R198
+R199
+R200
+R19
+R20
+R21
+!s100 ?Sg?GCl>OE^1RiH[zB8_52
+!i10b 1
+Eddrsp64a
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z201 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp64a.vhd
+Z202 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp64a.vhd
+l0
+L37
+VJbUW4JA=h>X3WJGeCICEX1
+R15
+31
+Z203 !s108 1348674485.133000
+Z204 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp64a.vhd|
+Z205 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp64a.vhd|
+R19
+R20
+R21
+!s100 [M6mz56l]H8b6MdV^N7j[3
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ddrsp64a 0 22 JbUW4JA=h>X3WJGeCICEX1
+l204
+L68
+V?:fbaRSIRL?E_bMl;m8HQ1
+R15
+31
+R203
+R204
+R205
+R19
+R20
+R21
+!s100 >VSKjecWjQl4Se4eleeN=1
+!i10b 1
+Eddrspa
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z206 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrspa.vhd
+Z207 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrspa.vhd
+l0
+L37
+V=Q0QC^hAMN1DASbG:;1dB3
+R15
+31
+Z208 !s108 1348674485.867000
+Z209 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrspa.vhd|
+Z210 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrspa.vhd|
+R19
+R20
+R21
+!s100 `[iQ_[BS9ooTSU71aBWE]2
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 ddrspa 0 22 =Q0QC^hAMN1DASbG:;1dB3
+l99
+L91
+V]CKN9<1]]X94[HWPLY<4U3
+R15
+31
+R208
+R209
+R210
+R19
+R20
+R21
+!s100 a@76F^NC_RfK>hRanbHKH0
+!i10b 1
+Edelay_wire
+R1
+R10
+R11
+R12
+Z211 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/delay_wire.vhd
+Z212 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/delay_wire.vhd
+l0
+L27
+Vl==7Q>UZ[U1HhW;B^K6b@0
+R15
+31
+Z213 !s108 1348674469.648000
+Z214 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/delay_wire.vhd|
+Z215 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/delay_wire.vhd|
+R19
+R20
+R21
+!s100 [003b2n>@=EeA3XoSC`hn0
+!i10b 1
+Artl
+R10
+R11
+DEx4 work 10 delay_wire 0 22 l==7Q>UZ[U1HhW;B^K6b@0
+l44
+L39
+V3IbkN;2>jR?oDb1FzCXLM1
+R15
+31
+R213
+R214
+R215
+R19
+R20
+R21
+!s100 >h<mGMBARMe[U^W=Z=Y012
+!i10b 1
+Ediv32
+R1
+R127
+R7
+R8
+R9
+R10
+R11
+R12
+Z216 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/div32.vhd
+Z217 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/div32.vhd
+l0
+L40
+V[e61BRcOXbNTBQmea;V6=2
+R15
+31
+Z218 !s108 1348674406.593000
+Z219 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/div32.vhd|
+Z220 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/div32.vhd|
+R19
+R20
+R21
+!s100 4nNlWncOE69CWGJbT57eM2
+!i10b 1
+Artl
+R127
+R7
+R8
+R9
+R10
+R11
+DEx4 work 5 div32 0 22 [e61BRcOXbNTBQmea;V6=2
+l70
+L50
+VJTQARf@`^doj>GzQimYoJ0
+R15
+31
+R218
+R219
+R220
+R19
+R20
+R21
+!s100 `X]>@_LghckUCiFcFLcHJ0
+!i10b 1
+Edsu3
+R1
+R2
+R128
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z221 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3.vhd
+Z222 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3.vhd
+l0
+L44
+VC9ib@R>A[ZFWgeFBN1PbM1
+R15
+31
+Z223 !s108 1348674427.195000
+Z224 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3.vhd|
+Z225 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3.vhd|
+R19
+R20
+R21
+!s100 PD[e0XEedZadL3ogBmldc0
+!i10b 1
+Artl
+R2
+R128
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 4 dsu3 0 22 C9ib@R>A[ZFWgeFBN1PbM1
+l73
+L69
+Vc7OJUP3L@LPaCCEEl1RdN3
+R15
+31
+R223
+R224
+R225
+R19
+R20
+R21
+!s100 FdmnW`Rd8zU2JlI@LCdG70
+!i10b 1
+Edsu3x
+R1
+R2
+R128
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z226 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3x.vhd
+Z227 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3x.vhd
+l0
+L37
+Ve9Vm0]aokieNikc`ciY9^3
+R15
+31
+Z228 !s108 1348674426.413000
+Z229 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3x.vhd|
+Z230 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3x.vhd|
+R19
+R20
+R21
+!s100 Z85dcoClJ><]X=^B8Lz^a3
+!i10b 1
+Artl
+R2
+R128
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 dsu3x 0 22 e9Vm0]aokieNikc`ciY9^3
+l162
+L65
+VW96>bF9amScbTeGe2_mY:1
+R15
+31
+R228
+R229
+R230
+R19
+R20
+R21
+!s100 e_ML]GazUcYY@5]PLk5IV2
+!i10b 1
+Pethernet_mac
+R2
+R7
+R9
+R5
+R8
+R6
+Z231 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/ethernet_mac.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/ethernet_mac.vhd
+l0
+L30
+VmlGggTJ0_jR;?gD:=hLfb0
+R15
+31
+R19
+R20
+R21
+!s100 h32IzUCJ5<`VoRNNVVZV00
+!i10b 1
+!s108 1348674478.844000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/ethernet_mac.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/ethernet_mac.vhd|
+Egptimer
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z232 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gptimer.vhd
+Z233 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gptimer.vhd
+l0
+L47
+VT2W8k4MHgU8WBeADDiD^h2
+R15
+31
+Z234 !s108 1348674433.640000
+Z235 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gptimer.vhd|
+Z236 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gptimer.vhd|
+R19
+R20
+R21
+!s100 i3559Ylk5_Q7?4aI0]ajn0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 gptimer 0 22 T2W8k4MHgU8WBeADDiD^h2
+l107
+L70
+V[KQdOk8e]L>fbS@:aRN8[3
+R15
+31
+R234
+R235
+R236
+R19
+R20
+R21
+!s100 1Zd7lOR1`jODmVI^Vz8il2
+!i10b 1
+Egracectrl
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z237 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gracectrl.vhd
+Z238 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gracectrl.vhd
+l0
+L34
+V2Tl?g8=SCC`lkB_7Q=nWP0
+R15
+31
+Z239 !s108 1348674453.922000
+Z240 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gracectrl.vhd|
+Z241 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gracectrl.vhd|
+R19
+R20
+R21
+!s100 k=cJBYGkP1:a`FBCkAcce0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 gracectrl 0 22 2Tl?g8=SCC`lkB_7Q=nWP0
+l135
+L55
+VGLV;3G3UV@m7Lbm]hLW>U0
+R15
+31
+R239
+R240
+R241
+R19
+R20
+R21
+!s100 4I@lG?2DXaCL2Cj:hY>Cc3
+!i10b 1
+Egreth
+R1
+Z242 DPx3 eth 7 ethcomp 0 22 :NkR42G2[l8bz@5`D79KF2
+R4
+Z243 DPx7 gaisler 12 ethernet_mac 0 22 mlGggTJ0_jR;?gD:=hLfb0
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z244 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth.vhd
+Z245 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth.vhd
+l0
+L41
+VI2?n:F[TegTK>6CzkTd?i0
+R15
+31
+Z246 !s108 1348674479.289000
+Z247 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth.vhd|
+Z248 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth.vhd|
+R19
+R20
+R21
+!s100 mh3^?eTW:^9:B6KZQ<eLd2
+!i10b 1
+Artl
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 5 greth 0 22 I2?n:F[TegTK>6CzkTd?i0
+l149
+L85
+V8K`VZEb5DT3Wl95cnh:][1
+R15
+31
+R246
+R247
+R248
+R19
+R20
+R21
+!s100 E0UARDZkBCZ7MB<92[DLe0
+!i10b 1
+Egreth_gbit
+R1
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z249 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit.vhd
+Z250 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit.vhd
+l0
+L41
+VnD9L3>_441Vm5D6jN4a1i2
+R15
+31
+Z251 !s108 1348674480.594000
+Z252 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit.vhd|
+Z253 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit.vhd|
+R19
+R20
+R21
+!s100 :2baEX3HSYoGM[G7dDSl13
+!i10b 1
+Artl
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 greth_gbit 0 22 nD9L3>_441Vm5D6jN4a1i2
+l141
+L84
+V=d_JT<>g^`Zd2LC9IM5ID0
+R15
+31
+R251
+R252
+R253
+R19
+R20
+R21
+!s100 b6bgZ?SoJ9K@YDd:e0BOk3
+!i10b 1
+Egreth_gbit_mb
+R1
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z254 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit_mb.vhd
+Z255 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit_mb.vhd
+l0
+L41
+VmT^l]eT4zRllVlB^o0SkE1
+R15
+31
+Z256 !s108 1348674481.281000
+Z257 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit_mb.vhd|
+Z258 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit_mb.vhd|
+R19
+R20
+R21
+!s100 K^Ck[?[n_@L]kajfhnZ^_2
+!i10b 1
+Artl
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 13 greth_gbit_mb 0 22 mT^l]eT4zRllVlB^o0SkE1
+l146
+L88
+Vg8RF];`lmO@FjHT<C`ToU2
+R15
+31
+R256
+R257
+R258
+R19
+R20
+R21
+!s100 Bhc@nC?fE?3M<z]h4Kbl00
+!i10b 1
+Egreth_mb
+R1
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z259 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_mb.vhd
+Z260 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_mb.vhd
+l0
+L41
+V?hgzf0TeV;Q<`9;LC4`g=0
+R15
+31
+Z261 !s108 1348674479.992000
+Z262 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_mb.vhd|
+Z263 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_mb.vhd|
+R19
+R20
+R21
+!s100 QJO9P86kKh3CdLI<QLcDC0
+!i10b 1
+Artl
+R242
+R4
+R243
+R231
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 8 greth_mb 0 22 ?hgzf0TeV;Q<`9;LC4`g=0
+l155
+L89
+VaUOIH9F>3lCKU`o48_eKZ0
+R15
+31
+R261
+R262
+R263
+R19
+R20
+R21
+!s100 zRX[U=jeadgbgUG4>TDaC2
+!i10b 1
+Egrethm
+R1
+R231
+R2
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z264 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/grethm.vhd
+Z265 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/grethm.vhd
+l0
+L35
+V_5QSnFHNRcbRfW<[I?W[b1
+R15
+31
+Z266 !s108 1348674482.024000
+Z267 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/grethm.vhd|
+Z268 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/grethm.vhd|
+R19
+R20
+R21
+!s100 EI3hE6jlK9TiMaYjUMXGn3
+!i10b 1
+Artl
+R231
+R2
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 6 grethm 0 22 _5QSnFHNRcbRfW<[I?W[b1
+l83
+L82
+V9]B2KImCHJRi]:SUU?d]i1
+R15
+31
+R266
+R267
+R268
+R19
+R20
+R21
+!s100 bN?kUeBc>`[QnWZ>zTNl60
+!i10b 1
+Egrfpushwx
+R1
+R2
+R5
+R6
+R128
+R7
+R8
+R9
+R10
+R11
+R12
+Z269 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpushwx.vhd
+Z270 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpushwx.vhd
+l0
+L16
+VjVgVkoLU7Cand4CiIUCoo3
+R15
+31
+Z271 !s108 1348674431.124000
+Z272 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpushwx.vhd|
+Z273 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpushwx.vhd|
+R19
+R20
+R21
+!s100 C@9Aa5E5eLng[M0iie]<N3
+!i10b 1
+Artl
+R2
+R5
+R6
+R128
+R7
+R8
+R9
+R10
+R11
+DEx4 work 9 grfpushwx 0 22 jVgVkoLU7Cand4CiIUCoo3
+l170
+L29
+V0okAKzb:KO=fdJLF`a5PK1
+R15
+31
+R271
+R272
+R273
+R19
+R20
+R21
+!s100 AKWT4QgaIM:SBHNZ_KKJJ3
+!i10b 1
+Egrfpwx
+R1
+Z274 DPx7 techmap 7 netcomp 0 22 OWgRMf4Taz>X_3j0e_Ge90
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+R12
+Z275 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwx.vhd
+Z276 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwx.vhd
+l0
+L37
+V`Y4<];BGP9iOk7^PA1=j23
+R15
+31
+Z277 !s108 1348674423.984000
+Z278 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwx.vhd|
+Z279 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwx.vhd|
+R19
+R20
+R21
+!s100 HO<@3=GT:T5a8UDQ@Ykmc2
+!i10b 1
+Artl
+R274
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+DEx4 work 6 grfpwx 0 22 `Y4<];BGP9iOk7^PA1=j23
+l60
+L55
+VWcCN@d;I?LfcMPWgeIe_g3
+R15
+31
+R277
+R278
+R279
+R19
+R20
+R21
+!s100 9T;Dg=K:0@JAgon1NH^Il1
+!i10b 1
+Egrfpwxsh
+R1
+R128
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z280 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwxsh.vhd
+Z281 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwxsh.vhd
+l0
+L33
+VG02I_@WHol5]9o1@Cn5>_3
+R15
+31
+Z282 !s108 1348674430.562000
+Z283 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwxsh.vhd|
+Z284 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwxsh.vhd|
+R19
+R20
+R21
+!s100 3GD?<4IJVaA6J<Af3zRJ^1
+!i10b 1
+Artl
+R128
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 8 grfpwxsh 0 22 G02I_@WHol5]9o1@Cn5>_3
+l155
+L50
+VZDTQ1ml7ORl65NG>W<V_[2
+R15
+31
+R282
+R283
+R284
+R19
+R20
+R21
+!s100 RSKk2Mke@l34BPF7QMaVf0
+!i10b 1
+Egrgpio
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z285 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpio.vhd
+Z286 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpio.vhd
+l0
+L45
+VCcb1zD_XamWc88FVf<@nH3
+R15
+31
+Z287 !s108 1348674438.828000
+Z288 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpio.vhd|
+Z289 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpio.vhd|
+R19
+R20
+R21
+!s100 [8il9Kkf?S9_^kgThG_<@0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 grgpio 0 22 Ccb1zD_XamWc88FVf<@nH3
+l111
+L70
+V;eGR5:^2Y33gGl=@lIkDL0
+R15
+31
+R287
+R288
+R289
+R19
+R20
+R21
+!s100 Nn;C=0]Ygl]4ffNmO2:2j0
+!i10b 1
+Egrgpreg
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+R12
+Z290 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpreg.vhd
+Z291 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpreg.vhd
+l0
+L40
+V870K]gfU3=LQoG1ckzPb62
+R15
+31
+Z292 !s108 1348674455.078000
+Z293 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpreg.vhd|
+Z294 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpreg.vhd|
+R19
+R20
+R21
+!s100 Ea0hm8:JO6^d<GdN:QSTG3
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+DEx4 work 7 grgpreg 0 22 870K]gfU3=LQoG1ckzPb62
+l75
+L60
+V44W7Xi02deQgX7dnZ8oWO2
+R15
+31
+R292
+R293
+R294
+R19
+R20
+R21
+!s100 THJ1Jk7C??AzU1kWfSnlC0
+!i10b 1
+Egrlfpwx
+R1
+R274
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+R12
+Z295 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grlfpwx.vhd
+Z296 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grlfpwx.vhd
+l0
+L36
+V9X1GYHfGNYjaR@i1<@PD?0
+R15
+31
+Z297 !s108 1348674425.101000
+Z298 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grlfpwx.vhd|
+Z299 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grlfpwx.vhd|
+R19
+R20
+R21
+!s100 S1>o:lOFYe]>ldi]8HK7W3
+!i10b 1
+Artl
+R274
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+DEx4 work 7 grlfpwx 0 22 9X1GYHfGNYjaR@i1<@PD?0
+l58
+L53
+VTYeP[NJY0Q`8A`8QbAbVE0
+R15
+31
+R297
+R298
+R299
+R19
+R20
+R21
+!s100 FW:1X?2zdbRSDndNZKaST2
+!i10b 1
+Egrsysmon
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z300 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grsysmon.vhd
+Z301 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grsysmon.vhd
+l0
+L37
+V2DZPUa]HNLCKQQ6jYiHP22
+R15
+31
+Z302 !s108 1348674452.265000
+Z303 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grsysmon.vhd|
+Z304 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grsysmon.vhd|
+R19
+R20
+R21
+!s100 8La85InmaFOEOn2bC60gm3
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 grsysmon 0 22 2DZPUa]HNLCKQQ6jYiHP22
+l175
+L86
+VaR2WLW4Zl6fNKOW1V08En2
+R15
+31
+R302
+R303
+R304
+R19
+R20
+R21
+!s100 nfm0b@Xl@OSMmMH3=YK8z2
+!i10b 1
+Egrusb_dclsim
+R1
+Z305 DPx7 gaisler 6 usbsim 0 22 =K]O^Rl33<[]PX:3aV;GH0
+R3
+R5
+R6
+R54
+R55
+R7
+R9
+R8
+R10
+R11
+R12
+Z306 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd
+Z307 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd
+l0
+L101
+VF9[]PbK5h7[5lG0[QG9fe1
+R15
+31
+Z308 !s108 1348674473.031000
+Z309 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd|
+Z310 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd|
+R19
+R20
+R21
+!s100 oZ_ee;A8gY[KA9DbV>ZYi2
+!i10b 1
+Abehav
+R305
+R3
+R5
+R6
+R54
+R55
+R7
+R9
+R8
+R10
+R11
+DEx4 work 12 grusb_dclsim 0 22 F9[]PbK5h7[5lG0[QG9fe1
+l131
+L122
+V?aBE2UzReL<R3Mb9CXi>63
+R15
+31
+R308
+R309
+R310
+R19
+R20
+R21
+!s100 M<k`h:cHWI[]?7K3E<1_[2
+!i10b 1
+Egrusbdcsim
+R1
+R305
+R7
+R9
+R8
+R10
+R11
+R12
+Z311 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd
+Z312 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd
+l0
+L46
+VF?L3IF@5obeZ[G0[ReZ971
+R15
+31
+Z313 !s108 1348674472.500000
+Z314 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd|
+Z315 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd|
+R19
+R20
+R21
+!s100 8X2>NCJIdc_Za0oEZ6ZPN3
+!i10b 1
+Abehav
+R305
+R7
+R9
+R8
+R10
+R11
+DEx4 work 10 grusbdcsim 0 22 F?L3IF@5obeZ[G0[ReZ971
+l68
+L59
+V;C4m28LR0BTai2<K]UC9O3
+R15
+31
+R313
+R314
+R315
+R19
+R20
+R21
+!s100 ??d^G^9VhO8;HAUXnzAEV1
+!i10b 1
+vi2c_slave_model
+IlH`Ad6AnF<0a^eZC[5?a?2
+Vo4NFQ]cPUgk_kU2`QENA20
+R12
+w1309262078
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/i2c_slave_model.v
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/i2c_slave_model.v
+L0 76
+Z316 OL;L;10.1b;51
+r1
+31
+o-work gaisler
+tQuiet 1
+!i10b 1
+!s100 OBfVV>cciG@KU[:@C[jW=1
+!s85 0
+!s108 1348674464.953000
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/i2c_slave_model.v|
+!s90 -reportprogress|300|-work|gaisler|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/i2c_slave_model.v|
+Ei2cmst_gen
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+R12
+Z317 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cmst_gen.vhd
+Z318 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cmst_gen.vhd
+l0
+L39
+V_gPOBK?U]UFfc7X]eRj1b1
+R15
+31
+Z319 !s108 1348674445.765000
+Z320 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cmst_gen.vhd|
+Z321 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cmst_gen.vhd|
+R19
+R20
+R21
+!s100 f0a@2M6eOZd1=Y?`_WEn>1
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+DEx4 work 10 i2cmst_gen 0 22 _gPOBK?U]UFfc7X]eRj1b1
+l77
+L67
+Vz8kRK6Obf0R>mD4:F8oiF3
+R15
+31
+R319
+R320
+R321
+R19
+R20
+R21
+!s100 ^T2<B;PgX:b?U<8oi:@oK0
+!i10b 1
+Ei2cslv
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R4
+R10
+R11
+R12
+Z322 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cslv.vhd
+Z323 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cslv.vhd
+l0
+L80
+VCAA5`XH6=NXkH0h]Agd640
+R15
+31
+Z324 !s108 1348674449.875000
+Z325 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cslv.vhd|
+Z326 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cslv.vhd|
+R19
+R20
+R21
+!s100 nZceX3Lc1:[b4J>S63OEo3
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R4
+R10
+R11
+DEx4 work 6 i2cslv 0 22 CAA5`XH6=NXkH0h]Agd640
+l241
+L106
+V]hJ]zAP3oUmciiF`_]z@13
+R15
+31
+R324
+R325
+R326
+R19
+R20
+R21
+!s100 L^dDe^Jb0EgbXQDGoR2Bf1
+!i10b 1
+Eirqmp
+R1
+R2
+R128
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z327 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/irqmp.vhd
+Z328 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/irqmp.vhd
+l0
+L43
+V:;IESMOdHfLc[LiWV^JQ`1
+R15
+31
+Z329 !s108 1348674429.882000
+Z330 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/irqmp.vhd|
+Z331 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/irqmp.vhd|
+R19
+R20
+R21
+!s100 TSh[`QK4bJXz894@]cLTm1
+!i10b 1
+Artl
+R2
+R128
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 irqmp 0 22 :;IESMOdHfLc[LiWV^JQ`1
+l107
+L61
+Vdac6R`M8d]?`>XiQPh0_k0
+R15
+31
+R329
+R330
+R331
+R19
+R20
+R21
+!s100 SiO6E@V>AfZ[G3]52fB7T2
+!i10b 1
+Eiu3
+R1
+R140
+R126
+R127
+R129
+R128
+R5
+R6
+R2
+R7
+R9
+R141
+R8
+R10
+R11
+R12
+Z332 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/iu3.vhd
+Z333 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/iu3.vhd
+l0
+L42
+VCF3NCUm>z[^^djZk[J6Va0
+R15
+31
+Z334 !s108 1348674423.015000
+Z335 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/iu3.vhd|
+Z336 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/iu3.vhd|
+R19
+R20
+R21
+!s100 [_ReCZf<cRcA[IiGchY8A0
+!i10b 1
+Artl
+R140
+R126
+R127
+R129
+R128
+R5
+R6
+R2
+R7
+R9
+R141
+R8
+R10
+R11
+DEx4 work 3 iu3 0 22 CF3NCUm>z[^^djZk[J6Va0
+l2352
+L95
+VRnEWFcfWL9zL0:Yl9:1OR3
+R15
+31
+R334
+R335
+R336
+R19
+R20
+R21
+!s100 >FIdTfj3DSFdOn8NPlC:61
+!i10b 1
+Pjtag
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtag.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtag.vhd
+l0
+L33
+VaLRhU_`ZK1e`=nEJfEJ<C2
+R15
+31
+R19
+R20
+R21
+!s100 9j>NPzGdnV12CM01nV0CJ2
+!i10b 1
+!s108 1348674473.680000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtag.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtag.vhd|
+Ejtagcom
+R1
+R3
+R4
+R28
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z337 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagcom.vhd
+Z338 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagcom.vhd
+l0
+L39
+V2f2FS8YK1D[zVMRg;<Ii[2
+R15
+31
+Z339 !s108 1348674474.766000
+Z340 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagcom.vhd|
+Z341 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagcom.vhd|
+R19
+R20
+R21
+!s100 Aal1KD_Hj`XWgdC8G_WIP3
+!i10b 1
+Artl
+R3
+R4
+R28
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 jtagcom 0 22 2f2FS8YK1D[zVMRg;<Ii[2
+l85
+L57
+Vzk4DJ=zhhcKmYh?IzX`bL2
+R15
+31
+R339
+R340
+R341
+R19
+R20
+R21
+!s100 VoeR[a6G`6G4lhJ?JJXA@3
+!i10b 1
+Pjtagtst
+R5
+R6
+R54
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z342 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd
+Z343 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd
+l0
+L36
+VB51KY]5@QIT]fj7@=j6XX0
+R15
+31
+b1
+Z344 !s108 1348674478.141000
+Z345 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd|
+Z346 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd|
+R19
+R20
+R21
+!s100 _Mj2c:PMDWR>TcY[:?U]72
+!i10b 1
+Bbody
+DPx4 work 7 jtagtst 0 22 B51KY]5@QIT]fj7@=j6XX0
+R5
+R6
+R54
+R7
+R8
+R9
+R10
+R11
+l0
+L106
+VZ98]A01WI1MAl;ViV1LW41
+R15
+31
+R344
+R345
+R346
+R19
+R20
+R21
+nbody
+!s100 H`zeUN>R9XBHHC=P>^_lB0
+!i10b 1
+Pleon3
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3.vhd
+l0
+L34
+VYH0AacVmlYB4c9kMe[z]o3
+R15
+31
+R19
+R20
+R21
+!s100 dHSkWc?8`]=K0D1I8n=K]0
+!i10b 1
+!s108 1348674411.577000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3.vhd|
+Eleon3cg
+R1
+Z347 DPx7 gaisler 8 libproc3 0 22 mAAc749RiEl4Rh7@]O5D81
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z348 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3cg.vhd
+Z349 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3cg.vhd
+l0
+L42
+VNk9L5a[WW4lE@8m`UCi3B2
+R15
+31
+Z350 !s108 1348674429.187000
+Z351 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3cg.vhd|
+Z352 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3cg.vhd|
+R19
+R20
+R21
+!s100 <M;;o1YVNo0LFl4KcjdzB2
+!i10b 1
+Artl
+R347
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 leon3cg 0 22 Nk9L5a[WW4lE@8m`UCi3B2
+l136
+L107
+VM5angOHSC6UUmN]<;kn:X3
+R15
+31
+R350
+R351
+R352
+R19
+R20
+R21
+!s100 Z_JUWehJTPDa5OmC8P7Ed3
+!i10b 1
+Eleon3s
+R1
+R347
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z353 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3s.vhd
+Z354 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3s.vhd
+l0
+L158
+VYfeazCQmT1PY_5YR5P;Yf3
+R15
+31
+Z355 !s108 1348674428.515000
+Z356 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3s.vhd|
+Z357 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3s.vhd|
+R19
+R20
+R21
+!s100 aL7VZCAMfW[l7h]SjGJQT3
+!i10b 1
+Artl
+R347
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 leon3s 0 22 YfeazCQmT1PY_5YR5P;Yf3
+l252
+L222
+VmYPhJ1_M:Fn;k@_3zA8Ic2
+R15
+31
+R355
+R356
+R357
+R19
+R20
+R21
+!s100 ?M@YVBgNC9@6<5Xe5ha>33
+!i10b 1
+Eleon3sh
+R1
+R347
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z358 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3sh.vhd
+Z359 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3sh.vhd
+l0
+L42
+V;o[5M2k?MG00Wk;G>hN141
+R15
+31
+Z360 !s108 1348674431.828000
+Z361 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3sh.vhd|
+Z362 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3sh.vhd|
+R19
+R20
+R21
+!s100 0V8SBS:h4:?hcOj5JGn:z1
+!i10b 1
+Artl
+R347
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 leon3sh 0 22 ;o[5M2k?MG00Wk;G>hN141
+l134
+L108
+VSc3bdhaIfJ:YUXY86Qij;3
+R15
+31
+R360
+R361
+R362
+R19
+R20
+R21
+!s100 _?B;R_DOU[YQM`Ul:nO:50
+!i10b 1
+Plibcache
+R124
+R126
+R127
+R128
+R129
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+Z363 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libcache.vhd
+Z364 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libcache.vhd
+l0
+L38
+VaV;=4A[>bbjog]X1Z0HJ:1
+R15
+31
+b1
+Z365 !s108 1348674414.171000
+Z366 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libcache.vhd|
+Z367 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libcache.vhd|
+R19
+R20
+R21
+!s100 lUYMcIi1?5ZBQjA?LNN^J2
+!i10b 1
+Bbody
+DPx4 work 8 libcache 0 22 aV;=4A[>bbjog]X1Z0HJ:1
+R124
+R126
+R127
+R128
+R129
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l0
+L669
+VZLOAGO;b0NY>A[H6Gh=H@2
+R15
+31
+R365
+R366
+R367
+R19
+R20
+R21
+nbody
+!s100 X9A5zCAaI49l>O0WU@hbO2
+!i10b 1
+Plibdcom
+R2
+R3
+R4
+R82
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+Z368 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd
+Z369 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd
+l0
+L35
+VaBf[HY;mCCl`R5]fmGVVS0
+R15
+31
+b1
+Z370 !s108 1348674458.726000
+Z371 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd|
+Z372 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd|
+R19
+R20
+R21
+!s100 FHVR0RF85P?]BaK>1ZzfQ0
+!i10b 1
+Bbody
+DPx4 work 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+R2
+R3
+R4
+R82
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l0
+L107
+VijNd>6zC[VnM7XHQAKLmE2
+R15
+31
+R370
+R371
+R372
+R19
+R20
+R21
+nbody
+!s100 eUX3g=B=33bL<FW]PaC5G0
+!i10b 1
+Plibiu
+R126
+R127
+R128
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libiu.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libiu.vhd
+l0
+L37
+VJKP6N9;1X5QB9g3T9?[3o3
+R15
+31
+R19
+R20
+R21
+!s100 YQ]:Q6XHmBWNRbTRfikY22
+!i10b 1
+!s108 1348674413.663000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libiu.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libiu.vhd|
+Plibjtagcom
+R2
+R3
+R4
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/libjtagcom.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/libjtagcom.vhd
+l0
+L33
+V:0?J?T@5c<RYHkJl9<<RQ3
+R15
+31
+R19
+R20
+R21
+!s100 JonYV<K=:lTV;Jk8lekd83
+!i10b 1
+!s108 1348674474.273000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/libjtagcom.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/libjtagcom.vhd|
+Plibmmu
+R124
+R126
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z373 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libmmu.vhd
+Z374 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libmmu.vhd
+l0
+L36
+VS[HB3kOBjB>HWKUdNGg711
+R15
+31
+b1
+Z375 !s108 1348674412.991000
+Z376 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libmmu.vhd|
+Z377 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libmmu.vhd|
+R19
+R20
+R21
+!s100 LeI5maj6EO0:9=X9M466z1
+!i10b 1
+Bbody
+DPx4 work 6 libmmu 0 22 S[HB3kOBjB>HWKUdNGg711
+R124
+R126
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+l0
+L99
+V_=>S;kNa@;>?27_6]?c9S1
+R15
+31
+R375
+R376
+R377
+R19
+R20
+R21
+nbody
+!s100 a9;N6DF7iXGMLB<0YCB;o0
+!i10b 1
+Plibproc3
+R124
+R126
+R127
+R129
+R125
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libproc3.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libproc3.vhd
+l0
+L39
+VmAAc749RiEl4Rh7@]O5D81
+R15
+31
+R19
+R20
+R21
+!s100 JgiG<SA^40?jFL>J>kG;l2
+!i10b 1
+!s108 1348674414.890000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libproc3.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libproc3.vhd|
+Elogan
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z378 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/logan.vhd
+Z379 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/logan.vhd
+l0
+L36
+V`[3k3f>X1goUI?neGcffa2
+R15
+31
+Z380 !s108 1348674440.242000
+Z381 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/logan.vhd|
+Z382 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/logan.vhd|
+R19
+R20
+R21
+!s100 m8H27QV;Zd4MQ8d5Wha]H3
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 logan 0 22 `[3k3f>X1goUI?neGcffa2
+l113
+L58
+VMa:eVglnJZ:C1?5JiceKD0
+R15
+31
+R380
+R381
+R382
+R19
+R20
+R21
+!s100 7LPd>d>@nBlCEdMRXo]@D2
+!i10b 1
+Pmemctrl
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/memctrl.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/memctrl.vhd
+l0
+L34
+V<6TodZlN8gn:cQ8J;14iQ1
+R15
+31
+R19
+R20
+R21
+!s100 Jgok3?I>G`1;X2n6gl^^a1
+!i10b 1
+!s108 1348674407.265000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/memctrl.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/memctrl.vhd|
+Emfpwx
+R1
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+R12
+Z383 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mfpwx.vhd
+Z384 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mfpwx.vhd
+l0
+L33
+VAd:L42XUVRTZ1LAhW<iSg1
+R15
+31
+Z385 !s108 1348674424.538000
+Z386 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mfpwx.vhd|
+Z387 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mfpwx.vhd|
+R19
+R20
+R21
+!s100 jMB;gES3JGP2cg;^NnbF60
+!i10b 1
+Artl
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+DEx4 work 5 mfpwx 0 22 Ad:L42XUVRTZ1LAhW<iSg1
+l132
+L47
+V:mkmL?U?g1iLj1dgC`QHO2
+R15
+31
+R385
+R386
+R387
+R19
+R20
+R21
+!s100 jBB4b0zVTB__97Doz[FQK1
+!i10b 1
+Pmisc
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+Z388 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/misc.vhd
+Z389 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/misc.vhd
+l0
+L37
+Vd6SO014Ae7CN46I_AT_L73
+R15
+31
+b1
+Z390 !s108 1348674432.413000
+Z391 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/misc.vhd|
+Z392 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/misc.vhd|
+R19
+R20
+R21
+!s100 HMBQ]S4_T:5[?AezgafO^0
+!i10b 1
+Bbody
+DPx4 work 4 misc 0 22 d6SO014Ae7CN46I_AT_L73
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l0
+L1187
+VUI;NL@aB_;83moE[V3D5E2
+R15
+31
+R390
+R391
+R392
+R19
+R20
+R21
+nbody
+!s100 ;_6fVgMcih`fnI<`70[Oj2
+!i10b 1
+Emmu
+R1
+Z393 DPx7 gaisler 6 libmmu 0 22 S[HB3kOBjB>HWKUdNGg711
+R124
+R126
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+Z394 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu.vhd
+Z395 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu.vhd
+l0
+L37
+VdhbZ]aQz7^KgWzTm=:UG63
+R15
+31
+Z396 !s108 1348674421.257000
+Z397 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu.vhd|
+Z398 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu.vhd|
+R19
+R20
+R21
+!s100 ;_SncUbBQ5Ra[?_REgZZ`3
+!i10b 1
+Artl
+R393
+R124
+R126
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 3 mmu 0 22 dhbZ]aQz7^KgWzTm=:UG63
+l148
+L61
+VW7M25PK6SENU:7kMcV>QF1
+R15
+31
+R396
+R397
+R398
+R19
+R20
+R21
+!s100 31gzY;LV3Qa8m?>R8XTLE2
+!i10b 1
+Emmu_acache
+R1
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z399 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_acache.vhd
+Z400 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_acache.vhd
+l0
+L40
+V><KIIcXnD]loDiFdF;CRI2
+R15
+31
+Z401 !s108 1348674417.710000
+Z402 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_acache.vhd|
+Z403 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_acache.vhd|
+R19
+R20
+R21
+!s100 KR2cl]c5ODn_FaXaS>GMA1
+!i10b 1
+Artl
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 10 mmu_acache 0 22 ><KIIcXnD]loDiFdF;CRI2
+l98
+L63
+Vc<Az[D>]>j`06F;Y=0OdQ2
+R15
+31
+R401
+R402
+R403
+R19
+R20
+R21
+!s100 [_WT8]_BV;4>Z5?en3kK`2
+!i10b 1
+Emmu_cache
+R1
+R393
+R124
+R125
+R126
+R127
+R128
+R129
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z404 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_cache.vhd
+Z405 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_cache.vhd
+l0
+L39
+VF<93NYXU4=P4n]Lgha6N_0
+R15
+31
+Z406 !s108 1348674421.866000
+Z407 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_cache.vhd|
+Z408 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_cache.vhd|
+R19
+R20
+R21
+!s100 ];XdJnIlflVcj910N[0C=2
+!i10b 1
+Artl
+R393
+R124
+R125
+R126
+R127
+R128
+R129
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 mmu_cache 0 22 F<93NYXU4=P4n]Lgha6N_0
+l114
+L93
+VlNRi^5`jK?6Oc_bL=[0kc2
+R15
+31
+R406
+R407
+R408
+R19
+R20
+R21
+!s100 h>0[WTnc8l:ES4B]5_Cld3
+!i10b 1
+Emmu_dcache
+R1
+R393
+R124
+R125
+R126
+R127
+R128
+R129
+R141
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z409 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_dcache.vhd
+Z410 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_dcache.vhd
+l0
+L41
+VWie?;LZcCZd3Gi1maA2IE2
+R15
+31
+Z411 !s108 1348674416.866000
+Z412 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_dcache.vhd|
+Z413 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_dcache.vhd|
+R19
+R20
+R21
+!s100 Y5[2iSgnlH:8J`3lQmWM33
+!i10b 1
+Artl
+R393
+R124
+R125
+R126
+R127
+R128
+R129
+R141
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 10 mmu_dcache 0 22 Wie?;LZcCZd3Gi1maA2IE2
+l279
+L83
+Vc9hnFbB9dQ1Z`5:TB287h3
+R15
+31
+R411
+R412
+R413
+R19
+R20
+R21
+!s100 6Ub=Yfo;JTj><QOg5E=LM0
+!i10b 1
+Emmu_icache
+R1
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z414 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_icache.vhd
+Z415 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_icache.vhd
+l0
+L37
+VBg_Gz:61Wd15To3f1cC7]1
+R15
+31
+Z416 !s108 1348674416.155000
+Z417 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_icache.vhd|
+Z418 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_icache.vhd|
+R19
+R20
+R21
+!s100 TmQ@9FD86dn^g5n?U7DXi3
+!i10b 1
+Artl
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 10 mmu_icache 0 22 Bg_Gz:61Wd15To3f1cC7]1
+l206
+L68
+VXZ5TIL12G=AK]0A4[SE@l3
+R15
+31
+R416
+R417
+R418
+R19
+R20
+R21
+!s100 EnZlF<RBR``X3]IMcSPU[1
+!i10b 1
+Pmmuconfig
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuconfig.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuconfig.vhd
+l0
+L32
+Vl9?hj8<QAo@SadNR1d7<`1
+R15
+31
+R19
+R20
+R21
+!s100 =c^AUd7ogz3dic[KNS4R01
+!i10b 1
+!s108 1348674412.077000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuconfig.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuconfig.vhd|
+Pmmuiface
+R126
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuiface.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuiface.vhd
+l0
+L33
+VFhj]QMEY01od5C1T^g=eX0
+R15
+31
+R19
+R20
+R21
+!s100 QAZWPh]hWm<P5>iRXeVn02
+!i10b 1
+!s108 1348674412.530000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuiface.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuiface.vhd|
+Emmulru
+R1
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z419 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulru.vhd
+Z420 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulru.vhd
+l0
+L38
+VR=MjiOBTdObiP>iIbOn4?1
+R15
+31
+Z421 !s108 1348674419.452000
+Z422 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulru.vhd|
+Z423 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulru.vhd|
+R19
+R20
+R21
+!s100 QM?Om2n<hd2zRPaD1cNC]1
+!i10b 1
+Artl
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 mmulru 0 22 R=MjiOBTdObiP>iIbOn4?1
+l79
+L50
+V?NH1XDH6h@3k2M``g8oOV1
+R15
+31
+R421
+R422
+R423
+R19
+R20
+R21
+!s100 oEIa=zUDQ^D8?EM_>78V<1
+!i10b 1
+Emmulrue
+R1
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z424 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulrue.vhd
+Z425 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulrue.vhd
+l0
+L38
+V_foHi3nZBS0:`DPWL5zR40
+R15
+31
+Z426 !s108 1348674418.913000
+Z427 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulrue.vhd|
+Z428 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulrue.vhd|
+R19
+R20
+R21
+!s100 5[S7gCjTJ53JJhcOi_gIQ0
+!i10b 1
+Artl
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 mmulrue 0 22 _foHi3nZBS0:`DPWL5zR40
+l61
+L49
+VQK:Ydag=c]Ff?V`73oaZ:3
+R15
+31
+R426
+R427
+R428
+R19
+R20
+R21
+!s100 VD6Bn5RDAhCl?AzLkZ`h52
+!i10b 1
+Emmutlb
+R1
+R393
+R124
+R125
+R126
+R127
+R128
+R129
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z429 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlb.vhd
+Z430 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlb.vhd
+l0
+L41
+V9XT^WQI0_20>Z27B2DXSF0
+R15
+31
+Z431 !s108 1348674420.007000
+Z432 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlb.vhd|
+Z433 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlb.vhd|
+R19
+R20
+R21
+!s100 46_d_ZAHj[J[I9F8E6MIn2
+!i10b 1
+Artl
+R393
+R124
+R125
+R126
+R127
+R128
+R129
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 mmutlb 0 22 9XT^WQI0_20>Z27B2DXSF0
+l130
+L59
+V7YB4cgYobF6dKL:=PLE@J0
+R15
+31
+R431
+R432
+R433
+R19
+R20
+R21
+!s100 QVKXe3@giX6X29IOCSnKD3
+!i10b 1
+Emmutlbcam
+R1
+R393
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z434 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlbcam.vhd
+Z435 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlbcam.vhd
+l0
+L39
+VneA:TLHoCDVOKMfz4f:>]2
+R15
+31
+Z436 !s108 1348674418.320000
+Z437 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlbcam.vhd|
+Z438 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlbcam.vhd|
+R19
+R20
+R21
+!s100 U@z>E`OVAOQADDP>g7Vm72
+!i10b 1
+Artl
+R393
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 mmutlbcam 0 22 neA:TLHoCDVOKMfz4f:>]2
+l61
+L52
+V3dMNLl5jT;A>UUnQjKM=j2
+R15
+31
+R436
+R437
+R438
+R19
+R20
+R21
+!s100 bgi4kk]27giXi`NA>S6>K0
+!i10b 1
+Emmutw
+R1
+R393
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z439 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutw.vhd
+Z440 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutw.vhd
+l0
+L39
+VMS2535fZfSc3ndZ[@eH=A2
+R15
+31
+Z441 !s108 1348674420.601000
+Z442 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutw.vhd|
+Z443 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutw.vhd|
+R19
+R20
+R21
+!s100 WoCg46lYdXd50V=zMCcI>3
+!i10b 1
+Artl
+R393
+R124
+R125
+R126
+R127
+R128
+R2
+R129
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 mmutw 0 22 MS2535fZfSc3ndZ[@eH=A2
+l83
+L54
+VH6ViG<>3jLDI]`2UG4@FC0
+R15
+31
+R441
+R442
+R443
+R19
+R20
+R21
+!s100 a:;0bA64JGm3O9?cB>BnT0
+!i10b 1
+Emul32
+R1
+R5
+R6
+R2
+R127
+Z444 DPx5 grlib 7 multlib 0 22 TSl4zNHn?9GB:GbEU8HaL1
+R7
+R8
+R9
+R10
+R11
+R12
+Z445 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/mul32.vhd
+Z446 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/mul32.vhd
+l0
+L37
+V8W1]@Li8bW9mBbgPZT21M3
+R15
+31
+Z447 !s108 1348674405.890000
+Z448 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/mul32.vhd|
+Z449 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/mul32.vhd|
+R19
+R20
+R21
+!s100 bL:FBB[LQhIJDWkAb0VBj0
+!i10b 1
+Artl
+R5
+R6
+R2
+R127
+R444
+R7
+R8
+R9
+R10
+R11
+DEx4 work 5 mul32 0 22 8W1]@Li8bW9mBbgPZT21M3
+l88
+L54
+V6eDa5UK0lORM[jo38k1Gn0
+R15
+31
+R447
+R448
+R449
+R19
+R20
+R21
+!s100 HR]GC0I1U<9?Y[kjl4bKM1
+!i10b 1
+Pnet
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/net/net.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/net/net.vhd
+l0
+L31
+VUf43:zzRWfjleTaedzkWL0
+R15
+31
+R19
+R20
+R21
+!s100 ^ch7KIj?JJInOlc<Mj]Ni0
+!i10b 1
+!s108 1348674457.586000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/net/net.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/net/net.vhd|
+Ephy
+R1
+R7
+R8
+R9
+R10
+R11
+R12
+Z450 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd
+Z451 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd
+l0
+L34
+V@gCOnk?gV5T]U0OVn@73n1
+R15
+31
+Z452 !s108 1348674468.148000
+Z453 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd|
+Z454 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd|
+R19
+R20
+R21
+!s100 RAYN=^<`D0d_X=QhhXkRk3
+!i10b 1
+Abehavioral
+R7
+R8
+R9
+R10
+R11
+DEx4 work 3 phy 0 22 @gCOnk?gV5T]U0OVn@73n1
+l181
+L70
+VQjM3XQMz2nnLKb2KTZ03B0
+R15
+31
+R452
+R453
+R454
+R19
+R20
+R21
+!s100 0AMN]fIC4ZH9SVk`]kGUR0
+!i10b 1
+Eproc3
+R1
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z455 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/proc3.vhd
+Z456 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/proc3.vhd
+l0
+L43
+V_VoU[=nPV@cP:BhgnSEc`2
+R15
+31
+Z457 !s108 1348674427.945000
+Z458 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/proc3.vhd|
+Z459 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/proc3.vhd|
+R19
+R20
+R21
+!s100 ?3<RSjbaifK8K<f0LKCd91
+!i10b 1
+Artl
+R124
+R125
+R126
+R127
+R129
+R128
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 proc3 0 22 _VoU[=nPV@cP:BhgnSEc`2
+l136
+L121
+VYLmV_X9n?_z1DBk<B=Kgh0
+R15
+31
+R457
+R458
+R459
+R19
+R20
+R21
+!s100 R`XIMH[XU>KPaDYR<:FF=0
+!i10b 1
+Epwm_check
+R1
+R55
+R5
+R6
+R3
+R54
+R7
+R8
+R9
+R10
+R11
+R12
+Z460 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd
+Z461 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd
+l0
+L42
+V=KCQ_m;lM[hmAHKCblhof3
+R15
+31
+Z462 !s108 1348674471.000000
+Z463 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd|
+Z464 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd|
+R19
+R20
+R21
+!s100 =E3V1l32i7VMzU1mk:QS82
+!i10b 1
+Asim
+R55
+R5
+R6
+R3
+R54
+R7
+R8
+R9
+R10
+R11
+DEx4 work 9 pwm_check 0 22 =KCQ_m;lM[hmAHKCblhof3
+l691
+L55
+VAGEm98BjPQ`1ad?oGD0HU0
+R15
+31
+R462
+R463
+R464
+R19
+R20
+R21
+!s100 CJi[Rz<5A3V3KoCK?b1CS3
+!i10b 1
+Erstgen
+R1
+R10
+R11
+R12
+Z465 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/rstgen.vhd
+Z466 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/rstgen.vhd
+l0
+L29
+VoiWKf_Y3iKQA65cQz]]gS3
+R15
+31
+Z467 !s108 1348674433.140000
+Z468 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/rstgen.vhd|
+Z469 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/rstgen.vhd|
+R19
+R20
+R21
+!s100 >AF54hIQbBIzRMm9eRkHR1
+!i10b 1
+Artl
+R10
+R11
+DEx4 work 6 rstgen 0 22 oiWKf_Y3iKQA65cQz]]gS3
+l48
+L45
+Vk]G<Bij^@eNEHYHCF[M^=1
+R15
+31
+R467
+R468
+R469
+R19
+R20
+R21
+!s100 ]c3@[^KZmA4ebBdGX:@_L3
+!i10b 1
+Esdctrl
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z470 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl.vhd
+Z471 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl.vhd
+l0
+L35
+VaYVAJUAgmdeV`@YnVD7mc1
+R15
+31
+Z472 !s108 1348674407.804000
+Z473 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl.vhd|
+Z474 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl.vhd|
+R19
+R20
+R21
+!s100 Rgb`zFoBO:z3OY@]JA4]e0
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 sdctrl 0 22 aYVAJUAgmdeV`@YnVD7mc1
+l156
+L61
+V8RT[f@@176T3f^WN1PZn52
+R15
+31
+R472
+R473
+R474
+R19
+R20
+R21
+!s100 leHfkTWeMgNgM8>2N[zD23
+!i10b 1
+Esdctrl64
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z475 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl64.vhd
+Z476 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl64.vhd
+l0
+L38
+VV0om5732g_8WV=bzXY0zg3
+R15
+31
+Z477 !s108 1348674408.546000
+Z478 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl64.vhd|
+Z479 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl64.vhd|
+R19
+R20
+R21
+!s100 `^3Om[@S9JLEg;jl6mKC83
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 sdctrl64 0 22 V0om5732g_8WV=bzXY0zg3
+l155
+L63
+V3EYfhHE@4S6a`O^Nn7QS:1
+R15
+31
+R477
+R478
+R479
+R19
+R20
+R21
+!s100 PUf^Z9P6bW6OEHgZTbLLz3
+!i10b 1
+Esdmctrl
+R1
+R2
+R162
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z480 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdmctrl.vhd
+Z481 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdmctrl.vhd
+l0
+L34
+VHog@[m?X0gj]nln210UPV1
+R15
+31
+Z482 !s108 1348674409.171000
+Z483 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdmctrl.vhd|
+Z484 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdmctrl.vhd|
+R19
+R20
+R21
+!s100 giViH:Tf:[0Q28jfHKA9a0
+!i10b 1
+Artl
+R2
+R162
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 sdmctrl 0 22 Hog@[m?X0gj]nln210UPV1
+l130
+L55
+Vc_NT:I;Z[^8_FVHKPI_=j1
+R15
+31
+R482
+R483
+R484
+R19
+R20
+R21
+!s100 7Be>XYV6H<<l3SmWTk<1j0
+!i10b 1
+Psim
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z485 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd
+Z486 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd
+l0
+L38
+VkQiV@MFUHYXA]HOY1jGSl1
+R15
+31
+b1
+Z487 !s108 1348674465.773000
+Z488 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd|
+Z489 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd|
+R19
+R20
+R21
+!s100 8?jfSCma<SZ]?obU1DKW20
+!i10b 1
+Bbody
+DPx4 work 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R10
+R11
+l0
+L355
+VC>bJ^VD=PI0oFDNl=gOFM1
+R15
+31
+R487
+R488
+R489
+R19
+R20
+R21
+nbody
+!s100 Gm8A9odaBOB4l45C<01YP1
+!i10b 1
+Espi_flash
+R1
+R3
+R5
+R6
+R54
+R55
+R7
+R8
+R9
+R10
+R11
+R12
+Z490 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/spi_flash.vhd
+Z491 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/spi_flash.vhd
+l0
+L48
+VE7Ng<jYoXP^c4a?`METC`3
+R15
+31
+Z492 !s108 1348674470.273000
+Z493 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/spi_flash.vhd|
+Z494 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/spi_flash.vhd|
+R19
+R20
+R21
+!s100 :zDae^eI4SbK:bmllQm^A2
+!i10b 1
+Asim
+R3
+R5
+R6
+R54
+R55
+R7
+R8
+R9
+R10
+R11
+DEx4 work 9 spi_flash 0 22 E7Ng<jYoXP^c4a?`METC`3
+l494
+L69
+V^c2@oLbh@^J0Bc@S]bWm=3
+R15
+31
+R492
+R493
+R494
+R19
+R20
+R21
+!s100 d2Slkza]S^@1iNSB?[i5Z0
+!i10b 1
+Espictrl
+R1
+R4
+R3
+R274
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+R12
+Z495 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrl.vhd
+Z496 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrl.vhd
+l0
+L42
+VD86bVaaGTJh8l=Ym3VXMg1
+R15
+31
+Z497 !s108 1348674448.406000
+Z498 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrl.vhd|
+Z499 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrl.vhd|
+R19
+R20
+R21
+!s100 aKC_k`W@h?N`JJaH_K[fF3
+!i10b 1
+Artl
+R4
+R3
+R274
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+DEx4 work 7 spictrl 0 22 D86bVaaGTJh8l=Ym3VXMg1
+l153
+L85
+VibK=;;X@`YKA6>o^QP]Im2
+R15
+31
+R497
+R498
+R499
+R19
+R20
+R21
+!s100 6J@3^fGBQ9NR9F37MJP@B0
+!i10b 1
+Espictrlx
+R1
+R3
+R4
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+R12
+Z500 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrlx.vhd
+Z501 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrlx.vhd
+l0
+L94
+VDXeNF[d_j]H=`k1b^hT<d2
+R15
+31
+Z502 !s108 1348674446.539000
+Z503 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrlx.vhd|
+Z504 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrlx.vhd|
+R19
+R20
+R21
+!s100 FYJEOGgcg7[b6:FOBdM=;1
+!i10b 1
+Artl
+R3
+R4
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+DEx4 work 8 spictrlx 0 22 DXeNF[d_j]H=`k1b^hT<d2
+l497
+L149
+VnU76PGF;a<<KbekegWz;O3
+R15
+31
+R502
+R503
+R504
+R19
+R20
+R21
+!s100 b^zZjWeAMNEG_3F`JcD]>2
+!i10b 1
+Espimctrl
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z505 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/spimctrl.vhd
+Z506 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/spimctrl.vhd
+l0
+L45
+V0ed?3b7DSaIg5161lYROK2
+R15
+31
+Z507 !s108 1348674410.616000
+Z508 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/spimctrl.vhd|
+Z509 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/spimctrl.vhd|
+R19
+R20
+R21
+!s100 =Zk0kIPQT?:AX;0EcIV:I2
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 spimctrl 0 22 0ed?3b7DSaIg5161lYROK2
+l343
+L74
+VJXORB8AM0FPE`4o`<9Q^N1
+R15
+31
+R507
+R508
+R509
+R19
+R20
+R21
+!s100 ]32C98[Y18K_SJ_cDT1c;2
+!i10b 1
+Esram
+R1
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R55
+R10
+R11
+R12
+Z510 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd
+Z511 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd
+l0
+L37
+V^dg_L:mQQSA[V2B=_A:SY0
+R15
+31
+Z512 !s108 1348674466.515000
+Z513 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd|
+Z514 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd|
+R19
+R20
+R21
+!s100 9=c`6NM5>:hL3Qm;bjGm70
+!i10b 1
+Asim
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R55
+R10
+R11
+DEx4 work 4 sram 0 22 ^dg_L:mQQSA[V2B=_A:SY0
+l71
+L53
+V=d<GE[:36=N9BNLI]0Z]33
+R15
+31
+R512
+R513
+R514
+R19
+R20
+R21
+!s100 l^H[MnZK`54zTn73i1RCk1
+!i10b 1
+Esram16
+R1
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R55
+R10
+R11
+R12
+Z515 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd
+Z516 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd
+l0
+L37
+V1JPgmgifD7CWWmjWWX7^13
+R15
+31
+Z517 !s108 1348674467.641000
+Z518 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd|
+Z519 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd|
+R19
+R20
+R21
+!s100 cN=hV>9PVRR`IWkafmT2@0
+!i10b 1
+Asim
+R3
+R5
+R6
+R54
+R7
+R8
+R9
+R55
+R10
+R11
+DEx4 work 6 sram16 0 22 1JPgmgifD7CWWmjWWX7^13
+l59
+L55
+VRE263zGSl`;N^;YTBbJOI1
+R15
+31
+R517
+R518
+R519
+R19
+R20
+R21
+!s100 lUh4WP279Bz5z`8aCQ06C2
+!i10b 1
+Esrctrl
+R1
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z520 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/srctrl.vhd
+Z521 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/srctrl.vhd
+l0
+L37
+Vl`nih4RzT7RYW`EfaB9Y]3
+R15
+31
+Z522 !s108 1348674409.890000
+Z523 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/srctrl.vhd|
+Z524 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/srctrl.vhd|
+R19
+R20
+R21
+!s100 >C_2[AK5idIaaL14@cn1[2
+!i10b 1
+Artl
+R2
+R162
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 srctrl 0 22 l`nih4RzT7RYW`EfaB9Y]3
+l142
+L67
+V]HN4i2lchJJ9D7NoB0zRP1
+R15
+31
+R522
+R523
+R524
+R19
+R20
+R21
+!s100 k71WFz6nD<:oebm2RfRbb2
+!i10b 1
+Esvgactrl
+R1
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z525 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/svgactrl.vhd
+Z526 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/svgactrl.vhd
+l0
+L47
+Vd`4Fk_1mYeLgEBPIQf@oC1
+R15
+31
+Z527 !s108 1348674444.812000
+Z528 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/svgactrl.vhd|
+Z529 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/svgactrl.vhd|
+R19
+R20
+R21
+!s100 X55Q[`dC0S7FY@eEU?BCP2
+!i10b 1
+Artl
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 svgactrl 0 22 d`4Fk_1mYeLgEBPIQf@oC1
+l201
+L82
+VA2T]OfSE9X[PFz2l>9dAe1
+R15
+31
+R527
+R528
+R529
+R19
+R20
+R21
+!s100 6>zJn^12fY<CaAfzg8c<k3
+!i10b 1
+Etbufmem
+R1
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+R12
+Z530 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/tbufmem.vhd
+Z531 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/tbufmem.vhd
+l0
+L35
+VdMG6[nJQYWRcO?`N7:VMl0
+R15
+31
+Z532 !s108 1348674425.843000
+Z533 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/tbufmem.vhd|
+Z534 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/tbufmem.vhd|
+R19
+R20
+R21
+!s100 Ta=Ua8fQ0V>3@3;<`di153
+!i10b 1
+Artl
+R2
+R7
+R9
+R5
+R8
+R6
+R128
+R10
+R11
+DEx4 work 7 tbufmem 0 22 dMG6[nJQYWRcO?`N7:VMl0
+l52
+L47
+VX@I]BefCADl]FeULkW<8L0
+R15
+31
+R532
+R533
+R534
+R19
+R20
+R21
+!s100 bWY]i7`o@jX2`=fc=0dNX1
+!i10b 1
+Puart
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/uart.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/uart.vhd
+l0
+L31
+Vgi__23a[PIZocPK>CR]iD2
+R15
+31
+R19
+R20
+R21
+!s100 N^f6eOkJX4;A0b]T[zI5B3
+!i10b 1
+!s108 1348674458.117000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/uart.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/uart.vhd|
+Pusbsim
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z535 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd
+Z536 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd
+l0
+L35
+V=K]O^Rl33<[]PX:3aV;GH0
+R15
+31
+b1
+Z537 !s108 1348674471.742000
+Z538 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd|
+Z539 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd|
+R19
+R20
+R21
+!s100 RkCGgdHc2J`kFO1ndBHW71
+!i10b 1
+Bbody
+DPx4 work 6 usbsim 0 22 =K]O^Rl33<[]PX:3aV;GH0
+R7
+R8
+R9
+R10
+R11
+l0
+L410
+VbH8B8hO?@jiX><^A^Fh0U2
+R15
+31
+R537
+R538
+R539
+R19
+R20
+R21
+nbody
+!s100 X5mbgj<@T^BH1kc?H6?4o3
+!i10b 1
+Pwild
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild.vhd
+l0
+L50
+VUzW]=SM`bV0Co[_Noaldc1
+R15
+31
+R19
+R20
+R21
+!s100 IDW0NfQQ7^0D_=Ec8aB@G2
+!i10b 1
+!s108 1348674450.554000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild.vhd|
+Ewild2ahb
+R1
+Z540 DPx7 gaisler 4 wild 0 22 UzW]=SM`bV0Co[_Noaldc1
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z541 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild2ahb.vhd
+Z542 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild2ahb.vhd
+l0
+L47
+VO>9X;;BoKQCkh:nACoMPB2
+R15
+31
+Z543 !s108 1348674451.164000
+Z544 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild2ahb.vhd|
+Z545 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild2ahb.vhd|
+R19
+R20
+R21
+!s100 9KNOaEEQdf:1GW8b0_?Sn0
+!i10b 1
+Artl
+R540
+DEx4 work 8 wild2ahb 0 22 O>9X;;BoKQCkh:nACoMPB2
+Z546 DPx5 grlib 15 dma2ahb_package 0 22 ^ZTWmC<oiC2jgYBd20e5e3
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l237
+L76
+VH;mHfK>P57dP5J4jkFK9[3
+R15
+31
+R543
+R544
+R545
+R19
+R20
+R21
+!s100 ]oO5:Vl@6?ScNUR3UZ5ES0
+!i10b 1
