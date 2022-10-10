@@ -1,0 +1,51 @@
+{C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/tb_cortexm0.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/tb_cortexm0.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_cortexm0
+-- Compiling architecture tb of tb_cortexm0
+
+} {} {}} {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CM0_DSSystem.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CM0_DSSystem.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CM0_DSSystem.vhd(29): Library unisim not found.
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CM0_DSSystem.vhd(30): (vcom-1136) Unknown identifier "UNISIM".
+
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CM0_DSSystem.vhd(32): VHDL Compiler exiting
+
+} {6.0 8.0 9.0 10.0} {}} {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/DetectorBus.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/DetectorBus.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/DetectorBus.vhd(29): Library unisim not found.
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/DetectorBus.vhd(30): (vcom-1136) Unknown identifier "UNISIM".
+
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/DetectorBus.vhd(32): VHDL Compiler exiting
+
+} {6.0 8.0 9.0 10.0} {}} {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CORTEXM0DS.v} {1 {vlog -work work -vopt {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/CORTEXM0DS.v}
+Model Technology ModelSim SE-64 vlog 10.1b Compiler 2012.04 Apr 26 2012
+-- Compiling module CORTEXM0DS
+
+Top level modules:
+	CORTEXM0DS
+
+} {} {}} {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/cortexm0ds_logic.v} {1 {vlog -work work -vopt {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/cortexm0ds_logic.v}
+Model Technology ModelSim SE-64 vlog 10.1b Compiler 2012.04 Apr 26 2012
+-- Compiling module cortexm0ds_logic
+
+Top level modules:
+	cortexm0ds_logic
+
+} {} {}} {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/cortexm0_memory.vhd} {0 {vcom -work work -2002 -explicit -vopt {C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/cortexm0_memory.vhd}
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/cortexm0_memory.vhd(41): Library xilinxcorelib not found.
+** Error: C:/Users/vn22984/OneDrive - University of Bristol/Desktop/Project/Embedded_Unit_Lab/Lab1_M0/project/cortexm0_memory.vhd(43): VHDL Compiler exiting
+
+} {6.0 8.0} {}}
