@@ -1,5 +1,5 @@
 # Embedded_Unit_Lab
-There include two Part of work：
+There include two Part of work.
 
 ## Part1：Arm-M0 Lab
 Change the down egde to our group number
