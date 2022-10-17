@@ -102,7 +102,7 @@ package config is
   constant CFG_ETH_ENM : integer := 16#020000#;
   constant CFG_ETH_ENL : integer := 16#001234#;
 -- LEON2 memory controller
-  constant CFG_MCTRL_LEON2 : integer := 1;
+  constant CFG_MCTRL_LEON2 : integer := 0;       -- Change from 1 to 0
   constant CFG_MCTRL_RAM8BIT : integer := 1;
   constant CFG_MCTRL_RAM16BIT : integer := 0;
   constant CFG_MCTRL_5CS : integer := 0;
@@ -129,7 +129,7 @@ package config is
   constant CFG_DDR2SP_DELAY7 : integer := (0);
   constant CFG_DDR2SP_NOSYNC : integer := 0;
 -- AHB ROM
-  constant CFG_AHBROMEN : integer := 0;
+  constant CFG_AHBROMEN : integer := 1;       -- Change from 0 to 1
   constant CFG_AHBROPIP : integer := 0;
   constant CFG_AHBRODDR : integer := 16#000#;
   constant CFG_ROMADDR : integer := 16#000#;
