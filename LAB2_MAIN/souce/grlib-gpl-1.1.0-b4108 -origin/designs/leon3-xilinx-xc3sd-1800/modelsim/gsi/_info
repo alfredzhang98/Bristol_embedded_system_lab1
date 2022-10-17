@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Pfunctions
+Z1 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 w1309262196
+Z7 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+Z8 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/functions.vhd
+Z9 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/functions.vhd
+l0
+L24
+Vn7M13<;d=_@0jkLgS_W4k1
+Z10 OL;C;10.1b;51
+31
+b1
+Z11 !s108 1348674495.563000
+Z12 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/functions.vhd|
+Z13 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/functions.vhd|
+Z14 !s102 -cover s
+Z15 o-work gsi -93 -source -nowarn 1 -nowarn 5 -cover s
+Z16 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 IlK6<FC0K_hh0h^nIN<K;0
+!i10b 1
+Bbody
+DPx4 work 9 functions 0 22 n7M13<;d=_@0jkLgS_W4k1
+R1
+R2
+R3
+R4
+R5
+l0
+L451
+V>i;<<37?6k132Fj6JLUaT2
+R10
+31
+R11
+R12
+R13
+R14
+R15
+R16
+nbody
+!s100 XPlj05L?Ef0ASinGO9HnN3
+!i10b 1
+Eg880e18bt
+R6
+R4
+R5
+R7
+Z17 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/g880e18bt.vhd
+Z18 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/g880e18bt.vhd
+l0
+L7
+VI;QAb<W?UX:WB56J6VP^`1
+!s100 R7754=>DKW6dB_C131aJE3
+R10
+31
+!i10b 1
+Z19 !s108 1348674497.328000
+Z20 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/g880e18bt.vhd|
+Z21 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/g880e18bt.vhd|
+R14
+R15
+R16
+Aburst_8meg_x18
+R1
+R2
+R3
+Z22 DPx3 gsi 9 functions 0 22 n7M13<;d=_@0jkLgS_W4k1
+R4
+R5
+Z23 DEx4 work 9 g880e18bt 0 22 I;QAb<W?UX:WB56J6VP^`1
+l132
+L68
+Z24 V2CjH`zzdae;lcT@9cN1m82
+Z25 !s100 a:2HQ:OTB[Ke8^48FiDPb0
+R10
+31
+!i10b 1
+R19
+R20
+R21
+R14
+R15
+R16
+Evhdl_burst_core
+R6
+Z26 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z27 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z28 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z29 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+R1
+R2
+R3
+Z30 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R4
+R5
+R7
+Z31 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/core_burst.vhd
+Z32 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/core_burst.vhd
+l0
+L61
+VIDgnTG<@YY2z@RT_g62eh3
+R10
+31
+Z33 !s108 1348674496.594000
+Z34 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/core_burst.vhd|
+Z35 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/core_burst.vhd|
+R14
+R15
+R16
+!s100 ^>gOXSAL;fkmYQMLk;:FI2
+!i10b 1
+Agsi_burst_core
+R22
+R26
+R27
+R28
+R29
+R1
+R2
+R3
+R30
+R4
+R5
+DEx4 work 15 vhdl_burst_core 0 22 IDgnTG<@YY2z@RT_g62eh3
+l224
+L107
+VWUc[X2JObGL>0VFD1@CI_1
+!s100 >>3Fnk;KY@[_]T;Za<gnI0
+R10
+31
+R33
+R34
+R35
+R14
+R15
+R16
+!i10b 1

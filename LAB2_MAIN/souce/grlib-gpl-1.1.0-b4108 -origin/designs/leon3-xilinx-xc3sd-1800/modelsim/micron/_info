@@ -1,0 +1,236 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Pcomponents
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 w1309262194
+Z4 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd
+l0
+L25
+V0TIhCD]P[_JiP8=;eZK8f2
+Z5 OL;C;10.1b;51
+31
+Z6 !s102 -cover s
+Z7 o-work micron -93 -source -nowarn 1 -nowarn 5 -cover s
+Z8 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 V>XS^hSAWh?=:E]DBnH3b0
+!i10b 1
+!s108 1348674503.578000
+!s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd|
+vddr2
+I<76IX9XzoX7l@:SL77eNC2
+VdU=_D2MCCLS[X_[VQUaU11
+R4
+Z9 w1309262078
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/ddr2.v
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/ddr2.v
+L0 114
+Z10 OL;L;10.1b;51
+r1
+31
+Z11 o-work micron
+Z12 tQuiet 1
+!i10b 1
+!s100 CY^zRBYHU1im7e_8:UOkM1
+!s85 0
+!s108 1348674504.907000
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/ddr2.v|
+!s90 -reportprogress|300|-work|micron|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/ddr2.v|
+vddr3
+Ib;][o`=ij8P0MOT[mgVG_2
+Vm7lm_jf3_aD_gA;^3FR6h2
+Z13 dD:\test\leon3_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+Z14 w1309258478
+F../../lib/micron/ddr/ddr3.v
+L0 83
+Z15 OE;L;6.0a;29
+r1
+31
+R11
+Z16 tQuiet 1GenerateLoopIterationMax 100000
+vmobile_ddr
+I^0Q;ASC;FVGZgUIXCi4c=1
+V9DQdX;C0Dl1CH2J]H<[G50
+R13
+R14
+F../../lib/micron/ddr/mobile_ddr.v
+L0 73
+R15
+r1
+31
+R11
+R16
+vmobile_sdr
+IMg9><2LJQ_HLUN8jWPW7J2
+V9z<oaz;X`1LjeEg97]feU2
+R4
+R9
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mobile_sdr.v
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mobile_sdr.v
+L0 70
+R10
+r1
+31
+R11
+R12
+!i10b 1
+!s100 H6<:RbX<PYe_K4im6Il7I0
+!s85 0
+!s108 1348674502.657000
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mobile_sdr.v|
+!s90 -reportprogress|300|-work|micron|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mobile_sdr.v|
+Emt46v16m16
+R3
+Z17 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z18 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z19 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z20 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+Z21 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+Z22 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z23 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z24 DPx4 work 7 mti_pkg 0 22 P=Akb:AfTY8cMK]Cc84HN2
+Z25 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R4
+Z26 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/mt46v16m16.vhd
+Z27 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/mt46v16m16.vhd
+l0
+L53
+VChN8_0=hMTLB;<4fjel=l3
+!s100 Ua]>L`WN<49L^<MkiZ4=o1
+R5
+31
+!i10b 1
+Z28 !s108 1348674505.649000
+Z29 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/mt46v16m16.vhd|
+Z30 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/mt46v16m16.vhd|
+R6
+R7
+R8
+Abehave
+R17
+R18
+R19
+R20
+R21
+R22
+R23
+R24
+R25
+R1
+R2
+Z31 DEx4 work 10 mt46v16m16 0 22 ChN8_0=hMTLB;<4fjel=l3
+l149
+L94
+Z32 V9lPg>`XbQL]PBU3A2bFoQ0
+Z33 !s100 B2X9ZST^Il74CZkWkO_3]0
+R5
+31
+!i10b 1
+R28
+R29
+R30
+R6
+R7
+R8
+Emt48lc16m16a2
+R3
+R17
+R18
+R19
+R20
+R21
+R22
+R25
+R23
+R24
+R2
+R1
+R4
+Z34 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd
+Z35 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd
+l0
+L206
+VYBI7gzSCWhG^RV_[PNJR82
+R5
+31
+Z36 !s108 1348674503.961000
+Z37 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd|
+Z38 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd|
+R6
+R7
+R8
+!s100 SKk>G^Dm7JKR_[z`4SEko1
+!i10b 1
+Abehave
+R17
+R18
+R19
+R20
+R21
+R22
+R25
+R23
+R24
+R2
+R1
+DEx4 work 13 mt48lc16m16a2 0 22 YBI7gzSCWhG^RV_[PNJR82
+l279
+L253
+VDg@mDO:Y>b_C<nOJGh2733
+R5
+31
+R36
+R37
+R38
+R6
+R7
+R8
+!s100 ?=Vz_IQ<aWA^n2dgZgFWM3
+!i10b 1
+Pmti_pkg
+R1
+R2
+R3
+R4
+R34
+R35
+l0
+L17
+VP=Akb:AfTY8cMK]Cc84HN2
+R5
+31
+b1
+R36
+R37
+R38
+R6
+R7
+R8
+!s100 ZKZQkBo^GEVC[IKiUWVlQ1
+!i10b 1
+Bbody
+R24
+R1
+R2
+l0
+L28
+Vc3Ug3=d5V>jP9eR4DH<eR3
+R5
+31
+R36
+R37
+R38
+R6
+R7
+R8
+nbody
+!s100 L@mD<gmh]G<P8C1AzlSO>3
+!i10b 1

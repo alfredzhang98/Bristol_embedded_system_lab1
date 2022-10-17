@@ -1,0 +1,46 @@
+# LEON3 Demonstration design for Xilinx Spartan3A DSP 1800A board
+# GRLIB Version 1.1.0, build 4108
+# Target technology: spartan3  ,  memory library: spartan3  
+# ahbctrl: AHB arbiter/multiplexer rev 1
+# ahbctrl: Common I/O area at 0xfff00000, 1 Mbyte
+# ahbctrl: AHB masters: 3, AHB slaves: 8
+# ahbctrl: Configuration area at 0xfffff000, 4 kbyte
+# ahbctrl: mst0: Gaisler Research        Leon3 SPARC V8 Processor       
+# ahbctrl: mst1: Gaisler Research        JTAG Debug Link                
+# ahbctrl: mst2: Gaisler Research        GR Ethernet MAC                
+# ahbctrl: slv1: Gaisler Research        AHB/APB Bridge                 
+# ahbctrl:       memory at 0x80000000, size 1 Mbyte
+# ahbctrl: slv2: Gaisler Research        Leon3 Debug Support Unit       
+# ahbctrl:       memory at 0x90000000, size 256 Mbyte
+# ahbctrl: slv4: Gaisler Research        Single-port DDR2 controller    
+# ahbctrl:       memory at 0x40000000, size 256 Mbyte, cacheable, prefetch
+# ahbctrl:       I/O port at 0xfff00100, size 256 byte
+# ahbctrl: slv6: Gaisler Research        Generic AHB ROM                
+# ahbctrl:       memory at 0x00000000, size 1 Mbyte, cacheable, prefetch
+# apbctrl: APB Bridge at 0x80000000 rev 1
+# apbctrl: slv1: Gaisler Research        Generic UART                   
+# apbctrl:       I/O ports at 0x80000100, size 256 byte 
+# apbctrl: slv2: Gaisler Research        Multi-processor Interrupt Ctrl.
+# apbctrl:       I/O ports at 0x80000200, size 256 byte 
+# apbctrl: slv3: Gaisler Research        Modular Timer Unit             
+# apbctrl:       I/O ports at 0x80000300, size 256 byte 
+# apbctrl: slv11: Gaisler Research        General Purpose I/O port       
+# apbctrl:       I/O ports at 0x80000b00, size 256 byte 
+# apbctrl: slv15: Gaisler Research        GR Ethernet MAC                
+# apbctrl:       I/O ports at 0x80000f00, size 256 byte 
+# ahbrom6: 32-bit AHB ROM Module,  94 words, 7 address bits
+# greth2: 10/100 Mbit Ethernet MAC rev 02, EDCL 1, buffer 2 kbyte 128 txfifo, irq 12
+# apbuart1: Generic UART rev 1, fifo 4, irq 2, scaler bits 12
+# grgpio11: 12-bit GPIO Unit rev 1
+# gptimer3: GR Timer Unit rev 0, 8-bit scaler, 2 32-bit timers, irq 8
+# irqmp: Multi-processor Interrupt Controller rev 3, #cpu 1, eirq 0
+# ddr2spa: DDR2 controller rev 0, 32 bit width, 128 Mbyte, 125 MHz DDR clock
+# ahbjtag AHB Debug JTAG rev 1
+# dsu3_2: LEON3 Debug support unit + AHB Trace Buffer, 4 kbytes
+# leon3_0: LEON3 SPARC V8 processor rev 0
+# leon3_0: icache 2*4 kbyte, dcache 2*4 kbyte
+# clkgen_spartan3e: spartan3/e sdram/pci clock generator, version 1
+# clkgen_spartan3e: Frequency 125000 KHz, DCM divisor 8/25
+# ** Failure: *** IU in error mode, simulation halted ***
+#    Time: 5 us  Iteration: 0  Process: /testbench/iuerr File: C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab2_main/source/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+# Break in Process iuerr at C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab2_main/source/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd line 266

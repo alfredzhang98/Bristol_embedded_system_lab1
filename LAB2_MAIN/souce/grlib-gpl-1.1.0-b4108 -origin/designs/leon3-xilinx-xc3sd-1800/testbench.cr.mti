@@ -1,0 +1,591 @@
+../../lib/gaisler/leon3/mmulrue.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulrue.vhd
+
+} {} {}} ../../lib/grlib/amba/ahbctrl.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/ahbctrl.vhd
+
+} {} {}} ../../lib/gaisler/jtag/jtagcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagcom.vhd
+
+} {} {}} ../../lib/gaisler/greth/greth.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth.vhd
+
+} {} {}} ../../lib/grlib/stdlib/stdlib.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/stdlib/stdlib.vhd
+
+} {} {}} ../../lib/grlib/sparc/sparc_disas.vhd {2 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/sparc_disas.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/sparc_disas.vhd(44): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/sparc_disas.vhd(44): (vcom-2063) Complete design-unit 'sparc_disas' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/leon3/grfpwx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwx.vhd
+
+} {} {}} ../../lib/gaisler/misc/i2cslv.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cslv.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddrsp64a.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp64a.vhd
+
+} {} {}} ../../lib/grlib/sparc/sparc.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/sparc.vhd
+
+} {} {}} ../../lib/gaisler/arith/mul32.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/mul32.vhd
+
+} {} {}} ../../lib/gaisler/misc/charrom_package.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom_package.vhd
+
+} {} {}} ../../lib/techmap/maps/regfile_3p.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/regfile_3p.vhd
+
+} {} {}} ../../lib/gaisler/misc/apbps2.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbps2.vhd
+
+} {} {}} ../../lib/techmap/unisim/sysmon_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/sysmon_unisim.vhd
+
+} {} {}} ../../lib/gaisler/misc/spictrlx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrlx.vhd
+
+} {} {}} ../../lib/micron/sdram/components.vhd {2 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd(259): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/components.vhd(259): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/techmap/unisim/ddr_phy_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/ddr_phy_unisim.vhd
+
+} {} {}} ../../lib/grlib/stdlib/stdio.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/stdlib/stdio.vhd
+
+} {} {}} ../../lib/gaisler/uart/libdcom.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd(169): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/libdcom.vhd(169): (vcom-2063) Complete design-unit 'libdcom' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/jtag/jtagtst.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd(103): end;  
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtagtst.vhd(103): (vcom-2063) Complete design-unit 'jtagtst' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/eth/comp/ethcomp.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/comp/ethcomp.vhd
+
+} {} {}} ../../lib/techmap/maps/techmult.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/techmult.vhd
+
+} {} {}} ../../lib/gaisler/uart/ahbuart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/ahbuart.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram64.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram64.vhd
+
+} {} {}} ../../lib/techmap/maps/spictrl_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/spictrl_net.vhd
+
+} {} {}} ../../lib/gaisler/sim/sram.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd(50): end;     
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram.vhd(50): (vcom-2063) Complete design-unit 'sram' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/tech/dware/simprims/DWpackages.vhd {2 {vcom -work dware -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd(31): end ;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd(31): (vcom-2063) Complete design-unit 'DW_mult_pipe' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/techmap/maps/allpads.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/allpads.vhd
+
+} {} {}} ../../lib/gaisler/uart/dcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom.vhd
+
+} {} {}} ../../lib/techmap/maps/scanreg.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/scanreg.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddr2spax_ahb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ahb.vhd
+
+} {} {}} ../../lib/grlib/amba/defmst.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/defmst.vhd
+
+} {} {}} ../../lib/cypress/ssram/cy7c1380d.vhd {1 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/cypress/ssram/cy7c1380d.vhd
+
+} {} {}} ../../lib/cypress/ssram/components.vhd {2 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/cypress/ssram/components.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/cypress/ssram/components.vhd(161): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/cypress/ssram/components.vhd(161): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/jtag/ahbjtag_bsd.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag_bsd.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahbram.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbram.vhd
+
+} {} {}} ../../lib/techmap/maps/system_monitor.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/system_monitor.vhd
+
+} {} {}} ../../lib/eth/core/grethc.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/grethc.vhd
+
+} {} {}} ../../lib/techmap/maps/ringosc.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/ringosc.vhd
+
+} {} {}} ../../lib/eth/wrapper/greth_gbit_gen.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/wrapper/greth_gbit_gen.vhd
+
+} {} {}} ../../lib/techmap/inferred/mul_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/inferred/mul_inferred.vhd
+
+} {} {}} ../../lib/tech/unisim/ise/unisim_VPKG.vhd {2 {vcom -work unisim -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/unisim/ise/unisim_VPKG.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/unisim/ise/unisim_VPKG.vhd(104): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/unisim/ise/unisim_VPKG.vhd(104): (vcom-2063) Complete design-unit 'vpkg' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/techmap/maps/inpad_ds.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/inpad_ds.vhd
+
+} {} {}} ../../lib/gaisler/jtag/ahbjtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/ahbjtag.vhd
+
+} {} {}} ../../lib/hynix/ddr2/HY5PS121621F.vhd {1 {vcom -work hynix -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F.vhd
+
+} {} {}} ../../lib/techmap/maps/inpad_ddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/inpad_ddr.vhd
+
+} {} {}} ../../lib/work/debug/debug.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/debug.vhd
+
+} {} {}} ../../lib/grlib/stdlib/testlib.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/stdlib/testlib.vhd
+
+} {} {}} ../../lib/fmf/flash/m25p80.vhd {1 {vcom -work fmf -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/flash/m25p80.vhd
+
+} {} {}} ../../lib/techmap/unisim/pads_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/pads_unisim.vhd
+
+} {} {}} ../../lib/techmap/maps/outpad_ds.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/outpad_ds.vhd
+
+} {} {}} ../../lib/gaisler/misc/rstgen.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/rstgen.vhd
+
+} {} {}} ../../lib/gaisler/greth/ethernet_mac.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/ethernet_mac.vhd
+
+} {} {}} ../../lib/gaisler/misc/grgpreg.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpreg.vhd
+
+} {} {}} ../../lib/gaisler/misc/gracectrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gracectrl.vhd
+
+} {} {}} ../../lib/grlib/modgen/multlib.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/modgen/multlib.vhd
+
+} {} {}} ../../lib/techmap/maps/leon4_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/leon4_net.vhd
+
+} {} {}} ../../lib/work/debug/cpu_disas.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/cpu_disas.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmutlb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlb.vhd
+
+} {} {}} ../../lib/tech/dware/simprims/DW_Foundation_arith.vhd {1 {vcom -work dware -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_arith.vhd
+
+} {} {}} ../../lib/work/debug/grtestmod.vhd {2 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd(84): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd(84): (vcom-2063) Complete design-unit 'grtestmod' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/tech/unisim/ise/simple_simprim.vhd {1 {vcom -work unisim -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/unisim/ise/simple_simprim.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahbtrace.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace.vhd
+
+} {} {}} ../../lib/hynix/ddr2/HY5PS121621F_PACK.vhd {1 {vcom -work hynix -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/HY5PS121621F_PACK.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmu.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu.vhd
+
+} {} {}} ../../lib/gaisler/leon3/dsu3x.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3x.vhd
+
+} {} {}} ../../lib/grlib/stdlib/version.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/stdlib/version.vhd
+
+} {} {}} ../../lib/techmap/maps/iopad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/iopad.vhd
+
+} {} {}} ../../lib/gaisler/greth/greth_mb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_mb.vhd
+
+} {} {}} ../../lib/techmap/maps/ddr_oreg.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/ddr_oreg.vhd
+
+} {} {}} ../../lib/techmap/maps/iopad_ddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/iopad_ddr.vhd
+
+} {} {}} ../../lib/gaisler/leon3/iu3.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/iu3.vhd
+
+} {} {}} ../../lib/gaisler/sim/ahbrep.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ahbrep.vhd
+
+} {} {}} ../../lib/tech/unisim/ise/unisim_VCOMP.vhd {1 {vcom -work unisim -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/unisim/ise/unisim_VCOMP.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/srctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/srctrl.vhd
+
+} {} {}} ../../lib/grlib/amba/apbctrl.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/apbctrl.vhd
+
+} {} {}} ../../lib/gaisler/leon3/grlfpwx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grlfpwx.vhd
+
+} {} {}} ../../lib/gaisler/leon3/cpu_disasx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cpu_disasx.vhd
+
+} {} {}} ../../lib/gaisler/misc/apbvga.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/apbvga.vhd
+
+} {} {}} ../../lib/esa/memoryctrl/memoryctrl.vhd {1 {vcom -work esa -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/memoryctrl.vhd
+
+} {} {}} ../../lib/techmap/unisim/buffer_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/buffer_unisim.vhd
+
+} {} {}} testbench.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+
+} {} {}} ../../lib/gaisler/greth/greth_gbit_mb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit_mb.vhd
+
+} {} {}} ../../lib/gaisler/sim/grusb_dclsim.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd(120): end grusb_dclsim;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusb_dclsim.vhd(120): (vcom-2063) Complete design-unit 'grusb_dclsim' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/techmap/inferred/memory_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/inferred/memory_inferred.vhd
+
+} {} {}} ../../lib/techmap/maps/grspwc2_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/grspwc2_net.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddr2spax_ddr.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax_ddr.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddr2buf.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2buf.vhd
+
+} {} {}} ../../lib/gaisler/uart/apbuart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/apbuart.vhd
+
+} {} {}} ../../lib/gaisler/sim/i2c_slave_model.v {1 {vlog -work gaisler O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/i2c_slave_model.v
+
+} {} {}} ../../lib/tech/unisim/ise/unisim_VITAL.vhd {1 {vcom -work unisim -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/unisim/ise/unisim_VITAL.vhd
+
+} {} {}} ../../lib/gaisler/leon3/libproc3.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libproc3.vhd
+
+} {} {}} ../../lib/techmap/maps/grusbhc_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/grusbhc_net.vhd
+
+} {} {}} ../../lib/techmap/maps/grgates.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/grgates.vhd
+
+} {} {}} ../../lib/esa/memoryctrl/mctrl.vhd {1 {vcom -work esa -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/mctrl.vhd
+
+} {} {}} ../../lib/techmap/unisim/mul_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/mul_unisim.vhd
+
+} {} {}} ../../lib/gsi/ssram/functions.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/functions.vhd
+
+} {} {}} ../../lib/gaisler/misc/grgpio.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grgpio.vhd
+
+} {} {}} ../../lib/gaisler/misc/spictrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/spictrl.vhd
+
+} {} {}} ../../lib/eth/core/greth_rx.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/greth_rx.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmu_dcache.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_dcache.vhd
+
+} {} {}} ../../lib/grlib/stdlib/config.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/stdlib/config.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram_2p.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram_2p.vhd
+
+} {} {}} ../../lib/techmap/maps/ddr_ireg.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/ddr_ireg.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram_dp.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram_dp.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahbtrace_mb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mb.vhd
+
+} {} {}} ../../lib/grlib/util/util.vhd {2 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/util/util.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/util/util.vhd(35): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/util/util.vhd(35): (vcom-2063) Complete design-unit 'report_version' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/leon3/libiu.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libiu.vhd
+
+} {} {}} ../../lib/techmap/gencomp/netcomp.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/gencomp/netcomp.vhd
+
+} {} {}} ../../lib/tech/dware/simprims/DW_Foundation_comp.vhd {1 {vcom -work dware -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp.vhd
+
+} {} {}} ../../lib/gaisler/sim/grusbdcsim.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd(57): end grusbdcsim;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/grusbdcsim.vhd(57): (vcom-2063) Complete design-unit 'grusbdcsim' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/sim/usbsim.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd(408): end usbsim;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/usbsim.vhd(408): (vcom-2063) Complete design-unit 'usbsim' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/techmap/maps/syncfifo.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncfifo.vhd
+
+} {} {}} ../../lib/gaisler/sim/delay_wire.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/delay_wire.vhd
+
+} {} {}} ../../lib/techmap/maps/clkmux.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/clkmux.vhd
+
+} {} {}} ../../lib/gaisler/leon3/proc3.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/proc3.vhd
+
+} {} {}} ../../lib/techmap/maps/outpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/outpad.vhd
+
+} {} {}} ../../lib/techmap/maps/outpad_ddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/outpad_ddr.vhd
+
+} {} {}} ../../lib/grlib/amba/amba.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/amba.vhd
+
+} {} {}} ../../lib/gaisler/leon3/libcache.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libcache.vhd
+
+} {} {}} ../../lib/gaisler/leon3/leon3s.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3s.vhd
+
+} {} {}} ../../lib/gaisler/misc/logan.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/logan.vhd
+
+} {} {}} ../../lib/techmap/unisim/spictrl_unisim_comb1.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/spictrl_unisim_comb1.vhd
+
+} {} {}} ../../lib/cypress/ssram/package_utility.vhd {1 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/cypress/ssram/package_utility.vhd
+
+} {} {}} ../../lib/fmf/utilities/conversions.vhd {1 {vcom -work fmf -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/utilities/conversions.vhd
+
+} {} {}} ../../lib/gaisler/arith/div32.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/div32.vhd
+
+} {} {}} ../../lib/techmap/maps/clkpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/clkpad.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahbstat.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbstat.vhd
+
+} {} {}} ../../lib/techmap/dware/mul_dware.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/dware/mul_dware.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram156bw.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram156bw.vhd
+
+} {} {}} ../../lib/eth/core/eth_ahb_mst.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/eth_ahb_mst.vhd
+
+} {} {}} ../../lib/gaisler/sim/pwm_check.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd(53): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/pwm_check.vhd(53): (vcom-2063) Complete design-unit 'pwm_check' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/leon3/irqmp.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/irqmp.vhd
+
+} {} {}} ../../lib/micron/sdram/mobile_sdr.v {1 {vlog -work micron O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mobile_sdr.v
+
+} {} {}} ../../lib/techmap/maps/grlfpw_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/grlfpw_net.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmu_acache.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_acache.vhd
+
+} {} {}} ../../lib/gaisler/misc/wild.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild.vhd
+
+} {} {}} ../../lib/techmap/unisim/spictrl_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/spictrl_unisim.vhd
+
+} {} {}} ../../lib/fmf/flash/flash.vhd {1 {vcom -work fmf -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/flash/flash.vhd
+
+} {} {}} ../../lib/gaisler/jtag/bscanregs.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregs.vhd
+
+} {} {}} ../../lib/grlib/amba/amba_tp.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/amba_tp.vhd
+
+} {} {}} ../../lib/techmap/maps/grfpw_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/grfpw_net.vhd
+
+} {} {}} ../../lib/techmap/unisim/tap_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/tap_unisim.vhd
+
+} {} {}} ../../lib/techmap/unisim/ssrctrl_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/ssrctrl_unisim.vhd
+
+} {} {}} ../../lib/gaisler/leon3/leon3.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mfpwx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mfpwx.vhd
+
+} {} {}} ../../lib/grlib/amba/dma2ahb_tp.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/dma2ahb_tp.vhd
+
+} {} {}} ../../lib/techmap/maps/odpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/odpad.vhd
+
+} {} {}} ../../lib/grlib/amba/devices.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/devices.vhd
+
+} {} {}} ../../lib/techmap/maps/toutpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/toutpad.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram.vhd
+
+} {} {}} ../../lib/techmap/maps/skew_outpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/skew_outpad.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmulru.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmulru.vhd
+
+} {} {}} ../../lib/gaisler/arith/arith.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/arith/arith.vhd
+
+} {} {}} ../../lib/gaisler/uart/uart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/uart.vhd
+
+} {} {}} ../../lib/gaisler/greth/greth_gbit.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/greth_gbit.vhd
+
+} {} {}} ../../lib/techmap/unisim/grspwc_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/grspwc_unisim.vhd
+
+} {} {}} ../../lib/gaisler/misc/svgactrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/svgactrl.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmu_cache.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_cache.vhd
+
+} {} {}} ../../lib/gaisler/leon3/leon3cg.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3cg.vhd
+
+} {} {}} ../../lib/eth/core/eth_rstgen.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/eth_rstgen.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddrsp16a.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp16a.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/memctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/memctrl.vhd
+
+} {} {}} ../../lib/techmap/maps/clkpad_ds.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/clkpad_ds.vhd
+
+} {} {}} ../../lib/fmf/fifo/idt7202.vhd {2 {vcom -work fmf -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/fifo/idt7202.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/fifo/idt7202.vhd(126): END idt7202;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/fifo/idt7202.vhd(126): (vcom-2063) Complete design-unit 'idt7202' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/micron/ddr/ddr2.v {1 {vlog -work micron O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/ddr2.v
+
+} {} {}} ../../lib/hynix/ddr2/components.vhd {2 {vcom -work hynix -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd(55): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/hynix/ddr2/components.vhd(55): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/cypress/ssram/cy7c1354b.vhd {1 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/cypress/ssram/cy7c1354b.vhd
+
+} {} {}} ../../lib/techmap/maps/iodpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/iodpad.vhd
+
+} {} {}} ../../lib/techmap/maps/mul_61x61.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/mul_61x61.vhd
+
+} {} {}} ../../lib/tech/dware/simprims/DW_Foundation_comp_arith.vhd {1 {vcom -work dware -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp_arith.vhd
+
+} {} {}} ../../lib/micron/sdram/mt48lc16m16a2.vhd {2 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd(26): END mti_pkg;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/sdram/mt48lc16m16a2.vhd(26): (vcom-2063) Complete design-unit 'mti_pkg' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/misc/ahbmst.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddrphy_wrap.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrphy_wrap.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmuconfig.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuconfig.vhd
+
+} {} {}} ../../lib/techmap/maps/iopad_ds.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/iopad_ds.vhd
+
+} {} {}} ../../lib/techmap/maps/ssrctrl_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/ssrctrl_net.vhd
+
+} {} {}} ../../lib/eth/core/greth_tx.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/greth_tx.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/sdctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl.vhd
+
+} {} {}} ../../lib/gaisler/greth/grethm.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/greth/grethm.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahbtrace_mmb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbtrace_mmb.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddr2spax.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spax.vhd
+
+} {} {}} ../../lib/techmap/maps/alltap.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/alltap.vhd
+
+} {} {}} ../../lib/grlib/modgen/leaves.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/modgen/leaves.vhd
+
+} {} {}} ../../lib/techmap/unisim/grspwc2_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/grspwc2_unisim.vhd
+
+} {} {}} ../../lib/eth/wrapper/greth_gen.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/wrapper/greth_gen.vhd
+
+} {} {}} ../../lib/gaisler/net/net.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/net/net.vhd
+
+} {} {}} ../../lib/gaisler/leon3/dsu3.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/dsu3.vhd
+
+} {} {}} ../../lib/gaisler/leon3/tbufmem.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/tbufmem.vhd
+
+} {} {}} ../../lib/gaisler/jtag/jtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/jtag.vhd
+
+} {} {}} ../../lib/techmap/maps/lvds_combo.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/lvds_combo.vhd
+
+} {} {}} ../../lib/techmap/maps/techbuf.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/techbuf.vhd
+
+} {} {}} ../../lib/techmap/maps/nandtree.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/nandtree.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/sdmctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdmctrl.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahbmst2.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbmst2.vhd
+
+} {} {}} ../../lib/synplify/sim/synplify.vhd {2 {vcom -work synplify -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/synplify/sim/synplify.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/synplify/sim/synplify.vhd(29): end prim_counter;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/synplify/sim/synplify.vhd(29): (vcom-2063) Complete design-unit 'prim_counter' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/techmap/maps/inpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/inpad.vhd
+
+} {} {}} ../../lib/gaisler/sim/spi_flash.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/spi_flash.vhd
+
+} {} {}} ../../lib/gaisler/uart/dcom_uart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/uart/dcom_uart.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmutlbcam.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutlbcam.vhd
+
+} {} {}} ../../lib/techmap/unisim/clkgen_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/clkgen_unisim.vhd
+
+} {} {}} ../../lib/techmap/maps/grspwc_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/grspwc_net.vhd
+
+} {} {}} ../../lib/gaisler/misc/misc.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/misc.vhd
+
+} {} {}} ../../lib/gaisler/misc/ahb_mst_iface.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahb_mst_iface.vhd
+
+} {} {}} ../../lib/gsi/ssram/core_burst.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/core_burst.vhd
+
+} {} {}} ../../lib/gaisler/jtag/libjtagcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/libjtagcom.vhd
+
+} {} {}} ../../lib/techmap/unisim/grusbhc_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/grusbhc_unisim.vhd
+
+} {} {}} ../../lib/techmap/inferred/ddr_phy_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/inferred/ddr_phy_inferred.vhd
+
+} {} {}} ../../lib/techmap/maps/allmul.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/allmul.vhd
+
+} {} {}} ../../lib/gaisler/jtag/bscanregsbd.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/jtag/bscanregsbd.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmu_icache.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmu_icache.vhd
+
+} {} {}} ../../lib/gaisler/misc/gptimer.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/gptimer.vhd
+
+} {} {}} ../../lib/gsi/ssram/g880e18bt.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gsi/ssram/g880e18bt.vhd
+
+} {} {}} ../../lib/gaisler/leon3/leon3sh.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/leon3sh.vhd
+
+} {} {}} ../../lib/techmap/unisim/ddr_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/ddr_unisim.vhd
+
+} {} {}} ../../lib/gaisler/leon3/grfpushwx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpushwx.vhd
+
+} {} {}} ../../lib/gaisler/misc/i2cmst_gen.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/i2cmst_gen.vhd
+
+} {} {}} ../../lib/eth/core/eth_edcl_ahb_mst.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/eth_edcl_ahb_mst.vhd
+
+} {} {}} ../../lib/techmap/inferred/ddr_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/inferred/ddr_inferred.vhd
+
+} {} {}} ../../lib/gaisler/leon3/grfpwxsh.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/grfpwxsh.vhd
+
+} {} {}} ../../lib/techmap/unisim/spictrl_unisim_comb0.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/spictrl_unisim_comb0.vhd
+
+} {} {}} ../../lib/gaisler/sim/ata_device.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/ata_device.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddrspa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrspa.vhd
+
+} {} {}} ../../lib/gaisler/misc/charrom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/charrom.vhd
+
+} {} {}} ../../lib/techmap/maps/tap.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/tap.vhd
+
+} {} {}} ../../lib/gaisler/sim/sim.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd(353): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sim.vhd(353): (vcom-2063) Complete design-unit 'sim' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/memctrl/sdctrl64.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/sdctrl64.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/spimctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/memctrl/spimctrl.vhd
+
+} {} {}} ../../lib/techmap/maps/allmem.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/allmem.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram128.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram128.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddrsp32a.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddrsp32a.vhd
+
+} {} {}} ../../lib/grlib/sparc/cpu_disas.vhd {2 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/cpu_disas.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/cpu_disas.vhd(50): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/sparc/cpu_disas.vhd(50): (vcom-2063) Complete design-unit 'cpu_disas' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} config.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/config.vhd
+
+} {} {}} ../../lib/techmap/maps/allddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/allddr.vhd
+
+} {} {}} ../../lib/techmap/maps/ddrphy.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/ddrphy.vhd
+
+} {} {}} ahbrom.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+
+} {} {}} ../../lib/techmap/maps/allclkgen.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/allclkgen.vhd
+
+} {} {}} ../../lib/gaisler/misc/wild2ahb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/wild2ahb.vhd
+
+} {} {}} ../../lib/gaisler/ddr/ddr2spa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/ddr/ddr2spa.vhd
+
+} {} {}} leon3mp.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+
+} {} {}} ../../lib/techmap/maps/cpu_disas_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/cpu_disas_net.vhd
+
+} {} {}} ../../lib/eth/core/greth_pkg.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/eth/core/greth_pkg.vhd
+
+} {} {}} ../../lib/fmf/flash/s25fl064a.vhd {1 {vcom -work fmf -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/flash/s25fl064a.vhd
+
+} {} {}} ../../lib/fmf/utilities/gen_utils.vhd {1 {vcom -work fmf -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/fmf/utilities/gen_utils.vhd
+
+} {} {}} ../../lib/grlib/amba/dma2ahb.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/dma2ahb.vhd
+
+} {} {}} ../../lib/gaisler/sim/phy.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd(68): end;
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/phy.vhd(68): (vcom-2063) Complete design-unit 'phy' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/grlib/amba/dma2ahb_pkg.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/grlib/amba/dma2ahb_pkg.vhd
+
+} {} {}} ../../lib/gaisler/sim/sram16.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd
+###### O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd(52): end;     
+** Warning: [13] O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/sim/sram16.vhd(52): (vcom-2063) Complete design-unit 'sram16' is inside synthesis_off/translate_off pragma.
+
+
+} {} {}} ../../lib/gaisler/misc/ahbdpram.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/ahbdpram.vhd
+
+} {} {}} ../../lib/techmap/unisim/memory_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/unisim/memory_unisim.vhd
+
+} {} {}} ../../lib/techmap/gencomp/gencomp.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/gencomp/gencomp.vhd
+
+} {} {}} ../../lib/gaisler/misc/grsysmon.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/misc/grsysmon.vhd
+
+} {} {}} ../../lib/micron/ddr/mt46v16m16.vhd {1 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/micron/ddr/mt46v16m16.vhd
+
+} {} {}} ../../lib/gaisler/leon3/libmmu.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/libmmu.vhd
+
+} {} {}} ../../lib/techmap/maps/clkgen.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/clkgen.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmuiface.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmuiface.vhd
+
+} {} {}} ../../lib/techmap/maps/clkand.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/clkand.vhd
+
+} {} {}} ../../lib/gaisler/leon3/mmutw.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/mmutw.vhd
+
+} {} {}} ../../lib/gaisler/leon3/cachemem.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/gaisler/leon3/cachemem.vhd
+
+} {} {}} ../../lib/synplify/sim/synattr.vhd {1 {vcom -work synplify -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/synplify/sim/synattr.vhd
+
+} {} {}} ../../lib/techmap/maps/syncram128bw.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/techmap/maps/syncram128bw.vhd
+
+} {} {}}

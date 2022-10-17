@@ -1,0 +1,87 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Emctrl
+Z1 w1309262194
+Z2 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
+Z3 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
+Z4 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
+Z5 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z6 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z7 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z8 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z9 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z10 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z11 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z12 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z13 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+Z14 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/mctrl.vhd
+Z15 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/mctrl.vhd
+l0
+L46
+V5Y8BoSH`F_Jf`ma<V2g2[3
+!s100 b<Z[i37ZI2AjLQk[[m<Xn2
+Z16 OL;C;10.1b;51
+31
+!i10b 1
+Z17 !s108 1348674490.352000
+Z18 !s90 -reportprogress|300|-work|esa|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/mctrl.vhd|
+Z19 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/mctrl.vhd|
+Z20 !s102 -cover s
+Z21 o-work esa -93 -source -nowarn 1 -nowarn 5 -cover s
+Z22 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+Artl
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z23 DEx4 work 5 mctrl 0 22 5Y8BoSH`F_Jf`ma<V2g2[3
+l214
+L90
+Z24 V?^TYTm42l9_MWze^acB>L3
+Z25 !s100 AGY17nM2AoGUPNUFacdgQ0
+R16
+31
+!i10b 1
+R17
+R18
+R19
+R20
+R21
+R22
+Pmemoryctrl
+R3
+R4
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R1
+R13
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/memoryctrl.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/memoryctrl.vhd
+l0
+L26
+VV2k;^KE?0QMZ@:Pa7kjiR2
+R16
+31
+R20
+R21
+R22
+!s100 5fY=:IXRd0Q3NcHYMgcd13
+!i10b 1
+!s108 1348674489.781000
+!s90 -reportprogress|300|-work|esa|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/memoryctrl.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/esa/memoryctrl/memoryctrl.vhd|

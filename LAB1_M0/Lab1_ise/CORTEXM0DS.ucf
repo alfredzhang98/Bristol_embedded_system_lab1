@@ -1,0 +1,4 @@
+
+#Created by Constraints Editor (xc6slx150t-fgg900-2) - 2022/10/11
+NET "HCLK" TNM_NET = HCLK;
+TIMESPEC TS_HCLK = PERIOD "HCLK" 20 ns HIGH 50%;

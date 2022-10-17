@@ -1,0 +1,1355 @@
+Release 14.1 - xst P.15xf (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Reading design: CORTEXM0DS.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "CORTEXM0DS.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "CORTEXM0DS"
+Output Format                      : NGC
+Target Device                      : xc6slx150t-2-fgg900
+
+---- Source Options
+Top Module Name                    : CORTEXM0DS
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\cortexm0ds_logic.v" into library work
+Parsing module <cortexm0ds_logic>.
+Analyzing Verilog file "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" into library work
+Parsing module <CORTEXM0DS>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating module <CORTEXM0DS>.
+
+Elaborating module <cortexm0ds_logic>.
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\cortexm0ds_logic.v" Line 2069: Assignment to N4i2z4 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\cortexm0ds_logic.v" Line 2072: Assignment to L5i2z4 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 119: Assignment to cm0_r00 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 120: Assignment to cm0_r01 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 121: Assignment to cm0_r02 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 122: Assignment to cm0_r03 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 123: Assignment to cm0_r04 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 124: Assignment to cm0_r05 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 125: Assignment to cm0_r06 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 126: Assignment to cm0_r07 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 127: Assignment to cm0_r08 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 128: Assignment to cm0_r09 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 129: Assignment to cm0_r10 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 130: Assignment to cm0_r11 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 131: Assignment to cm0_r12 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 134: Assignment to cm0_r14 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 147: Assignment to cm0_msp ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 148: Assignment to cm0_psp ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 149: Assignment to cm0_pc ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 150: Assignment to cm0_xpsr ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 151: Assignment to cm0_control ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" Line 152: Assignment to cm0_primask ignored, since the identifier is never used
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <CORTEXM0DS>.
+    Related source file is "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v".
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r0_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r1_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r2_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r3_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r4_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r5_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r6_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r7_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r8_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r9_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r10_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r11_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r12_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_r14_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_msp_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_psp_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_pc_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_apsr_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_ipsr_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_tbit_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_control_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\CORTEXM0DS.v" line 94: Output port <vis_primask_o> of the instance <u_logic> is unconnected or connected to loadless signal.
+    Summary:
+	no macro.
+Unit <CORTEXM0DS> synthesized.
+
+Synthesizing Unit <cortexm0ds_logic>.
+    Related source file is "C:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_ise\cortexm0ds_logic.v".
+    Found 1-bit register for signal <H9i2z4>.
+    Found 1-bit register for signal <Wai2z4>.
+    Found 1-bit register for signal <Gci2z4>.
+    Found 1-bit register for signal <Pdi2z4>.
+    Found 1-bit register for signal <Igi2z4>.
+    Found 1-bit register for signal <Rhi2z4>.
+    Found 1-bit register for signal <Rni2z4>.
+    Found 1-bit register for signal <Fpi2z4>.
+    Found 1-bit register for signal <Isi2z4>.
+    Found 1-bit register for signal <Xti2z4>.
+    Found 1-bit register for signal <Kyi2z4>.
+    Found 1-bit register for signal <Yzi2z4>.
+    Found 1-bit register for signal <M1j2z4>.
+    Found 1-bit register for signal <X2j2z4>.
+    Found 1-bit register for signal <M4j2z4>.
+    Found 1-bit register for signal <B6j2z4>.
+    Found 1-bit register for signal <Q7j2z4>.
+    Found 1-bit register for signal <F9j2z4>.
+    Found 1-bit register for signal <Fcj2z4>.
+    Found 1-bit register for signal <Qdj2z4>.
+    Found 1-bit register for signal <Sjj2z4>.
+    Found 1-bit register for signal <Glj2z4>.
+    Found 1-bit register for signal <Vmj2z4>.
+    Found 1-bit register for signal <Koj2z4>.
+    Found 1-bit register for signal <Zpj2z4>.
+    Found 1-bit register for signal <Orj2z4>.
+    Found 1-bit register for signal <Dtj2z4>.
+    Found 1-bit register for signal <Ruj2z4>.
+    Found 1-bit register for signal <Fwj2z4>.
+    Found 1-bit register for signal <Txj2z4>.
+    Found 1-bit register for signal <V0k2z4>.
+    Found 1-bit register for signal <K2k2z4>.
+    Found 1-bit register for signal <Z3k2z4>.
+    Found 1-bit register for signal <O5k2z4>.
+    Found 1-bit register for signal <D7k2z4>.
+    Found 1-bit register for signal <S8k2z4>.
+    Found 1-bit register for signal <Hak2z4>.
+    Found 1-bit register for signal <Rek2z4>.
+    Found 1-bit register for signal <Ggk2z4>.
+    Found 1-bit register for signal <Vhk2z4>.
+    Found 1-bit register for signal <Kjk2z4>.
+    Found 1-bit register for signal <Zkk2z4>.
+    Found 1-bit register for signal <Omk2z4>.
+    Found 1-bit register for signal <Auk2z4>.
+    Found 1-bit register for signal <Svk2z4>.
+    Found 1-bit register for signal <Xyk2z4>.
+    Found 1-bit register for signal <J0l2z4>.
+    Found 1-bit register for signal <V1l2z4>.
+    Found 1-bit register for signal <Pbl2z4>.
+    Found 1-bit register for signal <Edl2z4>.
+    Found 1-bit register for signal <Tel2z4>.
+    Found 1-bit register for signal <Igl2z4>.
+    Found 1-bit register for signal <Xhl2z4>.
+    Found 1-bit register for signal <Cll2z4>.
+    Found 1-bit register for signal <Qml2z4>.
+    Found 1-bit register for signal <Eol2z4>.
+    Found 1-bit register for signal <Spl2z4>.
+    Found 1-bit register for signal <Grl2z4>.
+    Found 1-bit register for signal <Dwl2z4>.
+    Found 1-bit register for signal <Rxl2z4>.
+    Found 1-bit register for signal <Fzl2z4>.
+    Found 1-bit register for signal <T0m2z4>.
+    Found 1-bit register for signal <H2m2z4>.
+    Found 1-bit register for signal <V3m2z4>.
+    Found 1-bit register for signal <J5m2z4>.
+    Found 1-bit register for signal <X6m2z4>.
+    Found 1-bit register for signal <L8m2z4>.
+    Found 1-bit register for signal <Bdm2z4>.
+    Found 1-bit register for signal <Qem2z4>.
+    Found 1-bit register for signal <Fgm2z4>.
+    Found 1-bit register for signal <Ejm2z4>.
+    Found 1-bit register for signal <Skm2z4>.
+    Found 1-bit register for signal <Gmm2z4>.
+    Found 1-bit register for signal <Unm2z4>.
+    Found 1-bit register for signal <Ipm2z4>.
+    Found 1-bit register for signal <Wqm2z4>.
+    Found 1-bit register for signal <Ksm2z4>.
+    Found 1-bit register for signal <Ytm2z4>.
+    Found 1-bit register for signal <Mvm2z4>.
+    Found 1-bit register for signal <J0n2z4>.
+    Found 1-bit register for signal <Y1n2z4>.
+    Found 1-bit register for signal <N3n2z4>.
+    Found 1-bit register for signal <C5n2z4>.
+    Found 1-bit register for signal <R6n2z4>.
+    Found 1-bit register for signal <Lbn2z4>.
+    Found 1-bit register for signal <Zcn2z4>.
+    Found 1-bit register for signal <Yfn2z4>.
+    Found 1-bit register for signal <Mhn2z4>.
+    Found 1-bit register for signal <Ajn2z4>.
+    Found 1-bit register for signal <Okn2z4>.
+    Found 1-bit register for signal <Cmn2z4>.
+    Found 1-bit register for signal <Arn2z4>.
+    Found 1-bit register for signal <Psn2z4>.
+    Found 1-bit register for signal <Eun2z4>.
+    Found 1-bit register for signal <Tvn2z4>.
+    Found 1-bit register for signal <Ixn2z4>.
+    Found 1-bit register for signal <Xyn2z4>.
+    Found 1-bit register for signal <O0o2z4>.
+    Found 1-bit register for signal <F2o2z4>.
+    Found 1-bit register for signal <J5o2z4>.
+    Found 1-bit register for signal <Y6o2z4>.
+    Found 1-bit register for signal <N8o2z4>.
+    Found 1-bit register for signal <Cao2z4>.
+    Found 1-bit register for signal <Rbo2z4>.
+    Found 1-bit register for signal <Gdo2z4>.
+    Found 1-bit register for signal <Xeo2z4>.
+    Found 1-bit register for signal <Ogo2z4>.
+    Found 1-bit register for signal <Fio2z4>.
+    Found 1-bit register for signal <Ujo2z4>.
+    Found 1-bit register for signal <Jlo2z4>.
+    Found 1-bit register for signal <Ymo2z4>.
+    Found 1-bit register for signal <Noo2z4>.
+    Found 1-bit register for signal <Cqo2z4>.
+    Found 1-bit register for signal <Rro2z4>.
+    Found 1-bit register for signal <Gto2z4>.
+    Found 1-bit register for signal <Vuo2z4>.
+    Found 1-bit register for signal <Kwo2z4>.
+    Found 1-bit register for signal <Zxo2z4>.
+    Found 1-bit register for signal <Ozo2z4>.
+    Found 1-bit register for signal <D1p2z4>.
+    Found 1-bit register for signal <S2p2z4>.
+    Found 1-bit register for signal <H4p2z4>.
+    Found 1-bit register for signal <W5p2z4>.
+    Found 1-bit register for signal <L7p2z4>.
+    Found 1-bit register for signal <A9p2z4>.
+    Found 1-bit register for signal <Pap2z4>.
+    Found 1-bit register for signal <Ecp2z4>.
+    Found 1-bit register for signal <Efp2z4>.
+    Found 1-bit register for signal <Sgp2z4>.
+    Found 1-bit register for signal <Gip2z4>.
+    Found 1-bit register for signal <Ujp2z4>.
+    Found 1-bit register for signal <Ilp2z4>.
+    Found 1-bit register for signal <Wmp2z4>.
+    Found 1-bit register for signal <Gtp2z4>.
+    Found 1-bit register for signal <Uup2z4>.
+    Found 1-bit register for signal <Iwp2z4>.
+    Found 1-bit register for signal <Mzp2z4>.
+    Found 1-bit register for signal <B1q2z4>.
+    Found 1-bit register for signal <Q2q2z4>.
+    Found 1-bit register for signal <F4q2z4>.
+    Found 1-bit register for signal <U5q2z4>.
+    Found 1-bit register for signal <J7q2z4>.
+    Found 1-bit register for signal <Y8q2z4>.
+    Found 1-bit register for signal <Naq2z4>.
+    Found 1-bit register for signal <Ccq2z4>.
+    Found 1-bit register for signal <Rdq2z4>.
+    Found 1-bit register for signal <Gfq2z4>.
+    Found 1-bit register for signal <Vgq2z4>.
+    Found 1-bit register for signal <Kiq2z4>.
+    Found 1-bit register for signal <Zjq2z4>.
+    Found 1-bit register for signal <Llq2z4>.
+    Found 1-bit register for signal <Anq2z4>.
+    Found 1-bit register for signal <Poq2z4>.
+    Found 1-bit register for signal <Eqq2z4>.
+    Found 1-bit register for signal <Owq2z4>.
+    Found 1-bit register for signal <Cyq2z4>.
+    Found 1-bit register for signal <Qzq2z4>.
+    Found 1-bit register for signal <E1r2z4>.
+    Found 1-bit register for signal <S2r2z4>.
+    Found 1-bit register for signal <G4r2z4>.
+    Found 1-bit register for signal <U5r2z4>.
+    Found 1-bit register for signal <I7r2z4>.
+    Found 1-bit register for signal <Gcr2z4>.
+    Found 1-bit register for signal <Vdr2z4>.
+    Found 1-bit register for signal <Kfr2z4>.
+    Found 1-bit register for signal <Zgr2z4>.
+    Found 1-bit register for signal <Oir2z4>.
+    Found 1-bit register for signal <Dkr2z4>.
+    Found 1-bit register for signal <Slr2z4>.
+    Found 1-bit register for signal <Hnr2z4>.
+    Found 1-bit register for signal <Wor2z4>.
+    Found 1-bit register for signal <Lqr2z4>.
+    Found 1-bit register for signal <Asr2z4>.
+    Found 1-bit register for signal <Otr2z4>.
+    Found 1-bit register for signal <Cvr2z4>.
+    Found 1-bit register for signal <Qwr2z4>.
+    Found 1-bit register for signal <Eyr2z4>.
+    Found 1-bit register for signal <Szr2z4>.
+    Found 1-bit register for signal <G1s2z4>.
+    Found 1-bit register for signal <U2s2z4>.
+    Found 1-bit register for signal <I4s2z4>.
+    Found 1-bit register for signal <W5s2z4>.
+    Found 1-bit register for signal <K7s2z4>.
+    Found 1-bit register for signal <Z8s2z4>.
+    Found 1-bit register for signal <Oas2z4>.
+    Found 1-bit register for signal <Dcs2z4>.
+    Found 1-bit register for signal <Rds2z4>.
+    Found 1-bit register for signal <I2t2z4>.
+    Found 1-bit register for signal <O5t2z4>.
+    Found 1-bit register for signal <Cgt2z4>.
+    Found 1-bit register for signal <Rht2z4>.
+    Found 1-bit register for signal <Gjt2z4>.
+    Found 1-bit register for signal <Ukt2z4>.
+    Found 1-bit register for signal <Imt2z4>.
+    Found 1-bit register for signal <Wnt2z4>.
+    Found 1-bit register for signal <Lpt2z4>.
+    Found 1-bit register for signal <Art2z4>.
+    Found 1-bit register for signal <Pst2z4>.
+    Found 1-bit register for signal <Eut2z4>.
+    Found 1-bit register for signal <Tvt2z4>.
+    Found 1-bit register for signal <Ixt2z4>.
+    Found 1-bit register for signal <Wyt2z4>.
+    Found 1-bit register for signal <K0u2z4>.
+    Found 1-bit register for signal <Y1u2z4>.
+    Found 1-bit register for signal <M3u2z4>.
+    Found 1-bit register for signal <B5u2z4>.
+    Found 1-bit register for signal <Q6u2z4>.
+    Found 1-bit register for signal <F8u2z4>.
+    Found 1-bit register for signal <U9u2z4>.
+    Found 1-bit register for signal <Jbu2z4>.
+    Found 1-bit register for signal <Ycu2z4>.
+    Found 1-bit register for signal <Neu2z4>.
+    Found 1-bit register for signal <Cgu2z4>.
+    Found 1-bit register for signal <Rhu2z4>.
+    Found 1-bit register for signal <Gju2z4>.
+    Found 1-bit register for signal <Uku2z4>.
+    Found 1-bit register for signal <Imu2z4>.
+    Found 1-bit register for signal <Wnu2z4>.
+    Found 1-bit register for signal <Lpu2z4>.
+    Found 1-bit register for signal <Aru2z4>.
+    Found 1-bit register for signal <Psu2z4>.
+    Found 1-bit register for signal <Duu2z4>.
+    Found 1-bit register for signal <Rvu2z4>.
+    Found 1-bit register for signal <Fxu2z4>.
+    Found 1-bit register for signal <Uyu2z4>.
+    Found 1-bit register for signal <J0v2z4>.
+    Found 1-bit register for signal <Y1v2z4>.
+    Found 1-bit register for signal <N3v2z4>.
+    Found 1-bit register for signal <C5v2z4>.
+    Found 1-bit register for signal <R6v2z4>.
+    Found 1-bit register for signal <F8v2z4>.
+    Found 1-bit register for signal <T9v2z4>.
+    Found 1-bit register for signal <Hbv2z4>.
+    Found 1-bit register for signal <Vcv2z4>.
+    Found 1-bit register for signal <Kev2z4>.
+    Found 1-bit register for signal <Zfv2z4>.
+    Found 1-bit register for signal <Ohv2z4>.
+    Found 1-bit register for signal <Djv2z4>.
+    Found 1-bit register for signal <Skv2z4>.
+    Found 1-bit register for signal <Hmv2z4>.
+    Found 1-bit register for signal <Wnv2z4>.
+    Found 1-bit register for signal <Lpv2z4>.
+    Found 1-bit register for signal <Arv2z4>.
+    Found 1-bit register for signal <Psv2z4>.
+    Found 1-bit register for signal <Duv2z4>.
+    Found 1-bit register for signal <Rvv2z4>.
+    Found 1-bit register for signal <Fxv2z4>.
+    Found 1-bit register for signal <G0w2z4>.
+    Found 1-bit register for signal <R1w2z4>.
+    Found 1-bit register for signal <G9w2z4>.
+    Found 1-bit register for signal <Jcw2z4>.
+    Found 1-bit register for signal <Ydw2z4>.
+    Found 1-bit register for signal <Mfw2z4>.
+    Found 1-bit register for signal <Ahw2z4>.
+    Found 1-bit register for signal <Oiw2z4>.
+    Found 1-bit register for signal <Ckw2z4>.
+    Found 1-bit register for signal <Qlw2z4>.
+    Found 1-bit register for signal <Enw2z4>.
+    Found 1-bit register for signal <Sow2z4>.
+    Found 1-bit register for signal <Gqw2z4>.
+    Found 1-bit register for signal <Urw2z4>.
+    Found 1-bit register for signal <Itw2z4>.
+    Found 1-bit register for signal <Xuw2z4>.
+    Found 1-bit register for signal <Mww2z4>.
+    Found 1-bit register for signal <Byw2z4>.
+    Found 1-bit register for signal <Qzw2z4>.
+    Found 1-bit register for signal <F1x2z4>.
+    Found 1-bit register for signal <U2x2z4>.
+    Found 1-bit register for signal <J4x2z4>.
+    Found 1-bit register for signal <G7x2z4>.
+    Found 1-bit register for signal <R8x2z4>.
+    Found 1-bit register for signal <Cax2z4>.
+    Found 1-bit register for signal <Nbx2z4>.
+    Found 1-bit register for signal <Ycx2z4>.
+    Found 1-bit register for signal <Jex2z4>.
+    Found 1-bit register for signal <Ufx2z4>.
+    Found 1-bit register for signal <Fhx2z4>.
+    Found 1-bit register for signal <Rix2z4>.
+    Found 1-bit register for signal <Dkx2z4>.
+    Found 1-bit register for signal <Plx2z4>.
+    Found 1-bit register for signal <Bnx2z4>.
+    Found 1-bit register for signal <Nox2z4>.
+    Found 1-bit register for signal <Zpx2z4>.
+    Found 1-bit register for signal <Lrx2z4>.
+    Found 1-bit register for signal <Xsx2z4>.
+    Found 1-bit register for signal <Jux2z4>.
+    Found 1-bit register for signal <Vvx2z4>.
+    Found 1-bit register for signal <Hxx2z4>.
+    Found 1-bit register for signal <Tyx2z4>.
+    Found 1-bit register for signal <F0y2z4>.
+    Found 1-bit register for signal <T1y2z4>.
+    Found 1-bit register for signal <I3y2z4>.
+    Found 1-bit register for signal <W4y2z4>.
+    Found 1-bit register for signal <K6y2z4>.
+    Found 1-bit register for signal <Y7y2z4>.
+    Found 1-bit register for signal <M9y2z4>.
+    Found 1-bit register for signal <Bby2z4>.
+    Found 1-bit register for signal <Qcy2z4>.
+    Found 1-bit register for signal <Fey2z4>.
+    Found 1-bit register for signal <Ufy2z4>.
+    Found 1-bit register for signal <Viy2z4>.
+    Found 1-bit register for signal <Jky2z4>.
+    Found 1-bit register for signal <Xly2z4>.
+    Found 1-bit register for signal <Lny2z4>.
+    Found 1-bit register for signal <Zoy2z4>.
+    Found 1-bit register for signal <Nqy2z4>.
+    Found 1-bit register for signal <Bsy2z4>.
+    Found 1-bit register for signal <Pty2z4>.
+    Found 1-bit register for signal <Dvy2z4>.
+    Found 1-bit register for signal <Swy2z4>.
+    Found 1-bit register for signal <Hyy2z4>.
+    Found 1-bit register for signal <Wzy2z4>.
+    Found 1-bit register for signal <K1z2z4>.
+    Found 1-bit register for signal <C3z2z4>.
+    Found 1-bit register for signal <U4z2z4>.
+    Found 1-bit register for signal <I6z2z4>.
+    Found 1-bit register for signal <W7z2z4>.
+    Found 1-bit register for signal <K9z2z4>.
+    Found 1-bit register for signal <Yaz2z4>.
+    Found 1-bit register for signal <Mcz2z4>.
+    Found 1-bit register for signal <Aez2z4>.
+    Found 1-bit register for signal <Pfz2z4>.
+    Found 1-bit register for signal <Ehz2z4>.
+    Found 1-bit register for signal <Tiz2z4>.
+    Found 1-bit register for signal <Ikz2z4>.
+    Found 1-bit register for signal <Wlz2z4>.
+    Found 1-bit register for signal <Knz2z4>.
+    Found 1-bit register for signal <Yoz2z4>.
+    Found 1-bit register for signal <Nqz2z4>.
+    Found 1-bit register for signal <Csz2z4>.
+    Found 1-bit register for signal <Rtz2z4>.
+    Found 1-bit register for signal <Fvz2z4>.
+    Found 1-bit register for signal <Twz2z4>.
+    Found 1-bit register for signal <Hyz2z4>.
+    Found 1-bit register for signal <Vzz2z4>.
+    Found 1-bit register for signal <K103z4>.
+    Found 1-bit register for signal <Z203z4>.
+    Found 1-bit register for signal <O403z4>.
+    Found 1-bit register for signal <D603z4>.
+    Found 1-bit register for signal <S703z4>.
+    Found 1-bit register for signal <H903z4>.
+    Found 1-bit register for signal <Wa03z4>.
+    Found 1-bit register for signal <Kc03z4>.
+    Found 1-bit register for signal <Yd03z4>.
+    Found 1-bit register for signal <Nf03z4>.
+    Found 1-bit register for signal <Ch03z4>.
+    Found 1-bit register for signal <Qi03z4>.
+    Found 1-bit register for signal <Ek03z4>.
+    Found 1-bit register for signal <Sl03z4>.
+    Found 1-bit register for signal <Hn03z4>.
+    Found 1-bit register for signal <Wo03z4>.
+    Found 1-bit register for signal <Lq03z4>.
+    Found 1-bit register for signal <Zr03z4>.
+    Found 1-bit register for signal <Nt03z4>.
+    Found 1-bit register for signal <Bv03z4>.
+    Found 1-bit register for signal <Pw03z4>.
+    Found 1-bit register for signal <Ey03z4>.
+    Found 1-bit register for signal <Tz03z4>.
+    Found 1-bit register for signal <I113z4>.
+    Found 1-bit register for signal <X213z4>.
+    Found 1-bit register for signal <M413z4>.
+    Found 1-bit register for signal <B613z4>.
+    Found 1-bit register for signal <Q713z4>.
+    Found 1-bit register for signal <E913z4>.
+    Found 1-bit register for signal <Sa13z4>.
+    Found 1-bit register for signal <Hc13z4>.
+    Found 1-bit register for signal <Wd13z4>.
+    Found 1-bit register for signal <Kf13z4>.
+    Found 1-bit register for signal <Yg13z4>.
+    Found 1-bit register for signal <Mi13z4>.
+    Found 1-bit register for signal <Bk13z4>.
+    Found 1-bit register for signal <Ql13z4>.
+    Found 1-bit register for signal <Fn13z4>.
+    Found 1-bit register for signal <Uo13z4>.
+    Found 1-bit register for signal <Jq13z4>.
+    Found 1-bit register for signal <Yr13z4>.
+    Found 1-bit register for signal <Mt13z4>.
+    Found 1-bit register for signal <Av13z4>.
+    Found 1-bit register for signal <Ow13z4>.
+    Found 1-bit register for signal <Cy13z4>.
+    Found 1-bit register for signal <Rz13z4>.
+    Found 1-bit register for signal <G123z4>.
+    Found 1-bit register for signal <V223z4>.
+    Found 1-bit register for signal <K423z4>.
+    Found 1-bit register for signal <Z523z4>.
+    Found 1-bit register for signal <O723z4>.
+    Found 1-bit register for signal <D923z4>.
+    Found 1-bit register for signal <Sa23z4>.
+    Found 1-bit register for signal <Hc23z4>.
+    Found 1-bit register for signal <Wd23z4>.
+    Found 1-bit register for signal <Kf23z4>.
+    Found 1-bit register for signal <Yg23z4>.
+    Found 1-bit register for signal <Mi23z4>.
+    Found 1-bit register for signal <Bk23z4>.
+    Found 1-bit register for signal <Ql23z4>.
+    Found 1-bit register for signal <Fn23z4>.
+    Found 1-bit register for signal <To23z4>.
+    Found 1-bit register for signal <Hq23z4>.
+    Found 1-bit register for signal <Vr23z4>.
+    Found 1-bit register for signal <Kt23z4>.
+    Found 1-bit register for signal <Zu23z4>.
+    Found 1-bit register for signal <Ow23z4>.
+    Found 1-bit register for signal <Dy23z4>.
+    Found 1-bit register for signal <Sz23z4>.
+    Found 1-bit register for signal <H133z4>.
+    Found 1-bit register for signal <V233z4>.
+    Found 1-bit register for signal <J433z4>.
+    Found 1-bit register for signal <X533z4>.
+    Found 1-bit register for signal <L733z4>.
+    Found 1-bit register for signal <A933z4>.
+    Found 1-bit register for signal <Pa33z4>.
+    Found 1-bit register for signal <Ec33z4>.
+    Found 1-bit register for signal <Td33z4>.
+    Found 1-bit register for signal <If33z4>.
+    Found 1-bit register for signal <Xg33z4>.
+    Found 1-bit register for signal <Mi33z4>.
+    Found 1-bit register for signal <Bk33z4>.
+    Found 1-bit register for signal <Ql33z4>.
+    Found 1-bit register for signal <Fn33z4>.
+    Found 1-bit register for signal <To33z4>.
+    Found 1-bit register for signal <Hq33z4>.
+    Found 1-bit register for signal <Vr33z4>.
+    Found 1-bit register for signal <Kt33z4>.
+    Found 1-bit register for signal <Zu33z4>.
+    Found 1-bit register for signal <Ow33z4>.
+    Found 1-bit register for signal <Cy33z4>.
+    Found 1-bit register for signal <Qz33z4>.
+    Found 1-bit register for signal <E143z4>.
+    Found 1-bit register for signal <T243z4>.
+    Found 1-bit register for signal <I443z4>.
+    Found 1-bit register for signal <X543z4>.
+    Found 1-bit register for signal <M743z4>.
+    Found 1-bit register for signal <B943z4>.
+    Found 1-bit register for signal <Qa43z4>.
+    Found 1-bit register for signal <Ec43z4>.
+    Found 1-bit register for signal <Sd43z4>.
+    Found 1-bit register for signal <Gf43z4>.
+    Found 1-bit register for signal <Ug43z4>.
+    Found 1-bit register for signal <Ji43z4>.
+    Found 1-bit register for signal <Yj43z4>.
+    Found 1-bit register for signal <Nl43z4>.
+    Found 1-bit register for signal <Cn43z4>.
+    Found 1-bit register for signal <Ro43z4>.
+    Found 1-bit register for signal <Gq43z4>.
+    Found 1-bit register for signal <Vr43z4>.
+    Found 1-bit register for signal <Kt43z4>.
+    Found 1-bit register for signal <Zu43z4>.
+    Found 1-bit register for signal <Ow43z4>.
+    Found 1-bit register for signal <Cy43z4>.
+    Found 1-bit register for signal <Qz43z4>.
+    Found 1-bit register for signal <E153z4>.
+    Found 1-bit register for signal <T253z4>.
+    Found 1-bit register for signal <I453z4>.
+    Found 1-bit register for signal <X553z4>.
+    Found 1-bit register for signal <L753z4>.
+    Found 1-bit register for signal <Z853z4>.
+    Found 1-bit register for signal <Na53z4>.
+    Found 1-bit register for signal <Cc53z4>.
+    Found 1-bit register for signal <Rd53z4>.
+    Found 1-bit register for signal <Gf53z4>.
+    Found 1-bit register for signal <Vg53z4>.
+    Found 1-bit register for signal <Ki53z4>.
+    Found 1-bit register for signal <Zj53z4>.
+    Found 1-bit register for signal <Nl53z4>.
+    Found 1-bit register for signal <Bn53z4>.
+    Found 1-bit register for signal <Po53z4>.
+    Found 1-bit register for signal <Dq53z4>.
+    Found 1-bit register for signal <Sr53z4>.
+    Found 1-bit register for signal <Ht53z4>.
+    Found 1-bit register for signal <Wu53z4>.
+    Found 1-bit register for signal <Lw53z4>.
+    Found 1-bit register for signal <Ay53z4>.
+    Found 1-bit register for signal <Pz53z4>.
+    Found 1-bit register for signal <E163z4>.
+    Found 1-bit register for signal <T263z4>.
+    Found 1-bit register for signal <I463z4>.
+    Found 1-bit register for signal <X563z4>.
+    Found 1-bit register for signal <L763z4>.
+    Found 1-bit register for signal <Z863z4>.
+    Found 1-bit register for signal <Na63z4>.
+    Found 1-bit register for signal <Cc63z4>.
+    Found 1-bit register for signal <Rd63z4>.
+    Found 1-bit register for signal <Gf63z4>.
+    Found 1-bit register for signal <Ug63z4>.
+    Found 1-bit register for signal <Ii63z4>.
+    Found 1-bit register for signal <Wj63z4>.
+    Found 1-bit register for signal <Ll63z4>.
+    Found 1-bit register for signal <An63z4>.
+    Found 1-bit register for signal <Po63z4>.
+    Found 1-bit register for signal <Eq63z4>.
+    Found 1-bit register for signal <Tr63z4>.
+    Found 1-bit register for signal <It63z4>.
+    Found 1-bit register for signal <Wu63z4>.
+    Found 1-bit register for signal <Kw63z4>.
+    Found 1-bit register for signal <Yx63z4>.
+    Found 1-bit register for signal <Mz63z4>.
+    Found 1-bit register for signal <B173z4>.
+    Found 1-bit register for signal <Q273z4>.
+    Found 1-bit register for signal <F473z4>.
+    Found 1-bit register for signal <U573z4>.
+    Found 1-bit register for signal <J773z4>.
+    Found 1-bit register for signal <Y873z4>.
+    Found 1-bit register for signal <Na73z4>.
+    Found 1-bit register for signal <Cc73z4>.
+    Found 1-bit register for signal <Rd73z4>.
+    Found 1-bit register for signal <Gf73z4>.
+    Found 1-bit register for signal <Ug73z4>.
+    Found 1-bit register for signal <Ii73z4>.
+    Found 1-bit register for signal <Wj73z4>.
+    Found 1-bit register for signal <Ll73z4>.
+    Found 1-bit register for signal <An73z4>.
+    Found 1-bit register for signal <Po73z4>.
+    Found 1-bit register for signal <Dq73z4>.
+    Found 1-bit register for signal <Rr73z4>.
+    Found 1-bit register for signal <Ft73z4>.
+    Found 1-bit register for signal <Uu73z4>.
+    Found 1-bit register for signal <Jw73z4>.
+    Found 1-bit register for signal <Yx73z4>.
+    Found 1-bit register for signal <Nz73z4>.
+    Found 1-bit register for signal <C183z4>.
+    Found 1-bit register for signal <R283z4>.
+    Found 1-bit register for signal <F483z4>.
+    Found 1-bit register for signal <T583z4>.
+    Found 1-bit register for signal <H783z4>.
+    Found 1-bit register for signal <V883z4>.
+    Found 1-bit register for signal <Ka83z4>.
+    Found 1-bit register for signal <Zb83z4>.
+    Found 1-bit register for signal <Od83z4>.
+    Found 1-bit register for signal <Df83z4>.
+    Found 1-bit register for signal <Sg83z4>.
+    Found 1-bit register for signal <Hi83z4>.
+    Found 1-bit register for signal <Wj83z4>.
+    Found 1-bit register for signal <Ll83z4>.
+    Found 1-bit register for signal <An83z4>.
+    Found 1-bit register for signal <Po83z4>.
+    Found 1-bit register for signal <Dq83z4>.
+    Found 1-bit register for signal <Rr83z4>.
+    Found 1-bit register for signal <Ft83z4>.
+    Found 1-bit register for signal <Uu83z4>.
+    Found 1-bit register for signal <Jw83z4>.
+    Found 1-bit register for signal <Yx83z4>.
+    Found 1-bit register for signal <Nz83z4>.
+    Found 1-bit register for signal <C193z4>.
+    Found 1-bit register for signal <R293z4>.
+    Found 1-bit register for signal <G493z4>.
+    Found 1-bit register for signal <U593z4>.
+    Found 1-bit register for signal <I793z4>.
+    Found 1-bit register for signal <W893z4>.
+    Found 1-bit register for signal <Ka93z4>.
+    Found 1-bit register for signal <Yb93z4>.
+    Found 1-bit register for signal <Md93z4>.
+    Found 1-bit register for signal <Bf93z4>.
+    Found 1-bit register for signal <Qg93z4>.
+    Found 1-bit register for signal <Fi93z4>.
+    Found 1-bit register for signal <Uj93z4>.
+    Found 1-bit register for signal <Jl93z4>.
+    Found 1-bit register for signal <Ym93z4>.
+    Found 1-bit register for signal <No93z4>.
+    Found 1-bit register for signal <Cq93z4>.
+    Found 1-bit register for signal <Rr93z4>.
+    Found 1-bit register for signal <Gt93z4>.
+    Found 1-bit register for signal <Vu93z4>.
+    Found 1-bit register for signal <Jw93z4>.
+    Found 1-bit register for signal <Xx93z4>.
+    Found 1-bit register for signal <D4a3z4>.
+    Found 1-bit register for signal <U5a3z4>.
+    Found 1-bit register for signal <L7a3z4>.
+    Found 1-bit register for signal <C9a3z4>.
+    Found 1-bit register for signal <Taa3z4>.
+    Found 1-bit register for signal <Jca3z4>.
+    Found 1-bit register for signal <Aea3z4>.
+    Found 1-bit register for signal <Qfa3z4>.
+    Found 1-bit register for signal <Gha3z4>.
+    Found 1-bit register for signal <Wia3z4>.
+    Found 1-bit register for signal <Mka3z4>.
+    Found 1-bit register for signal <Cma3z4>.
+    Found 1-bit register for signal <Jpa3z4>.
+    Found 1-bit register for signal <Ara3z4>.
+    Found 1-bit register for signal <Rsa3z4>.
+    Found 1-bit register for signal <Iua3z4>.
+    Found 1-bit register for signal <Zva3z4>.
+    Found 1-bit register for signal <Qxa3z4>.
+    Found 1-bit register for signal <Gza3z4>.
+    Found 1-bit register for signal <W0b3z4>.
+    Found 1-bit register for signal <M2b3z4>.
+    Found 1-bit register for signal <C4b3z4>.
+    Found 1-bit register for signal <J7b3z4>.
+    Found 1-bit register for signal <Z8b3z4>.
+    Found 1-bit register for signal <Nfb3z4>.
+    Found 1-bit register for signal <Dhb3z4>.
+    Found 1-bit register for signal <Ovc3z4>.
+    Found 1-bit register for signal <Cxc3z4>.
+    Found 1-bit register for signal <Qyc3z4>.
+    Found 1-bit register for signal <E0d3z4>.
+    Found 1-bit register for signal <T1d3z4>.
+    Found 1-bit register for signal <H3d3z4>.
+    Found 1-bit register for signal <V4d3z4>.
+    Found 1-bit register for signal <G6d3z4>.
+    Found 1-bit register for signal <Rkd3z4>.
+    Found 1-bit register for signal <Gmd3z4>.
+    Found 1-bit register for signal <Snd3z4>.
+    Found 1-bit register for signal <Hpd3z4>.
+    Found 1-bit register for signal <Wqd3z4>.
+    Found 1-bit register for signal <Lsd3z4>.
+    Found 1-bit register for signal <Aud3z4>.
+    Found 1-bit register for signal <Pvd3z4>.
+    Found 1-bit register for signal <Exd3z4>.
+    Found 1-bit register for signal <Tyd3z4>.
+    Found 1-bit register for signal <I0e3z4>.
+    Found 1-bit register for signal <X1e3z4>.
+    Found 1-bit register for signal <M3e3z4>.
+    Found 1-bit register for signal <B5e3z4>.
+    Found 1-bit register for signal <Q6e3z4>.
+    Found 1-bit register for signal <F8e3z4>.
+    Found 1-bit register for signal <U9e3z4>.
+    Found 1-bit register for signal <Ibe3z4>.
+    Found 1-bit register for signal <Wce3z4>.
+    Found 1-bit register for signal <Bge3z4>.
+    Found 1-bit register for signal <She3z4>.
+    Found 1-bit register for signal <Tme3z4>.
+    Found 1-bit register for signal <Foe3z4>.
+    Found 1-bit register for signal <Rpe3z4>.
+    Found 1-bit register for signal <Fre3z4>.
+    Found 1-bit register for signal <Tse3z4>.
+    Found 1-bit register for signal <Hue3z4>.
+    Found 1-bit register for signal <Kxe3z4>.
+    Found 1-bit register for signal <Aze3z4>.
+    Found 1-bit register for signal <W3f3z4>.
+    Found 1-bit register for signal <M5f3z4>.
+    Found 1-bit register for signal <Kaf3z4>.
+    Found 1-bit register for signal <Wbf3z4>.
+    Found 1-bit register for signal <Ldf3z4>.
+    Found 1-bit register for signal <Aff3z4>.
+    Found 1-bit register for signal <Pgf3z4>.
+    Found 1-bit register for signal <Eif3z4>.
+    Found 1-bit register for signal <Tjf3z4>.
+    Found 1-bit register for signal <Ilf3z4>.
+    Found 1-bit register for signal <Xmf3z4>.
+    Found 1-bit register for signal <Mof3z4>.
+    Found 1-bit register for signal <Bqf3z4>.
+    Found 1-bit register for signal <Qrf3z4>.
+    Found 1-bit register for signal <Ftf3z4>.
+    Found 1-bit register for signal <Uuf3z4>.
+    Found 1-bit register for signal <Jwf3z4>.
+    Found 1-bit register for signal <Vxf3z4>.
+    Found 1-bit register for signal <Kzf3z4>.
+    Found 1-bit register for signal <Z0g3z4>.
+    Found 1-bit register for signal <O2g3z4>.
+    Found 1-bit register for signal <T5g3z4>.
+    Found 1-bit register for signal <K7g3z4>.
+    Found 1-bit register for signal <B9g3z4>.
+    Found 1-bit register for signal <Nag3z4>.
+    Found 1-bit register for signal <Ccg3z4>.
+    Found 1-bit register for signal <Rdg3z4>.
+    Found 1-bit register for signal <Gfg3z4>.
+    Found 1-bit register for signal <Vgg3z4>.
+    Found 1-bit register for signal <Kig3z4>.
+    Found 1-bit register for signal <Zjg3z4>.
+    Found 1-bit register for signal <Olg3z4>.
+    Found 1-bit register for signal <Dng3z4>.
+    Found 1-bit register for signal <Sog3z4>.
+    Found 1-bit register for signal <Hqg3z4>.
+    Found 1-bit register for signal <Wrg3z4>.
+    Found 1-bit register for signal <Ltg3z4>.
+    Found 1-bit register for signal <Avg3z4>.
+    Found 1-bit register for signal <Pwg3z4>.
+    Found 1-bit register for signal <Eyg3z4>.
+    Found 1-bit register for signal <Tzg3z4>.
+    Found 1-bit register for signal <I1h3z4>.
+    Found 1-bit register for signal <Z2h3z4>.
+    Found 1-bit register for signal <A8h3z4>.
+    Found 1-bit register for signal <P9h3z4>.
+    Found 1-bit register for signal <Ebh3z4>.
+    Found 1-bit register for signal <Tch3z4>.
+    Found 1-bit register for signal <Ieh3z4>.
+    Found 1-bit register for signal <Zfh3z4>.
+    Found 1-bit register for signal <Ohh3z4>.
+    Found 1-bit register for signal <Djh3z4>.
+    Found 1-bit register for signal <Skh3z4>.
+    Found 1-bit register for signal <Hmh3z4>.
+    Found 1-bit register for signal <Wnh3z4>.
+    Found 1-bit register for signal <Lph3z4>.
+    Found 1-bit register for signal <Arh3z4>.
+    Found 1-bit register for signal <Psh3z4>.
+    Found 1-bit register for signal <Euh3z4>.
+    Found 1-bit register for signal <Tvh3z4>.
+    Found 1-bit register for signal <Ixh3z4>.
+    Found 1-bit register for signal <Xyh3z4>.
+    Found 1-bit register for signal <M0i3z4>.
+    Found 1-bit register for signal <B2i3z4>.
+    Found 1-bit register for signal <S3i3z4>.
+    Found 1-bit register for signal <J5i3z4>.
+    Found 1-bit register for signal <Y6i3z4>.
+    Found 1-bit register for signal <N8i3z4>.
+    Found 1-bit register for signal <Cai3z4>.
+    Found 1-bit register for signal <Rbi3z4>.
+    Found 1-bit register for signal <Ddi3z4>.
+    Found 1-bit register for signal <Uei3z4>.
+    Found 1-bit register for signal <Lgi3z4>.
+    Found 1-bit register for signal <Qji3z4>.
+    Found 1-bit register for signal <Fli3z4>.
+    Found 1-bit register for signal <Umi3z4>.
+    Found 1-bit register for signal <Joi3z4>.
+    Found 1-bit register for signal <Z7i2z4>.
+    Found 1-bit register for signal <Zei2z4>.
+    Found 1-bit register for signal <Gji2z4>.
+    Found 1-bit register for signal <Tki2z4>.
+    Found 1-bit register for signal <Emi2z4>.
+    Found 1-bit register for signal <Uqi2z4>.
+    Found 1-bit register for signal <Mvi2z4>.
+    Found 1-bit register for signal <Ywi2z4>.
+    Found 1-bit register for signal <Uaj2z4>.
+    Found 1-bit register for signal <Ffj2z4>.
+    Found 1-bit register for signal <Sgj2z4>.
+    Found 1-bit register for signal <Fij2z4>.
+    Found 1-bit register for signal <Hzj2z4>.
+    Found 1-bit register for signal <Wbk2z4>.
+    Found 1-bit register for signal <Idk2z4>.
+    Found 1-bit register for signal <Aok2z4>.
+    Found 1-bit register for signal <Npk2z4>.
+    Found 1-bit register for signal <Ark2z4>.
+    Found 1-bit register for signal <Nsk2z4>.
+    Found 1-bit register for signal <Gxk2z4>.
+    Found 1-bit register for signal <K3l2z4>.
+    Found 1-bit register for signal <Z4l2z4>.
+    Found 1-bit register for signal <Q6l2z4>.
+    Found 1-bit register for signal <H8l2z4>.
+    Found 1-bit register for signal <Y9l2z4>.
+    Found 1-bit register for signal <Mjl2z4>.
+    Found 1-bit register for signal <Usl2z4>.
+    Found 1-bit register for signal <Lul2z4>.
+    Found 1-bit register for signal <Cam2z4>.
+    Found 1-bit register for signal <Nbm2z4>.
+    Found 1-bit register for signal <Thm2z4>.
+    Found 1-bit register for signal <Axm2z4>.
+    Found 1-bit register for signal <Rym2z4>.
+    Found 1-bit register for signal <G8n2z4>.
+    Found 1-bit register for signal <X9n2z4>.
+    Found 1-bit register for signal <Nen2z4>.
+    Found 1-bit register for signal <Qnn2z4>.
+    Found 1-bit register for signal <Ipn2z4>.
+    Found 1-bit register for signal <V3o2z4>.
+    Found 1-bit register for signal <Tdp2z4>.
+    Found 1-bit register for signal <Kop2z4>.
+    Found 1-bit register for signal <Aqp2z4>.
+    Found 1-bit register for signal <Qrp2z4>.
+    Found 1-bit register for signal <Wxp2z4>.
+    Found 1-bit register for signal <Trq2z4>.
+    Found 1-bit register for signal <Etq2z4>.
+    Found 1-bit register for signal <Wuq2z4>.
+    Found 1-bit register for signal <W8r2z4>.
+    Found 1-bit register for signal <Oar2z4>.
+    Found 1-bit register for signal <Ffs2z4>.
+    Found 1-bit register for signal <Vgs2z4>.
+    Found 1-bit register for signal <Mis2z4>.
+    Found 1-bit register for signal <Dks2z4>.
+    Found 1-bit register for signal <Uls2z4>.
+    Found 1-bit register for signal <Lns2z4>.
+    Found 1-bit register for signal <Cps2z4>.
+    Found 1-bit register for signal <Tqs2z4>.
+    Found 1-bit register for signal <Kss2z4>.
+    Found 1-bit register for signal <Bus2z4>.
+    Found 1-bit register for signal <Svs2z4>.
+    Found 1-bit register for signal <Jxs2z4>.
+    Found 1-bit register for signal <Azs2z4>.
+    Found 1-bit register for signal <R0t2z4>.
+    Found 1-bit register for signal <A4t2z4>.
+    Found 1-bit register for signal <Y6t2z4>.
+    Found 1-bit register for signal <L8t2z4>.
+    Found 1-bit register for signal <Y9t2z4>.
+    Found 1-bit register for signal <Mbt2z4>.
+    Found 1-bit register for signal <Adt2z4>.
+    Found 1-bit register for signal <Pet2z4>.
+    Found 1-bit register for signal <Uyv2z4>.
+    Found 1-bit register for signal <C3w2z4>.
+    Found 1-bit register for signal <S4w2z4>.
+    Found 1-bit register for signal <I6w2z4>.
+    Found 1-bit register for signal <U7w2z4>.
+    Found 1-bit register for signal <Vaw2z4>.
+    Found 1-bit register for signal <U5x2z4>.
+    Found 1-bit register for signal <Jhy2z4>.
+    Found 1-bit register for signal <Lz93z4>.
+    Found 1-bit register for signal <B1a3z4>.
+    Found 1-bit register for signal <P2a3z4>.
+    Found 1-bit register for signal <Tna3z4>.
+    Found 1-bit register for signal <S5b3z4>.
+    Found 1-bit register for signal <Pab3z4>.
+    Found 1-bit register for signal <Gcb3z4>.
+    Found 1-bit register for signal <Xdb3z4>.
+    Found 1-bit register for signal <Tib3z4>.
+    Found 1-bit register for signal <Kkb3z4>.
+    Found 1-bit register for signal <Bmb3z4>.
+    Found 1-bit register for signal <Rnb3z4>.
+    Found 1-bit register for signal <Ipb3z4>.
+    Found 1-bit register for signal <Zqb3z4>.
+    Found 1-bit register for signal <Qsb3z4>.
+    Found 1-bit register for signal <Hub3z4>.
+    Found 1-bit register for signal <Yvb3z4>.
+    Found 1-bit register for signal <Pxb3z4>.
+    Found 1-bit register for signal <Gzb3z4>.
+    Found 1-bit register for signal <X0c3z4>.
+    Found 1-bit register for signal <O2c3z4>.
+    Found 1-bit register for signal <F4c3z4>.
+    Found 1-bit register for signal <W5c3z4>.
+    Found 1-bit register for signal <N7c3z4>.
+    Found 1-bit register for signal <E9c3z4>.
+    Found 1-bit register for signal <Vac3z4>.
+    Found 1-bit register for signal <Mcc3z4>.
+    Found 1-bit register for signal <Bec3z4>.
+    Found 1-bit register for signal <Qfc3z4>.
+    Found 1-bit register for signal <Fhc3z4>.
+    Found 1-bit register for signal <Uic3z4>.
+    Found 1-bit register for signal <Jkc3z4>.
+    Found 1-bit register for signal <Ylc3z4>.
+    Found 1-bit register for signal <Nnc3z4>.
+    Found 1-bit register for signal <Dpc3z4>.
+    Found 1-bit register for signal <Tqc3z4>.
+    Found 1-bit register for signal <Jsc3z4>.
+    Found 1-bit register for signal <Ztc3z4>.
+    Found 1-bit register for signal <T7d3z4>.
+    Found 1-bit register for signal <J9d3z4>.
+    Found 1-bit register for signal <Zad3z4>.
+    Found 1-bit register for signal <Pcd3z4>.
+    Found 1-bit register for signal <Fed3z4>.
+    Found 1-bit register for signal <Vfd3z4>.
+    Found 1-bit register for signal <Lhd3z4>.
+    Found 1-bit register for signal <Bjd3z4>.
+    Found 1-bit register for signal <Lee3z4>.
+    Found 1-bit register for signal <Jje3z4>.
+    Found 1-bit register for signal <Ble3z4>.
+    Found 1-bit register for signal <Vve3z4>.
+    Found 1-bit register for signal <Q0f3z4>.
+    Found 1-bit register for signal <H2f3z4>.
+    Found 1-bit register for signal <C7f3z4>.
+    Found 1-bit register for signal <T8f3z4>.
+    Found 1-bit register for signal <D4g3z4>.
+    Found 1-bit register for signal <Q4h3z4>.
+    Found 1-bit register for signal <I6h3z4>.
+    Found 1-bit register for signal <Aii3z4>.
+    Found 1-bit register for signal <Ypi3z4>.
+    Found 1-bit register for signal <J6i2z4>.
+    Found 24-bit subtractor for signal <Iwh2z4> created at line 2068.
+    Found 9-bit subtractor for signal <n16536> created at line 2069.
+    Found 31-bit adder for signal <Roh2z4> created at line 2071.
+    Found 30-bit adder for signal <n16534> created at line 2072.
+    Found 34-bit adder for signal <Pri3z4> created at line 2073.
+    Found 34-bit adder for signal <n16585> created at line 2082.
+    Summary:
+	inferred   6 Adder/Subtractor(s).
+	inferred 841 D-type flip-flop(s).
+	inferred 252 Multiplexer(s).
+Unit <cortexm0ds_logic> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 6
+ 24-bit subtractor                                     : 1
+ 30-bit adder                                          : 1
+ 31-bit adder                                          : 1
+ 34-bit adder                                          : 2
+ 9-bit subtractor                                      : 1
+# Registers                                            : 841
+ 1-bit register                                        : 841
+# Multiplexers                                         : 252
+ 1-bit 2-to-1 multiplexer                              : 252
+# Xors                                                 : 59
+ 1-bit xor2                                            : 59
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 6
+ 24-bit subtractor                                     : 1
+ 30-bit adder                                          : 1
+ 31-bit adder                                          : 1
+ 34-bit adder                                          : 2
+ 9-bit subtractor                                      : 1
+# Registers                                            : 841
+ Flip-Flops                                            : 841
+# Multiplexers                                         : 227
+ 1-bit 2-to-1 multiplexer                              : 227
+# Xors                                                 : 59
+ 1-bit xor2                                            : 59
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <CORTEXM0DS> ...
+
+Optimizing unit <cortexm0ds_logic> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block CORTEXM0DS, actual ratio is 4.
+FlipFlop u_logic/Sgj2z4 has been replicated 1 time(s)
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 842
+ Flip-Flops                                            : 842
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : CORTEXM0DS.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 3780
+#      GND                         : 1
+#      INV                         : 27
+#      LUT1                        : 91
+#      LUT2                        : 185
+#      LUT3                        : 185
+#      LUT4                        : 338
+#      LUT5                        : 516
+#      LUT6                        : 2050
+#      MUXCY                       : 146
+#      MUXF7                       : 91
+#      VCC                         : 1
+#      XORCY                       : 149
+# FlipFlops/Latches                : 842
+#      FDC                         : 86
+#      FDCE                        : 52
+#      FDP                         : 154
+#      FDPE                        : 550
+# Clock Buffers                    : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 135
+#      IBUF                        : 53
+#      OBUF                        : 82
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx150tfgg900-2 
+
+
+Slice Logic Utilization: 
+ Number of Slice Registers:             842  out of  184304     0%  
+ Number of Slice LUTs:                 3392  out of  92152     3%  
+    Number used as Logic:              3392  out of  92152     3%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:   3914
+   Number with an unused Flip Flop:    3072  out of   3914    78%  
+   Number with an unused LUT:           522  out of   3914    13%  
+   Number of fully used LUT-FF pairs:   320  out of   3914     8%  
+   Number of unique control sets:        38
+
+IO Utilization: 
+ Number of IOs:                         136
+ Number of bonded IOBs:                 136  out of    540    25%  
+
+Specific Feature Utilization:
+ Number of BUFG/BUFGCTRLs:                1  out of     16     6%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)  | Load  |
+-----------------------------------+------------------------+-------+
+HCLK                               | BUFGP                  | 842   |
+-----------------------------------+------------------------+-------+
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -2
+
+   Minimum period: 19.235ns (Maximum Frequency: 51.989MHz)
+   Minimum input arrival time before clock: 12.498ns
+   Maximum output required time after clock: 20.114ns
+   Maximum combinational path delay: No path found
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'HCLK'
+  Clock period: 19.235ns (frequency: 51.989MHz)
+  Total number of paths / destination ports: 268585226 / 1440
+-------------------------------------------------------------------------
+Delay:               19.235ns (Levels of Logic = 16)
+  Source:            u_logic/Y9l2z4 (FF)
+  Destination:       u_logic/Z7i2z4 (FF)
+  Source Clock:      HCLK rising
+  Destination Clock: HCLK rising
+
+  Data Path: u_logic/Y9l2z4 to u_logic/Z7i2z4
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDC:C->Q              6   0.525   1.306  u_logic/Y9l2z4 (u_logic/Y9l2z4)
+     LUT6:I1->O            2   0.254   0.726  u_logic/Nyvwx4<8>1 (u_logic/Nyvwx4<8>)
+     LUT3:I2->O            6   0.254   0.984  u_logic/Nyvwx4<8>2 (u_logic/Nyvwx4)
+     LUT5:I3->O            1   0.250   0.958  u_logic/Viuwx44 (u_logic/Viuwx44)
+     LUT6:I2->O           16   0.254   1.181  u_logic/Viuwx46 (u_logic/Viuwx4)
+     MUXF7:S->O            5   0.185   0.841  u_logic/Mmux_T5zwx411 (u_logic/T5zwx4)
+     LUT6:I5->O           10   0.254   1.008  u_logic/Odzwx4_Vdzwx4_AND_4574_o1 (u_logic/Odzwx4_Vdzwx4_AND_4574_o1)
+     LUT6:I5->O            1   0.254   0.000  u_logic/Mmux_H6zwx411_G (N1365)
+     MUXF7:I1->O          11   0.175   1.039  u_logic/Mmux_H6zwx411 (u_logic/H6zwx4)
+     LUT6:I5->O            7   0.254   1.138  u_logic/R3hvx4_N2zwx4_AND_4553_o_SW0 (N98)
+     LUT6:I3->O            6   0.235   0.876  u_logic/Mmux_Ozywx411 (u_logic/Ozywx4)
+     LUT6:I5->O           16   0.254   1.182  u_logic/E5owx44 (u_logic/E5owx4)
+     LUT6:I5->O            1   0.254   0.958  u_logic/Uqwwx4_Brwwx4_AND_4324_o4 (u_logic/Uqwwx4_Brwwx4_AND_4324_o4)
+     LUT6:I2->O           16   0.254   1.182  u_logic/Uqwwx4_Brwwx4_AND_4324_o6 (u_logic/Uqwwx4_Brwwx4_AND_4324_o)
+     LUT6:I5->O            1   0.254   0.682  u_logic/B8nwx4_I8nwx4_AND_3224_o_1 (u_logic/B8nwx4_I8nwx4_AND_3224_o1)
+     LUT6:I5->O            1   0.254   0.682  u_logic/Ojnvx4_SW0 (N2)
+     LUT6:I5->O            1   0.254   0.000  u_logic/Ojnvx4 (u_logic/Ojnvx4)
+     FDP:D                     0.074          u_logic/Z7i2z4
+    ----------------------------------------
+    Total                     19.235ns (4.492ns logic, 14.743ns route)
+                                       (23.4% logic, 76.6% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'HCLK'
+  Total number of paths / destination ports: 20375 / 2084
+-------------------------------------------------------------------------
+Offset:              12.498ns (Levels of Logic = 11)
+  Source:            HRDATA<23> (PAD)
+  Destination:       u_logic/Z7i2z4 (FF)
+  Destination Clock: HCLK rising
+
+  Data Path: HRDATA<23> to u_logic/Z7i2z4
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             4   1.328   1.234  HRDATA_23_IBUF (HRDATA_23_IBUF)
+     LUT5:I0->O            1   0.254   0.790  u_logic/I5xwx4_P5xwx4_AND_4367_o4 (u_logic/I5xwx4_P5xwx4_AND_4367_o5)
+     LUT5:I3->O            1   0.250   0.790  u_logic/I5xwx4_P5xwx4_AND_4367_o5 (u_logic/I5xwx4_P5xwx4_AND_4367_o6)
+     LUT6:I4->O            3   0.250   0.766  u_logic/I5xwx4_P5xwx4_AND_4367_o6 (u_logic/I5xwx4_P5xwx4_AND_4367_o7)
+     LUT6:I5->O            2   0.254   0.725  u_logic/Uqwwx4_Brwwx4_AND_4324_o211_SW1 (N426)
+     MUXF7:S->O            1   0.185   0.910  u_logic/Hfxwx4_Ofxwx4_AND_4393_o6_SW6 (N695)
+     LUT6:I3->O            1   0.235   0.910  u_logic/Uqwwx4_Brwwx4_AND_4324_o5 (u_logic/Uqwwx4_Brwwx4_AND_4324_o5)
+     LUT6:I3->O           16   0.235   1.182  u_logic/Uqwwx4_Brwwx4_AND_4324_o6 (u_logic/Uqwwx4_Brwwx4_AND_4324_o)
+     LUT6:I5->O            1   0.254   0.682  u_logic/B8nwx4_I8nwx4_AND_3224_o_1 (u_logic/B8nwx4_I8nwx4_AND_3224_o1)
+     LUT6:I5->O            1   0.254   0.682  u_logic/Ojnvx4_SW0 (N2)
+     LUT6:I5->O            1   0.254   0.000  u_logic/Ojnvx4 (u_logic/Ojnvx4)
+     FDP:D                     0.074          u_logic/Z7i2z4
+    ----------------------------------------
+    Total                     12.498ns (3.827ns logic, 8.671ns route)
+                                       (30.6% logic, 69.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'HCLK'
+  Total number of paths / destination ports: 6191607 / 75
+-------------------------------------------------------------------------
+Offset:              20.114ns (Levels of Logic = 39)
+  Source:            u_logic/Ffj2z4 (FF)
+  Destination:       HTRANS<1> (PAD)
+  Source Clock:      HCLK rising
+
+  Data Path: u_logic/Ffj2z4 to HTRANS<1>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDC:C->Q            241   0.525   2.536  u_logic/Ffj2z4 (u_logic/Ffj2z4)
+     LUT2:I0->O            4   0.250   0.804  u_logic/E78wx41 (u_logic/E78wx4)
+     LUT6:I5->O            5   0.254   0.841  u_logic/V6swx4_Pcyvx4_AND_6854_o1 (u_logic/V6swx4_Pcyvx4_AND_6854_o)
+     LUT6:I5->O           77   0.254   2.139  u_logic/Duc2z41 (u_logic/Duc2z4)
+     LUT6:I4->O            5   0.250   0.841  u_logic/A272z4_H272z4_AND_6015_o5 (u_logic/A272z4_H272z4_AND_6015_o)
+     LUT3:I2->O            1   0.254   0.682  u_logic/Mxor_Xucwx4_B19wx4_XOR_54_o_xo<0>1_SW0 (N1187)
+     LUT6:I5->O            1   0.254   0.000  u_logic/Madd_n16585_lut<5> (u_logic/Madd_n16585_lut<5>)
+     MUXCY:S->O            1   0.215   0.000  u_logic/Madd_n16585_cy<5> (u_logic/Madd_n16585_cy<5>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<6> (u_logic/Madd_n16585_cy<6>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<7> (u_logic/Madd_n16585_cy<7>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<8> (u_logic/Madd_n16585_cy<8>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<9> (u_logic/Madd_n16585_cy<9>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<10> (u_logic/Madd_n16585_cy<10>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<11> (u_logic/Madd_n16585_cy<11>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<12> (u_logic/Madd_n16585_cy<12>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<13> (u_logic/Madd_n16585_cy<13>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<14> (u_logic/Madd_n16585_cy<14>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<15> (u_logic/Madd_n16585_cy<15>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<16> (u_logic/Madd_n16585_cy<16>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<17> (u_logic/Madd_n16585_cy<17>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<18> (u_logic/Madd_n16585_cy<18>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<19> (u_logic/Madd_n16585_cy<19>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<20> (u_logic/Madd_n16585_cy<20>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<21> (u_logic/Madd_n16585_cy<21>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<22> (u_logic/Madd_n16585_cy<22>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<23> (u_logic/Madd_n16585_cy<23>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<24> (u_logic/Madd_n16585_cy<24>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<25> (u_logic/Madd_n16585_cy<25>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<26> (u_logic/Madd_n16585_cy<26>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<27> (u_logic/Madd_n16585_cy<27>)
+     MUXCY:CI->O           1   0.023   0.000  u_logic/Madd_n16585_cy<28> (u_logic/Madd_n16585_cy<28>)
+     XORCY:CI->O           1   0.206   0.682  u_logic/Madd_n16585_xor<29> (u_logic/n16585<29>)
+     LUT1:I0->O            1   0.254   0.000  u_logic/Madd_Pri3z4_cy<29>_rt (u_logic/Madd_Pri3z4_cy<29>_rt)
+     MUXCY:S->O            1   0.215   0.000  u_logic/Madd_Pri3z4_cy<29> (u_logic/Madd_Pri3z4_cy<29>)
+     XORCY:CI->O           6   0.206   0.876  u_logic/Madd_Pri3z4_xor<30> (u_logic/Pri3z4<30>)
+     LUT6:I5->O            6   0.254   0.876  u_logic/haddr_o<29>1 (HADDR_29_OBUF)
+     LUT6:I5->O            2   0.254   0.834  u_logic/hprot_o[2]_H362z4_AND_5880_o1 (u_logic/hprot_o[2]_H362z4_AND_5880_o1)
+     LUT6:I4->O            2   0.250   0.726  u_logic/hprot_o[2]_H362z4_AND_5880_o2 (u_logic/hprot_o[2]_H362z4_AND_5880_o)
+     LUT6:I5->O            1   0.254   0.681  u_logic/htrans_o<1> (HTRANS_1_OBUF)
+     OBUF:I->O                 2.912          HTRANS_1_OBUF (HTRANS<1>)
+    ----------------------------------------
+    Total                     20.114ns (7.596ns logic, 12.518ns route)
+                                       (37.8% logic, 62.2% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+Clock to Setup on destination clock HCLK
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+HCLK           |   19.235|         |         |         |
+---------------+---------+---------+---------+---------+
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 30.00 secs
+Total CPU time to Xst completion: 30.73 secs
+ 
+--> 
+
+Total memory usage is 4717316 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   22 (   0 filtered)
+Number of infos    :   22 (   0 filtered)
+

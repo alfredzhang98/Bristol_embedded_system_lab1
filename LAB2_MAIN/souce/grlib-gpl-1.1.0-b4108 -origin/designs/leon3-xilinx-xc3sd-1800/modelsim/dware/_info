@@ -1,0 +1,220 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Edw02_mult
+Z1 w1309262196
+Z2 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z3 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z4 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z6 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z7 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z8 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
+Z9 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd
+Z10 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd
+l0
+L86
+Vj_BHgJg:m64:iO5RNOK]o0
+Z11 OL;C;10.1b;51
+31
+Z12 !s108 1348674322.123000
+Z13 !s90 -reportprogress|300|-work|dware|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd|
+Z14 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DWpackages.vhd|
+Z15 !s102 -cover s
+Z16 o-work dware -93 -source -nowarn 1 -nowarn 5 -cover s
+Z17 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 QPGL5=QAE_8CTUcQJ34;N1
+!i10b 1
+Abehav
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 9 dw02_mult 0 22 j_BHgJg:m64:iO5RNOK]o0
+l97
+L96
+VOF^DdSSnd4anileoKen4S3
+R11
+31
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 AgnYPlRHk_SdMfDG1ozb=0
+!i10b 1
+Edw02_mult_2_stage
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+l0
+L120
+VA:9h[i?APNiFBCdWi=j?V2
+R11
+31
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 K[>j`Jj3HDZBG1RJgPfhW3
+!i10b 1
+Abehav
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 17 dw02_mult_2_stage 0 22 A:9h[i?APNiFBCdWi=j?V2
+l135
+L131
+VU9h5iGL0jaMcgR?OdVo^_3
+R11
+31
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 Vb_<eB[GIV^:56`H4n5ml1
+!i10b 1
+Pdw_foundation_arith
+R1
+R8
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_arith.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_arith.vhd
+l0
+L2
+V<];N_ooi;X[J6UL0FCP6J1
+R11
+31
+R15
+R16
+R17
+!s100 `S`QKoIDeSj^X4JU3fKE>0
+!i10b 1
+!s108 1348674323.443000
+!s90 -reportprogress|300|-work|dware|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_arith.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_arith.vhd|
+Pdw_foundation_comp
+Z18 DPx8 synopsys 10 attributes 0 22 J^T`lPA_8_J<l8kQiVE]>2
+Z19 DPx4 ieee 14 std_logic_misc 0 22 >dU:RInm^_6_mBJ^<6QGY2
+R6
+R7
+R1
+R8
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp.vhd
+l0
+L5
+VVT30>mS4A]>9kc=Ie5c5Z3
+R11
+31
+R15
+R16
+R17
+!s100 LJf_defG]h@f7elc15AHA3
+!i10b 1
+!s108 1348674323.865000
+!s90 -reportprogress|300|-work|dware|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp.vhd|
+Pdw_foundation_comp_arith
+R18
+R19
+R6
+R7
+R1
+R8
+8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp_arith.vhd
+FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp_arith.vhd
+l0
+L5
+V]DBO3]dgg[MdhJz7^a@Wh3
+!s100 5OQ2Rd93o79k8kgXJ2Sgd3
+R11
+31
+!i10b 1
+!s108 1348674324.342000
+!s90 -reportprogress|300|-work|dware|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp_arith.vhd|
+!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/tech/dware/simprims/DW_Foundation_comp_arith.vhd|
+R15
+R16
+R17
+Edw_mult_pipe
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+l0
+L15
+VV;PcHE:Vf4a1=j3;h9Z:_2
+R11
+31
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 hzFSmAjATlZ24eS;KFBY<3
+!i10b 1
+Asimple
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 12 dw_mult_pipe 0 22 V;PcHE:Vf4a1=j3;h9Z:_2
+l40
+L33
+V3QDCC:k`dNTd=gd>Te0kW3
+R11
+31
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 BI03]4gX8Q25fY^2J1Qo<0
+!i10b 1
+Pdwpackages
+R1
+R8
+R9
+R10
+l0
+L2
+V>WR`7h5N_cLWa>U[;H75@2
+R11
+31
+R12
+R13
+R14
+R15
+R16
+R17
+!s100 GMQTL0z6E:_nakV`^3i=g3
+!i10b 1

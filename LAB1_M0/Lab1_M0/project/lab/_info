@@ -1,0 +1,189 @@
+m255
+K3
+13
+cModel Technology
+dC:\MentorGraphics\modeltech64_10.1b\examples
+Ecm0_dssystem
+Z0 w1602769260
+Z1 DPx6 unisim 11 vcomponents 0 22 dC?zdg3YZ2:TcY2M;^d<>2
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\vn22984\OneDrive - University of Bristol\Workstation\embeddedSystemLab\Lab1_M0\project
+Z5 8C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CM0_DSSystem.vhd
+Z6 FC:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CM0_DSSystem.vhd
+l0
+L32
+VC>cHC4:mT=WzfFaY_Y`UM3
+Z7 OL;C;10.1b;51
+32
+Z8 !s108 1665501390.673000
+Z9 !s90 -reportprogress|300|-work|lab|-2002|-explicit|-vopt|C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CM0_DSSystem.vhd|
+Z10 !s107 C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CM0_DSSystem.vhd|
+Z11 o-work lab -2002 -explicit
+Z12 tExplicit 1
+!s100 i`JefXgRmdfBXgD[GNlS[3
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 12 cm0_dssystem 0 22 C>cHC4:mT=WzfFaY_Y`UM3
+32
+l135
+L45
+VOkITHGnd_iM?`5jK2KD]Z0
+R7
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+!s100 MoGDG2YLcmkz`M:3E]cPM1
+Ecortexm0_memory
+Z13 w1602769260
+R2
+R3
+R4
+Z14 8C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0_memory.vhd
+Z15 FC:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0_memory.vhd
+l0
+L43
+VFWY^gAW@kT0gk6Rc@?@Ba1
+R7
+32
+Z16 !s108 1665501390.805000
+Z17 !s90 -reportprogress|300|-work|lab|-2002|-explicit|-vopt|C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0_memory.vhd|
+Z18 !s107 C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0_memory.vhd|
+R11
+R12
+!s100 K3=Qd;zoKGT<ib9NbUg9i3
+!i10b 1
+Acortexm0_memory_a
+DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+DEx13 xilinxcorelib 16 blk_mem_gen_v7_1 0 22 YM;PcTOW6@a5b@Yo2n0A51
+R2
+R3
+DEx4 work 15 cortexm0_memory 0 22 FWY^gAW@kT0gk6Rc@?@Ba1
+32
+l131
+L54
+VeL8HYkAajKnC8k5`Lm6CS2
+R7
+R16
+R17
+R18
+R11
+R12
+!i10b 1
+!s100 4BVlLn<9ikWd:gMeYU`lP2
+vCORTEXM0DS
+V1L6Qg_jd`_h[58QfX:Ek]0
+r1
+31
+IYYH1O]JZ7V332S:;;<E<R1
+R4
+R13
+8C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CORTEXM0DS.v
+FC:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CORTEXM0DS.v
+L0 27
+Z19 OL;L;10.1b;51
+Z20 o-work lab -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@c@o@r@t@e@x@m0@d@s
+!i10b 1
+!s85 0
+!s100 o`^j^3T9=H=4:Vb`ghVcf0
+!s90 -reportprogress|300|-work|lab|-vopt|C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CORTEXM0DS.v|
+!s108 1665501390.874000
+!s107 C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/CORTEXM0DS.v|
+vcortexm0ds_logic
+!i10b 1
+V^^SAMV@Xd[IRUm[K>SzZ<3
+r1
+!s85 0
+31
+IoR3M:aXN`DnBb791A[M1M0
+R4
+R13
+8C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0ds_logic.v
+FC:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0ds_logic.v
+L0 27
+R19
+R20
+!s100 GmUKO3[ZcNfR7PJG_W;3^2
+!s90 -reportprogress|300|-work|lab|-vopt|C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0ds_logic.v|
+!s108 1665501390.915000
+!s107 C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/cortexm0ds_logic.v|
+Edetectorbus
+Z21 w1665501379
+R1
+R2
+R3
+R4
+Z22 8C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/DetectorBus.vhd
+Z23 FC:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/DetectorBus.vhd
+l0
+L32
+V5Fk2oSl1`Bikmdc]zbzFX2
+R7
+32
+Z24 !s108 1665501391.042000
+Z25 !s90 -reportprogress|300|-work|lab|-2002|-explicit|-vopt|C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/DetectorBus.vhd|
+Z26 !s107 C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/DetectorBus.vhd|
+R11
+R12
+!s100 j=d3X3`UZXakJKGPV3W=03
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 11 detectorbus 0 22 5Fk2oSl1`Bikmdc]zbzFX2
+32
+l46
+L38
+VhjQ:Le2zZXLgYzn2W;H2h3
+R7
+R24
+R25
+R26
+R11
+R12
+!i10b 1
+!s100 zeZ5d8[V?@f<M9m;DMb<52
+Etb_cortexm0
+R13
+R2
+R3
+R4
+Z27 8C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/tb_cortexm0.vhd
+Z28 FC:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/tb_cortexm0.vhd
+l0
+L4
+VG1:>na`K]gB[O9BD5g^[O0
+R7
+32
+Z29 !s108 1665501391.173000
+Z30 !s90 -reportprogress|300|-work|lab|-2002|-explicit|-vopt|C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/tb_cortexm0.vhd|
+Z31 !s107 C:/Users/vn22984/OneDrive - University of Bristol/Workstation/embeddedSystemLab/Lab1_M0/project/tb_cortexm0.vhd|
+R11
+R12
+!s100 73bTzBdMlTVCEEN>M_HDo3
+!i10b 1
+Atb
+R2
+R3
+DEx4 work 11 tb_cortexm0 0 22 G1:>na`K]gB[O9BD5g^[O0
+32
+l28
+L7
+VMNf5dbU32E?SS100a>_TA2
+R7
+R29
+R30
+R31
+R11
+R12
+!i10b 1
+!s100 C0zOj3H777;5:E2feZO6K1
