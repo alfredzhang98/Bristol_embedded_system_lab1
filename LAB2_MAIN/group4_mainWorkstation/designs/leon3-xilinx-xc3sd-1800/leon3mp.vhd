@@ -216,8 +216,10 @@ begin
   
 ----------------------------------------------------------------------
 --- ARM Cortex-M0 Processor ------------------------------------------
+---  Remember for VHDL you need to declare the components and then instantiate the components
 ----------------------------------------------------------------------
 cm0gen : if CFG_CM0 = 1 generate
+-- instance of your wrapper with correct port mapping that then creates instances of the M0 processor and bridge
   u1 : cm0_wrapper
     port map (clkm,rstn,ahbmi,ahbmo(0));
   end generate;
