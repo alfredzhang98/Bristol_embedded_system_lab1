@@ -133,9 +133,9 @@ architecture rtl of leon3mp is
 ----------------------------------------------------------------------
 component cm0_wrapper is
   port(
-    -- Reset and clock
-    rstn : in std_logic;
+    -- Clock and Reset
     clkm : in std_logic;
+    rstn : in std_logic;
     -- AHB bus signals for master
     ahbmi : in ahb_mst_in_type;
     ahbmo : out ahb_mst_out_type
@@ -264,8 +264,8 @@ begin
 ----------------------------------------------------------------------
 
   -- ARM Cortex-M0 Processor 
-  cm0gen : if CFG_CM0 = 1 generate
-  u1 : cm0_wrapper
+  CM0_GEN : if CFG_CM0 = 1 generate
+  u_com0_wrapper : cm0_wrapper
     port map (clkm,rstn,ahbmi,ahbmo(0));
   end generate;
   

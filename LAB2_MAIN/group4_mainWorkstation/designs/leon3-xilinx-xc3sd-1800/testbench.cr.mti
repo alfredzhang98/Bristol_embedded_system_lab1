@@ -26,17 +26,19 @@
 
 } {} {}} ../../lib/grlib/sparc/sparc.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/sparc/sparc.vhd
 
-} {} {}} ../../lib/techmap/maps/regfile_3p.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd
-
 } {} {}} ../../lib/gaisler/misc/apbps2.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/apbps2.vhd
 
-} {} {}} ../../lib/techmap/unisim/sysmon_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd
+} {} {}} ../../lib/techmap/maps/regfile_3p.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd
 
 } {} {}} ../../lib/gaisler/misc/spictrlx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/spictrlx.vhd
 
-} {} {}} ../../lib/grlib/stdlib/stdio.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/stdlib/stdio.vhd
+} {} {}} ../../lib/techmap/unisim/sysmon_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd
 
-} {} {}} ../../lib/techmap/unisim/ddr_phy_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd
+} {} {}} ../../lib/micron/sdram/components.vhd {2 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd
+###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd(259): end;
+
+** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd(259): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
+
 
 } {} {}} ../../lib/gaisler/uart/libdcom.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/libdcom.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/libdcom.vhd(169): end;
@@ -44,11 +46,9 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/libdcom.vhd(169): (vcom-2063) Complete design-unit 'libdcom' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/micron/sdram/components.vhd {2 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd
-###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd(259): end;
+} {} {}} ../../lib/techmap/unisim/ddr_phy_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd
 
-** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd(259): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
-
+} {} {}} ../../lib/grlib/stdlib/stdio.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/stdlib/stdio.vhd
 
 } {} {}} ../../lib/gaisler/jtag/jtagtst.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/jtagtst.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/jtagtst.vhd(103): end;  
@@ -60,11 +60,11 @@
 
 } {} {}} ../../lib/techmap/maps/techmult.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd
 
-} {} {}} ../../lib/techmap/maps/syncram64.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd
+} {} {}} ../../lib/gaisler/uart/ahbuart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/ahbuart.vhd
 
 } {} {}} ../../lib/techmap/maps/spictrl_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd
 
-} {} {}} ../../lib/gaisler/uart/ahbuart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/ahbuart.vhd
+} {} {}} ../../lib/techmap/maps/syncram64.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd
 
 } {} {}} ../../lib/gaisler/sim/sram.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sram.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sram.vhd(50): end;     
@@ -72,23 +72,21 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sram.vhd(50): (vcom-2063) Complete design-unit 'sram' is inside synthesis_off/translate_off pragma.
 
 
+} {} {}} ../../lib/techmap/maps/allpads.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd
+
 } {} {}} ../../lib/tech/dware/simprims/DWpackages.vhd {2 {vcom -work dware -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/tech/dware/simprims/DWpackages.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/tech/dware/simprims/DWpackages.vhd(31): end ;
 
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/tech/dware/simprims/DWpackages.vhd(31): (vcom-2063) Complete design-unit 'DW_mult_pipe' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/techmap/maps/allpads.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd
+} {} {}} ../../lib/techmap/maps/scanreg.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd
 
 } {} {}} ../../lib/gaisler/uart/dcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/dcom.vhd
-
-} {} {}} ../../lib/techmap/maps/scanreg.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd
 
 } {} {}} ../../lib/gaisler/ddr/ddr2spax_ahb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddr2spax_ahb.vhd
 
 } {} {}} ../../lib/grlib/amba/defmst.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/amba/defmst.vhd
-
-} {} {}} ../../lib/cypress/ssram/cy7c1380d.vhd {1 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/cypress/ssram/cy7c1380d.vhd
 
 } {} {}} ../../lib/cypress/ssram/components.vhd {2 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/cypress/ssram/components.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/cypress/ssram/components.vhd(161): end;
@@ -96,19 +94,21 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/cypress/ssram/components.vhd(161): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/gaisler/jtag/ahbjtag_bsd.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/ahbjtag_bsd.vhd
+} {} {}} ../../lib/cypress/ssram/cy7c1380d.vhd {1 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/cypress/ssram/cy7c1380d.vhd
 
 } {} {}} ../../lib/gaisler/misc/ahbram.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbram.vhd
 
-} {} {}} ../../lib/techmap/maps/system_monitor.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd
+} {} {}} ../../lib/gaisler/jtag/ahbjtag_bsd.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/ahbjtag_bsd.vhd
 
 } {} {}} ../../lib/eth/core/grethc.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/eth/core/grethc.vhd
+
+} {} {}} ../../lib/techmap/maps/system_monitor.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd
 
 } {} {}} ../../lib/techmap/maps/ringosc.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd
 
 } {} {}} ../../lib/eth/wrapper/greth_gbit_gen.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/eth/wrapper/greth_gbit_gen.vhd
 
-} {} {}} ../../lib/techmap/inferred/mul_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd
+} {} {}} ../../lib/techmap/maps/inpad_ds.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd
 
 } {} {}} ../../lib/tech/unisim/ise/unisim_VPKG.vhd {2 {vcom -work unisim -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/tech/unisim/ise/unisim_VPKG.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/tech/unisim/ise/unisim_VPKG.vhd(104): end;
@@ -116,13 +116,13 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/tech/unisim/ise/unisim_VPKG.vhd(104): (vcom-2063) Complete design-unit 'vpkg' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/techmap/maps/inpad_ds.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd
+} {} {}} ../../lib/techmap/inferred/mul_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd
 
 } {} {}} ../../lib/gaisler/jtag/ahbjtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/ahbjtag.vhd
 
-} {} {}} ../../lib/hynix/ddr2/HY5PS121621F.vhd {1 {vcom -work hynix -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/hynix/ddr2/HY5PS121621F.vhd
-
 } {} {}} ../../lib/techmap/maps/inpad_ddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd
+
+} {} {}} ../../lib/hynix/ddr2/HY5PS121621F.vhd {1 {vcom -work hynix -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/hynix/ddr2/HY5PS121621F.vhd
 
 } {} {}} ../../lib/work/debug/debug.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd
 
@@ -452,17 +452,17 @@
 
 } {} {}} ../../lib/gaisler/leon3/tbufmem.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/tbufmem.vhd
 
-} {} {}} ../../lib/gaisler/jtag/jtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/jtag.vhd
-
 } {} {}} ../../lib/techmap/maps/lvds_combo.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd
 
-} {} {}} ../../lib/techmap/maps/techbuf.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd
+} {} {}} ../../lib/gaisler/jtag/jtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/jtag.vhd
 
-} {} {}} ../../lib/techmap/maps/nandtree.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd
+} {} {}} ../../lib/gaisler/misc/ahbmst2.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbmst2.vhd
 
 } {} {}} ../../lib/gaisler/memctrl/sdmctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/memctrl/sdmctrl.vhd
 
-} {} {}} ../../lib/gaisler/misc/ahbmst2.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbmst2.vhd
+} {} {}} ../../lib/techmap/maps/nandtree.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd
+
+} {} {}} ../../lib/techmap/maps/techbuf.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd
 
 } {} {}} ../../lib/synplify/sim/synplify.vhd {2 {vcom -work synplify -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/synplify/sim/synplify.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/synplify/sim/synplify.vhd(29): end prim_counter;
@@ -472,65 +472,67 @@
 
 } {} {}} ../../lib/techmap/maps/inpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd
 
-} {} {}} ../../lib/gaisler/sim/spi_flash.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/spi_flash.vhd
-
 } {} {}} ../../lib/gaisler/uart/dcom_uart.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/uart/dcom_uart.vhd
+
+} {} {}} ../../lib/gaisler/sim/spi_flash.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/spi_flash.vhd
 
 } {} {}} ../../lib/gaisler/leon3/mmutlbcam.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/mmutlbcam.vhd
 
-} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt {W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\cm0_wrapper.vhd}
-
-} {} {}} ../../lib/techmap/unisim/clkgen_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd
+} {} {}} ../../lib/gaisler/misc/misc.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/misc.vhd
 
 } {} {}} ../../lib/techmap/maps/grspwc_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd
 
-} {} {}} ../../lib/gaisler/misc/misc.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/misc.vhd
+} {} {}} ../../lib/techmap/unisim/clkgen_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd
 
 } {} {}} ../../lib/gaisler/misc/ahb_mst_iface.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahb_mst_iface.vhd
 
-} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
-
-} {} {}} ../../lib/gsi/ssram/core_burst.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
-
-} {} {}} ../../lib/gaisler/jtag/libjtagcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/libjtagcom.vhd
+} {} {}} ../../lib/techmap/inferred/ddr_phy_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd
 
 } {} {}} ../../lib/techmap/unisim/grusbhc_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd
 
-} {} {}} ../../lib/techmap/inferred/ddr_phy_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd
+} {} {}} ../../lib/gaisler/jtag/libjtagcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/libjtagcom.vhd
+
+} {} {}} ../../lib/gsi/ssram/core_burst.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
+
+} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
 
 } {} {}} ../../lib/techmap/maps/allmul.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd
 
-} {} {}} ../../lib/gaisler/jtag/bscanregsbd.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/bscanregsbd.vhd
+} {} {}} ../../lib/gaisler/misc/gptimer.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/gptimer.vhd
 
 } {} {}} ../../lib/gaisler/leon3/mmu_icache.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/mmu_icache.vhd
 
-} {} {}} ../../lib/gaisler/misc/gptimer.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/gptimer.vhd
-
-} {} {}} ../../lib/gsi/ssram/g880e18bt.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd
+} {} {}} ../../lib/gaisler/jtag/bscanregsbd.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/bscanregsbd.vhd
 
 } {} {}} ../../lib/gaisler/leon3/leon3sh.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/leon3sh.vhd
 
-} {} {}} ../../lib/techmap/unisim/ddr_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd
+} {} {}} ../../lib/gsi/ssram/g880e18bt.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd
 
-} {} {}} ../../lib/gaisler/leon3/grfpushwx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/grfpushwx.vhd
+} {} {}} ../../lib/techmap/unisim/ddr_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd
 
 } {} {}} ../../lib/gaisler/misc/i2cmst_gen.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/i2cmst_gen.vhd
 
+} {} {}} ../../lib/gaisler/leon3/grfpushwx.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/grfpushwx.vhd
+
 } {} {}} ../../lib/eth/core/eth_edcl_ahb_mst.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/eth/core/eth_edcl_ahb_mst.vhd
 
-} {} {}} ../../lib/techmap/inferred/ddr_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd
-
 } {} {}} ../../lib/gaisler/leon3/grfpwxsh.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/grfpwxsh.vhd
+
+} {} {}} ../../lib/techmap/inferred/ddr_inferred.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd
 
 } {} {}} ../../lib/techmap/unisim/spictrl_unisim_comb0.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd
 
 } {} {}} ../../lib/gaisler/sim/ata_device.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/ata_device.vhd
 
-} {} {}} ../../lib/gaisler/ddr/ddrspa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddrspa.vhd
-
 } {} {}} ../../lib/gaisler/misc/charrom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/charrom.vhd
 
+} {} {}} ../../lib/gaisler/ddr/ddrspa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddrspa.vhd
+
 } {} {}} ../../lib/techmap/maps/tap.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/spimctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/memctrl/spimctrl.vhd
+
+} {} {}} ../../lib/gaisler/memctrl/sdctrl64.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/memctrl/sdctrl64.vhd
 
 } {} {}} ../../lib/gaisler/sim/sim.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sim.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sim.vhd(353): end;
@@ -538,17 +540,9 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sim.vhd(353): (vcom-2063) Complete design-unit 'sim' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/gaisler/memctrl/sdctrl64.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/memctrl/sdctrl64.vhd
-
-} {} {}} ../../lib/gaisler/memctrl/spimctrl.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/memctrl/spimctrl.vhd
-
-} {} {}} ../../lib/techmap/maps/allmem.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
-
 } {} {}} ../../lib/techmap/maps/syncram128.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd
 
-} {} {}} config.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/config.vhd
-
-} {} {}} ../../lib/gaisler/ddr/ddrsp32a.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddrsp32a.vhd
+} {} {}} ../../lib/techmap/maps/allmem.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
 
 } {} {}} ../../lib/grlib/sparc/cpu_disas.vhd {2 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/sparc/cpu_disas.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/sparc/cpu_disas.vhd(50): end;
@@ -556,19 +550,21 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/sparc/cpu_disas.vhd(50): (vcom-2063) Complete design-unit 'cpu_disas' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/techmap/maps/allddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd
+} {} {}} ../../lib/gaisler/ddr/ddrsp32a.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddrsp32a.vhd
+
+} {} {}} config.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/config.vhd
 
 } {} {}} ../../lib/techmap/maps/ddrphy.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd
 
-} {} {}} ahbrom.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+} {} {}} ../../lib/techmap/maps/allddr.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd
 
-} {} {}} ../../lib/techmap/maps/allclkgen.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd
+} {} {}} ahbrom.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
 
 } {} {}} ../../lib/gaisler/misc/wild2ahb.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/wild2ahb.vhd
 
-} {} {}} ../../lib/gaisler/ddr/ddr2spa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddr2spa.vhd
+} {} {}} ../../lib/techmap/maps/allclkgen.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd
 
-} {} {}} leon3mp.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+} {} {}} ../../lib/gaisler/ddr/ddr2spa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddr2spa.vhd
 
 } {} {}} ../../lib/techmap/maps/cpu_disas_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd
 
@@ -580,13 +576,15 @@
 
 } {} {}} ../../lib/grlib/amba/dma2ahb.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/amba/dma2ahb.vhd
 
+} {} {}} ../../lib/grlib/amba/dma2ahb_pkg.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/amba/dma2ahb_pkg.vhd
+
 } {} {}} ../../lib/gaisler/sim/phy.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/phy.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/phy.vhd(68): end;
 
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/phy.vhd(68): (vcom-2063) Complete design-unit 'phy' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/grlib/amba/dma2ahb_pkg.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/amba/dma2ahb_pkg.vhd
+} {} {}} ../../lib/gaisler/misc/ahbdpram.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbdpram.vhd
 
 } {} {}} ../../lib/gaisler/sim/sram16.vhd {2 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sram16.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sram16.vhd(52): end;     
@@ -594,21 +592,19 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/sim/sram16.vhd(52): (vcom-2063) Complete design-unit 'sram16' is inside synthesis_off/translate_off pragma.
 
 
-} {} {}} ../../lib/gaisler/misc/ahbdpram.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbdpram.vhd
+} {} {}} ../../lib/techmap/gencomp/gencomp.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd
 
 } {} {}} ../../lib/techmap/unisim/memory_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd
 
-} {} {}} ../../lib/techmap/gencomp/gencomp.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd
-
 } {} {}} ../../lib/gaisler/misc/grsysmon.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/grsysmon.vhd
-
-} {} {}} ../../lib/micron/ddr/mt46v16m16.vhd {1 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd
 
 } {} {}} ../../lib/gaisler/leon3/libmmu.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/libmmu.vhd
 
-} {} {}} ../../lib/techmap/maps/clkgen.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd
+} {} {}} ../../lib/micron/ddr/mt46v16m16.vhd {1 {vcom -work micron -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd
 
 } {} {}} ../../lib/gaisler/leon3/mmuiface.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/mmuiface.vhd
+
+} {} {}} ../../lib/techmap/maps/clkgen.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd
 
 } {} {}} ../../lib/techmap/maps/clkand.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd
 
@@ -616,8 +612,8 @@
 
 } {} {}} ../../lib/gaisler/leon3/cachemem.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/cachemem.vhd
 
-} {} {}} ../../lib/synplify/sim/synattr.vhd {1 {vcom -work synplify -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/synplify/sim/synattr.vhd
-
 } {} {}} ../../lib/techmap/maps/syncram128bw.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd
+
+} {} {}} ../../lib/synplify/sim/synattr.vhd {1 {vcom -work synplify -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/synplify/sim/synattr.vhd
 
 } {} {}}

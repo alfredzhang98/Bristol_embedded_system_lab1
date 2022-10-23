@@ -133,12 +133,12 @@ architecture rtl of leon3mp is
 ----------------------------------------------------------------------
 component cm0_wrapper is
   port(
-    -- Reset and clock
-    rstn : in std_logic;
+    -- Clock and Reset
     clkm : in std_logic;
+    rstn : in std_logic;
     -- AHB bus signals for master
     ahbmi : in ahb_mst_in_type;
-    ahbmo : out ahb_mst_out_type;
+    ahbmo : out ahb_mst_out_type
 );
 end component;
 

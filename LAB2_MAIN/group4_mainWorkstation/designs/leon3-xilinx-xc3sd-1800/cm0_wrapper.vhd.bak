@@ -26,12 +26,12 @@ use UNISIM.VComponents.all;
 -- The top interface for the AHB bridge
 entity cm0_wrapper is
   port(
-    -- Reset and clock
-    rstn : in std_logic;
+    -- Clock and Reset
     clkm : in std_logic;
+    rstn : in std_logic;
     -- AHB bus signals for master
     ahbmi : in ahb_mst_in_type;
-    ahbmo : out ahb_mst_out_type;
+    ahbmo : out ahb_mst_out_type
     -- LED Test signal
     led_group04 : out std_logic
   );
@@ -170,7 +170,7 @@ begin
   u_detectorbus : detectorbus
   port map(
     Clock => clkm,
-    DataBus => HADDR,
+    DataBus => HRDATA,
     Detector => led_group04
   );
   
