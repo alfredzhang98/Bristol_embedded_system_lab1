@@ -1,0 +1,95 @@
+Modifying modelsim.ini
+
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Timing
+-- Loading package VITAL_Primitives
+-- Loading package VPKG
+-- Compiling entity GTPE2_CHANNEL
+-- Compiling architecture GTPE2_CHANNEL_V of GTPE2_CHANNEL
+-- Compiling entity GTPE2_COMMON
+-- Compiling architecture GTPE2_COMMON_V of GTPE2_COMMON
+-- Compiling entity GTXE1
+-- Compiling architecture GTXE1_V of GTXE1
+-- Compiling entity PCIE_2_0
+-- Compiling architecture PCIE_2_0_V of PCIE_2_0
+-- Compiling entity TEMAC_SINGLE
+-- Compiling architecture TEMAC_SINGLE_V of TEMAC_SINGLE
+-- Compiling entity GTXE2_CHANNEL
+-- Compiling architecture GTXE2_CHANNEL_V of GTXE2_CHANNEL
+-- Compiling entity GTXE2_COMMON
+-- Compiling architecture GTXE2_COMMON_V of GTXE2_COMMON
+-- Compiling entity IN_FIFO
+-- Compiling architecture IN_FIFO_V of IN_FIFO
+-- Compiling entity ISERDESE2
+-- Compiling architecture ISERDESE2_V of ISERDESE2
+-- Compiling entity OSERDESE2
+-- Compiling architecture OSERDESE2_V of OSERDESE2
+-- Compiling entity OUT_FIFO
+-- Compiling architecture OUT_FIFO_V of OUT_FIFO
+-- Compiling entity PCIE_2_1
+-- Compiling architecture PCIE_2_1_V of PCIE_2_1
+-- Compiling entity PHASER_IN
+-- Compiling architecture PHASER_IN_V of PHASER_IN
+-- Compiling entity PHASER_IN_PHY
+-- Compiling architecture PHASER_IN_PHY_V of PHASER_IN_PHY
+-- Compiling entity PHASER_OUT
+-- Compiling architecture PHASER_OUT_V of PHASER_OUT
+-- Compiling entity PHASER_OUT_PHY
+-- Compiling architecture PHASER_OUT_PHY_V of PHASER_OUT_PHY
+-- Compiling entity PHY_CONTROL
+-- Compiling architecture PHY_CONTROL_V of PHY_CONTROL
+-- Compiling entity GTP_DUAL
+-- Compiling architecture GTP_DUAL_V of GTP_DUAL
+-- Compiling entity PCIE_EP
+-- Compiling architecture PCIE_EP_V of PCIE_EP
+-- Compiling entity PCIE_INTERNAL_1_1
+-- Compiling architecture PCIE_INTERNAL_1_1_V of PCIE_INTERNAL_1_1
+-- Compiling entity TEMAC
+-- Compiling architecture TEMAC_V of TEMAC
+-- Compiling entity GTPA1_DUAL
+-- Compiling architecture GTPA1_DUAL_V of GTPA1_DUAL
+-- Compiling entity MCB
+-- Compiling architecture MCB_V of MCB
+-- Loading package NUMERIC_STD
+-- Compiling entity PCIE_A1
+-- Compiling architecture PCIE_A1_V of PCIE_A1
+-- Compiling entity JTAGPPC
+-- Compiling architecture JTAGPPC_v of JTAGPPC
+-- Compiling entity EMAC
+-- Compiling architecture EMAC_V of EMAC
+-- Compiling entity GT11
+-- Compiling architecture GT11_V of GT11
+-- Compiling entity GT11CLK
+-- Compiling architecture GT11CLK_V of GT11CLK
+-- Compiling entity GT11CLK_MGT
+-- Compiling architecture GT11CLK_MGT_V of GT11CLK_MGT
+-- Compiling entity GT11_CUSTOM
+-- Compiling architecture GT11_CUSTOM_V of GT11_CUSTOM
+-- Compiling entity GT11_DUAL
+-- Compiling architecture GT11_DUAL_V of GT11_DUAL
+-- Compiling entity fpga_startup_virtex4
+-- Compiling architecture fpga_startup_virtex4_v of fpga_startup_virtex4
+-- Compiling entity PPC405_ADV
+-- Compiling architecture PPC405_ADV_V of PPC405_ADV
+-- Compiling entity GTX_DUAL
+-- Compiling architecture GTX_DUAL_V of GTX_DUAL
+-- Compiling entity JTAGPPC440
+-- Compiling architecture JTAGPPC440_v of JTAGPPC440
+-- Compiling entity PPC440
+-- Compiling architecture PPC440_V of PPC440
+-- Compiling entity GTHE1_QUAD
+-- Compiling architecture GTHE1_QUAD_V of GTHE1_QUAD
+-- Compiling entity GTHE2_CHANNEL
+-- Compiling architecture GTHE2_CHANNEL_V of GTHE2_CHANNEL
+-- Compiling entity GTHE2_COMMON
+-- Compiling architecture GTHE2_COMMON_V of GTHE2_COMMON
+-- Compiling entity PCIE_3_0
+-- Compiling architecture PCIE_3_0_V of PCIE_3_0
+
+Modifying modelsim.ini
+

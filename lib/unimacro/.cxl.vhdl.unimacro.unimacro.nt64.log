@@ -1,0 +1,38 @@
+Modifying modelsim.ini
+
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package VCOMPONENTS
+-- Compiling entity ADDMACC_MACRO
+-- Compiling architecture addmacc of ADDMACC_MACRO
+-- Compiling entity ADDSUB_MACRO
+-- Compiling architecture addsub of ADDSUB_MACRO
+-- Compiling entity BRAM_SDP_MACRO
+-- Compiling architecture bram_V of BRAM_SDP_MACRO
+-- Compiling entity BRAM_SINGLE_MACRO
+-- Compiling architecture bram_V of BRAM_SINGLE_MACRO
+-- Compiling entity BRAM_TDP_MACRO
+-- Compiling architecture bram_V of BRAM_TDP_MACRO
+-- Compiling entity COUNTER_LOAD_MACRO
+-- Compiling architecture counter of COUNTER_LOAD_MACRO
+-- Compiling entity COUNTER_TC_MACRO
+-- Compiling architecture count of COUNTER_TC_MACRO
+-- Compiling entity EQ_COMPARE_MACRO
+-- Compiling architecture compare of EQ_COMPARE_MACRO
+-- Compiling entity FIFO_DUALCLOCK_MACRO
+-- Compiling architecture fifo_V of FIFO_DUALCLOCK_MACRO
+-- Compiling entity FIFO_SYNC_MACRO
+-- Compiling architecture fifo_V of FIFO_SYNC_MACRO
+-- Compiling entity MACC_MACRO
+-- Compiling architecture macc of MACC_MACRO
+-- Compiling entity MULT_MACRO
+-- Compiling architecture mult of MULT_MACRO
+-- Compiling package VCOMPONENTS
+
+Modifying modelsim.ini
+

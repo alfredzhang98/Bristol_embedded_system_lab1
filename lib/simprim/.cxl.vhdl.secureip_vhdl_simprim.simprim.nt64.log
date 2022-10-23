@@ -1,0 +1,83 @@
+Modifying modelsim.ini
+
+Model Technology ModelSim SE-64 vcom 10.1b Compiler 2012.04 Apr 26 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package VITAL_Timing
+-- Loading package VCOMPONENTS
+-- Loading package VITAL_Primitives
+-- Loading package VPACKAGE
+-- Compiling entity X_GTPE2_CHANNEL
+-- Compiling architecture X_GTPE2_CHANNEL_V of X_GTPE2_CHANNEL
+-- Compiling entity X_GTPE2_COMMON
+-- Compiling architecture X_GTPE2_COMMON_V of X_GTPE2_COMMON
+-- Compiling entity X_GTXE1
+-- Compiling architecture X_GTXE1_V of X_GTXE1
+-- Compiling entity X_PCIE_2_0
+-- Compiling architecture X_PCIE_2_0_V of X_PCIE_2_0
+-- Compiling entity X_TEMAC_SINGLE
+-- Compiling architecture X_TEMAC_SINGLE_V of X_TEMAC_SINGLE
+-- Compiling entity X_GTXE2_CHANNEL
+-- Compiling architecture X_GTXE2_CHANNEL_V of X_GTXE2_CHANNEL
+-- Compiling entity X_GTXE2_COMMON
+-- Compiling architecture X_GTXE2_COMMON_V of X_GTXE2_COMMON
+-- Compiling entity X_IN_FIFO
+-- Compiling architecture X_IN_FIFO_V of X_IN_FIFO
+-- Compiling entity X_ISERDESE2
+-- Compiling architecture X_ISERDESE2_V of X_ISERDESE2
+-- Compiling entity X_OSERDESE2
+-- Compiling architecture X_OSERDESE2_V of X_OSERDESE2
+-- Compiling entity X_OUT_FIFO
+-- Compiling architecture X_OUT_FIFO_V of X_OUT_FIFO
+-- Compiling entity X_PCIE_2_1
+-- Compiling architecture X_PCIE_2_1_V of X_PCIE_2_1
+-- Compiling entity X_PHASER_IN
+-- Compiling architecture X_PHASER_IN_V of X_PHASER_IN
+-- Compiling entity X_PHASER_IN_PHY
+-- Compiling architecture X_PHASER_IN_PHY_V of X_PHASER_IN_PHY
+-- Compiling entity X_PHASER_OUT
+-- Compiling architecture X_PHASER_OUT_V of X_PHASER_OUT
+-- Compiling entity X_PHASER_OUT_PHY
+-- Compiling architecture X_PHASER_OUT_PHY_V of X_PHASER_OUT_PHY
+-- Compiling entity X_PHY_CONTROL
+-- Compiling architecture X_PHY_CONTROL_V of X_PHY_CONTROL
+-- Compiling entity X_GTP_DUAL
+-- Compiling architecture X_GTP_DUAL_V of X_GTP_DUAL
+-- Compiling entity X_PCIE_INTERNAL_1_1
+-- Compiling architecture X_PCIE_INTERNAL_1_1_V of X_PCIE_INTERNAL_1_1
+-- Compiling entity X_TEMAC
+-- Compiling architecture X_TEMAC_V of X_TEMAC
+-- Compiling entity X_GTPA1_DUAL
+-- Compiling architecture X_GTPA1_DUAL_V of X_GTPA1_DUAL
+-- Compiling entity X_MCB
+-- Compiling architecture X_MCB_V of X_MCB
+-- Loading package NUMERIC_STD
+-- Compiling entity X_PCIE_A1
+-- Compiling architecture X_PCIE_A1_V of X_PCIE_A1
+-- Compiling entity X_EMAC
+-- Compiling architecture X_EMAC_V of X_EMAC
+-- Compiling entity X_GT11
+-- Compiling architecture X_GT11_V of X_GT11
+-- Compiling entity X_GT11CLK
+-- Compiling architecture X_GT11CLK_V of X_GT11CLK
+-- Compiling entity fpga_startup_virtex4
+-- Compiling architecture fpga_startup_virtex4_v of fpga_startup_virtex4
+-- Compiling entity X_PPC405_ADV
+-- Compiling architecture X_PPC405_ADV_V of X_PPC405_ADV
+-- Compiling entity X_GTX_DUAL
+-- Compiling architecture X_GTX_DUAL_V of X_GTX_DUAL
+-- Compiling entity X_PPC440
+-- Compiling architecture X_PPC440_V of X_PPC440
+-- Compiling entity X_GTHE1_QUAD
+-- Compiling architecture X_GTHE1_QUAD_V of X_GTHE1_QUAD
+-- Compiling entity X_GTHE2_CHANNEL
+-- Compiling architecture X_GTHE2_CHANNEL_V of X_GTHE2_CHANNEL
+-- Compiling entity X_GTHE2_COMMON
+-- Compiling architecture X_GTHE2_COMMON_V of X_GTHE2_COMMON
+-- Compiling entity X_PCIE_3_0
+-- Compiling architecture X_PCIE_3_0_V of X_PCIE_3_0
+
+Modifying modelsim.ini
+

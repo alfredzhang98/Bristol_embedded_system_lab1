@@ -1,0 +1,17 @@
+CxlResult:C:\Xilinx\14.1\ISE_DS\ISE\vhdl\mti_se\10.1b\nt64/xilinxcorelib/.cxl.vhdl.xilinxcorelib.xilinxcorelib.nt64.rpt =
+	ExecutionPlatform = nt64 ,
+	SourceLibrary = xilinxcorelib ,
+	SourcePath = C:/Xilinx/14.1/ISE_DS/ISE/vhdl/src/XilinxCoreLib ,
+	Simulator = mti_se ,
+	SimulatorVersion = 10.1b ,
+	CompiledLibrary = xilinxcorelib ,
+	CompiledPath = C:\Xilinx\14.1\ISE_DS\ISE\vhdl\mti_se\10.1b\nt64/xilinxcorelib ,
+	Timestamp = Wed Aug 08 15:11:04 2012 ,
+	Time = 1344435064 ,
+	Language = vhdl ,
+	XilinxBuildNumber = P.15xf ,
+	XilinxVersion = 14.1 ,
+	LogFile = C:\Xilinx\14.1\ISE_DS\ISE\vhdl\mti_se\10.1b\nt64/xilinxcorelib/.cxl.vhdl.xilinxcorelib.xilinxcorelib.nt64.log ,
+	NumOfErrors = 0 ,
+	NumOfWarnings = 350 ,
+
