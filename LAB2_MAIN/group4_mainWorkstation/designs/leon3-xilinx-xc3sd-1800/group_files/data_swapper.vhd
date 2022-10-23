@@ -55,6 +55,7 @@
 --    hindex  	: integer range 0 to NAHBMST-1;	 	-- diagnostic use only
 --  end record;
 
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
@@ -67,94 +68,38 @@ use gaisler.misc.all;
 library UNISIM;
 use UNISIM.VComponents.all;
 
--- The state machine
-entity state_machine is
+
+-- The data_wapper
+entity data_swapper is
   port(
-    -- Reset and clock
-    clkm : in std_logic;
-    rstn : in std_logic;
-    -- State machine (M0)
-    HADDR : in std_logic_vector (31 downto 0);
-    HSIZE : in std_logic_vector (2 downto 0);
-    HTRANS : in std_logic_vector (1 downto 0);
-    HWDATA : in std_logic_vector (31 downto 0);
-    HWRITE : in std_logic;
-    HREADY : out std_logic;
-    -- State machine (Internal)
-		dmai : out ahb_dma_in_type;
-		dmao : in ahb_dma_out_type
+    HRDATA : out std_logic_vector (31 downto 0);
+    dmao : in ahb_dma_out_type
   );
 end;
-
-
-
 ----------------------------------------------------------------------
-architecture structural of state_machine is
+architecture structural of data_swapper is
 
-  type state_ahb_bridge is (idle, instr_fetch);
-  signal present_state : state_ahb_bridge;
-  signal next_state : state_ahb_bridge;  
+signal get_rdata : std_logic_vector (31 downto 0);
+
+begin
+  swapper:
+  process(dmao)
   begin
-    
-  -- init the dmai info (The out info)
-  dmai.address <= HADDR;
-  dmai.wdata <= HWDATA;
-  dmai.start <= '0';
-  dmai.burst <= '0';
-  dmai.write <= HWRITE;
-  dmai.busy <= '0';
-  dmai.irq <= '0';
-  dmai.size <= HSIZE; 
-  
-  
-  reg_sate:
-  process (rstn, clkm)
-  begin
-    -- reset to low level come to the idle state
-    -- normal work status is high level
-    if rstn = '0' then
-      present_state <= idle;
-    elsif rising_edge(clkm) then
-      present_state <= next_state;
-    end if;
+    get_rdata <= dmao.rdata;
+    HRDATA (31 downto 24) <= get_rdata (7 downto 0);
+    HRDATA (23 downto 16) <= get_rdata (15 downto 8);
+    HRDATA (15 downto 8) <= get_rdata (23 downto 16);
+    HRDATA (7 downto 0) <= get_rdata (31 downto 24);
   end process;
+
+--  process(get_rdata)
+--  begin
+--    HRDATA (31 downto 24) <= get_rdata (7 downto 0);
+--    HRDATA (23 downto 16) <= get_rdata (15 downto 8);
+--    HRDATA (15 downto 8) <= get_rdata (23 downto 16);
+--    HRDATA (7 downto 0) <= get_rdata (31 downto 24);
+--  end process;
+ 
   
-  com_state:
-  process (present_state, HTRANS, dmao)
-  begin
-    case present_state is
-      -- idle state
-      when idle =>
-      		HREADY <= '1';
-		    dmai.start <= '0';
-		    -- the reason to change
-    		  if HTRANS = "10" then
-		      dmai.start <= '1';
-		      next_state <= instr_fetch;
-		    else 
-		      next_state <= idle;
-		    end if;
-      -- instr_fetch state
-      when instr_fetch =>
-		    HREADY <= '0';
-		    dmai.start <= '0';
-	      -- the reason to change
-     		 if dmao.ready = '1' then
- 		 		  dmai.start <= '1';
-		      next_state <= idle;
-		    else 
-		      next_state <= instr_fetch;
-		    end if;
-		end case;
-  end process;
 end structural;
-		     
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
