@@ -1,0 +1,8 @@
+[Device]
+Family = ;
+PartNumber = XC3SD1800A-4fg676;
+Package = ;
+PartType = XC3SD1800A;
+Speed = -4;
+Operating_condition = COM;
+Status = Production;

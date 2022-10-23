@@ -1,0 +1,62 @@
+library verilog;
+use verilog.vl_types.all;
+entity mobile_ddr is
+    generic(
+        tAC3_max        : real    := 5.000000;
+        tAC2_max        : real    := 6.500000;
+        tCK             : real    := 5.000000;
+        tCK3_min        : real    := 5.000000;
+        tCK2_min        : real    := 12.000000;
+        tDQSQ           : real    := 0.400000;
+        tHZ3_max        : real    := 5.000000;
+        tHZ2_max        : real    := 6.500000;
+        tRAS            : real    := 40.000000;
+        tRC             : real    := 55.000000;
+        tRCD            : real    := 15.000000;
+        tRP             : real    := 15.000000;
+        tRRD            : real    := 10.000000;
+        tXP             : real    := 10.000000;
+        tLZ             : real    := 1.000000;
+        tMRD            : real    := 2.000000;
+        tRFC            : real    := 97.500000;
+        tSRC            : real    := 1.000000;
+        tSRR            : real    := 2.000000;
+        tWR             : real    := 15.000000;
+        ADDR_BITS       : integer := 13;
+        ROW_BITS        : integer := 13;
+        DQ_BITS         : integer := 16;
+        DQS_BITS        : integer := 2;
+        DM_BITS         : integer := 2;
+        COL_BITS        : integer := 10;
+        BA_BITS         : integer := 2;
+        part_mem_bits   : integer := 10;
+        part_size       : integer := 512;
+        tCH_MAX         : real    := 0.550000;
+        tCH_MIN         : real    := 0.450000;
+        tCL_MAX         : real    := 0.550000;
+        tCL_MIN         : real    := 0.450000;
+        tCKE            : real    := 2.000000;
+        CL_MAX          : real    := 3.000000;
+        begin_init      : integer := 0;
+        cke_init        : integer := 1;
+        prech_init      : integer := 2;
+        begin_mode_init : integer := 3;
+        mode_init       : integer := 4;
+        ext_mode_init   : integer := 5;
+        mode_done_init  : integer := 6
+    );
+    port(
+        Dq              : inout  vl_logic_vector;
+        Dqs             : inout  vl_logic_vector;
+        Addr            : in     vl_logic_vector;
+        Ba              : in     vl_logic_vector(1 downto 0);
+        Clk             : in     vl_logic;
+        Clk_n           : in     vl_logic;
+        Cke             : in     vl_logic;
+        Cs_n            : in     vl_logic;
+        Ras_n           : in     vl_logic;
+        Cas_n           : in     vl_logic;
+        We_n            : in     vl_logic;
+        Dm              : in     vl_logic_vector
+    );
+end mobile_ddr;

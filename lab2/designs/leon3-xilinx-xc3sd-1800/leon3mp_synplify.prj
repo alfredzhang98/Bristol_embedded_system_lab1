@@ -1,0 +1,31 @@
+source compile.synp
+add_file -vhdl -lib work config.vhd
+add_file -vhdl -lib work ahbrom.vhd
+add_file -vhdl -lib work leon3mp.vhd
+add_file -constraint  ../../boards/xilinx-spa3-dsp1800a/default.sdc
+
+#implementation: "synplify"
+impl -add synplify
+
+#device options
+set_option -technology Spartan-3A-DSP
+set_option -part XC3SD1800A
+set_option -speed_grade -4
+
+#compilation/mapping options
+set_option -use_fsm_explorer 0
+set_option -write_vhdl 1
+#set_option -disable_io_insertion 0
+
+#map options
+set_option -frequency 140
+
+set_option -top_module leon3mp
+
+#set result format/file last
+project -result_file "synplify/leon3mp.edf"
+
+#implementation attributes
+set_option -package fg676
+set_option -pipe 1; set_option -retiming 1; set_option -write_apr_constraint 0
+impl -active "synplify"

@@ -1,0 +1,787 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Eahb_bridge
+Z1 w1635707576
+Z2 DPx6 unisim 11 vcomponents 0 22 hMjo2zK]ScI_H][A^HPNj0
+Z3 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
+Z4 DPx7 gaisler 4 misc 0 22 d6SO014Ae7CN46I_AT_L73
+Z5 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z6 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z7 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z8 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z9 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z10 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z11 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z12 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z13 dC:\Users\AW\Desktop\lab2\designs\leon3-xilinx-xc3sd-1800
+Z14 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd
+Z15 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd
+l0
+L12
+V2IFY]4<eD8:]5c;<hD>C40
+Z16 OL;C;10.1c;51
+31
+Z17 !s108 1635968614.436000
+Z18 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd|
+Z19 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd|
+Z20 o-work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5
+Z21 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 zaKek]R?Xf`Qa@:VjILC83
+!i10b 1
+Astructural
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+DEx4 work 10 ahb_bridge 0 22 2IFY]4<eD8:]5c;<hD>C40
+l72
+L30
+VE=Y:dQ6ifFJKTF6T=E6f=2
+R16
+31
+R17
+R18
+R19
+R20
+R21
+!s100 NHfka1[j9T69f1YcC<L^Z3
+!i10b 1
+Eahbmst
+Z22 w1635680736
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+R13
+Z23 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd
+Z24 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd
+l0
+L10
+VPoezZLV4Y2B_Fd;:X;DQU3
+R16
+31
+Z25 !s108 1635968614.324000
+Z26 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd|
+Z27 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd|
+R20
+R21
+!s100 R2i:A?<Kz[bTk:<H@K7R83
+!i10b 1
+Artl
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+DEx4 work 6 ahbmst 0 22 PoezZLV4Y2B_Fd;:X;DQU3
+l44
+L29
+VJJXS_[[K6^h]dGHjN6d[22
+R16
+31
+R25
+R26
+R27
+R20
+R21
+!s100 JVgeol:U?>AVC2QQ=GnG30
+!i10b 1
+Eahbrom
+Z28 w1635858319
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+R13
+Z29 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+Z30 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+l0
+L18
+V;<37X2B14EY1B0I>:b]0D1
+R16
+31
+Z31 !s108 1635968613.303000
+Z32 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
+Z33 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
+Z34 !s102 -cover s
+Z35 o-work work -93 -source -nowarn 1 -nowarn 5 -cover s
+R21
+!s100 M;o:gHC_id9i?NZlNeoWK3
+!i10b 1
+Artl
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+Z36 DEx4 work 6 ahbrom 0 22 ;<37X2B14EY1B0I>:b]0D1
+l46
+L34
+V=glKMZ?:H52mO3j?C3f2X3
+R16
+31
+R31
+R32
+R33
+R34
+R35
+R21
+!s100 jcW<R[fZM[zKHXJ2g=TcV0
+!i10b 1
+Ecm0_wrapper
+Z37 w1635968336
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+Z38 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd
+Z39 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd
+l0
+L13
+VcOLQiYNEZ<C=[a<3[jm6@3
+R16
+31
+Z40 !s108 1635968614.763000
+Z41 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd|
+Z42 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd|
+R20
+R21
+!s100 WBdF]NfGkN1cbS9Kc4@JQ2
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+DEx4 work 11 cm0_wrapper 0 22 cOLQiYNEZ<C=[a<3[jm6@3
+l112
+L22
+VkEWKffTUGa]li@0N8dVJF1
+!s100 z2zi6PYaXDQU4]TUUXdLL0
+R16
+31
+R40
+R41
+R42
+R20
+R21
+!i10b 1
+Pconfig
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+R3
+w1635798884
+R13
+8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/config.vhd
+FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/config.vhd
+l0
+L13
+V;BPP_NgdiB]Mfajmn^;R11
+R16
+31
+R20
+R21
+!s100 ^Qkk9IUV=FV:YTTBee=me1
+!i10b 1
+!s108 1635968613.919000
+!s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/config.vhd|
+!s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/config.vhd|
+vCORTEXM0DS
+I_@M=1lGEf4Lc:zCFQlA<l3
+V1L6Qg_jd`_h[58QfX:Ek]0
+R13
+w1634554570
+8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v
+FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v
+L0 27
+Z43 OL;L;10.1c;51
+r1
+31
+Z44 o-work work -quiet
+Z45 tQuiet 1
+n@c@o@r@t@e@x@m0@d@s
+!i10b 1
+!s100 @<JjjF>eEW=Mdl80DHbW50
+!s85 0
+!s108 1635968613.536000
+!s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v|
+!s90 -reportprogress|300|-work|work|-quiet|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v|
+vcortexm0ds_logic
+IR3XJ<c80Z`YB7Tn^@j9Hi2
+V^^SAMV@Xd[IRUm[K>SzZ<3
+R13
+w1602740460
+8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v
+FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v
+L0 27
+R43
+r1
+31
+R44
+R45
+!i10b 1
+!s100 PF9Ai>7A<3S^D1[9OFHE]3
+!s85 0
+!s108 1635968613.623000
+!s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v|
+!s90 -reportprogress|300|-work|work|-quiet|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v|
+Ecpu_disas
+Z46 w1309262194
+Z47 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
+Z48 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
+R6
+R7
+R10
+R11
+R12
+R13
+Z49 8C:/Users/AW/Desktop/lab2/lib/work/debug/cpu_disas.vhd
+Z50 FC:/Users/AW/Desktop/lab2/lib/work/debug/cpu_disas.vhd
+l0
+L36
+VKSPGb^5EA4QbYK1?`0j;g3
+R16
+31
+Z51 !s108 1635968613.192000
+Z52 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/AW/Desktop/lab2/lib/work/debug/cpu_disas.vhd|
+Z53 !s107 C:/Users/AW/Desktop/lab2/lib/work/debug/cpu_disas.vhd|
+R34
+R35
+R21
+!s100 BJa8WZ>[MW<0jk;aRCm[b3
+!i10b 1
+Abehav
+R47
+R48
+R6
+R7
+R10
+R11
+R12
+DEx4 work 9 cpu_disas 0 22 KSPGb^5EA4QbYK1?`0j;g3
+l53
+L52
+V3FV2Aa?L][Aoia[fmHSJA1
+R16
+31
+R51
+R52
+R53
+R34
+R35
+R21
+!s100 _[5c318P4X`G5CVS_UE0d0
+!i10b 1
+Edata_swapper
+Z54 w1635069548
+R3
+R5
+R6
+R7
+R8
+R9
+R4
+R10
+R11
+R12
+R13
+Z55 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd
+Z56 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd
+l0
+L7
+VLi>kE15NohOoX2>z=md?<2
+R16
+31
+Z57 !s108 1635968614.214000
+Z58 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd|
+Z59 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd|
+R20
+R21
+!s100 fCXmS<QniFZ7]d25D@KBA1
+!i10b 1
+Astructure
+R3
+R5
+R6
+R7
+R8
+R9
+R4
+R10
+R11
+R12
+DEx4 work 12 data_swapper 0 22 Li>kE15NohOoX2>z=md?<2
+l13
+L12
+VOaM]A1XS;nRC4@_>IM5]m0
+R16
+31
+R57
+R58
+R59
+R20
+R21
+!s100 hjlel9acoET0>`^LGL_7_2
+!i10b 1
+Pdebug
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+R46
+R13
+8C:/Users/AW/Desktop/lab2/lib/work/debug/debug.vhd
+FC:/Users/AW/Desktop/lab2/lib/work/debug/debug.vhd
+l0
+L31
+VUKYDnZfS:aT>_415YS@3F3
+R16
+31
+R34
+R35
+R21
+!s100 >2?o60cYoUCRdY1PWEJzg3
+!i10b 1
+!s108 1635968612.997000
+!s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/AW/Desktop/lab2/lib/work/debug/debug.vhd|
+!s107 C:/Users/AW/Desktop/lab2/lib/work/debug/debug.vhd|
+Edetectorbus
+Z60 w1635863512
+R2
+R11
+R12
+R13
+Z61 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
+Z62 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
+l0
+L7
+Vz;VdD_H8b9ll?nMQ1JVX]2
+R16
+31
+Z63 !s108 1635968614.611000
+Z64 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd|
+Z65 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd|
+R20
+R21
+!s100 8D?o9QGCcE>olgHRPzlQ;3
+!i10b 1
+Abehavioral
+R2
+R11
+R12
+DEx4 work 11 detectorbus 0 22 z;VdD_H8b9ll?nMQ1JVX]2
+l15
+L13
+V9cWe<R[PjlS:UJd1eWLjL2
+R16
+31
+R63
+R64
+R65
+R20
+R21
+!s100 =Zcj[^RiSIBGT2Mj`g78D2
+!i10b 1
+Egaisler_cpu_disas
+R46
+R47
+R48
+R6
+R7
+R10
+R11
+R12
+R13
+R49
+R50
+l0
+L89
+V1bnSY07l=LAeE^Y@<zf;X2
+R16
+31
+R51
+R52
+R53
+R34
+R35
+R21
+!s100 GdTf>db1P?1Ge2jaiM^=_2
+!i10b 1
+Abehav
+R47
+R48
+R6
+R7
+R10
+R11
+R12
+DEx4 work 17 gaisler_cpu_disas 0 22 1bnSY07l=LAeE^Y@<zf;X2
+l106
+L105
+VTEzZ8I?>1kOB^_LMKZhJ`2
+R16
+31
+R51
+R52
+R53
+R34
+R35
+R21
+!s100 EN]aXPjQkkL?_a;J3E9Tg3
+!i10b 1
+Egrtestmod
+R46
+R5
+R8
+R9
+Z66 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+R6
+R10
+R7
+Z67 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R11
+R12
+R13
+Z68 8C:/Users/AW/Desktop/lab2/lib/work/debug/grtestmod.vhd
+Z69 FC:/Users/AW/Desktop/lab2/lib/work/debug/grtestmod.vhd
+l0
+L67
+VKT[OzK0Qn>XD0d4Tb[@C12
+R16
+31
+Z70 !s108 1635968613.082000
+Z71 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/AW/Desktop/lab2/lib/work/debug/grtestmod.vhd|
+Z72 !s107 C:/Users/AW/Desktop/lab2/lib/work/debug/grtestmod.vhd|
+R34
+R35
+R21
+!s100 4SPzUf^QXfCEGK>k[4z1Q2
+!i10b 1
+Asim
+R5
+R8
+R9
+R66
+R6
+R10
+R7
+R67
+R11
+R12
+DEx4 work 9 grtestmod 0 22 KT[OzK0Qn>XD0d4Tb[@C12
+l98
+L86
+VoSXHHU]zPSgb?FZZaQ0_A2
+R16
+31
+R70
+R71
+R72
+R34
+R35
+R21
+!s100 E14S8M[?:IanSi`C7hCMk1
+!i10b 1
+Eleon3mp
+Z73 w1635968575
+Z74 DPx4 work 6 config 0 22 ;BPP_NgdiB]Mfajmn^;R11
+Z75 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
+Z76 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
+Z77 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
+R4
+Z78 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
+Z79 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
+Z80 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
+Z81 DPx7 techmap 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
+R3
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+R13
+Z82 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+Z83 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+l0
+L45
+V`23DMLIGPJ?9J]lS3c5^k0
+!s100 U;KogmdnE8k>kXZW2E<X<2
+R16
+31
+!i10b 1
+Z84 !s108 1635968614.940000
+Z85 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
+Z86 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
+R20
+R21
+Artl
+R36
+R74
+R75
+R76
+R77
+R4
+R78
+R79
+R80
+R81
+R3
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+Z87 DEx4 work 7 leon3mp 0 22 `23DMLIGPJ?9J]lS3c5^k0
+l231
+L140
+VSzEk4915aiO`C@WmzcFg@1
+!s100 [[ZGBIa^2[<?c65Xejk@:3
+R16
+31
+!i10b 1
+R84
+R85
+R86
+R20
+R21
+Em0_and_bridge
+Z88 w1635864103
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+Z89 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/M0_and_bridge.vhd
+Z90 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/M0_and_bridge.vhd
+l0
+L13
+V4V?bGNVZ=K0>8IL?9kH[60
+R16
+31
+Z91 !s108 1635949225.878000
+Z92 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/M0_and_bridge.vhd|
+Z93 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/M0_and_bridge.vhd|
+R20
+R21
+!s100 l8=Jl4aX^TR_WCZS1gNZ`1
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+DEx4 work 13 m0_and_bridge 0 22 4V?bGNVZ=K0>8IL?9kH[60
+l112
+L22
+VLIMH6^go_j9MC?f56O9_M2
+R16
+31
+R91
+R92
+R93
+R20
+R21
+!s100 WZV6WGeaSkiLdH;@anH^N0
+!i10b 1
+Estate_machine
+Z94 w1635821766
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13
+Z95 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd
+Z96 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd
+l0
+L16
+Ve82zVc5DmQ@QZ06Z^nN;D3
+R16
+31
+Z97 !s108 1635968614.015000
+Z98 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd|
+Z99 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd|
+R20
+R21
+!s100 Mcf[_Plb>Kb?U2_6J4MX<0
+!i10b 1
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+DEx4 work 13 state_machine 0 22 e82zVc5DmQ@QZ06Z^nN;D3
+l34
+L29
+VN^Ln9KXk:790h3fOK^T>G3
+R16
+31
+R97
+R98
+R99
+R20
+R21
+!s100 _OYLL0kboIn]E4OZCf?C_0
+!i10b 1
+Etestbench
+R46
+R74
+Z100 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
+Z101 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
+Z102 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
+Z103 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
+R66
+R67
+R3
+R5
+R4
+R78
+R6
+R7
+R8
+R10
+R9
+Z104 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+R11
+R12
+R13
+Z105 8C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z106 FC:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+l0
+L42
+VmW8hO<WkGgLDaQ2oTa<Ca3
+R16
+31
+Z107 !s108 1635968613.406000
+Z108 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s3|-novopt|C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z109 !s107 C:/Users/AW/Desktop/lab2/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z110 !s102 -cover s3
+Z111 o-work work -93 -source -nowarn 1 -nowarn 5 -cover s3
+R21
+!s100 hdYXOz[00TYb6Ac2n@MoH2
+!i10b 1
+Abehav
+R75
+R76
+R77
+R79
+R80
+R81
+R87
+R74
+R100
+R101
+R102
+R103
+R66
+R67
+R3
+R5
+R4
+R78
+R6
+R7
+R8
+R10
+R9
+R104
+R11
+R12
+DEx4 work 9 testbench 0 22 mW8hO<WkGgLDaQ2oTa<Ca3
+l136
+L55
+VbWMi=DZo>HGfLKoTS6NoM2
+R16
+31
+R107
+R108
+R109
+R110
+R111
+R21
+!s100 oNML2<9bl:4K:>:[J00IJ0
+!i10b 1
