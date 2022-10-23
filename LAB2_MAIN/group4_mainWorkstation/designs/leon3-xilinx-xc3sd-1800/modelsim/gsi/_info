@@ -9,19 +9,19 @@ Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 Z3 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
 Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
-Z6 w1666036631
-Z7 dW:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
-Z8 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd
-Z9 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd
+Z6 w1666543177
+Z7 dC:\Users\vn22984\Desktop\LAB\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
+Z8 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd
+Z9 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd
 l0
 L24
 Vn7M13<;d=_@0jkLgS_W4k1
-Z10 OL;C;10.1c;51
+Z10 OL;C;10.1b;51
 31
 b1
-Z11 !s108 1666526318.062000
-Z12 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd|
-Z13 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd|
+Z11 !s108 1666548305.258000
+Z12 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd|
+Z13 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/functions.vhd|
 Z14 !s102 -cover s
 Z15 o-work gsi -93 -source -nowarn 1 -nowarn 5 -cover s
 Z16 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
@@ -53,8 +53,8 @@ R6
 R4
 R5
 R7
-Z17 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd
-Z18 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd
+Z17 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd
+Z18 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd
 l0
 L7
 VI;QAb<W?UX:WB56J6VP^`1
@@ -62,9 +62,9 @@ VI;QAb<W?UX:WB56J6VP^`1
 R10
 31
 !i10b 1
-Z19 !s108 1666526318.218000
-Z20 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd|
-Z21 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd|
+Z19 !s108 1666548305.765000
+Z20 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd|
+Z21 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/g880e18bt.vhd|
 R14
 R15
 R16
@@ -102,16 +102,16 @@ Z30 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
 R4
 R5
 R7
-Z31 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
-Z32 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
+Z31 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
+Z32 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
 l0
 L61
 VIDgnTG<@YY2z@RT_g62eh3
 R10
 31
-Z33 !s108 1666526318.143000
-Z34 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd|
-Z35 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd|
+Z33 !s108 1666548305.527000
+Z34 !s90 -reportprogress|300|-work|gsi|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd|
+Z35 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd|
 R14
 R15
 R16
