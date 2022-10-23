@@ -71,8 +71,8 @@ use UNISIM.VComponents.all;
 entity state_machine is
   port(
     -- Reset and clock
-    rstn : in std_logic;
     clkm : in std_logic;
+    rstn : in std_logic;
     -- State machine (M0)
     HADDR : in std_logic_vector (31 downto 0);
     HSIZE : in std_logic_vector (2 downto 0);

@@ -80,7 +80,7 @@ component ahb_bridge is
     rstn : in std_logic;
     -- AHB Master records 
     ahbmi : in ahb_mst_in_type;
-    ahbmo : out ahb_mst_out_type
+    ahbmo : out ahb_mst_out_type;
     -- ARM Cortex-M0 AHB-Lite signals 
     HADDR : in std_logic_vector (31 downto 0);
     HSIZE : in std_logic_vector (2 downto 0);
@@ -88,7 +88,7 @@ component ahb_bridge is
     HWDATA : in std_logic_vector (31 downto 0);
     HWRITE : in std_logic;
     HRDATA : out std_logic_vector (31 downto 0);
-    HREADY : out std_logic;
+    HREADY : out std_logic
     
   );
 end component;

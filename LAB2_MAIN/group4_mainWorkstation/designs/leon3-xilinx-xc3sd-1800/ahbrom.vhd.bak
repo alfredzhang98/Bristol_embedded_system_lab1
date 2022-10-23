@@ -131,7 +131,7 @@ begin
     when 16#00030# => romdata <= X"024B5B1C";
     when 16#00031# => romdata <= X"EEE70000";
     when 16#00032# => romdata <= X"5555AAAA";
-    when 16#00033# => romdata <= X"04040404";
+    when 16#00033# => romdata <= X"04040404"; -- F0F0F0F0 to 04040404 (change to group number)
     when 16#00034# => romdata <= X"754600F0";
     when 16#00035# => romdata <= X"23F8AE46";
     when 16#00036# => romdata <= X"05006946";

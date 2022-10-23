@@ -103,8 +103,8 @@ begin
 --instantiate state_machine component and make the connections
   u_state_machine : state_machine
   port map(
-    CLKM => clkm,
-    RSTN => rstn,
+    clkm => clkm,
+    rstn => rstn,
     HADDR => HADDR,
     HSIZE => HSIZE,
     HTRANS => HTRANS,
@@ -130,7 +130,7 @@ begin
   u_data_swapper : data_swapper
   port map(
     HRDATA => HRDATA,
-    get_rdata => dmao.rdata
+    dmao => dmao
   );
 
 end structural;
