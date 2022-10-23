@@ -6,42 +6,42 @@ Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-
 Pcomponents
 Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
-Z3 w1666543177
-Z4 dC:\Users\vn22984\Desktop\LAB\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
-8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd
-FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd
+Z3 w1666036631
+Z4 dW:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
+8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd
+FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd
 l0
 L25
 V0TIhCD]P[_JiP8=;eZK8f2
-Z5 OL;C;10.1b;51
+Z5 OL;C;10.1c;51
 31
 Z6 !s102 -cover s
 Z7 o-work micron -93 -source -nowarn 1 -nowarn 5 -cover s
 Z8 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
 !s100 V>XS^hSAWh?=:E]DBnH3b0
 !i10b 1
-!s108 1666548307.846000
-!s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd|
-!s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd|
+!s108 1666554462.505000
+!s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd|
+!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd|
 vddr2
-IJNCM@FmS<5E=3U[?iU6>P2
+Ija:oDBmO_4gV^?[Min;m73
 VdU=_D2MCCLS[X_[VQUaU11
 R4
 R3
-8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v
-FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v
+8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v
+FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v
 L0 114
-Z9 OL;L;10.1b;51
+Z9 OL;L;10.1c;51
 r1
 31
 Z10 o-work micron
 Z11 tQuiet 1
 !i10b 1
-!s100 DaF2FVzCI9BSNCKVBcC=W2
+!s100 VoOR3QK1k]Ll6G[`[hCGT0
 !s85 0
-!s108 1666548308.365000
-!s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v|
-!s90 -reportprogress|300|-work|micron|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v|
+!s108 1666554462.648000
+!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v|
+!s90 -reportprogress|300|-work|micron|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v|
 vddr3
 Ib;][o`=ij8P0MOT[mgVG_2
 Vm7lm_jf3_aD_gA;^3FR6h2
@@ -67,12 +67,12 @@ r1
 R10
 R15
 vmobile_sdr
-I7H9L?W4@FaVaXPihP2MBe2
+I59G?0KYRYbcCjdn3S?>g71
 V9z<oaz;X`1LjeEg97]feU2
 R4
 R3
-8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v
-FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v
+8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v
+FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v
 L0 70
 R9
 r1
@@ -80,11 +80,11 @@ r1
 R10
 R11
 !i10b 1
-!s100 Fhl<c0k`fSELfnMkRD3RZ0
+!s100 E3<^DGQkEn5M5HXE]^bO:2
 !s85 0
-!s108 1666548307.613000
-!s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v|
-!s90 -reportprogress|300|-work|micron|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v|
+!s108 1666554462.434000
+!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v|
+!s90 -reportprogress|300|-work|micron|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v|
 Emt46v16m16
 R3
 Z16 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
@@ -99,8 +99,8 @@ Z24 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 R1
 R2
 R4
-Z25 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd
-Z26 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd
+Z25 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd
+Z26 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd
 l0
 L53
 VChN8_0=hMTLB;<4fjel=l3
@@ -108,9 +108,9 @@ VChN8_0=hMTLB;<4fjel=l3
 R5
 31
 !i10b 1
-Z27 !s108 1666548308.568000
-Z28 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd|
-Z29 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd|
+Z27 !s108 1666554462.725000
+Z28 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd|
+Z29 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd|
 R6
 R7
 R8
@@ -154,16 +154,16 @@ R23
 R2
 R1
 R4
-Z33 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd
-Z34 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd
+Z33 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd
+Z34 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd
 l0
 L206
 VYBI7gzSCWhG^RV_[PNJR82
 R5
 31
-Z35 !s108 1666548308.038000
-Z36 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd|
-Z37 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd|
+Z35 !s108 1666554462.552000
+Z36 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd|
+Z37 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd|
 R6
 R7
 R8

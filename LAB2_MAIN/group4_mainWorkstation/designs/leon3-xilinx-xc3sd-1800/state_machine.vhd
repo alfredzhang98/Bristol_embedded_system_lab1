@@ -107,7 +107,7 @@ architecture structural of state_machine is
   dmai.size <= HSIZE; 
   
   
-  state_reg:
+  reg_sate:
   process (rstn, clkm)
   begin
     -- reset to low level come to the idle state
@@ -119,7 +119,7 @@ architecture structural of state_machine is
     end if;
   end process;
   
-  change_state:
+  com_state:
   process (present_state, HTRANS, dmao)
   begin
     case present_state is
@@ -131,6 +131,8 @@ architecture structural of state_machine is
     		  if HTRANS = "10" then
 		      dmai.start <= '1';
 		      next_state <= instr_fetch;
+		    else 
+		      next_state <= idle;
 		    end if;
       -- instr_fetch state
       when instr_fetch =>
@@ -139,6 +141,8 @@ architecture structural of state_machine is
 	      -- the reason to change
      		 if dmao.ready = '1' then
  		 		  dmai.start <= '1';
+		      next_state <= instr_fetch;
+		    else 
 		      next_state <= instr_fetch;
 		    end if;
 		end case;
