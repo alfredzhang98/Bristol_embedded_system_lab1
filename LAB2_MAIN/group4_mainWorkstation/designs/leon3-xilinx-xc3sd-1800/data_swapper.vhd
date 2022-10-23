@@ -73,32 +73,32 @@ use UNISIM.VComponents.all;
 entity data_swapper is
   port(
     HRDATA : out std_logic_vector (31 downto 0);
-    get_rdata : in std_logic_vector (31 downto 0)
+    dmao : in ahb_dma_out_type
   );
 end;
 ----------------------------------------------------------------------
 architecture structural of data_swapper is
 
---signal get_rdata : std_logic_vector (31 downto 0);
+signal get_rdata : std_logic_vector (31 downto 0);
 
 begin
   swapper:
---  process(dmao, get_rdata)
---  begin
---    get_rdata <= dmao.rdata;
---    HRDATA (31 downto 24) <= get_rdata (7 downto 0);
---    HRDATA (23 downto 16) <= get_rdata (15 downto 8);
---    HRDATA (15 downto 8) <= get_rdata (23 downto 16);
---    HRDATA (7 downto 0) <= get_rdata (31 downto 24);
---  end process;
-
-  process(get_rdata)
+  process(dmao)
   begin
+    get_rdata <= dmao.rdata;
     HRDATA (31 downto 24) <= get_rdata (7 downto 0);
     HRDATA (23 downto 16) <= get_rdata (15 downto 8);
     HRDATA (15 downto 8) <= get_rdata (23 downto 16);
     HRDATA (7 downto 0) <= get_rdata (31 downto 24);
   end process;
+
+--  process(get_rdata)
+--  begin
+--    HRDATA (31 downto 24) <= get_rdata (7 downto 0);
+--    HRDATA (23 downto 16) <= get_rdata (15 downto 8);
+--    HRDATA (15 downto 8) <= get_rdata (23 downto 16);
+--    HRDATA (7 downto 0) <= get_rdata (31 downto 24);
+--  end process;
  
   
 end structural;

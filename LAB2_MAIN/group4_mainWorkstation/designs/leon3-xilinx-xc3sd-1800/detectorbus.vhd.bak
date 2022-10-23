@@ -16,13 +16,13 @@ use IEEE.STD_LOGIC_1164.ALL;
 library UNISIM;
 use UNISIM.VComponents.all;
 
-entity DetectorBus is
-    Port ( Clock : in  STD_LOGIC;
+entity detectorbus is
+    Port (Clock : in  STD_LOGIC;
            DataBus : in  STD_LOGIC_VECTOR (31 downto 0);
            Detector : out  STD_LOGIC);
-end DetectorBus;
+end detectorbus;
 
-architecture Behavioral of DetectorBus is
+architecture Behavioral of detectorbus is
   
 signal trigger:std_logic;
 signal outputff:std_logic;

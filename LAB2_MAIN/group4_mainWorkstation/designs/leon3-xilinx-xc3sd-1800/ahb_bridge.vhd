@@ -49,8 +49,8 @@ architecture structural of ahb_bridge is
 -- HREADY <= '0' instr_fetch
 component state_machine is
   port(
-    CLKM : in std_logic;
-    RSTN : in std_logic;
+    clkm : in std_logic;
+    rstn : in std_logic;
     HADDR : in std_logic_vector (31 downto 0);
     HSIZE : in std_logic_vector (2 downto 0);
     HTRANS : in std_logic_vector (1 downto 0);
@@ -86,7 +86,7 @@ end component;
 component data_swapper is
   port(
     HRDATA : out std_logic_vector (31 downto 0);
-    get_rdata : in std_logic_vector (31 downto 0)
+    dmao : in ahb_dma_out_type
 	);
 end component;
 
@@ -103,8 +103,8 @@ begin
 --instantiate state_machine component and make the connections
   u_state_machine : state_machine
   port map(
-    CLKM => clkm,
-    RSTN => rstn,
+    clkm => clkm,
+    rstn => rstn,
     HADDR => HADDR,
     HSIZE => HSIZE,
     HTRANS => HTRANS,
@@ -130,7 +130,7 @@ begin
   u_data_swapper : data_swapper
   port map(
     HRDATA => HRDATA,
-    get_rdata => dmao.rdata
+    dmao => dmao
   );
 
 end structural;

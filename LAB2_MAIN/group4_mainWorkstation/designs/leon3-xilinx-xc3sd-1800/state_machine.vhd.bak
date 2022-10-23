@@ -119,21 +119,21 @@ architecture structural of state_machine is
         -- idle state
         when idle =>
         		HREADY <= '1';
-		       dmai.start <= '0';
-		       -- the reason to change
-        		if HTRANS = "10" then
-		         dmai.start <= '1';
-		         u_state <= instr_fetch;
-		       end if;
+		      dmai.start <= '0';
+		      -- the reason to change
+       		 if HTRANS = "10" then
+		        dmai.start <= '1';
+		        u_state <= instr_fetch;
+		      end if;
         -- instr_fetch state
         when instr_fetch =>
-		       HREADY <= '0';
-		       dmai.start <= '0';
-		       -- the reason to change
-        		if dmao.ready = '1' then
-		         dmai.start <= '1';
-		         u_state <= instr_fetch;
-		       end if;
+		      HREADY <= '0';
+		      dmai.start <= '0';
+		      -- the reason to change
+       		 if dmao.ready = '1' then
+		        dmai.start <= '1';
+		        u_state <= instr_fetch;
+		      end if;
 		  end case;
 		end if;
   end process;

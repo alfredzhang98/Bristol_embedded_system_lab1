@@ -22,7 +22,7 @@ entity detectorbus is
            Detector : out  STD_LOGIC);
 end detectorbus;
 
-architecture Behavioral of DetectorBus is
+architecture Behavioral of detectorbus is
   
 signal trigger:std_logic;
 signal outputff:std_logic;

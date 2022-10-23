@@ -264,7 +264,7 @@ begin
 ----------------------------------------------------------------------
 
   -- ARM Cortex-M0 Processor 
-  CM0_GEN : if CFG_CM0 = 1 generate
+  cm0gen : if CFG_CM0 = 1 generate
   u_com0_wrapper : cm0_wrapper
     port map (clkm,rstn,ahbmi,ahbmo(0));
   end generate;
