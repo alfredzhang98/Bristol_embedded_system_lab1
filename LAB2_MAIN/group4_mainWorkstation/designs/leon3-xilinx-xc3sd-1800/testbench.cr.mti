@@ -304,6 +304,8 @@
 
 } {} {}} ../../lib/gaisler/arith/div32.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/arith/div32.vhd
 
+} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt {W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\data_swapper.vhd}
+
 } {} {}} ../../lib/techmap/maps/clkpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd
 
 } {} {}} ../../lib/gaisler/misc/ahbstat.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbstat.vhd
@@ -398,6 +400,8 @@
 ** Warning: [13] W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/hynix/ddr2/components.vhd(55): (vcom-2063) Complete design-unit 'components' is inside synthesis_off/translate_off pragma.
 
 
+} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt {W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\ahb_bridge.vhd}
+
 } {} {}} ../../lib/cypress/ssram/cy7c1354b.vhd {1 {vcom -work cypress -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/cypress/ssram/cy7c1354b.vhd
 
 } {} {}} ../../lib/techmap/maps/iodpad.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd
@@ -434,6 +438,8 @@
 
 } {} {}} ../../lib/techmap/maps/alltap.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd
 
+} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt {W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\state_machine.vhd}
+
 } {} {}} ../../lib/grlib/modgen/leaves.vhd {1 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/modgen/leaves.vhd
 
 } {} {}} ../../lib/techmap/unisim/grspwc2_unisim.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd
@@ -446,9 +452,9 @@
 
 } {} {}} ../../lib/gaisler/leon3/tbufmem.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/tbufmem.vhd
 
-} {} {}} ../../lib/gaisler/jtag/jtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/jtag.vhd
-
 } {} {}} ../../lib/techmap/maps/lvds_combo.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd
+
+} {} {}} ../../lib/gaisler/jtag/jtag.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/jtag.vhd
 
 } {} {}} ../../lib/gaisler/misc/ahbmst2.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbmst2.vhd
 
@@ -472,6 +478,8 @@
 
 } {} {}} ../../lib/gaisler/leon3/mmutlbcam.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/leon3/mmutlbcam.vhd
 
+} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt {W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\cm0_wrapper.vhd}
+
 } {} {}} ../../lib/gaisler/misc/misc.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/misc.vhd
 
 } {} {}} ../../lib/techmap/maps/grspwc_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd
@@ -487,6 +495,8 @@
 } {} {}} ../../lib/gaisler/jtag/libjtagcom.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/jtag/libjtagcom.vhd
 
 } {} {}} ../../lib/gsi/ssram/core_burst.vhd {1 {vcom -work gsi -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gsi/ssram/core_burst.vhd
+
+} {} {}} W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd {1 {vcom -work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5 -novopt W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
 
 } {} {}} ../../lib/techmap/maps/allmul.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd
 
@@ -536,8 +546,6 @@
 
 } {} {}} ../../lib/techmap/maps/allmem.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
 
-} {} {}} config.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/config.vhd
-
 } {} {}} ../../lib/grlib/sparc/cpu_disas.vhd {2 {vcom -work grlib -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/sparc/cpu_disas.vhd
 ###### W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/grlib/sparc/cpu_disas.vhd(50): end;
 
@@ -545,6 +553,8 @@
 
 
 } {} {}} ../../lib/gaisler/ddr/ddrsp32a.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddrsp32a.vhd
+
+} {} {}} config.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/config.vhd
 
 } {} {}} ../../lib/techmap/maps/ddrphy.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd
 
@@ -559,6 +569,8 @@
 } {} {}} ../../lib/gaisler/ddr/ddr2spa.vhd {1 {vcom -work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/ddr/ddr2spa.vhd
 
 } {} {}} ../../lib/techmap/maps/cpu_disas_net.vhd {1 {vcom -work techmap -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd
+
+} {} {}} leon3mp.vhd {1 {vcom -work work -93 -source -nowarn 1 -nowarn 5 -cover s {W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\leon3mp.vhd}
 
 } {} {}} ../../lib/eth/core/greth_pkg.vhd {1 {vcom -work eth -93 -source -nowarn 1 -nowarn 5 -cover s W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/eth/core/greth_pkg.vhd
 

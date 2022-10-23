@@ -42,8 +42,8 @@ end;
 architecture structural of cm0_wrapper is
 ----------------------------
 --declare a component 
--- component of cortex_m0_ds
-component cortex_m0_ds is
+-- component of CORTEXM0DS
+component CORTEXM0DS is
   port(
     -- CLOCK AND RESETS
     HCLK : in std_logic;
@@ -87,30 +87,29 @@ component ahb_bridge is
     
     HRDATA : out std_logic_vector (31 downto 0);
     
-    AHBO : out std_logic;
-    AHBI : in std_logic
+    ahbmo : out ahb_mst_out_type;
+    ahbmi : in ahb_mst_in_type
   );
 end component;
 
 -- component detectorbus can be used to test implementation
-component detector_bus is
+component detectorbus is
   port(
-    CLKM : in std_logic;
-    RSTN : in std_logic;
-    HRDATA : out std_logic_vector (31 downto 0);
-    DETECTOR : out std_logic
+    Clock : in std_logic;
+    DataBus : in std_logic_vector (31 downto 0);
+    Detector : out std_logic
   );
 end component;
     
 ----------------------------
 -- the define of signal
-signal HADDR_cm0_wrapper : std_logic_vector (31 downto 0);
-signal HSIZE_cm0_wrapper : std_logic_vector (2 downto 0);
-signal HTRANS_cm0_wrapper : std_logic_vector (1 downto 0);
-signal HWDATA_cm0_wrapper : std_logic_vector (31 downto 0);
-signal HWRITE_cm0_wrapper : std_logic;
-signal HRDATA_cm0_wrapper : std_logic_vector (31 downto 0);
-signal HREADY_cm0_wrapper : std_logic;
+signal HADDR : std_logic_vector (31 downto 0);
+signal HSIZE : std_logic_vector (2 downto 0);
+signal HTRANS : std_logic_vector (1 downto 0);
+signal HWDATA : std_logic_vector (31 downto 0);
+signal HWRITE : std_logic;
+signal HRDATA : std_logic_vector (31 downto 0);
+signal HREADY : std_logic;
 
 -- Those input should set to 0
 --signal HRESP : std_logic;
@@ -123,26 +122,26 @@ signal HREADY_cm0_wrapper : std_logic;
 
 begin
   
-  -- impl of cortex_m0_ds
-  u_cortex_m0_ds : cortex_m0_ds
+  -- impl of CORTEXM0DS
+  u_CORTEXM0DS : CORTEXM0DS
   port map(
     HCLK => clkm,
     HRESETn => rstn,
     -- AHB-LITE MASTER PORT
-    HADDR => HADDR_cm0_wrapper,
+    HADDR => HADDR,
     HBURST => open,
     HMASTLOCK => open,
     HPROT => open,
-    HSIZE => HSIZE_cm0_wrapper,
-    HTRANS => HTRANS_cm0_wrapper,
-    HWDATA => HWDATA_cm0_wrapper,
-    HWRITE => HWRITE_cm0_wrapper,
-    HRDATA => HRDATA_cm0_wrapper,
-    HREADY => HREADY_cm0_wrapper,
+    HSIZE => HSIZE,
+    HTRANS => HTRANS,
+    HWDATA => HWDATA,
+    HWRITE => HWRITE,
+    HRDATA => HRDATA,
+    HREADY => HREADY,
     HRESP => '0',
     -- MISCELLANEOUS
     NMI => '0',
-    IRQ => '0',
+    IRQ => x"0000",
     TXEV => open,
     RXEV => '0',
     LOCKUP => open,
@@ -156,24 +155,23 @@ begin
   port map(
     CLKM => clkm,
     RSTN => rstn,
-    HADDR => HADDR_cm0_wrapper,
-    HSIZE => HSIZE_cm0_wrapper,
-    HTRANS => HTRANS_cm0_wrapper,
-    HWDATA => HWDATA_cm0_wrapper,
-    HWRITE => HWRITE_cm0_wrapper,
-    HREADY => HREADY_cm0_wrapper,
-    HRDATA  => HRDATA_cm0_wrapper,
-    AHBO => ahbmo,
-    AHBI => ahbmi
+    HADDR => HADDR,
+    HSIZE => HSIZE,
+    HTRANS => HTRANS,
+    HWDATA => HWDATA,
+    HWRITE => HWRITE,
+    HREADY => HREADY,
+    HRDATA  => HRDATA,
+    ahbmo => ahbmo,
+    ahbmi => ahbmi
   );
   
   -- impl of detectorbus
-  u_detector_bus : detector_bus
+  u_detectorbus : detectorbus
   port map(
-    CLKM => clkm,
-    RSTN => rstn,
-    HRDATA => HADDR_cm0_wrapper,
-    DETECTOR => led_group04
+    Clock => clkm,
+    DataBus => HRDATA,
+    Detector => led_group04
   );
   
 end structural ;

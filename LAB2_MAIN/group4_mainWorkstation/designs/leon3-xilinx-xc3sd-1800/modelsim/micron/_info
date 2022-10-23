@@ -20,7 +20,7 @@ Z7 o-work micron -93 -source -nowarn 1 -nowarn 5 -cover s
 Z8 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
 !s100 V>XS^hSAWh?=:E]DBnH3b0
 !i10b 1
-!s108 1666038303.811000
+!s108 1666485645.506000
 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd|
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/components.vhd|
 vddr2
@@ -39,7 +39,7 @@ Z11 tQuiet 1
 !i10b 1
 !s100 VoOR3QK1k]Ll6G[`[hCGT0
 !s85 0
-!s108 1666038303.950000
+!s108 1666485645.643000
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v|
 !s90 -reportprogress|300|-work|micron|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/ddr2.v|
 vddr3
@@ -82,7 +82,7 @@ R11
 !i10b 1
 !s100 E3<^DGQkEn5M5HXE]^bO:2
 !s85 0
-!s108 1666038303.757000
+!s108 1666485645.444000
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v|
 !s90 -reportprogress|300|-work|micron|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mobile_sdr.v|
 Emt46v16m16
@@ -108,7 +108,7 @@ VChN8_0=hMTLB;<4fjel=l3
 R5
 31
 !i10b 1
-Z27 !s108 1666038304.009000
+Z27 !s108 1666485645.710000
 Z28 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd|
 Z29 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/ddr/mt46v16m16.vhd|
 R6
@@ -161,7 +161,7 @@ L206
 VYBI7gzSCWhG^RV_[PNJR82
 R5
 31
-Z35 !s108 1666038303.860000
+Z35 !s108 1666485645.552000
 Z36 !s90 -reportprogress|300|-work|micron|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd|
 Z37 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/micron/sdram/mt48lc16m16a2.vhd|
 R6

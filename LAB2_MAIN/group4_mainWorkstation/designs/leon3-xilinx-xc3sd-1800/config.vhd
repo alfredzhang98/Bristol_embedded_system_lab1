@@ -27,8 +27,10 @@ package config is
   constant CFG_PCIDLL : integer := 0;
   constant CFG_PCISYSCLK: integer := 0;
   constant CFG_CLK_NOFB : integer := 0;
+-- ARM Cortex-M0 Processor core
+  constant CFG_CM0 : integer := 1;
 -- LEON3 processor core
-  constant CFG_LEON3 : integer := 1;
+  constant CFG_LEON3 : integer := 0;
   constant CFG_NCPU : integer := (1);
   constant CFG_NWIN : integer := (8);
   constant CFG_V8 : integer := 0; 
@@ -194,3 +196,4 @@ package config is
 -- GRLIB debugging
   constant CFG_DUART : integer := 1;
 end;
+

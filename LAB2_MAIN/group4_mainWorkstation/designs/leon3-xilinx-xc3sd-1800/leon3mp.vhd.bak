@@ -127,6 +127,21 @@ entity leon3mp is
 end;
 
 architecture rtl of leon3mp is
+
+----------------------------------------------------------------------
+---  Include cm0_wrapper ---------------------------------------------
+----------------------------------------------------------------------
+component cm0_wrapper is
+  port(
+    -- Reset and clock
+    rstn : in std_logic;
+    clkm : in std_logic;
+    -- AHB bus signals for master
+    ahbmi : in ahb_mst_in_type;
+    ahbmo : out ahb_mst_out_type;
+);
+end component;
+
   signal vcc : std_logic;
   signal gnd : std_logic;
 
@@ -209,20 +224,6 @@ architecture rtl of leon3mp is
   constant BOARD_FREQ : integer := 125000;                                -- input frequency in KHz
   constant CPU_FREQ   : integer := BOARD_FREQ * CFG_CLKMUL / CFG_CLKDIV;  -- cpu frequency in KHz
 begin
-  
-----------------------------------------------------------------------
---- Group4 -----------------------------------------------------------
-----------------------------------------------------------------------
-  
-----------------------------------------------------------------------
---- ARM Cortex-M0 Processor 
----  Remember for VHDL you need to declare the components and then instantiate the components
-----------------------------------------------------------------------
-cm0gen : if CFG_CM0 = 1 generate
--- instance of your wrapper with correct port mapping that then creates instances of the M0 processor and bridge
-  u1 : cm0_wrapper
-    port map (clkm,rstn,ahbmi,ahbmo(0));
-  end generate;
 
 ----------------------------------------------------------------------
 ---  Reset and Clock generation  -------------------------------------
@@ -259,9 +260,15 @@ cm0gen : if CFG_CM0 = 1 generate
     port map (rstn, clkm, ahbmi, ahbmo, ahbsi, ahbso);
 
 ----------------------------------------------------------------------
----  LEON3 processor and DSU -----------------------------------------
+---  LEON3 processor / ARM Cortex-M0 Processor and DSU --------------
 ----------------------------------------------------------------------
 
+  -- ARM Cortex-M0 Processor 
+  cm0gen : if CFG_CM0 = 1 generate
+  u1 : cm0_wrapper
+    port map (clkm,rstn,ahbmi,ahbmo(0));
+  end generate;
+  
   -- LEON3 processor
   leon3gen : if CFG_LEON3 = 1 generate
     cpu : for i in 0 to CFG_NCPU-1 generate
