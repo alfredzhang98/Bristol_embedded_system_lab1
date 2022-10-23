@@ -86,7 +86,7 @@ end component;
 component data_swapper is
   port(
     HRDATA : out std_logic_vector (31 downto 0);
-    dmao : in ahb_dma_out_type
+    get_rdata : in std_logic_vector (31 downto 0)
 	);
 end component;
 
@@ -130,7 +130,7 @@ begin
   u_data_swapper : data_swapper
   port map(
     HRDATA => HRDATA,
-    dmao => dmao
+    get_rdata => dmao.rdata
   );
 
 end structural;

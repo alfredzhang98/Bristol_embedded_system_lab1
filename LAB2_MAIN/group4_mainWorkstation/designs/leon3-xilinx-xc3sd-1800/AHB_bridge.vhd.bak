@@ -23,8 +23,8 @@ entity ahb_bridge is
     clkm : in std_logic;
     rstn : in std_logic;
     -- AHB Master records 
-    ahbi : in ahb_mst_in_type;
-    ahbo : out ahb_mst_out_type;
+    ahbmi : in ahb_mst_in_type;
+    ahbmo : out ahb_mst_out_type;
     -- ARM Cortex-M0 AHB-Lite signals 
     HADDR : in std_logic_vector (31 downto 0);    -- AHB transaction address
     HSIZE : in std_logic_vector (2 downto 0);     -- AHB size: byte, half-word or word
@@ -86,7 +86,7 @@ end component;
 component data_swapper is
   port(
     HRDATA : out std_logic_vector (31 downto 0);
-    dmao : in ahb_dma_out_type
+    get_rdata : in std_logic_vector (31 downto 0)
 	);
 end component;
 
@@ -122,8 +122,8 @@ begin
     rst => rstn,
   		dmai => dmai,
 		dmao => dmao,
-		ahbi => ahbi,
-		ahbo => ahbo
+		ahbi => ahbmi,
+		ahbo => ahbmo
   );
 
 --instantiate the data_swapper component and make the connections
