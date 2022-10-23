@@ -99,7 +99,7 @@ architecture structural of state_machine is
   -- init the dmai info (The out info)
   dmai.address <= HADDR;
   dmai.wdata <= HWDATA;
-  dmai.start <= '0';
+  --dmai.start <= '0';
   dmai.burst <= '0';
   dmai.write <= HWRITE;
   dmai.busy <= '0';
@@ -141,7 +141,7 @@ architecture structural of state_machine is
 	      -- the reason to change
      		 if dmao.ready = '1' then
  		 		  dmai.start <= '1';
-		      next_state <= instr_fetch;
+		      next_state <= idle;
 		    else 
 		      next_state <= instr_fetch;
 		    end if;

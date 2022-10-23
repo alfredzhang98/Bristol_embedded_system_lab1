@@ -1,0 +1,48 @@
+library verilog;
+use verilog.vl_types.all;
+entity cortexm0ds_logic is
+    port(
+        hclk            : in     vl_logic;
+        hreset_n        : in     vl_logic;
+        haddr_o         : out    vl_logic_vector(31 downto 0);
+        hburst_o        : out    vl_logic_vector(2 downto 0);
+        hmastlock_o     : out    vl_logic;
+        hprot_o         : out    vl_logic_vector(3 downto 0);
+        hsize_o         : out    vl_logic_vector(2 downto 0);
+        htrans_o        : out    vl_logic_vector(1 downto 0);
+        hwdata_o        : out    vl_logic_vector(31 downto 0);
+        hwrite_o        : out    vl_logic;
+        hrdata_i        : in     vl_logic_vector(31 downto 0);
+        hready_i        : in     vl_logic;
+        hresp_i         : in     vl_logic;
+        nmi_i           : in     vl_logic;
+        irq_i           : in     vl_logic_vector(15 downto 0);
+        txev_o          : out    vl_logic;
+        rxev_i          : in     vl_logic;
+        lockup_o        : out    vl_logic;
+        sys_reset_req_o : out    vl_logic;
+        sleeping_o      : out    vl_logic;
+        vis_r0_o        : out    vl_logic_vector(31 downto 0);
+        vis_r1_o        : out    vl_logic_vector(31 downto 0);
+        vis_r2_o        : out    vl_logic_vector(31 downto 0);
+        vis_r3_o        : out    vl_logic_vector(31 downto 0);
+        vis_r4_o        : out    vl_logic_vector(31 downto 0);
+        vis_r5_o        : out    vl_logic_vector(31 downto 0);
+        vis_r6_o        : out    vl_logic_vector(31 downto 0);
+        vis_r7_o        : out    vl_logic_vector(31 downto 0);
+        vis_r8_o        : out    vl_logic_vector(31 downto 0);
+        vis_r9_o        : out    vl_logic_vector(31 downto 0);
+        vis_r10_o       : out    vl_logic_vector(31 downto 0);
+        vis_r11_o       : out    vl_logic_vector(31 downto 0);
+        vis_r12_o       : out    vl_logic_vector(31 downto 0);
+        vis_r14_o       : out    vl_logic_vector(31 downto 0);
+        vis_msp_o       : out    vl_logic_vector(29 downto 0);
+        vis_psp_o       : out    vl_logic_vector(29 downto 0);
+        vis_pc_o        : out    vl_logic_vector(30 downto 0);
+        vis_apsr_o      : out    vl_logic_vector(3 downto 0);
+        vis_tbit_o      : out    vl_logic;
+        vis_ipsr_o      : out    vl_logic_vector(5 downto 0);
+        vis_control_o   : out    vl_logic;
+        vis_primask_o   : out    vl_logic
+    );
+end cortexm0ds_logic;
