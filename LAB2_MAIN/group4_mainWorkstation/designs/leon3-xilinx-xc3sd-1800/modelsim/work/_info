@@ -4,7 +4,7 @@ K3
 cModel Technology
 Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
 Eahb_bridge
-Z1 w1666558700
+Z1 w1666566638
 Z2 DPx6 unisim 11 vcomponents 0 22 hMjo2zK]ScI_H][A^HPNj0
 Z3 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
 Z4 DPx7 gaisler 4 misc 0 22 d6SO014Ae7CN46I_AT_L73
@@ -24,7 +24,7 @@ L20
 VkiA4fPaUmAYObzcabT<5c0
 Z16 OL;C;10.1c;51
 31
-Z17 !s108 1666559982.864000
+Z17 !s108 1666567046.093000
 Z18 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd|
 Z19 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahb_bridge.vhd|
 Z20 o-work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5
@@ -46,7 +46,7 @@ R12
 DEx4 work 10 ahb_bridge 0 22 kiA4fPaUmAYObzcabT<5c0
 l101
 L40
-Vn]2No5cWXD8ei_A`E5zho2
+VGD[OZMlR<?1BN_9RoM?F52
 R16
 31
 R17
@@ -54,10 +54,12 @@ R18
 R19
 R20
 R21
-!s100 OY>_>PkY54[iE`UDdIMkG2
+!s100 5PL1GSNOfV?ddVBkmL@<j1
 !i10b 1
-Eahbrom
-Z22 w1666526285
+Eahbmst
+Z22 w1666566855
+R3
+R4
 R5
 R6
 R7
@@ -67,18 +69,67 @@ R9
 R11
 R12
 R13
-Z23 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
-Z24 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+Z23 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd
+Z24 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd
+l0
+L35
+VPoezZLV4Y2B_Fd;:X;DQU3
+!s100 ML1_Oem3>aDBgAKcTndWB3
+R16
+31
+!i10b 1
+Z25 !s108 1666567046.827000
+Z26 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd|
+Z27 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbmst.vhd|
+R20
+R21
+Artl
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+Z28 DEx4 work 6 ahbmst 0 22 PoezZLV4Y2B_Fd;:X;DQU3
+l69
+L54
+Z29 VJJXS_[[K6^h]dGHjN6d[22
+Z30 !s100 GWlTZbV2mmmRHedQb1G]O1
+R16
+31
+!i10b 1
+R25
+R26
+R27
+R20
+R21
+Eahbrom
+Z31 w1666526285
+R5
+R6
+R7
+R8
+R10
+R9
+R11
+R12
+R13
+Z32 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+Z33 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
 l0
 L23
 V;<37X2B14EY1B0I>:b]0D1
 R16
 31
-Z25 !s108 1666559982.620000
-Z26 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
-Z27 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
-Z28 !s102 -cover s
-Z29 o-work work -93 -source -nowarn 1 -nowarn 5 -cover s
+Z34 !s108 1666567045.856000
+Z35 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
+Z36 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
+Z37 !s102 -cover s
+Z38 o-work work -93 -source -nowarn 1 -nowarn 5 -cover s
 R21
 !s100 4g[N<L57TKQB_k2E:8BIJ1
 !i10b 1
@@ -91,22 +142,22 @@ R10
 R9
 R11
 R12
-Z30 DEx4 work 6 ahbrom 0 22 ;<37X2B14EY1B0I>:b]0D1
+Z39 DEx4 work 6 ahbrom 0 22 ;<37X2B14EY1B0I>:b]0D1
 l51
 L39
 V;=Ao:W_HYX9;oIUHidj_V1
 R16
 31
-R25
-R26
-R27
-R28
-R29
+R34
+R35
+R36
+R37
+R38
 R21
 !s100 a8d>SYKe:SU7fTe?K1:O=3
 !i10b 1
 Ecm0_wrapper
-Z31 w1666526218
+Z40 w1666526218
 R2
 R3
 R4
@@ -119,16 +170,16 @@ R10
 R11
 R12
 R13
-Z32 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd
-Z33 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd
+Z41 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd
+Z42 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd
 l0
 L27
 VDh7iU@6jNH;Z8m7FCc6H03
 R16
 31
-Z34 !s108 1666559982.959000
-Z35 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd|
-Z36 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd|
+Z43 !s108 1666567046.186000
+Z44 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd|
+Z45 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cm0_wrapper.vhd|
 R20
 R21
 !s100 >N^GT7EV01[0B0=VTbY?o1
@@ -151,9 +202,9 @@ L42
 V:S?ej_GabODX<LQ9:B7?:0
 R16
 31
-R34
-R35
-R36
+R43
+R44
+R45
 R20
 R21
 !s100 ZT15S]_LGb5zjb8nl4Ogz2
@@ -176,81 +227,81 @@ L16
 VPCRYc^f^U^F0oVEieO<d<1
 R16
 31
-R28
-R29
+R37
+R38
 R21
 !s100 H5zDEl:od_zZBhEfTK4dR2
 !i10b 1
-!s108 1666559982.556000
+!s108 1666567045.792000
 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/config.vhd|
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/config.vhd|
 vCORTEXM0DS
 IB3Q3L^o7cl8X>e<`1icAk2
 V1L6Qg_jd`_h[58QfX:Ek]0
 R13
-Z37 w1666036912
+Z46 w1666036912
 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v
 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v
 L0 27
-Z38 OL;L;10.1c;51
+Z47 OL;L;10.1c;51
 r1
 31
-Z39 o-work work -quiet
-Z40 tQuiet 1
+Z48 o-work work -quiet
+Z49 tQuiet 1
 n@c@o@r@t@e@x@m0@d@s
 !i10b 1
 !s100 :E@@L52jU[7?;HSb?I<^f0
 !s85 0
-!s108 1666559983.349000
+!s108 1666567046.522000
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v|
 !s90 -reportprogress|300|-work|work|-quiet|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/CORTEXM0DS.v|
 vcortexm0ds_logic
-!i10b 1
-!s100 n_`OTilX0o7W9`<R16lge2
 I:0a0Ed2`m>@^6>i_RMi;m2
 V^^SAMV@Xd[IRUm[K>SzZ<3
 R13
-R37
+R46
 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v
 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v
 L0 27
-R38
+R47
 r1
-!s85 0
 31
-!s108 1666559983.401000
+R48
+R49
+!i10b 1
+!s100 n_`OTilX0o7W9`<R16lge2
+!s85 0
+!s108 1666567046.580000
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v|
 !s90 -reportprogress|300|-work|work|-quiet|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/cortexm0ds_logic.v|
-R39
-R40
 Ecpu_disas
-Z41 w1666036631
-Z42 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
-Z43 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
+Z50 w1666036631
+Z51 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
+Z52 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
 R6
 R7
 R10
 R11
 R12
 R13
-Z44 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd
-Z45 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd
+Z53 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd
+Z54 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd
 l0
 L36
 VKSPGb^5EA4QbYK1?`0j;g3
 R16
 31
-Z46 !s108 1666559982.473000
-Z47 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd|
-Z48 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd|
-R28
-R29
+Z55 !s108 1666567045.723000
+Z56 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd|
+Z57 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd|
+R37
+R38
 R21
 !s100 BJa8WZ>[MW<0jk;aRCm[b3
 !i10b 1
 Abehav
-R42
-R43
+R51
+R52
 R6
 R7
 R10
@@ -262,16 +313,16 @@ L52
 V3FV2Aa?L][Aoia[fmHSJA1
 R16
 31
-R46
-R47
-R48
-R28
-R29
+R55
+R56
+R57
+R37
+R38
 R21
 !s100 _[5c318P4X`G5CVS_UE0d0
 !i10b 1
 Edata_swapper
-Z49 w1666526221
+Z58 w1666526221
 R2
 R3
 R4
@@ -284,16 +335,16 @@ R10
 R11
 R12
 R13
-Z50 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd
-Z51 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd
+Z59 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd
+Z60 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd
 l0
 L73
 V<JWS@3O[<SEJW7CzJfR:f3
 R16
 31
-Z52 !s108 1666559983.054000
-Z53 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd|
-Z54 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd|
+Z61 !s108 1666567046.274000
+Z62 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd|
+Z63 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/data_swapper.vhd|
 R20
 R21
 !s100 ^VIjIT@iA2;]ACQc`QUiE3
@@ -316,9 +367,9 @@ L80
 V2KOV9C41kd<C>@UgCJIRf1
 R16
 31
-R52
-R53
-R54
+R61
+R62
+R63
 R20
 R21
 !s100 3:QdH3>jYGe?<DkW]XSn22
@@ -331,7 +382,7 @@ R10
 R9
 R11
 R12
-R41
+R50
 R13
 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd
 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd
@@ -340,30 +391,30 @@ L31
 VUKYDnZfS:aT>_415YS@3F3
 R16
 31
-R28
-R29
+R37
+R38
 R21
 !s100 >2?o60cYoUCRdY1PWEJzg3
 !i10b 1
-!s108 1666559982.341000
+!s108 1666567045.593000
 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd|
 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd|
 Edetectorbus
-Z55 w1666526200
+Z64 w1666526200
 R2
 R11
 R12
 R13
-Z56 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
-Z57 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
+Z65 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
+Z66 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd
 l0
 L19
 VJCNRAdUCiME3VWRQBJGA^2
 R16
 31
-Z58 !s108 1666559983.176000
-Z59 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd|
-Z60 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd|
+Z67 !s108 1666567046.365000
+Z68 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd|
+Z69 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/detectorbus.vhd|
 R20
 R21
 !s100 _4E[66Yz?M2@1BPRLD7F91
@@ -378,41 +429,41 @@ L25
 V:05e8KzVjZZabJ=;zILP43
 R16
 31
-R58
-R59
-R60
+R67
+R68
+R69
 R20
 R21
 !s100 fYjEKCjCOQ>e?Ued3_JU^1
 !i10b 1
 Egaisler_cpu_disas
-R41
-R42
-R43
+R50
+R51
+R52
 R6
 R7
 R10
 R11
 R12
 R13
-R44
-R45
+R53
+R54
 l0
 L89
 V1bnSY07l=LAeE^Y@<zf;X2
 R16
 31
-R46
-R47
-R48
-R28
-R29
+R55
+R56
+R57
+R37
+R38
 R21
 !s100 GdTf>db1P?1Ge2jaiM^=_2
 !i10b 1
 Abehav
-R42
-R43
+R51
+R52
 R6
 R7
 R10
@@ -424,39 +475,39 @@ L105
 VTEzZ8I?>1kOB^_LMKZhJ`2
 R16
 31
-R46
-R47
-R48
-R28
-R29
+R55
+R56
+R57
+R37
+R38
 R21
 !s100 EN]aXPjQkkL?_a;J3E9Tg3
 !i10b 1
 Egrtestmod
-R41
+R50
 R5
 R8
 R9
-Z61 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+Z70 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
 R6
 R10
 R7
-Z62 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+Z71 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
 R11
 R12
 R13
-Z63 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd
-Z64 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd
+Z72 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd
+Z73 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd
 l0
 L67
 VKT[OzK0Qn>XD0d4Tb[@C12
 R16
 31
-Z65 !s108 1666559982.400000
-Z66 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd|
-Z67 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd|
-R28
-R29
+Z74 !s108 1666567045.647000
+Z75 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd|
+Z76 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd|
+R37
+R38
 R21
 !s100 4SPzUf^QXfCEGK>k[4z1Q2
 !i10b 1
@@ -464,11 +515,11 @@ Asim
 R5
 R8
 R9
-R61
+R70
 R6
 R10
 R7
-R62
+R71
 R11
 R12
 DEx4 work 9 grtestmod 0 22 KT[OzK0Qn>XD0d4Tb[@C12
@@ -477,25 +528,25 @@ L86
 VoSXHHU]zPSgb?FZZaQ0_A2
 R16
 31
-R65
-R66
-R67
-R28
-R29
+R74
+R75
+R76
+R37
+R38
 R21
 !s100 E14S8M[?:IanSi`C7hCMk1
 !i10b 1
 Eleon3mp
-Z68 w1666526242
-Z69 DPx4 work 6 config 0 22 PCRYc^f^U^F0oVEieO<d<1
-Z70 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
-Z71 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
-Z72 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
+Z77 w1666526242
+Z78 DPx4 work 6 config 0 22 PCRYc^f^U^F0oVEieO<d<1
+Z79 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
+Z80 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
+Z81 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
 R4
-Z73 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
-Z74 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
-Z75 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
-Z76 DPx7 techmap 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
+Z82 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
+Z83 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
+Z84 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
+Z85 DPx7 techmap 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
 R3
 R5
 R6
@@ -506,32 +557,32 @@ R9
 R11
 R12
 R13
-Z77 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
-Z78 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+Z86 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+Z87 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
 l0
 L50
 V<Mdkm]JbOWCgdR?VE_@Bn3
 R16
 31
-Z79 !s108 1666559982.687000
-Z80 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
-Z81 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
-R28
-R29
+Z88 !s108 1666567045.922000
+Z89 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
+Z90 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
+R37
+R38
 R21
 !s100 7<1D9Zd3;gOCoWzf4FF[]0
 !i10b 1
 Artl
-R30
-R69
-R70
-R71
-R72
+R39
+R78
+R79
+R80
+R81
 R4
-R73
-R74
-R75
-R76
+R82
+R83
+R84
+R85
 R3
 R5
 R6
@@ -541,22 +592,22 @@ R10
 R9
 R11
 R12
-Z82 DEx4 work 7 leon3mp 0 22 <Mdkm]JbOWCgdR?VE_@Bn3
+Z91 DEx4 work 7 leon3mp 0 22 <Mdkm]JbOWCgdR?VE_@Bn3
 l232
 L135
 VD1OYL=g3]VfXaV`Fe^TUe3
 R16
 31
-R79
-R80
-R81
-R28
-R29
+R88
+R89
+R90
+R37
+R38
 R21
 !s100 P3Z1Nlmgb39Bi65JfI27`0
 !i10b 1
 Estate_machine
-Z83 w1666558708
+Z92 w1666558708
 R2
 R3
 R4
@@ -569,16 +620,16 @@ R10
 R11
 R12
 R13
-Z84 8W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\state_machine.vhd
-Z85 FW:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\state_machine.vhd
+Z93 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd
+Z94 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd
 l0
 L71
 V`RTaiFS:IRV3jA?[jkXca2
 R16
 31
-Z86 !s108 1666559983.255000
-Z87 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\state_machine.vhd|
-Z88 !s107 W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800\state_machine.vhd|
+Z95 !s108 1666567046.433000
+Z96 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd|
+Z97 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/state_machine.vhd|
 R20
 R21
 !s100 UeQ3c>`k]>nSP0g4V>X;_3
@@ -601,75 +652,75 @@ L92
 VH<l>MN8]IN3>k`XFgSfVQ1
 R16
 31
-R86
-R87
-R88
+R95
+R96
+R97
 R20
 R21
 !s100 gdG6J<ci_B1kIYa]X`0Nk2
 !i10b 1
 Etestbench
-R41
-R69
-Z89 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
-Z90 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
-Z91 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
-Z92 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
-R61
-R62
+R50
+R78
+Z98 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
+Z99 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
+Z100 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
+Z101 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
+R70
+R71
 R3
 R5
 R4
-R73
+R82
 R6
 R7
 R8
 R10
 R9
-Z93 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+Z102 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
 R11
 R12
 R13
-Z94 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
-Z95 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z103 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z104 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
 l0
 L42
 VQWHaMiY@PTmT?P5U?[MI_1
 R16
 31
-Z96 !s108 1666559982.775000
-Z97 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
-Z98 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
-R28
-R29
+Z105 !s108 1666567046.007000
+Z106 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z107 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+R37
+R38
 R21
 !s100 hdYXOz[00TYb6Ac2n@MoH2
 !i10b 1
 Abehav
+R79
+R80
+R81
+R83
+R84
+R85
+R91
+R78
+R98
+R99
+R100
+R101
 R70
 R71
-R72
-R74
-R75
-R76
-R82
-R69
-R89
-R90
-R91
-R92
-R61
-R62
 R3
 R5
 R4
-R73
+R82
 R6
 R7
 R8
 R10
 R9
-R93
+R102
 R11
 R12
 DEx4 work 9 testbench 0 22 QWHaMiY@PTmT?P5U?[MI_1
@@ -678,11 +729,11 @@ L55
 V;FBK2MR[S>BiZ@^9KzJn83
 R16
 31
-R96
-R97
-R98
-R28
-R29
+R105
+R106
+R107
+R37
+R38
 R21
 !s100 oNML2<9bl:4K:>:[J00IJ0
 !i10b 1

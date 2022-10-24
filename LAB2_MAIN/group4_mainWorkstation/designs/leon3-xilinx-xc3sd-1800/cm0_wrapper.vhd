@@ -142,7 +142,7 @@ begin
     HRESP => '0',
     -- MISCELLANEOUS
     NMI => '0',
-    IRQ => x"0000",
+    IRQ => "0000000000000000",
     TXEV => open,
     RXEV => '0',
     LOCKUP => open,
