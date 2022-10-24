@@ -12,10 +12,10 @@ Z5 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
 Z6 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
 Z7 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z8 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
-Z9 w1666036631
-Z10 dW:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd
+Z9 w1666629531
+Z10 dW:\Modelsim\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd
 l0
 L31
 Vce2LeHMGTnQzYoUO:1^;W3
@@ -26,9 +26,9 @@ Z13 o-work techmap -93 -source -nowarn 1 -nowarn 5 -cover s
 Z14 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
 !s100 jeS293HnBMmzX?;0T4]>]3
 !i10b 1
-!s108 1666629906.709000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd|
+!s108 1666630361.150000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allclkgen.vhd|
 Pallddr
 R1
 R2
@@ -40,8 +40,8 @@ R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd
 l0
 L31
 VFG[AX:c_PloIYDN;fz6K52
@@ -52,16 +52,16 @@ R13
 R14
 !s100 bCcL0>9LGg7QCnZi8imkm3
 !i10b 1
-!s108 1666629906.793000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd|
+!s108 1666630361.212000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allddr.vhd|
 Pallmem
 R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd
 l0
 L29
 V;V_Z@8eCU4^Tm2XnPLJZ^1
@@ -72,16 +72,16 @@ R13
 R14
 !s100 oQlXYY2L`e4P;8:6ghJU]2
 !i10b 1
-!s108 1666629906.865000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd|
+!s108 1666630361.275000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmem.vhd|
 Pallmul
 R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd
 l0
 L29
 VmbbR@APd`XJfe6l?hNeYQ3
@@ -92,9 +92,9 @@ R13
 R14
 !s100 PBE44goDV9cn6g`iVmLE]2
 !i10b 1
-!s108 1666629906.922000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd|
+!s108 1666630361.329000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allmul.vhd|
 Pallpads
 R1
 R2
@@ -106,8 +106,8 @@ R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd
 l0
 L31
 VGEG?UbQzAC?z37lXhMR531
@@ -118,16 +118,16 @@ R13
 R14
 !s100 KZmP8ede25H3kdm6PeEES0
 !i10b 1
-!s108 1666629906.970000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd|
+!s108 1666630361.380000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/allpads.vhd|
 Palltap
 R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd
 l0
 L30
 V<A1CDhZI`3>P9]XQJ_5101
@@ -138,9 +138,9 @@ R13
 R14
 !s100 VG5SM^5KfB`TZjAal9c:W1
 !i10b 1
-!s108 1666629907.031000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd|
+!s108 1666630361.445000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/alltap.vhd|
 Eclkand
 R9
 Z15 DPx4 work 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
@@ -153,16 +153,16 @@ Z16 DPx4 work 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
 R7
 R8
 R10
-Z17 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd
-Z18 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd
+Z17 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd
+Z18 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd
 l0
 L31
 Vi:V2cfCFil]G5d6fDlDh10
 R11
 31
-Z19 !s108 1666629907.221000
-Z20 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd|
-Z21 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd|
+Z19 !s108 1666630361.646000
+Z20 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd|
+Z21 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkand.vhd|
 R12
 R13
 R14
@@ -198,16 +198,16 @@ Z22 DEx6 unisim 7 bufgmux 0 22 A<MCIU4Y@XhTAHXi3=Coj0
 R7
 R8
 R10
-Z23 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd
-Z24 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd
+Z23 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd
+Z24 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd
 l0
 L925
 VeBdLXGH>]g5oDDDlOOk<H1
 R11
 31
-Z25 !s108 1666629899.231000
-Z26 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd|
-Z27 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd|
+Z25 !s108 1666630359.519000
+Z26 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd|
+Z27 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/clkgen_unisim.vhd|
 R12
 R13
 R14
@@ -238,16 +238,16 @@ R22
 R7
 R8
 R10
-Z30 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd
-Z31 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd
+Z30 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd
+Z31 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd
 l0
 L34
 Vm]1_CY9l;Vll2IhzE;d2D2
 R11
 31
-Z32 !s108 1666629898.904000
-Z33 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd|
-Z34 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd|
+Z32 !s108 1666630359.215000
+Z33 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd|
+Z34 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/buffer_unisim.vhd|
 R12
 R13
 R14
@@ -282,16 +282,16 @@ R6
 R7
 R8
 R10
-Z36 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd
-Z37 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd
+Z36 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd
+Z37 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd
 l0
 L32
 VZi^aP:BL>=Ieibg8jlRWh2
 R11
 31
-Z38 !s108 1666629907.080000
-Z39 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd|
-Z40 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd|
+Z38 !s108 1666630361.501000
+Z39 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd|
+Z40 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkgen.vhd|
 R12
 R13
 R14
@@ -602,16 +602,16 @@ R16
 R7
 R8
 R10
-Z46 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd
-Z47 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd
+Z46 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd
+Z47 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd
 l0
 L31
 VEb[KcHzX8@ek^OOM<RkG<1
 R11
 31
-Z48 !s108 1666629907.146000
-Z49 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd|
-Z50 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd|
+Z48 !s108 1666630361.576000
+Z49 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd|
+Z50 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkmux.vhd|
 R12
 R13
 R14
@@ -729,16 +729,16 @@ R6
 R7
 R8
 R10
-Z52 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd
-Z53 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd
+Z52 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd
+Z53 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd
 l0
 L32
 VS9K=[NmV9Ro2@nU=BWh_n0
 R11
 31
-Z54 !s108 1666629908.170000
-Z55 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd|
-Z56 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd|
+Z54 !s108 1666630362.611000
+Z55 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd|
+Z56 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad.vhd|
 R12
 R13
 R14
@@ -780,16 +780,16 @@ R6
 R7
 R8
 R10
-Z57 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd
-Z58 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd
+Z57 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd
+Z58 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd
 l0
 L32
 VhU1d3gYYjT@=<bNQH7__a2
 R11
 31
-Z59 !s108 1666629908.236000
-Z60 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd|
-Z61 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd|
+Z59 !s108 1666630362.682000
+Z60 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd|
+Z61 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/clkpad_ds.vhd|
 R12
 R13
 R14
@@ -880,16 +880,16 @@ R2
 R7
 R8
 R10
-Z64 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd
-Z65 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd
+Z64 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd
+Z65 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd
 l0
 L35
 VMz`YhQlFPAzofP=5iK>8N3
 R11
 31
-Z66 !s108 1666629909.674000
-Z67 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd|
-Z68 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd|
+Z66 !s108 1666630364.132000
+Z67 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd|
+Z68 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/cpu_disas_net.vhd|
 R12
 R13
 R14
@@ -929,16 +929,16 @@ R2
 R7
 R8
 R10
-Z70 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd
-Z71 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd
+Z70 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd
+Z71 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd
 l0
 L223
 VoBM[aJBHeNZE]O82@8MNN2
 R11
 31
-Z72 !s108 1666629907.456000
-Z73 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd|
-Z74 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd|
+Z72 !s108 1666630361.870000
+Z73 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd|
+Z74 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddrphy.vhd|
 R12
 R13
 R14
@@ -980,16 +980,16 @@ R6
 R7
 R8
 R10
-Z75 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd
-Z76 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd
+Z75 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd
+Z76 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd
 l0
 L31
 V4XjPa9eRYZ18I^i[a_izL1
 R11
 31
-Z77 !s108 1666629907.308000
-Z78 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd|
-Z79 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd|
+Z77 !s108 1666630361.729000
+Z78 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd|
+Z79 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_ireg.vhd|
 R12
 R13
 R14
@@ -1031,16 +1031,16 @@ R6
 R7
 R8
 R10
-Z80 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd
-Z81 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd
+Z80 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd
+Z81 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd
 l0
 L31
 VJQV8CROnz5>>76MblTgBb3
 R11
 31
-Z82 !s108 1666629907.378000
-Z83 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd|
-Z84 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd|
+Z82 !s108 1666630361.801000
+Z83 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd|
+Z84 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ddr_oreg.vhd|
 R12
 R13
 R14
@@ -1130,16 +1130,16 @@ Z88 DPx5 dware 10 dwpackages 0 22 >WR`7h5N_cLWa>U[;H75@2
 R7
 R8
 R10
-Z89 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd
-Z90 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd
+Z89 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd
+Z90 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd
 l0
 L77
 V?Am=TTYCl_OH_KPmMndSC3
 R11
 31
-Z91 !s108 1666629898.660000
-Z92 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd|
-Z93 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd|
+Z91 !s108 1666630358.938000
+Z92 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd|
+Z93 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/dware/mul_dware.vhd|
 R12
 R13
 R14
@@ -1218,16 +1218,16 @@ R9
 R7
 R8
 R10
-Z94 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd
-Z95 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd
+Z94 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd
+Z95 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd
 l0
 L86
 VgjAnN5Z9nc<_HIe`8MYnb0
 R11
 31
-Z96 !s108 1666629898.536000
-Z97 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd|
-Z98 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd|
+Z96 !s108 1666630358.805000
+Z97 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd|
+Z98 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_phy_inferred.vhd|
 R12
 R13
 R14
@@ -1329,16 +1329,16 @@ R9
 R7
 R8
 R10
-Z99 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd
-Z100 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd
+Z99 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd
+Z100 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd
 l0
 L29
 V]4FlTzMEORKUY=I^c]WY]0
 R11
 31
-Z101 !s108 1666629898.403000
-Z102 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd|
-Z103 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd|
+Z101 !s108 1666630358.663000
+Z102 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd|
+Z103 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/ddr_inferred.vhd|
 R12
 R13
 R14
@@ -1369,16 +1369,16 @@ R4
 R7
 R8
 R10
-Z104 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd
-Z105 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd
+Z104 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd
+Z105 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd
 l0
 L32
 VGBlEhL7=BCAAGAA2YCo8U0
 R11
 31
-Z106 !s108 1666629898.458000
-Z107 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd|
-Z108 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd|
+Z106 !s108 1666630358.724000
+Z107 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd|
+Z108 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/mul_inferred.vhd|
 R12
 R13
 R14
@@ -1459,8 +1459,8 @@ R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd
 l0
 L31
 VfA@NZ:l4lLPzZlfC6BX<H0
@@ -1471,9 +1471,9 @@ R13
 R14
 !s100 dGefN0<WWFXWPD>LcI21h3
 !i10b 1
-!s108 1666629898.141000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd|
+!s108 1666630358.401000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/gencomp.vhd|
 Egeneric_ddr2_phy
 R9
 R1
@@ -1580,16 +1580,16 @@ R2
 R7
 R8
 R10
-Z110 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd
-Z111 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd
+Z110 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd
+Z111 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd
 l0
 L219
 V7T00EeeY=kGFm9fdFOj5;0
 R11
 31
-Z112 !s108 1666629898.272000
-Z113 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd|
-Z114 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd|
+Z112 !s108 1666630358.530000
+Z113 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd|
+Z114 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/inferred/memory_inferred.vhd|
 R12
 R13
 R14
@@ -1841,16 +1841,16 @@ R16
 R7
 R8
 R10
-Z115 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd
-Z116 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd
+Z115 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd
+Z116 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd
 l0
 L31
 VQC3HhGinJSa94H3W8C9oU1
 R11
 31
-Z117 !s108 1666629909.473000
-Z118 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd|
-Z119 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd|
+Z117 !s108 1666630363.920000
+Z118 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd|
+Z119 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grfpw_net.vhd|
 R12
 R13
 R14
@@ -1890,16 +1890,16 @@ R16
 R7
 R8
 R10
-Z120 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd
-Z121 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd
+Z120 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd
+Z121 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd
 l0
 L31
 V=AXUBkYXj1b]o`@=V1B]b3
 R11
 31
-Z122 !s108 1666629909.408000
-Z123 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd|
-Z124 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd|
+Z122 !s108 1666630363.851000
+Z123 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd|
+Z124 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grlfpw_net.vhd|
 R12
 R13
 R14
@@ -1940,16 +1940,16 @@ R6
 R7
 R8
 R10
-Z125 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd
-Z126 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd
+Z125 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd
+Z126 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd
 l0
 L31
 V]mcQ_UL=4FRg_?2[Ql]kd2
 R11
 31
-Z127 !s108 1666629910.036000
-Z128 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd|
-Z129 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd|
+Z127 !s108 1666630364.509000
+Z128 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd|
+Z129 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grgates.vhd|
 R12
 R13
 R14
@@ -1990,16 +1990,16 @@ R6
 R7
 R8
 R10
-Z130 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd
-Z131 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd
+Z130 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd
+Z131 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd
 l0
 L31
 V20FFCiCe5STOWzeo4kzDP2
 R11
 31
-Z132 !s108 1666629909.341000
-Z133 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd|
-Z134 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd|
+Z132 !s108 1666630363.779000
+Z133 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd|
+Z134 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc2_net.vhd|
 R12
 R13
 R14
@@ -2033,16 +2033,16 @@ R9
 R7
 R8
 R10
-Z135 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd
-Z136 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd
+Z135 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd
+Z136 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd
 l0
 L30
 VNF6zgaM<S_<E@`RGkZE930
 R11
 31
-Z137 !s108 1666629905.768000
-Z138 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd|
-Z139 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd|
+Z137 !s108 1666630360.182000
+Z138 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd|
+Z139 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc2_unisim.vhd|
 R12
 R13
 R14
@@ -2076,16 +2076,16 @@ R6
 R7
 R8
 R10
-Z140 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd
-Z141 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd
+Z140 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd
+Z141 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd
 l0
 L31
 V2<>9EHe4]gLTPe=2j0dRC3
 R11
 31
-Z142 !s108 1666629909.270000
-Z143 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd|
-Z144 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd|
+Z142 !s108 1666630363.707000
+Z143 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd|
+Z144 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grspwc_net.vhd|
 R12
 R13
 R14
@@ -2119,16 +2119,16 @@ R9
 R7
 R8
 R10
-Z145 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd
-Z146 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd
+Z145 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd
+Z146 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd
 l0
 L30
 V?9[C<kT7R7c6HGGX6n4V;2
 R11
 31
-Z147 !s108 1666629905.707000
-Z148 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd|
-Z149 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd|
+Z147 !s108 1666630360.116000
+Z148 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd|
+Z149 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grspwc_unisim.vhd|
 R12
 R13
 R14
@@ -2162,16 +2162,16 @@ R6
 R7
 R8
 R10
-Z150 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd
-Z151 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd
+Z150 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd
+Z151 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd
 l0
 L30
 VQ=P9TeAmOd;J?ccZaHafo0
 R11
 31
-Z152 !s108 1666629909.744000
-Z153 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd|
-Z154 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd|
+Z152 !s108 1666630364.205000
+Z153 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd|
+Z154 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/grusbhc_net.vhd|
 R12
 R13
 R14
@@ -2211,16 +2211,16 @@ R6
 R7
 R8
 R10
-Z155 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd
-Z156 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd
+Z155 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd
+Z156 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd
 l0
 L40
 V?[hQcNU@BNOl7jQMg]PoW0
 R11
 31
-Z157 !s108 1666629905.827000
-Z158 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd|
-Z159 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd|
+Z157 !s108 1666630360.243000
+Z158 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd|
+Z159 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/grusbhc_unisim.vhd|
 R12
 R13
 R14
@@ -2261,16 +2261,16 @@ R6
 R7
 R8
 R10
-Z160 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd
-Z161 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd
+Z160 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd
+Z161 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd
 l0
 L32
 V>QzzSRjNb[]ENn<3^g71l1
 R11
 31
-Z162 !s108 1666629908.302000
-Z163 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd|
-Z164 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd|
+Z162 !s108 1666630362.752000
+Z163 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd|
+Z164 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad.vhd|
 R12
 R13
 R14
@@ -2313,16 +2313,16 @@ R6
 R7
 R8
 R10
-Z165 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd
-Z166 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd
+Z165 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd
+Z166 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd
 l0
 L35
 VQ:Vi5NQGm4bhM:DzzoWW32
 R11
 31
-Z167 !s108 1666629910.104000
-Z168 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd|
-Z169 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd|
+Z167 !s108 1666630364.584000
+Z168 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd|
+Z169 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ddr.vhd|
 R12
 R13
 R14
@@ -2414,16 +2414,16 @@ R6
 R7
 R8
 R10
-Z170 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd
-Z171 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd
+Z170 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd
+Z171 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd
 l0
 L32
 VZ?=hFb1LCPDz7GoGRR`L43
 R11
 31
-Z172 !s108 1666629908.382000
-Z173 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd|
-Z174 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd|
+Z172 !s108 1666630362.837000
+Z173 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd|
+Z174 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/inpad_ds.vhd|
 R12
 R13
 R14
@@ -2563,16 +2563,16 @@ R6
 R7
 R8
 R10
-Z175 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd
-Z176 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd
+Z175 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd
+Z176 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd
 l0
 L32
 VYW]<3[Ub85n;3AfTF@ma70
 R11
 31
-Z177 !s108 1666629908.464000
-Z178 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd|
-Z179 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd|
+Z177 !s108 1666630362.920000
+Z178 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd|
+Z179 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iodpad.vhd|
 R12
 R13
 R14
@@ -2663,16 +2663,16 @@ R6
 R7
 R8
 R10
-Z180 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd
-Z181 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd
+Z180 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd
+Z181 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd
 l0
 L32
 VRX2X][PWNAJ>eK;PJZ`KC3
 R11
 31
-Z182 !s108 1666629908.555000
-Z183 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd|
-Z184 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd|
+Z182 !s108 1666630363.008000
+Z183 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd|
+Z184 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad.vhd|
 R12
 R13
 R14
@@ -2715,16 +2715,16 @@ R6
 R7
 R8
 R10
-Z185 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd
-Z186 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd
+Z185 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd
+Z186 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd
 l0
 L35
 Vm?<jUW^X5Nd94<fM<AKcI0
 R11
 31
-Z187 !s108 1666629910.274000
-Z188 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd|
-Z189 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd|
+Z187 !s108 1666630364.755000
+Z188 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd|
+Z189 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ddr.vhd|
 R12
 R13
 R14
@@ -2865,16 +2865,16 @@ R6
 R7
 R8
 R10
-Z190 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd
-Z191 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd
+Z190 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd
+Z191 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd
 l0
 L32
 VTlba^z24Jc9hRW1J3JWA32
 R11
 31
-Z192 !s108 1666629908.671000
-Z193 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd|
-Z194 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd|
+Z192 !s108 1666630363.106000
+Z193 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd|
+Z194 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/iopad_ds.vhd|
 R12
 R13
 R14
@@ -3112,16 +3112,16 @@ R5
 R7
 R8
 R10
-Z196 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd
-Z197 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd
+Z196 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd
+Z197 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd
 l0
 L28
 VzUB1<7V`M`5B]8MkX60VW3
 R11
 31
-Z198 !s108 1666629909.544000
-Z199 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd|
-Z200 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd|
+Z198 !s108 1666630363.990000
+Z199 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd|
+Z200 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/leon4_net.vhd|
 R12
 R13
 R14
@@ -3163,16 +3163,16 @@ R6
 R7
 R8
 R10
-Z201 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd
-Z202 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd
+Z201 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd
+Z202 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd
 l0
 L32
 V@N9Wgoz`U[1`SelLMi[`W0
 R11
 31
-Z203 !s108 1666629908.776000
-Z204 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd|
-Z205 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd|
+Z203 !s108 1666630363.205000
+Z204 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd|
+Z205 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/lvds_combo.vhd|
 R12
 R13
 R14
@@ -3213,16 +3213,16 @@ R6
 R7
 R8
 R10
-Z206 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd
-Z207 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd
+Z206 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd
+Z207 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd
 l0
 L31
 VSWKF]I:kg<io=`A1HgiDL0
 R11
 31
-Z208 !s108 1666629909.611000
-Z209 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd|
-Z210 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd|
+Z208 !s108 1666630364.060000
+Z209 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd|
+Z210 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/mul_61x61.vhd|
 R12
 R13
 R14
@@ -3307,16 +3307,16 @@ R6
 R7
 R8
 R10
-Z211 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd
-Z212 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd
+Z211 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd
+Z212 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd
 l0
 L30
 VEaScl^QO<:MW@h0A1D^Tf3
 R11
 31
-Z213 !s108 1666629908.104000
-Z214 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd|
-Z215 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd|
+Z213 !s108 1666630362.542000
+Z214 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd|
+Z215 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/nandtree.vhd|
 R12
 R13
 R14
@@ -3356,8 +3356,8 @@ R7
 R8
 R9
 R10
-8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd
-FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd
+8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd
+FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd
 l0
 L32
 VOWgRMf4Taz>X_3j0e_Ge90
@@ -3368,9 +3368,9 @@ R13
 R14
 !s100 Il4K5:E87QhmPbMcCT^fh3
 !i10b 1
-!s108 1666629898.206000
-!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd|
-!s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd|
+!s108 1666630358.466000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd|
+!s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/gencomp/netcomp.vhd|
 Eoddrc3e
 R9
 R42
@@ -3385,16 +3385,16 @@ R6
 R7
 R8
 R10
-Z218 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd
-Z219 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd
+Z218 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd
+Z219 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd
 l0
 L347
 Vi7kmG:UVGU8eQJ42i6WRA2
 R11
 31
-Z220 !s108 1666629905.391000
-Z221 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd|
-Z222 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd|
+Z220 !s108 1666630359.827000
+Z221 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd|
+Z222 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_unisim.vhd|
 R12
 R13
 R14
@@ -3487,16 +3487,16 @@ R6
 R7
 R8
 R10
-Z224 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd
-Z225 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd
+Z224 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd
+Z225 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd
 l0
 L32
 V8[SKL]]CKCdP4Z^I:5L[`0
 R11
 31
-Z226 !s108 1666629908.852000
-Z227 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd|
-Z228 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd|
+Z226 !s108 1666630363.278000
+Z227 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd|
+Z228 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/odpad.vhd|
 R12
 R13
 R14
@@ -3587,16 +3587,16 @@ R6
 R7
 R8
 R10
-Z229 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd
-Z230 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd
+Z229 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd
+Z230 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd
 l0
 L32
 Vf2ZO3=4iRbkQS]A>U4FT63
 R11
 31
-Z231 !s108 1666629908.941000
-Z232 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd|
-Z233 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd|
+Z231 !s108 1666630363.360000
+Z232 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd|
+Z233 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad.vhd|
 R12
 R13
 R14
@@ -3639,16 +3639,16 @@ R6
 R7
 R8
 R10
-Z234 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd
-Z235 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd
+Z234 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd
+Z235 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd
 l0
 L36
 VW>Jj^aS]DBWfP]H16GhW81
 R11
 31
-Z236 !s108 1666629910.187000
-Z237 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd|
-Z238 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd|
+Z236 !s108 1666630364.669000
+Z237 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd|
+Z238 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ddr.vhd|
 R12
 R13
 R14
@@ -3740,16 +3740,16 @@ R6
 R7
 R8
 R10
-Z239 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd
-Z240 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd
+Z239 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd
+Z240 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd
 l0
 L32
 V:4dA]m@J`>R8oZIG4Ff4L0
 R11
 31
-Z241 !s108 1666629909.022000
-Z242 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd|
-Z243 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd|
+Z241 !s108 1666630363.445000
+Z242 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd|
+Z243 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/outpad_ds.vhd|
 R12
 R13
 R14
@@ -3889,16 +3889,16 @@ R6
 R7
 R8
 R10
-Z245 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd
-Z246 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd
+Z245 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd
+Z246 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd
 l0
 L32
 VTF8Oo:o2@BP_Nf<=G]<k]2
 R11
 31
-Z247 !s108 1666629907.903000
-Z248 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd|
-Z249 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd|
+Z247 !s108 1666630362.310000
+Z248 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd|
+Z249 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/regfile_3p.vhd|
 R12
 R13
 R14
@@ -3939,16 +3939,16 @@ R6
 R7
 R8
 R10
-Z250 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd
-Z251 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd
+Z250 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd
+Z251 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd
 l0
 L30
 VVGcIifWo??LlAb=VcXE_a0
 R11
 31
-Z252 !s108 1666629909.819000
-Z253 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd|
-Z254 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd|
+Z252 !s108 1666630364.285000
+Z253 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd|
+Z254 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ringosc.vhd|
 R12
 R13
 R14
@@ -3983,8 +3983,8 @@ Z255 DPx7 techmap 6 alltap 0 22 <A1CDhZI`3>P9]XQJ_5101
 R7
 R8
 R10
-Z256 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd
-Z257 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd
+Z256 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd
+Z257 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd
 l0
 L31
 Vd4g2?;N;fj3fiWT=``AK;0
@@ -3992,9 +3992,9 @@ Vd4g2?;N;fj3fiWT=``AK;0
 R11
 31
 !i10b 1
-Z258 !s108 1666629910.710000
-Z259 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd|
-Z260 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd|
+Z258 !s108 1666630365.202000
+Z259 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd|
+Z260 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/scanreg.vhd|
 R12
 R13
 R14
@@ -4106,16 +4106,16 @@ R6
 R7
 R8
 R10
-Z270 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd
-Z271 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd
+Z270 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd
+Z271 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd
 l0
 L32
 VCY_UI23L1k<91R84Um?J21
 R11
 31
-Z272 !s108 1666629909.203000
-Z273 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd|
-Z274 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd|
+Z272 !s108 1666630363.632000
+Z273 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd|
+Z274 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/skew_outpad.vhd|
 R12
 R13
 R14
@@ -4151,16 +4151,16 @@ DEx6 unisim 14 bscan_spartan3 0 22 =c:_ZCI;Dd5Qn6[ZWd;J00
 R7
 R8
 R10
-Z275 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd
-Z276 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd
+Z275 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd
+Z276 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd
 l0
 L151
 Vi1:d=hhH91nNh?lojR44>3
 R11
 31
-Z277 !s108 1666629901.145000
-Z278 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd|
-Z279 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd|
+Z277 !s108 1666630359.689000
+Z278 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd|
+Z279 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/tap_unisim.vhd|
 R12
 R13
 R14
@@ -4201,16 +4201,16 @@ R2
 R7
 R8
 R10
-Z282 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd
-Z283 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd
+Z282 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd
+Z283 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd
 l0
 L2041
 V?ddOScHAXNU8MQPVKDW5j2
 R11
 31
-Z284 !s108 1666629905.534000
-Z285 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd|
-Z286 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd|
+Z284 !s108 1666630359.939000
+Z285 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd|
+Z286 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ddr_phy_unisim.vhd|
 R12
 R13
 R14
@@ -4402,16 +4402,16 @@ R6
 R7
 R8
 R10
-Z287 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd
-Z288 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd
+Z287 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd
+Z288 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd
 l0
 L32
 V]S`09iQ_h>HnRm5`mdeXb2
 R11
 31
-Z289 !s108 1666629910.647000
-Z290 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd|
-Z291 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd|
+Z289 !s108 1666630365.135000
+Z290 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd|
+Z291 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/spictrl_net.vhd|
 R12
 R13
 R14
@@ -4446,16 +4446,16 @@ R4
 R7
 R8
 R10
-Z292 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd
-Z293 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd
+Z292 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd
+Z293 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd
 l0
 L17
 VDT1DSIN17Jk;SIMiWFlLf2
 R11
 31
-Z294 !s108 1666629906.381000
-Z295 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd|
-Z296 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd|
+Z294 !s108 1666630360.802000
+Z295 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd|
+Z296 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim.vhd|
 R12
 R13
 R14
@@ -4486,16 +4486,16 @@ R4
 R7
 R8
 R10
-Z298 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd
-Z299 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd
+Z298 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd
+Z299 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd
 l0
 L77
 VJ_<eo=KCJn[Qin5VB3mOL2
 R11
 31
-Z300 !s108 1666629906.440000
-Z301 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd|
-Z302 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd|
+Z300 !s108 1666630360.882000
+Z301 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd|
+Z302 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb0.vhd|
 R12
 R13
 R14
@@ -4527,16 +4527,16 @@ R4
 R7
 R8
 R10
-Z303 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd
-Z304 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd
+Z303 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd
+Z304 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd
 l0
 L76
 VhYD`i3cSo;<g4_];7B::P2
 R11
 31
-Z305 !s108 1666629906.575000
-Z306 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd|
-Z307 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd|
+Z305 !s108 1666630361.019000
+Z306 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd|
+Z307 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/spictrl_unisim_comb1.vhd|
 R12
 R13
 R14
@@ -4572,16 +4572,16 @@ R6
 R7
 R8
 R10
-Z308 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd
-Z309 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd
+Z308 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd
+Z309 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd
 l0
 L30
 Vo_Ek5HKaO:R3BoW:1NGHY1
 R11
 31
-Z310 !s108 1666629909.898000
-Z311 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd|
-Z312 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd|
+Z310 !s108 1666630364.371000
+Z311 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd|
+Z312 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/ssrctrl_net.vhd|
 R12
 R13
 R14
@@ -4616,16 +4616,16 @@ R297
 R7
 R8
 R10
-Z313 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd
-Z314 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd
+Z313 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd
+Z314 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd
 l0
 L31
 VdTi=8lZDD9ES4Z>3g06zZ1
 R11
 31
-Z315 !s108 1666629905.903000
-Z316 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd|
-Z317 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd|
+Z315 !s108 1666630360.319000
+Z316 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd|
+Z317 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/ssrctrl_unisim.vhd|
 R12
 R13
 R14
@@ -4699,16 +4699,16 @@ R6
 R7
 R8
 R10
-Z318 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd
-Z319 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd
+Z318 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd
+Z319 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd
 l0
 L33
 VnJc1ca?:KHm[maCQg2Jz[1
 R11
 31
-Z320 !s108 1666629907.837000
-Z321 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd|
-Z322 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd|
+Z320 !s108 1666630362.243000
+Z321 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd|
+Z322 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncfifo.vhd|
 R12
 R13
 R14
@@ -4749,16 +4749,16 @@ R3
 R7
 R8
 R10
-Z324 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd
-Z325 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd
+Z324 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd
+Z325 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd
 l0
 L34
 V_6nc<^<TY[W2IU6F51W[63
 R11
 31
-Z326 !s108 1666629907.545000
-Z327 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd|
-Z328 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd|
+Z326 !s108 1666630361.954000
+Z327 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd|
+Z328 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram.vhd|
 R12
 R13
 R14
@@ -4799,16 +4799,16 @@ R6
 R7
 R8
 R10
-Z329 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd
-Z330 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd
+Z329 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd
+Z330 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd
 l0
 L35
 VJ0:3?Um;m>FmgL]25Sn^G1
 R11
 31
-Z331 !s108 1666629910.441000
-Z332 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd|
-Z333 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd|
+Z331 !s108 1666630364.931000
+Z332 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd|
+Z333 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128.vhd|
 R12
 R13
 R14
@@ -4848,16 +4848,16 @@ R6
 R7
 R8
 R10
-Z334 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd
-Z335 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd
+Z334 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd
+Z335 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd
 l0
 L35
 VPiCNePZEXY0>15DKjKU@g2
 R11
 31
-Z336 !s108 1666629910.376000
-Z337 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd|
-Z338 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd|
+Z336 !s108 1666630364.854000
+Z337 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd|
+Z338 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram128bw.vhd|
 R12
 R13
 R14
@@ -4897,16 +4897,16 @@ R6
 R7
 R8
 R10
-Z339 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd
-Z340 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd
+Z339 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd
+Z340 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd
 l0
 L33
 V5EkmPU_dVz]UJ[e=D@2Ce0
 R11
 31
-Z341 !s108 1666629910.508000
-Z342 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd|
-Z343 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd|
+Z341 !s108 1666630364.998000
+Z342 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd|
+Z343 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram156bw.vhd|
 R12
 R13
 R14
@@ -4946,16 +4946,16 @@ R6
 R7
 R8
 R10
-Z344 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd
-Z345 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd
+Z344 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd
+Z345 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd
 l0
 L35
 Vd`XWhn^2_nE=1;kT@9_cP0
 R11
 31
-Z346 !s108 1666629907.619000
-Z347 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd|
-Z348 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd|
+Z346 !s108 1666630362.029000
+Z347 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd|
+Z348 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram64.vhd|
 R12
 R13
 R14
@@ -4996,16 +4996,16 @@ R6
 R7
 R8
 R10
-Z349 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd
-Z350 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd
+Z349 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd
+Z350 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd
 l0
 L35
 VU58jK7IeBLlIYD_o4IdKB2
 R11
 31
-Z351 !s108 1666629907.695000
-Z352 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd|
-Z353 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd|
+Z351 !s108 1666630362.097000
+Z352 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd|
+Z353 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_2p.vhd|
 R12
 R13
 R14
@@ -5047,16 +5047,16 @@ R6
 R7
 R8
 R10
-Z354 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd
-Z355 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd
+Z354 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd
+Z355 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd
 l0
 L35
 VL<B@FTkOY97m0V0FCBWWG3
 R11
 31
-Z356 !s108 1666629907.763000
-Z357 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd|
-Z358 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd|
+Z356 !s108 1666630362.168000
+Z357 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd|
+Z358 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/syncram_dp.vhd|
 R12
 R13
 R14
@@ -5094,16 +5094,16 @@ DEx6 unisim 6 sysmon 0 22 i2S6minI5kX5`klIdk2TR3
 R7
 R8
 R10
-Z359 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd
-Z360 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd
+Z359 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd
+Z360 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd
 l0
 L38
 VKRRC01_39GG6HUbVka>L40
 R11
 31
-Z361 !s108 1666629906.021000
-Z362 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd|
-Z363 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd|
+Z361 !s108 1666630360.438000
+Z362 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd|
+Z363 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/sysmon_unisim.vhd|
 R12
 R13
 R14
@@ -5139,16 +5139,16 @@ R6
 R7
 R8
 R10
-Z364 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd
-Z365 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd
+Z364 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd
+Z365 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd
 l0
 L31
 VVdd4Vk;?:P1jhbTUXk2bS1
 R11
 31
-Z366 !s108 1666629909.970000
-Z367 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd|
-Z368 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd|
+Z366 !s108 1666630364.437000
+Z367 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd|
+Z368 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/system_monitor.vhd|
 R12
 R13
 R14
@@ -5189,16 +5189,16 @@ R6
 R7
 R8
 R10
-Z369 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd
-Z370 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd
+Z369 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd
+Z370 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd
 l0
 L35
 V]hY<nY1OI>PVIeaJOTF][0
 R11
 31
-Z371 !s108 1666629907.965000
-Z372 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd|
-Z373 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd|
+Z371 !s108 1666630362.383000
+Z372 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd|
+Z373 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/tap.vhd|
 R12
 R13
 R14
@@ -5239,16 +5239,16 @@ R6
 R7
 R8
 R10
-Z374 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd
-Z375 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd
+Z374 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd
+Z375 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd
 l0
 L30
 V^3W=9F8k1bjF^iSib1c5E2
 R11
 31
-Z376 !s108 1666629908.032000
-Z377 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd|
-Z378 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd|
+Z376 !s108 1666630362.462000
+Z377 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd|
+Z378 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techbuf.vhd|
 R12
 R13
 R14
@@ -5290,16 +5290,16 @@ R2
 R7
 R8
 R10
-Z381 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd
-Z382 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd
+Z381 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd
+Z382 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd
 l0
 L35
 VA]BZOP07C`H0jPLZ@P<m=1
 R11
 31
-Z383 !s108 1666629910.578000
-Z384 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd|
-Z385 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd|
+Z383 !s108 1666630365.064000
+Z384 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd|
+Z385 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/techmult.vhd|
 R12
 R13
 R14
@@ -5342,16 +5342,16 @@ R6
 R7
 R8
 R10
-Z386 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd
-Z387 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd
+Z386 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd
+Z387 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd
 l0
 L32
 Vb3i>`3CnFGMA2MZ^JUn6m0
 R11
 31
-Z388 !s108 1666629909.107000
-Z389 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd|
-Z390 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd|
+Z388 !s108 1666630363.529000
+Z389 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd|
+Z390 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/maps/toutpad.vhd|
 R12
 R13
 R14
@@ -5494,16 +5494,16 @@ R6
 R7
 R8
 R10
-Z392 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd
-Z393 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd
+Z392 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd
+Z393 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd
 l0
 L479
 VgT[RA3zMZjPoAhz6lbR7D1
 R11
 31
-Z394 !s108 1666629898.984000
-Z395 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd|
-Z396 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd|
+Z394 !s108 1666630359.294000
+Z395 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd|
+Z396 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/pads_unisim.vhd|
 R12
 R13
 R14
@@ -6054,16 +6054,16 @@ Z401 DEx6 unisim 14 ramb16_s36_s36 0 22 aR7d_P6GHz?k`5gCRQ`UD2
 R7
 R8
 R10
-Z402 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd
-Z403 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd
+Z402 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd
+Z403 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd
 l0
 L394
 VoE4H6Q;eC^m68`=g4kTjU3
 R11
 31
-Z404 !s108 1666629898.730000
-Z405 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd|
-Z406 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd|
+Z404 !s108 1666630359.014000
+Z405 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd|
+Z406 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/memory_unisim.vhd|
 R12
 R13
 R14
@@ -6592,16 +6592,16 @@ R297
 R7
 R8
 R10
-Z407 8W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd
-Z408 FW:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd
+Z407 8W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd
+Z408 FW:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd
 l0
 L7
 V3XFDoVWcbbWLoRkPGNhj:2
 R11
 31
-Z409 !s108 1666629906.086000
-Z410 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd|
-Z411 !s107 W:/Modelsim/Project/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd|
+Z409 !s108 1666630360.510000
+Z410 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd|
+Z411 !s107 W:/Modelsim/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/techmap/unisim/mul_unisim.vhd|
 R12
 R13
 R14
