@@ -136,6 +136,8 @@ end component;
 --declare a component for data_swapper
 component data_swapper is
   port(
+    clkm : in std_logic;
+    rstn : in std_logic;
     HRDATA : out std_logic_vector (31 downto 0);
     dmao : in ahb_dma_out_type
 	);
@@ -180,6 +182,8 @@ begin
 --instantiate the data_swapper component and make the connections
   u_data_swapper : data_swapper
   port map(
+    clkm => clkm,
+    rstn => rstn,
     HRDATA => HRDATA,
     dmao => dmao
   );

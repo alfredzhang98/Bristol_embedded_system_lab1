@@ -20,6 +20,8 @@ use UNISIM.VComponents.all;
 -- The data_wapper
 entity data_swapper is
   port(
+    clkm : in std_logic;
+    rstn : in std_logic;
     HRDATA : out std_logic_vector (31 downto 0);
     dmao : in ahb_dma_out_type
   );
