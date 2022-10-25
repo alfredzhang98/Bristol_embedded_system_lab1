@@ -1,0 +1,624 @@
+Release 14.1 Map P.15xf (nt64)
+Xilinx Mapping Report File for Design 'cm0_wrapper'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc6slx100-fgg676-3 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off
+-pr off -lc off -power off -o cm0_wrapper_map.ncd cm0_wrapper.ngd
+cm0_wrapper.pcf 
+Target Device  : xc6slx100
+Target Package : fgg676
+Target Speed   : -3
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Tue Oct 25 18:35:08 2022
+
+Design Summary
+--------------
+Number of errors:      0
+Number of warnings:    0
+Slice Logic Utilization:
+  Number of Slice Registers:                   841 out of 126,576    1%
+    Number used as Flip Flops:                 840
+    Number used as Latches:                      0
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:                1
+  Number of Slice LUTs:                      3,158 out of  63,288    4%
+    Number used as logic:                    3,153 out of  63,288    4%
+      Number using O6 output only:           2,778
+      Number using O5 output only:              89
+      Number using O5 and O6:                  286
+      Number used as ROM:                        0
+    Number used as Memory:                       0 out of  15,616    0%
+    Number used exclusively as route-thrus:      5
+      Number with same-slice register load:      2
+      Number with same-slice carry load:         3
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 1,182 out of  15,822    7%
+  Nummber of MUXCYs used:                      156 out of  31,644    1%
+  Number of LUT Flip Flop pairs used:        3,337
+    Number with an unused Flip Flop:         2,501 out of   3,337   74%
+    Number with an unused LUT:                 179 out of   3,337    5%
+    Number of fully used LUT-FF pairs:         657 out of   3,337   19%
+    Number of unique control sets:              43
+    Number of slice register sites lost
+      to control set restrictions:             136 out of 126,576    1%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                       409 out of     480   85%
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                         0 out of     268    0%
+  Number of RAMB8BWERs:                          0 out of     536    0%
+  Number of BUFIO2/BUFIO2_2CLKs:                 0 out of      32    0%
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             0 out of      32    0%
+  Number of BUFG/BUFGMUXs:                       1 out of      16    6%
+    Number used as BUFGs:                        1
+    Number used as BUFGMUX:                      0
+  Number of DCM/DCM_CLKGENs:                     0 out of      12    0%
+  Number of ILOGIC2/ISERDES2s:                   0 out of     506    0%
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:         0 out of     506    0%
+  Number of OLOGIC2/OSERDES2s:                   0 out of     506    0%
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     384    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         0 out of       4    0%
+  Number of DSP48A1s:                            0 out of     180    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                0 out of       4    0%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            0 out of       6    0%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+Average Fanout of Non-Clock Nets:                4.74
+
+Peak Memory Usage:  4805 MB
+Total REAL time to MAP completion:  51 secs 
+Total CPU time to MAP completion:   49 secs 
+
+Table of Contents
+-----------------
+Section 1 - Errors
+Section 2 - Warnings
+Section 3 - Informational
+Section 4 - Removed Logic Summary
+Section 5 - Removed Logic
+Section 6 - IOB Properties
+Section 7 - RPMs
+Section 8 - Guide Report
+Section 9 - Area Group and Partition Summary
+Section 10 - Timing Report
+Section 11 - Configuration String Information
+Section 12 - Control Set Information
+Section 13 - Utilization by Hierarchy
+
+Section 1 - Errors
+------------------
+
+Section 2 - Warnings
+--------------------
+WARNING:Security:43 - No license file was found in the standard Xilinx license
+directory.
+WARNING:Security:44 - Since no license file was found,
+WARNING:Security:42 - Your software subscription period has lapsed. Your current
+version of Xilinx tools will continue to function, but you no longer qualify for
+Xilinx software updates or new releases.
+
+Section 3 - Informational
+-------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to
+'2100@ze-ls0.fen.bris.ac.uk,2100@ze-ls1.fen.bris.ac.uk,2100@ze-ls2.fen.bris.ac.u
+k'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:56 - Part 'xc6slx100' is not a WebPack part.
+INFO:LIT:243 - Logical network ahbmi_hgrant<1> has no load.
+INFO:LIT:395 - The above info message is repeated 52 more times for the
+   following (max. 5 shown):
+   ahbmi_hgrant<2>,
+   ahbmi_hgrant<3>,
+   ahbmi_hgrant<4>,
+   ahbmi_hgrant<5>,
+   ahbmi_hgrant<6>
+   To see the details of these info messages, please use the -detail switch.
+INFO:MapLib:562 - No environment variables are currently set.
+INFO:LIT:244 - All of the single ended outputs in this design are using slew
+   rate limited output drivers. The delay on speed critical single ended outputs
+   can be dramatically reduced by designating them as fast outputs.
+INFO:Pack:1716 - Initializing temperature to 85.000 Celsius. (default - Range:
+   0.000 to 85.000 Celsius)
+INFO:Pack:1720 - Initializing voltage to 1.140 Volts. (default - Range: 1.140 to
+   1.260 Volts)
+INFO:Map:215 - The Interim Design Summary has been generated in the MAP Report
+   (.mrp).
+INFO:Pack:1650 - Map created a placed design.
+
+Section 4 - Removed Logic Summary
+---------------------------------
+   2 block(s) optimized away
+
+Section 5 - Removed Logic
+-------------------------
+
+Optimized Block(s):
+TYPE 		BLOCK
+GND 		XST_GND
+VCC 		XST_VCC
+
+To enable printing of redundant blocks removed and signals merged, set the
+detailed map report option and rerun map.
+
+Section 6 - IOB Properties
+--------------------------
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| IOB Name                           | Type             | Direction | IO Standard          | Diff  | Drive    | Slew | Reg (s)      | Resistor | IOB      |
+|                                    |                  |           |                      | Term  | Strength | Rate |              |          | Delay    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ahbmi_hgrant<0>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<0>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<1>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<2>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<3>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<4>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<5>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<6>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<7>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<8>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<9>                    | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<10>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<11>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<12>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<13>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<14>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<15>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<16>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<17>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<18>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<19>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<20>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<21>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<22>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<23>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<24>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<25>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<26>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<27>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<28>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<29>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<30>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hrdata<31>                   | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hready                       | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmi_hresp<1>                     | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| ahbmo_haddr<0>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<1>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<2>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<3>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<4>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<5>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<6>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<7>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<8>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<9>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<10>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<11>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<12>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<13>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<14>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<15>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<16>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<17>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<18>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<19>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<20>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<21>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<22>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<23>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<24>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<25>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<26>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<27>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<28>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<29>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<30>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_haddr<31>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hburst<0>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hburst<1>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hburst<2>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hbusreq                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<0><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<1><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<2><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<3><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<4><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<5><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<6><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><0>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><1>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><2>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><3>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><4>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><5>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><6>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><7>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><8>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><9>                | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><10>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><11>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><12>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><13>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><14>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><15>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><16>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><17>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><18>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><19>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><20>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><21>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><22>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><23>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><24>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><25>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><26>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><27>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><28>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><29>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><30>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hconfig<7><31>               | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hindex<0>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hindex<1>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hindex<2>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hindex<3>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<0>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<1>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<2>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<3>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<4>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<5>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<6>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<7>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<8>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<9>                      | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<10>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<11>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<12>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<13>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<14>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<15>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<16>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<17>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<18>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<19>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<20>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<21>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<22>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<23>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<24>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<25>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<26>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<27>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<28>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<29>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<30>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hirq<31>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hlock                        | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hprot<0>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hprot<1>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hprot<2>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hprot<3>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hsize<0>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hsize<1>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hsize<2>                     | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_htrans<0>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_htrans<1>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<0>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<1>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<2>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<3>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<4>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<5>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<6>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<7>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<8>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<9>                    | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<10>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<11>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<12>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<13>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<14>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<15>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<16>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<17>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<18>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<19>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<20>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<21>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<22>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<23>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<24>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<25>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<26>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<27>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<28>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<29>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<30>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwdata<31>                   | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| ahbmo_hwrite                       | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| clkm                               | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
+| led_group04                        | IOB              | OUTPUT    | LVCMOS25             |       | 12       | SLOW |              |          |          |
+| rstn                               | IOB              | INPUT     | LVCMOS25             |       |          |      |              |          |          |
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Section 7 - RPMs
+----------------
+
+Section 8 - Guide Report
+------------------------
+Guide not run on this design.
+
+Section 9 - Area Group and Partition Summary
+--------------------------------------------
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+Area Group Information
+----------------------
+
+  No area groups were found in this design.
+
+----------------------
+
+Section 10 - Timing Report
+--------------------------
+A logic-level (pre-route) timing report can be generated by using Xilinx static
+timing analysis tools, Timing Analyzer (GUI) or TRCE (command line), with the
+mapped NCD and PCF files. Please note that this timing report will be generated
+using estimated delay information. For accurate numbers, please generate a
+timing report with the post Place and Route NCD file.
+
+For more information about the Timing Analyzer, consult the Xilinx Timing
+Analyzer Reference Manual; for more information about TRCE, consult the Xilinx
+Command Line Tools User Guide "TRACE" chapter.
+
+Section 11 - Configuration String Details
+-----------------------------------------
+Use the "-detail" map option to print out Configuration Strings
+
+Section 12 - Control Set Information
+------------------------------------
+Use the "-detail" map option to print out Control Set Information.
+
+Section 13 - Utilization by Hierarchy
+-------------------------------------
+Use the "-detail" map option to print out the Utilization by Hierarchy section.

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cortexm0ds_logic.v" Line 2069: Assignment to <arg fmt="%s" index="1">N4i2z4</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cortexm0ds_logic.v" Line 2072: Assignment to <arg fmt="%s" index="1">L5i2z4</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 119: Assignment to <arg fmt="%s" index="1">cm0_r00</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 120: Assignment to <arg fmt="%s" index="1">cm0_r01</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 121: Assignment to <arg fmt="%s" index="1">cm0_r02</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 122: Assignment to <arg fmt="%s" index="1">cm0_r03</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 123: Assignment to <arg fmt="%s" index="1">cm0_r04</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 124: Assignment to <arg fmt="%s" index="1">cm0_r05</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 125: Assignment to <arg fmt="%s" index="1">cm0_r06</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 126: Assignment to <arg fmt="%s" index="1">cm0_r07</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 127: Assignment to <arg fmt="%s" index="1">cm0_r08</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 128: Assignment to <arg fmt="%s" index="1">cm0_r09</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 129: Assignment to <arg fmt="%s" index="1">cm0_r10</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 130: Assignment to <arg fmt="%s" index="1">cm0_r11</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 131: Assignment to <arg fmt="%s" index="1">cm0_r12</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 134: Assignment to <arg fmt="%s" index="1">cm0_r14</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 147: Assignment to <arg fmt="%s" index="1">cm0_msp</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 148: Assignment to <arg fmt="%s" index="1">cm0_psp</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 149: Assignment to <arg fmt="%s" index="1">cm0_pc</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 150: Assignment to <arg fmt="%s" index="1">cm0_xpsr</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 151: Assignment to <arg fmt="%s" index="1">cm0_control</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v" Line 152: Assignment to <arg fmt="%s" index="1">cm0_primask</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">HBURST</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">HPROT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">HMASTLOCK</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">TXEV</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">LOCKUP</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">SYSRESETREQ</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\cm0_wrapper.vhd</arg>&quot; line <arg fmt="%s" index="2">127</arg>: Output port &lt;<arg fmt="%s" index="3">SLEEPING</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_CORTEXM0DS</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r0_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r1_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r2_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r3_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r4_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r5_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r6_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r7_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r8_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r9_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r10_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r11_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r12_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_r14_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_msp_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_psp_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_pc_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_apsr_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_ipsr_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_tbit_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_control_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">N:\LAB\Embeddedsystem\Embedded_Unit_Lab\LAB2_ISE\Ise\ahb_bridge_m0_lab\CORTEXM0DS.v</arg>&quot; line <arg fmt="%s" index="2">94</arg>: Output port &lt;<arg fmt="%s" index="3">vis_primask_o</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">u_logic</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Gzb3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">I6h3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Qsb3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Rnb3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Qnn2z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">W8r2z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Zqb3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">O2c3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Jje3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">E9c3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">C7f3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Yvb3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Q4h3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Q0f3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">W5c3z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="new" > FFs/Latches &lt;<arg fmt="%s" index="1">Etq2z4</arg>&lt;<arg fmt="%d" index="2">0</arg>:<arg fmt="%d" index="3">0</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">cortexm0ds_logic</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_haddr</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_rdata</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_start</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_active</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_retry</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_mexc</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_hgrant&lt;1:15&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_hirq</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_hcache</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_testen</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_testrst</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_scanen</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ahbi_testoen</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_haddr</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">clkm</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">rstn</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_start</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_active</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_ready</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_retry</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">dmao_mexc</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">r_active_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">u_ahbmst</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">u_ahb_bridge/u_ahbmst/r_active_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">cm0_wrapper</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">u_CORTEXM0DS/u_logic/Aii3z4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">cm0_wrapper</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">u_CORTEXM0DS/u_logic/Ypi3z4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">cm0_wrapper</arg>&gt;.
+</msg>
+
+</messages>
+
