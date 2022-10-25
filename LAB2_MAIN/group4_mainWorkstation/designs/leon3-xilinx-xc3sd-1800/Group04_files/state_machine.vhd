@@ -40,7 +40,7 @@ end;
 ----------------------------------------------------------------------
 architecture structural of state_machine is
 
-  type state_ahb_bridge is (idle, instr_fetch);
+  type state_ahb_bridge is (idle, wait_htrans, instr_fetch);
   signal present_state : state_ahb_bridge;
   signal next_state : state_ahb_bridge;  
   begin
@@ -56,11 +56,10 @@ architecture structural of state_machine is
   dmai.size <= HSIZE; 
   
   
+  -- reg_sate change
   reg_sate:
   process (rstn, clkm)
   begin
-    -- reset to low level come to the idle state
-    -- normal work status is high level
     if rstn = '0' then
       present_state <= idle;
     elsif rising_edge(clkm) then
@@ -68,34 +67,67 @@ architecture structural of state_machine is
     end if;
   end process;
   
+  -- com_state change
   com_state:
   process (present_state, HTRANS, dmao)
   begin
     case present_state is
       -- idle state
       when idle =>
-      		HREADY <= '1';
-		    dmai.start <= '0';
-		    -- the reason to change
+        next_state <= wait_htrans;
+      -- wait_htrans state
+      when wait_htrans =>
     		  if HTRANS = "10" then
-		      dmai.start <= '1';
 		      next_state <= instr_fetch;
-		    else 
-		      next_state <= idle;
+		    else
+		      next_state <= wait_htrans;
 		    end if;
       -- instr_fetch state
       when instr_fetch =>
-		    HREADY <= '0';
-		    dmai.start <= '0';
-	      -- the reason to change
-     		 if dmao.ready = '1' then
- 		 		  dmai.start <= '1';
-		      next_state <= idle;
-		    else 
+        if dmao.ready = '1' then
+          next_state <= idle;
+        else 
 		      next_state <= instr_fetch;
 		    end if;
+      -- other state
+      when others => 
+        next_state <= idle;
 		end case;
+	end process;
+
+	-- output_state change
+  output_state:
+	process (rstn, clkm)
+  begin
+    if rstn = '0' then
+      HREADY <= '1';
+      dmai.start <= '0';
+    elsif rising_edge(clkm) then
+  		  case present_state is
+  		    -- idle state output 
+		    when idle =>
+		      HREADY <= '1';
+		      dmai.start <= '0';
+		    -- wait_htrans state output 
+		    when wait_htrans =>
+		      if HTRANS = "10" then
+		        dmai.start <= '1';
+		      end if;
+		    -- instr_fetch state output 
+		    when instr_fetch =>
+		      HREADY <= '0';
+		      dmai.start <= '0';
+		      if dmao.ready = '1' then
+		        HREADY <= '1';
+		      end if;
+		    -- others state output
+		    when others => 
+		      HREADY <= '1';
+		      dmai.start <= '0';
+		   end case;
+    end if;
   end process;
+  
 end structural;
 		     
   
