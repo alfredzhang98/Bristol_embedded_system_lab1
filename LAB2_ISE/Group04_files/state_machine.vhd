@@ -69,7 +69,7 @@ architecture structural of state_machine is
   
   -- com_state change
   com_state:
-  process (present_state, HTRANS, dmao)
+  process (present_state, HTRANS, dmao.ready)
   begin
     case present_state is
       -- idle state
