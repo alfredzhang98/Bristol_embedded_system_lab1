@@ -1,6 +1,0 @@
-xst -intstyle ise -ifn "N:/LAB/Embeddedsystem/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_lab/cm0_wrapper.xst" -ofn "N:/LAB/Embeddedsystem/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_lab/cm0_wrapper.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx100-fgg676-3 cm0_wrapper.ngc cm0_wrapper.ngd  
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc cm0_wrapper.ucf -p xc6slx100-fgg676-3 cm0_wrapper.ngc cm0_wrapper.ngd  
-map -intstyle ise -p xc6slx100-fgg676-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o cm0_wrapper_map.ncd cm0_wrapper.ngd cm0_wrapper.pcf 
-par -w -intstyle ise -ol high -mt off cm0_wrapper_map.ncd cm0_wrapper.ncd cm0_wrapper.pcf 
-trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml cm0_wrapper.twx cm0_wrapper.ncd -o cm0_wrapper.twr cm0_wrapper.pcf -ucf cm0_wrapper.ucf 
