@@ -4,7 +4,7 @@ K3
 cModel Technology
 Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
 Eahbrom
-Z1 w1323704973
+Z1 w1666543177
 Z2 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
 Z3 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
 Z4 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
@@ -13,17 +13,17 @@ Z6 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 Z7 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
 Z8 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z9 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
-Z10 dO:\Documents\eejlny\teaching\ERTS\arm_lab\bridge_lab\grlib-gpl-1.1.0-b4108\designs\leon3-xilinx-xc3sd-1800
-Z11 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
-Z12 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+Z10 dC:\Users\vn22984\Desktop\LAB\Embedded_Unit_Lab\LAB2_MAIN\souce\grlib-gpl-1.1.0-b4108 -origin\designs\leon3-xilinx-xc3sd-1800
+Z11 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
+Z12 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd
 l0
 L18
 V;<37X2B14EY1B0I>:b]0D1
 Z13 OL;C;10.1b;51
 31
-Z14 !s108 1348674509.086000
-Z15 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
-Z16 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
+Z14 !s108 1666543934.124000
+Z15 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
+Z16 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/ahbrom.vhd|
 Z17 !s102 -cover s
 Z18 o-work work -93 -source -nowarn 1 -nowarn 5 -cover s
 Z19 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
@@ -41,7 +41,7 @@ R9
 Z20 DEx4 work 6 ahbrom 0 22 ;<37X2B14EY1B0I>:b]0D1
 l46
 L34
-VicddC]KPP04L_Z[0Ln1W;3
+VXSZV0JO[W?>iIUOCLLX231
 R13
 31
 R14
@@ -50,7 +50,7 @@ R16
 R17
 R18
 R19
-!s100 JaYXVB8U>MnG1FdLMFTUD1
+!s100 D<=g=TOZ=kWHgO]eIM8jG3
 !i10b 1
 Pconfig
 R3
@@ -61,10 +61,10 @@ R7
 R8
 R9
 Z21 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
-w1323703348
+R1
 R10
-8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/config.vhd
-FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/config.vhd
+8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/config.vhd
+FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/config.vhd
 l0
 L13
 VNohKE0HL>fH@EGi8Vo3Wc2
@@ -75,11 +75,11 @@ R18
 R19
 !s100 C1zY:;z<1i`W;BYX<Ye`52
 !i10b 1
-!s108 1348674508.657000
-!s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/config.vhd|
-!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/config.vhd|
+!s108 1666543933.925000
+!s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/config.vhd|
+!s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/config.vhd|
 Ecpu_disas
-Z22 w1309262194
+Z22 w1666543183
 Z23 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
 Z24 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
 R3
@@ -88,16 +88,16 @@ R6
 R8
 R9
 R10
-Z25 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/cpu_disas.vhd
-Z26 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/cpu_disas.vhd
+Z25 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/cpu_disas.vhd
+Z26 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/cpu_disas.vhd
 l0
 L36
 VKSPGb^5EA4QbYK1?`0j;g3
 R13
 31
-Z27 !s108 1348674507.735000
-Z28 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/cpu_disas.vhd|
-Z29 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/cpu_disas.vhd|
+Z27 !s108 1666543933.627000
+Z28 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/cpu_disas.vhd|
+Z29 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/cpu_disas.vhd|
 R17
 R18
 R19
@@ -135,8 +135,8 @@ R8
 R9
 R22
 R10
-8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/debug.vhd
-FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/debug.vhd
+8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/debug.vhd
+FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/debug.vhd
 l0
 L31
 VUKYDnZfS:aT>_415YS@3F3
@@ -147,9 +147,9 @@ R18
 R19
 !s100 >2?o60cYoUCRdY1PWEJzg3
 !i10b 1
-!s108 1348674506.430000
-!s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/debug.vhd|
-!s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/debug.vhd|
+!s108 1666543933.214000
+!s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/debug.vhd|
+!s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/debug.vhd|
 Egaisler_cpu_disas
 R22
 R23
@@ -210,16 +210,16 @@ Z31 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
 R8
 R9
 R10
-Z32 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd
-Z33 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd
+Z32 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/grtestmod.vhd
+Z33 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/grtestmod.vhd
 l0
 L67
 VKT[OzK0Qn>XD0d4Tb[@C12
 R13
 31
-Z34 !s108 1348674506.993000
-Z35 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd|
-Z36 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/lib/work/debug/grtestmod.vhd|
+Z34 !s108 1666543933.393000
+Z35 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/grtestmod.vhd|
+Z36 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/lib/work/debug/grtestmod.vhd|
 R17
 R18
 R19
@@ -251,7 +251,7 @@ R19
 !s100 E14S8M[?:IanSi`C7hCMk1
 !i10b 1
 Eleon3mp
-R22
+R1
 Z37 DPx4 work 6 config 0 22 NohKE0HL>fH@EGi8Vo3Wc2
 Z38 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
 Z39 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
@@ -271,16 +271,16 @@ R7
 R8
 R9
 R10
-Z46 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
-Z47 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+Z46 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
+Z47 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd
 l0
 L44
 V<Mdkm]JbOWCgdR?VE_@Bn3
 R13
 31
-Z48 !s108 1348674509.719000
-Z49 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
-Z50 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
+Z48 !s108 1666543934.346000
+Z49 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
+Z50 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/leon3mp.vhd|
 R17
 R18
 R19
@@ -321,12 +321,12 @@ R18
 R19
 !i10b 1
 Etestbench
-R22
+Z52 w1666543182
 R37
-Z52 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
-Z53 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
-Z54 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
-Z55 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
+Z53 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
+Z54 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
+Z55 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
+Z56 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
 R30
 R31
 R21
@@ -338,12 +338,12 @@ R4
 R5
 R6
 R7
-Z56 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+Z57 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
 R8
 R9
 R10
-Z57 8O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
-Z58 FO:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z58 8C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z59 FC:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
 l0
 L42
 VQWHaMiY@PTmT?P5U?[MI_1
@@ -351,9 +351,9 @@ VQWHaMiY@PTmT?P5U?[MI_1
 R13
 31
 !i10b 1
-Z59 !s108 1348674510.477000
-Z60 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
-Z61 !s107 O:/Documents/eejlny/teaching/ERTS/arm_lab/bridge_lab/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z60 !s108 1666543934.611000
+Z61 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z62 !s107 C:/Users/vn22984/Desktop/LAB/Embedded_Unit_Lab/LAB2_MAIN/souce/grlib-gpl-1.1.0-b4108 -origin/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
 R17
 R18
 R19
@@ -366,10 +366,10 @@ R44
 R45
 R51
 R37
-R52
 R53
 R54
 R55
+R56
 R30
 R31
 R21
@@ -381,20 +381,20 @@ R4
 R5
 R6
 R7
-R56
+R57
 R8
 R9
-Z62 DEx4 work 9 testbench 0 22 QWHaMiY@PTmT?P5U?[MI_1
+Z63 DEx4 work 9 testbench 0 22 QWHaMiY@PTmT?P5U?[MI_1
 l136
 L55
-Z63 V;FBK2MR[S>BiZ@^9KzJn83
-Z64 !s100 oNML2<9bl:4K:>:[J00IJ0
+Z64 V;FBK2MR[S>BiZ@^9KzJn83
+Z65 !s100 oNML2<9bl:4K:>:[J00IJ0
 R13
 31
 !i10b 1
-R59
 R60
 R61
+R62
 R17
 R18
 R19
