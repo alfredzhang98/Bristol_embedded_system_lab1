@@ -758,10 +758,14 @@ vsim -gui -t ps work.testbench
 # the VHDL standard as the initial values come from the base signal /testbench/led(2).
 # 
 add wave -position insertpoint  \
-sim:/testbench/d3/cm0gen/u_com0_wrapper/u_detectorbus/Clock \
-sim:/testbench/d3/cm0gen/u_com0_wrapper/u_detectorbus/DataBus \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/clkm \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/rstn
+add wave -position insertpoint  \
 sim:/testbench/d3/cm0gen/u_com0_wrapper/u_detectorbus/Detector
-run 1000 us
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_CORTEXM0DS/HRDATA \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_CORTEXM0DS/HREADY
+run 2000 us
 # LEON3 Demonstration design for Xilinx Spartan3A DSP 1800A board
 # GRLIB Version 1.1.0, build 4108
 # Target technology: spartan3  ,  memory library: spartan3  
@@ -801,4 +805,1370 @@ run 1000 us
 # clkgen_spartan3e: spartan3/e sdram/pci clock generator, version 1
 # clkgen_spartan3e: Frequency 125000 KHz, DCM divisor 8/25
 # Causality operation skipped due to absense of debug database file
+stop
 quit -sim
+vsim -gui -t ps work.testbench
+# vsim -gui -t ps work.testbench 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading grlib.config
+# Loading grlib.version
+# Loading grlib.stdlib(body)
+# Loading grlib.amba(body)
+# Loading gaisler.uart
+# Loading grlib.devices
+# Loading techmap.gencomp
+# Loading gaisler.misc(body)
+# Loading gaisler.libdcom(body)
+# Loading grlib.stdio(body)
+# Loading gaisler.sim(body)
+# Loading micron.components
+# Loading hynix.hy5ps121621f_pack(body)
+# Loading hynix.components
+# Loading work.debug
+# Loading work.config
+# Loading techmap.allclkgen
+# Loading gaisler.memctrl
+# Loading gaisler.leon3
+# Loading gaisler.net
+# Loading gaisler.jtag
+# Loading esa.memoryctrl
+# Loading work.testbench(behav)
+# Loading work.leon3mp(rtl)
+# Loading gaisler.rstgen(rtl)
+# Loading techmap.allpads
+# Loading techmap.clkpad(rtl)
+# Loading techmap.unisim_clkpad(rtl)
+# Loading unisim.ibufg(beh)
+# Loading techmap.clkgen(struct)
+# Loading techmap.clkgen_spartan3(struct)
+# Loading unisim.bufg(beh)
+# Loading ieee.vital_timing(body)
+# Loading ieee.vital_primitives(body)
+# Loading unisim.vpkg(body)
+# Loading unisim.dcm(sim)
+# Loading unisim.x_dcm(x_dcm_v)
+# Loading unisim.x_dcm_clock_divide_by_2(x_dcm_clock_divide_by_2_v)
+# Loading unisim.x_dcm_maximum_period_check(x_dcm_maximum_period_check_v)
+# Loading unisim.x_dcm_clock_lost(x_dcm_clock_lost_v)
+# Loading grlib.report_version(beh)
+# Loading ieee.math_real(body)
+# Loading grlib.testlib(body)
+# Loading grlib.ahbctrl(rtl)
+# Loading unisim.vcomponents
+# Loading work.cm0_wrapper(structural)
+# Loading work.CORTEXM0DS
+# Loading work.cortexm0ds_logic
+# Loading work.ahb_bridge(structural)
+# Loading work.state_machine(structural)
+# Loading work.ahbmst(rtl)
+# Loading work.data_swapper(structural)
+# Loading work.detectorbus(behavioral)
+# Loading unisim.fdce(fdce_v)
+# Loading gaisler.libjtagcom
+# Loading gaisler.ahbjtag(struct)
+# Loading gaisler.ahbmst(rtl)
+# Loading techmap.alltap
+# Loading techmap.tap(rtl)
+# Loading techmap.spartan3_tap(rtl)
+# Loading unisim.bscan_spartan3(behav)
+# Loading gaisler.jtagcom(rtl)
+# Loading techmap.outpad(rtl)
+# Loading techmap.unisim_outpad(rtl)
+# Loading unisim.obuf(beh)
+# Loading techmap.iopadv(rtl)
+# Loading techmap.iopad(rtl)
+# Loading techmap.unisim_iopad(rtl)
+# Loading unisim.iobuf(beh)
+# Loading gaisler.ddr2spa(rtl)
+# Loading gaisler.ddr2phy_wrap_cbd(rtl)
+# Loading techmap.allddr
+# Loading techmap.ddr2phy(rtl)
+# Loading techmap.spartan3a_ddr2_phy(rtl)
+# Loading unisim.oddr2(oddr2_v)
+# Loading unisim.fd(fd_v)
+# Loading techmap.iopad_ds(rtl)
+# Loading techmap.unisim_iopad_ds(rtl)
+# Loading unisim.iobufds(beh)
+# Loading unisim.iddr2(iddr2_v)
+# Loading gaisler.ddr2spax(rtl)
+# Loading gaisler.ddr2spax_ahb(rtl)
+# Loading gaisler.ddr2spax_ddr(rtl)
+# Loading gaisler.ddr2buf(rtl)
+# Loading techmap.allmem
+# Loading techmap.syncram_2p(rtl)
+# Loading techmap.unisim_syncram_2p(behav)
+# Loading techmap.generic_syncram_2p(behav)
+# Loading grlib.apbctrl(rtl)
+# Loading gaisler.irqmp(rtl)
+# Loading gaisler.gptimer(rtl)
+# Loading gaisler.grgpio(rtl)
+# Loading gaisler.apbuart(rtl)
+# Loading techmap.inpad(rtl)
+# Loading techmap.unisim_inpad(rtl)
+# Loading unisim.ibuf(beh)
+# Loading techmap.odpad(rtl)
+# Loading techmap.unisim_toutpad(rtl)
+# Loading unisim.obuft(beh)
+# Loading gaisler.grethm(rtl)
+# Loading gaisler.ethernet_mac
+# Loading eth.ethcomp
+# Loading gaisler.greth(rtl)
+# Loading eth.grethpkg(body)
+# Loading eth.grethc(rtl)
+# Loading eth.greth_tx(rtl)
+# Loading eth.eth_rstgen(rtl)
+# Loading eth.greth_rx(rtl)
+# Loading eth.eth_ahb_mst(rtl)
+# Loading unisim.simple_simprim
+# Loading techmap.unisim_syncram_dp(behav)
+# Loading unisim.ramb16_s36_s36(behav)
+# Loading unisim.ram16_sx_sx(behav)
+# Loading techmap.inpadv(rtl)
+# Loading techmap.outpadv(rtl)
+# Loading work.ahbrom(rtl)
+# Loading hynix.hy5ps121621f(behavioral_model_hy5ps121621f)
+# Loading gaisler.delay_wire(rtl)
+# Loading gaisler.sram(sim)
+# Loading gaisler.phy(behavioral)
+# Loading work.grtestmod(sim)
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/clkgen0/xc3s/v/dll0/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/clkgen0/xc3s/v/dll0/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tdo, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/tdo.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tapo_inst(7 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ahbjtaggen0/ahbjtag0/ltapo.inst(7 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tdoen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ahbjtaggen0/ahbjtag0/tdoen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tdo, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/tdo.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/dll/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/dll/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/read_dll/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/read_dll/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdqs(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdqs(0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdqsn(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdqsn(0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdq(7 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdq(7 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_web2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_web2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_rasb2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_rasb2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_casb2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_casb2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_ad2(13 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_ad2(13 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_ba2(1 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_ba2(1 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/sdi.wprot, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/sdi.wprot.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/errorn, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/error.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(23 downto 22), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(23 downto 22).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(21 downto 2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(21 downto 2).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(1 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(1 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/oen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/oen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/writen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/writen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/iosn, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/iosn.
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(23), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(23).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(22), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(22).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(21), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(21).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(20), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(20).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(19), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(19).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(18), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(18).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(17), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(17).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(16), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(16).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(15), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(15).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(14), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(14).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(13), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(13).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(12), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(12).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(11), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(11).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(10), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(10).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(9), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(9).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(8), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(8).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(2).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(1), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(1).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(0).
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /testbench/d3/vid_hsync has no driver.
+# 
+# This port will contribute value (U) to the signal network.
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /testbench/d3/vid_vsync has no driver.
+# 
+# This port will contribute value (U) to the signal network.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_r, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_r.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_g, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_g.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_b, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_b.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/led(2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/led(2).
+# 
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/clkm \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/rstn
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_CORTEXM0DS/HRDATA \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_CORTEXM0DS/HREADY
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_detectorbus/Detector
+run 2000 us
+# LEON3 Demonstration design for Xilinx Spartan3A DSP 1800A board
+# GRLIB Version 1.1.0, build 4108
+# Target technology: spartan3  ,  memory library: spartan3  
+# ahbctrl: AHB arbiter/multiplexer rev 1
+# ahbctrl: Common I/O area at 0xfff00000, 1 Mbyte
+# ahbctrl: AHB masters: 3, AHB slaves: 8
+# ahbctrl: Configuration area at 0xfffff000, 4 kbyte
+# ahbctrl: mst0: Gaisler Research        Unknown Device                 
+# ahbctrl: mst1: Gaisler Research        JTAG Debug Link                
+# ahbctrl: mst2: Gaisler Research        GR Ethernet MAC                
+# ahbctrl: slv1: Gaisler Research        AHB/APB Bridge                 
+# ahbctrl:       memory at 0x80000000, size 1 Mbyte
+# ahbctrl: slv4: Gaisler Research        Single-port DDR2 controller    
+# ahbctrl:       memory at 0x40000000, size 256 Mbyte, cacheable, prefetch
+# ahbctrl:       I/O port at 0xfff00100, size 256 byte
+# ahbctrl: slv6: Gaisler Research        Generic AHB ROM                
+# ahbctrl:       memory at 0x00000000, size 1 Mbyte, cacheable, prefetch
+# apbctrl: APB Bridge at 0x80000000 rev 1
+# apbctrl: slv1: Gaisler Research        Generic UART                   
+# apbctrl:       I/O ports at 0x80000100, size 256 byte 
+# apbctrl: slv2: Gaisler Research        Multi-processor Interrupt Ctrl.
+# apbctrl:       I/O ports at 0x80000200, size 256 byte 
+# apbctrl: slv3: Gaisler Research        Modular Timer Unit             
+# apbctrl:       I/O ports at 0x80000300, size 256 byte 
+# apbctrl: slv11: Gaisler Research        General Purpose I/O port       
+# apbctrl:       I/O ports at 0x80000b00, size 256 byte 
+# apbctrl: slv15: Gaisler Research        GR Ethernet MAC                
+# apbctrl:       I/O ports at 0x80000f00, size 256 byte 
+# ahbrom6: 32-bit AHB ROM Module,  94 words, 7 address bits
+# greth2: 10/100 Mbit Ethernet MAC rev 02, EDCL 1, buffer 2 kbyte 128 txfifo, irq 12
+# apbuart1: Generic UART rev 1, fifo 4, irq 2, scaler bits 12
+# grgpio11: 12-bit GPIO Unit rev 1
+# gptimer3: GR Timer Unit rev 0, 8-bit scaler, 2 32-bit timers, irq 8
+# irqmp: Multi-processor Interrupt Controller rev 3, #cpu 1, eirq 0
+# ddr2spa: DDR2 controller rev 0, 32 bit width, 128 Mbyte, 125 MHz DDR clock
+# ahbjtag AHB Debug JTAG rev 1
+# clkgen_spartan3e: spartan3/e sdram/pci clock generator, version 1
+# clkgen_spartan3e: Frequency 125000 KHz, DCM divisor 8/25
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+# Can't move the Now cursor.
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/rw22242/OneDrive - University of Bristol/Embedded Lab2 Group4/Embedded_Unit_Lab/signalwave  project of modelsim/LED}
+restart -f
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/clkgen0/xc3s/v/dll0/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/clkgen0/xc3s/v/dll0/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tdo, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/tdo.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tapo_inst(7 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ahbjtaggen0/ahbjtag0/ltapo.inst(7 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tdoen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ahbjtaggen0/ahbjtag0/tdoen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tdo, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/tdo.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/dll/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/dll/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/read_dll/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/read_dll/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdqs(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdqs(0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdqsn(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdqsn(0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdq(7 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdq(7 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_web2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_web2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_rasb2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_rasb2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_casb2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_casb2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_ad2(13 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_ad2(13 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_ba2(1 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_ba2(1 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/sdi.wprot, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/sdi.wprot.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/errorn, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/error.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(23 downto 22), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(23 downto 22).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(21 downto 2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(21 downto 2).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(1 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(1 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/oen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/oen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/writen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/writen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/iosn, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/iosn.
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(23), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(23).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(22), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(22).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(21), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(21).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(20), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(20).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(19), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(19).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(18), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(18).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(17), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(17).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(16), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(16).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(15), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(15).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(14), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(14).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(13), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(13).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(12), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(12).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(11), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(11).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(10), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(10).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(9), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(9).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(8), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(8).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(2).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(1), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(1).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(0).
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /testbench/d3/vid_hsync has no driver.
+# 
+# This port will contribute value (U) to the signal network.
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /testbench/d3/vid_vsync has no driver.
+# 
+# This port will contribute value (U) to the signal network.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_r, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_r.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_g, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_g.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_b, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_b.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/led(2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/led(2).
+# 
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/HTRANS
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/HREADY
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/u_state_machine/present_state \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/u_state_machine/next_state
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/u_state_machine/dmai.start
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/u_state_machine/dmao.ready
+run 2000 us
+# LEON3 Demonstration design for Xilinx Spartan3A DSP 1800A board
+# GRLIB Version 1.1.0, build 4108
+# Target technology: spartan3  ,  memory library: spartan3  
+# ahbctrl: AHB arbiter/multiplexer rev 1
+# ahbctrl: Common I/O area at 0xfff00000, 1 Mbyte
+# ahbctrl: AHB masters: 3, AHB slaves: 8
+# ahbctrl: Configuration area at 0xfffff000, 4 kbyte
+# ahbctrl: mst0: Gaisler Research        Unknown Device                 
+# ahbctrl: mst1: Gaisler Research        JTAG Debug Link                
+# ahbctrl: mst2: Gaisler Research        GR Ethernet MAC                
+# ahbctrl: slv1: Gaisler Research        AHB/APB Bridge                 
+# ahbctrl:       memory at 0x80000000, size 1 Mbyte
+# ahbctrl: slv4: Gaisler Research        Single-port DDR2 controller    
+# ahbctrl:       memory at 0x40000000, size 256 Mbyte, cacheable, prefetch
+# ahbctrl:       I/O port at 0xfff00100, size 256 byte
+# ahbctrl: slv6: Gaisler Research        Generic AHB ROM                
+# ahbctrl:       memory at 0x00000000, size 1 Mbyte, cacheable, prefetch
+# apbctrl: APB Bridge at 0x80000000 rev 1
+# apbctrl: slv1: Gaisler Research        Generic UART                   
+# apbctrl:       I/O ports at 0x80000100, size 256 byte 
+# apbctrl: slv2: Gaisler Research        Multi-processor Interrupt Ctrl.
+# apbctrl:       I/O ports at 0x80000200, size 256 byte 
+# apbctrl: slv3: Gaisler Research        Modular Timer Unit             
+# apbctrl:       I/O ports at 0x80000300, size 256 byte 
+# apbctrl: slv11: Gaisler Research        General Purpose I/O port       
+# apbctrl:       I/O ports at 0x80000b00, size 256 byte 
+# apbctrl: slv15: Gaisler Research        GR Ethernet MAC                
+# apbctrl:       I/O ports at 0x80000f00, size 256 byte 
+# ahbrom6: 32-bit AHB ROM Module,  94 words, 7 address bits
+# greth2: 10/100 Mbit Ethernet MAC rev 02, EDCL 1, buffer 2 kbyte 128 txfifo, irq 12
+# apbuart1: Generic UART rev 1, fifo 4, irq 2, scaler bits 12
+# grgpio11: 12-bit GPIO Unit rev 1
+# gptimer3: GR Timer Unit rev 0, 8-bit scaler, 2 32-bit timers, irq 8
+# irqmp: Multi-processor Interrupt Controller rev 3, #cpu 1, eirq 0
+# ddr2spa: DDR2 controller rev 0, 32 bit width, 128 Mbyte, 125 MHz DDR clock
+# ahbjtag AHB Debug JTAG rev 1
+# clkgen_spartan3e: spartan3/e sdram/pci clock generator, version 1
+# clkgen_spartan3e: Frequency 125000 KHz, DCM divisor 8/25
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/rw22242/OneDrive - University of Bristol/Embedded Lab2 Group4/Embedded_Unit_Lab/signalwave  project of modelsim/state machine}
+restart -f
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/clkgen0/xc3s/v/dll0/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/clkgen0/xc3s/v/dll0/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tdo, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/tdo.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tapo_inst(7 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ahbjtaggen0/ahbjtag0/ltapo.inst(7 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tap0/tdoen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ahbjtaggen0/ahbjtag0/tdoen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ahbjtaggen0/ahbjtag0/tdo, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/tdo.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/dll/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/dll/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/read_dll/x0/STATUS(7 downto 3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/sp3a/ddr_phy0/read_dll/STATUS(7 downto 3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdqs(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdqs(0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdqsn(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdqsn(0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_cbdq(7 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/dummy_ddr_cbdq(7 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_web2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_web2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_rasb2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_rasb2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_casb2, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_casb2.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_ad2(13 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_ad2(13 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_phy0/ddr_ba2(1 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/ddr_ba2(1 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/ddr2sp0/ddrc0/nftphy/ddr_phy0/sdi.wprot, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/ddr2sp0/ddrc0/sdi.wprot.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/m100/u0/etho.txd(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/eth0/e1/etho.txd(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/d3/etho.txd(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/errorn, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/error.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(23 downto 22), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(23 downto 22).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(21 downto 2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(21 downto 2).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/address(1 downto 0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/address(1 downto 0).
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/oen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/oen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/writen, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/writen.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/iosn, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/iosn.
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(23), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(23).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(22), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(22).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(21), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(21).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(20), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(20).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(19), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(19).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(18), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(18).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(17), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(17).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(16), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(16).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(15), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(15).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(14), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(14).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(13), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(13).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(12), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(12).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(11), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(11).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(10), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(10).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(9), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(9).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(8), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(8).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(7), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(7).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(6), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(6).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(5), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(5).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(4), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(4).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(3), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(3).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(2).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(1), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(1).
+# 
+# ** Warning: (vsim-8684) No drivers exist on inout port /testbench/d3/testdata(0), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/data(0).
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /testbench/d3/vid_hsync has no driver.
+# 
+# This port will contribute value (U) to the signal network.
+# 
+# ** Warning: (vsim-8683) Uninitialized out port /testbench/d3/vid_vsync has no driver.
+# 
+# This port will contribute value (U) to the signal network.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_r, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_r.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_g, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_g.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/vid_b, and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/vid_b.
+# 
+# ** Warning: (vsim-8684) No drivers exist on out port /testbench/d3/led(2), and its initial value is not used.
+# 
+# Therefore, simulation behavior may occur that is not in compliance with
+# 
+# the VHDL standard as the initial values come from the base signal /testbench/led(2).
+# 
+add wave -position insertpoint  \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/u_data_swapper/HRDATA \
+sim:/testbench/d3/cm0gen/u_com0_wrapper/u_ahb_bridge/u_data_swapper/dmao.rdata
+run 2000 us
+# LEON3 Demonstration design for Xilinx Spartan3A DSP 1800A board
+# GRLIB Version 1.1.0, build 4108
+# Target technology: spartan3  ,  memory library: spartan3  
+# ahbctrl: AHB arbiter/multiplexer rev 1
+# ahbctrl: Common I/O area at 0xfff00000, 1 Mbyte
+# ahbctrl: AHB masters: 3, AHB slaves: 8
+# ahbctrl: Configuration area at 0xfffff000, 4 kbyte
+# ahbctrl: mst0: Gaisler Research        Unknown Device                 
+# ahbctrl: mst1: Gaisler Research        JTAG Debug Link                
+# ahbctrl: mst2: Gaisler Research        GR Ethernet MAC                
+# ahbctrl: slv1: Gaisler Research        AHB/APB Bridge                 
+# ahbctrl:       memory at 0x80000000, size 1 Mbyte
+# ahbctrl: slv4: Gaisler Research        Single-port DDR2 controller    
+# ahbctrl:       memory at 0x40000000, size 256 Mbyte, cacheable, prefetch
+# ahbctrl:       I/O port at 0xfff00100, size 256 byte
+# ahbctrl: slv6: Gaisler Research        Generic AHB ROM                
+# ahbctrl:       memory at 0x00000000, size 1 Mbyte, cacheable, prefetch
+# apbctrl: APB Bridge at 0x80000000 rev 1
+# apbctrl: slv1: Gaisler Research        Generic UART                   
+# apbctrl:       I/O ports at 0x80000100, size 256 byte 
+# apbctrl: slv2: Gaisler Research        Multi-processor Interrupt Ctrl.
+# apbctrl:       I/O ports at 0x80000200, size 256 byte 
+# apbctrl: slv3: Gaisler Research        Modular Timer Unit             
+# apbctrl:       I/O ports at 0x80000300, size 256 byte 
+# apbctrl: slv11: Gaisler Research        General Purpose I/O port       
+# apbctrl:       I/O ports at 0x80000b00, size 256 byte 
+# apbctrl: slv15: Gaisler Research        GR Ethernet MAC                
+# apbctrl:       I/O ports at 0x80000f00, size 256 byte 
+# ahbrom6: 32-bit AHB ROM Module,  94 words, 7 address bits
+# greth2: 10/100 Mbit Ethernet MAC rev 02, EDCL 1, buffer 2 kbyte 128 txfifo, irq 12
+# apbuart1: Generic UART rev 1, fifo 4, irq 2, scaler bits 12
+# grgpio11: 12-bit GPIO Unit rev 1
+# gptimer3: GR Timer Unit rev 0, 8-bit scaler, 2 32-bit timers, irq 8
+# irqmp: Multi-processor Interrupt Controller rev 3, #cpu 1, eirq 0
+# ddr2spa: DDR2 controller rev 0, 32 bit width, 128 Mbyte, 125 MHz DDR clock
+# ahbjtag AHB Debug JTAG rev 1
+# clkgen_spartan3e: spartan3/e sdram/pci clock generator, version 1
+# clkgen_spartan3e: Frequency 125000 KHz, DCM divisor 8/25
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/rw22242/OneDrive - University of Bristol/Embedded Lab2 Group4/Embedded_Unit_Lab/signalwave  project of modelsim/swapper}
