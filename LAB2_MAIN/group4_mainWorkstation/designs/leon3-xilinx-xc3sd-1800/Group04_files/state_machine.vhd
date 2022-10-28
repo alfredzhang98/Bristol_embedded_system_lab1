@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------
 --- Group Num: 4 
---- Author: QINGYU ZHANG, SHURAN YANG, HAIBO LIAN
+--- Author: QINGYU ZHANG(vn22984), SHURAN YANG(rw22242), HAIBO LIAN(tb22111)
 --- Date: 22/10/2022 
 ----------------------------------------------------------------------
 
@@ -127,12 +127,8 @@ architecture structural of state_machine is
 		   end case;
     end if;
   end process;
-  
+
 end structural;
-		     
-  
-  
-  
   
   
   
