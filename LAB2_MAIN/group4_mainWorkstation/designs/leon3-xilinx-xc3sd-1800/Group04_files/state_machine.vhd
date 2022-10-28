@@ -129,8 +129,70 @@ architecture structural of state_machine is
   end process;
 
 end structural;
-  
-  
+
+
+-- This part code is we use two state state machine, which have less state then the code above
+-- And the gap time between the blink is 60525ns  
+----------------------------------------------------------------------
+--architecture structural of state_machine is
+--
+--  type state_ahb_bridge is (idle, instr_fetch);
+--  signal present_state : state_ahb_bridge;
+--  signal next_state : state_ahb_bridge;  
+--  begin
+--    
+--  -- init the dmai info (The out info)
+--  dmai.address <= HADDR;
+--  dmai.wdata <= HWDATA;
+--  -- dmai.start <= '0';
+--  dmai.burst <= '0';
+--  dmai.write <= HWRITE;
+--  dmai.busy <= '0';
+--  dmai.irq <= '0';
+--  dmai.size <= HSIZE; 
+--  
+--  
+--  reg_sate:
+--  process (rstn, clkm)
+--  begin
+--    -- reset to low level come to the idle state
+--    -- normal work status is high level
+--    if rstn = '0' then
+--      present_state <= idle;
+--    elsif rising_edge(clkm) then
+--      present_state <= next_state;
+--    end if;
+--  end process;
+--  
+--  com_state:
+--  process (present_state, HTRANS, dmao)
+--  begin
+--    case present_state is
+--      -- idle state
+--      when idle =>
+--      		HREADY <= '1';
+--		      dmai.start <= '0';
+--		      -- the reason to change
+--    		  if HTRANS = "10" then
+--		        dmai.start <= '1';
+--		        next_state <= instr_fetch;
+--		      else 
+--		        next_state <= idle;
+--		      end if;
+--      -- instr_fetch state
+--      when instr_fetch =>
+--		      HREADY <= '0';
+--		      dmai.start <= '0';
+--	       -- the reason to change
+--     		 if dmao.ready = '1' then
+-- 		 		    HREADY <= '1';
+--		        next_state <= idle;
+--		      else 
+--		        next_state <= instr_fetch;
+--		      end if;
+--		  end case;
+--  end process;
+--end structural;
   
   
   

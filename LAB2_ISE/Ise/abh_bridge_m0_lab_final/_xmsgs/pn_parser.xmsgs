@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ahbram.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ahbram.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ahbrom.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ahbrom.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ahbstat.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ahbstat.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ata.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ata.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/bscan.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/bscan.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/can_mc.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/can_mc.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/can_oc.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/can_oc.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/dcom.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/dcom.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ddr2sp.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ddr2sp.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ddrctrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ddrctrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ddrsp.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ddrsp.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/edcl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/edcl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gptimer.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gptimer.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gr1553b.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gr1553b.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gr1553b_2.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gr1553b_2.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gracectrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/gracectrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grcan.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grcan.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/greth.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/greth.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grgpio.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grgpio.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grgpio2.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grgpio2.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grsysmon.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grsysmon.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grusb_dcl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grusb_dcl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grusbdc.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grusbdc.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grusbhc.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/grusbhc.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/i2c.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/i2c.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/i2cslv.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/i2cslv.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/irqmp.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/irqmp.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/jtag.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/jtag.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/jtag2.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/jtag2.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/leon3.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/leon3.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/leon3net.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/leon3net.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/pci.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/pci.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/pcitrace.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/pcitrace.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ps2.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ps2.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ps2vga.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ps2vga.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/router.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/router.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/sdctrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/sdctrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/spacewire.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/spacewire.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/spictrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/spictrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/spimctrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/spimctrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/srctrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/srctrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ssrctrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/ssrctrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/svgactrl.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/svgactrl.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/uart1.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/uart1.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/uart2.in.vhd&quot; into library gaisler</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/gaisler/uart2.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/grlib/amba.in.vhd&quot; into library grlib</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/grlib/amba.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/grlib/debug.in.vhd&quot; into library grlib</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/grlib/debug.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/techmap/clkgen.in.vhd&quot; into library techmap</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/techmap/clkgen.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/techmap/tech.in.vhd&quot; into library techmap</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/impl_lib/techmap/tech.in.vhd</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Syntax error near &quot;constant&quot;.</arg>
+</msg>
+
+</messages>
+

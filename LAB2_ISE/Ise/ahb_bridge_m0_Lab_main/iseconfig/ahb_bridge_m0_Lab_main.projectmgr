@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!--This is an ISE project configuration file.-->
 <!--It holds project specific layout data for the projectmgr plugin.-->
 <!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
@@ -17,13 +17,13 @@
          <ClosedNode>/cm0_wrapper - structural C:|Users|vn22984|OneDrive - University of Bristol|LAB|Embeddedsystem|Embedded_Unit_Lab|LAB2_ISE|Ise|ahb_bridge_m0_Lab_main|cm0_wrapper.vhd/testlib</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>u_state_machine - state_machine - structural (C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embeddedsystem/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main/state_machine.vhd)</SelectedItem>
+         <SelectedItem>cm0_wrapper - structural (C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main/cm0_wrapper.vhd)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >6</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001c6000000020000000000000000000000000200000064ffffffff000000810000000300000002000001c60000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>u_state_machine - state_machine - structural (C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embeddedsystem/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main/state_machine.vhd)</CurrentItem>
+      <CurrentItem>cm0_wrapper - structural (C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main/cm0_wrapper.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -35,7 +35,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001be000000010000000100000000000000000000000064ffffffff000000810000000000000001000001be0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000175000000010000000100000000000000000000000064ffffffff000000810000000000000001000001750000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>Design Utilities</CurrentItem>
    </ItemView>
@@ -46,9 +46,9 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001ad000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000000e10000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000004e3000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000004170000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>acache.vhd</CurrentItem>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
@@ -61,7 +61,7 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001be000000010001000100000000000000000000000064ffffffff000000810000000000000001000001be0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>work</CurrentItem>
    </ItemView>
@@ -80,10 +80,10 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001be000000010000000100000000000000000000000064ffffffff000000810000000000000001000001be0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000175000000010000000100000000000000000000000064ffffffff000000810000000000000001000001750000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
-   <SourceProcessView>000000ff0000000000000002000000980000023401000000050100000002</SourceProcessView>
+   <SourceProcessView>000000ff0000000000000002000001720000014101000000050100000002</SourceProcessView>
    <CurrentView>Implementation</CurrentView>
 </Project>

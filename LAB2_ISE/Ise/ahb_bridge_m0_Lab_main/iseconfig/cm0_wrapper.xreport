@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2022-10-26T16:43:16</DateModified>
+  <DateModified>2022-10-29T00:01:17</DateModified>
   <ModuleName>cm0_wrapper</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embeddedsystem/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main/iseconfig/cm0_wrapper.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embeddedsystem/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main/iseconfig/cm0_wrapper.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_ISE/Ise/ahb_bridge_m0_Lab_main\</ImplementationReportsDirectory>
   <DateInitialized>2022-10-26T16:43:16</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

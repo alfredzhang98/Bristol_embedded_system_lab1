@@ -24,7 +24,7 @@ L71
 VkiA4fPaUmAYObzcabT<5c0
 Z16 OL;C;10.1b;51
 31
-Z17 !s108 1666991353.405000
+Z17 !s108 1666998760.498000
 Z18 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/ahb_bridge.vhd|
 Z19 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/ahb_bridge.vhd|
 Z20 o-work work -93 -explicit -quiet -source -nowarn 1 -nowarn 5
@@ -76,7 +76,7 @@ L35
 V3Bkf>?Kb>?cOjNaKUaI5A1
 R16
 31
-Z25 !s108 1666991353.334000
+Z25 !s108 1666998760.420000
 Z26 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbmst.vhd|
 Z27 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/gaisler/misc/ahbmst.vhd|
 R20
@@ -125,7 +125,7 @@ L23
 V8ga^Vkh]2ceEI8:@A?jOY2
 R16
 31
-Z31 !s108 1666991353.486000
+Z31 !s108 1666998760.600000
 Z32 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/ahbrom.vhd|
 Z33 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/ahbrom.vhd|
 R20
@@ -175,7 +175,7 @@ L27
 VDh7iU@6jNH;Z8m7FCc6H03
 R16
 31
-Z38 !s108 1666991353.545000
+Z38 !s108 1666998760.667000
 Z39 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/cm0_wrapper.vhd|
 Z40 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/cm0_wrapper.vhd|
 R20
@@ -229,7 +229,7 @@ R20
 R21
 !s100 H5zDEl:od_zZBhEfTK4dR2
 !i10b 1
-!s108 1666991353.629000
+!s108 1666998760.750000
 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/config.vhd|
 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/config.vhd|
 vCORTEXM0DS
@@ -249,7 +249,7 @@ n@c@o@r@t@e@x@m0@d@s
 !i10b 1
 !s100 QB2aj3jNQGYf]C3bE`PmS3
 !s85 0
-!s108 1666991354.001000
+!s108 1666998761.132000
 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/CORTEXM0DS.v|
 !s90 -reportprogress|300|-work|work|-quiet|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/CORTEXM0DS.v|
 vcortexm0ds_logic
@@ -266,7 +266,7 @@ R42
 r1
 !s85 0
 31
-!s108 1666991354.049000
+!s108 1666998761.178000
 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/cortexm0ds_logic.v|
 !s90 -reportprogress|300|-work|work|-quiet|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/cortexm0ds_logic.v|
 R43
@@ -288,7 +288,7 @@ L36
 VKSPGb^5EA4QbYK1?`0j;g3
 R16
 31
-Z49 !s108 1666991353.191000
+Z49 !s108 1666998760.253000
 Z50 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd|
 Z51 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/cpu_disas.vhd|
 Z52 !s102 -cover s
@@ -339,7 +339,7 @@ L21
 VfC>9IYHNZX2gahcoSF1:F0
 R16
 31
-Z57 !s108 1666991353.685000
+Z57 !s108 1666998760.813000
 Z58 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/data_swapper.vhd|
 Z59 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/data_swapper.vhd|
 R20
@@ -393,7 +393,7 @@ R53
 R21
 !s100 >2?o60cYoUCRdY1PWEJzg3
 !i10b 1
-!s108 1666991353.078000
+!s108 1666998760.129000
 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd|
 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/debug.vhd|
 Edetectorbus
@@ -409,7 +409,7 @@ L19
 VJCNRAdUCiME3VWRQBJGA^2
 R16
 31
-Z63 !s108 1666991353.936000
+Z63 !s108 1666998761.071000
 Z64 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/detectorbus.vhd|
 Z65 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/detectorbus.vhd|
 R20
@@ -500,7 +500,7 @@ L67
 VKT[OzK0Qn>XD0d4Tb[@C12
 R16
 31
-Z70 !s108 1666991353.130000
+Z70 !s108 1666998760.186000
 Z71 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd|
 Z72 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/lib/work/debug/grtestmod.vhd|
 R52
@@ -534,16 +534,16 @@ R21
 !s100 E14S8M[?:IanSi`C7hCMk1
 !i10b 1
 Eleon3mp
-R41
-Z73 DPx4 work 6 config 0 22 ;BPP_NgdiB]Mfajmn^;R11
-Z74 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
-Z75 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
-Z76 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
+Z73 w1666997904
+Z74 DPx4 work 6 config 0 22 ;BPP_NgdiB]Mfajmn^;R11
+Z75 DPx3 esa 10 memoryctrl 0 22 V2k;^KE?0QMZ@:Pa7kjiR2
+Z76 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
+Z77 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
 R4
-Z77 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
-Z78 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
-Z79 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
-Z80 DPx7 techmap 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
+Z78 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
+Z79 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
+Z80 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
+Z81 DPx7 techmap 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
 R3
 R5
 R6
@@ -554,31 +554,31 @@ R9
 R11
 R12
 R13
-Z81 8C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd
-Z82 FC:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd
+Z82 8C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd
+Z83 FC:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd
 l0
 L50
 V`23DMLIGPJ?9J]lS3c5^k0
 R16
 31
-Z83 !s108 1666991353.767000
-Z84 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd|
-Z85 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd|
+Z84 !s108 1666998760.902000
+Z85 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd|
+Z86 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/leon3mp.vhd|
 R20
 R21
 !s100 7<1D9Zd3;gOCoWzf4FF[]0
 !i10b 1
 Artl
 R34
-R73
 R74
 R75
 R76
-R4
 R77
+R4
 R78
 R79
 R80
+R81
 R3
 R5
 R6
@@ -588,21 +588,21 @@ R10
 R9
 R11
 R12
-Z86 DEx4 work 7 leon3mp 0 22 `23DMLIGPJ?9J]lS3c5^k0
+Z87 DEx4 work 7 leon3mp 0 22 `23DMLIGPJ?9J]lS3c5^k0
 l232
 L135
 V:0hi^GF[G@9O6DYER1dUU3
 R16
 31
-R83
 R84
 R85
+R86
 R20
 R21
 !s100 P3Z1Nlmgb39Bi65JfI27`0
 !i10b 1
 Estate_machine
-Z87 w1666991321
+Z88 w1666998645
 R2
 R3
 R4
@@ -615,16 +615,16 @@ R10
 R11
 R12
 R13
-Z88 8C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd
-Z89 FC:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd
+Z89 8C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd
+Z90 FC:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd
 l0
 L20
 V`RTaiFS:IRV3jA?[jkXca2
 R16
 31
-Z90 !s108 1666991353.851000
-Z91 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd|
-Z92 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd|
+Z91 !s108 1666998760.983000
+Z92 !s90 -reportprogress|300|-work|work|-93|-explicit|-quiet|-source|-nowarn|1|-nowarn|5|-novopt|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd|
+Z93 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/Group04_files/state_machine.vhd|
 R20
 R21
 !s100 __I]K@MOMRXgGUcazo3S`0
@@ -647,75 +647,75 @@ L41
 V2Nmg6L>H6b]eK>SdK[`?g2
 R16
 31
-R90
 R91
 R92
+R93
 R20
 R21
 !s100 3m90OJ0>_1L:n7KTzM25g1
 !i10b 1
 Etestbench
 R22
-R73
-Z93 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
-Z94 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
-Z95 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
-Z96 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
+R74
+Z94 DPx4 work 5 debug 0 22 UKYDnZfS:aT>_415YS@3F3
+Z95 DPx5 hynix 17 hy5ps121621f_pack 0 22 2fTWOlB8ogXG774Wa;^@R0
+Z96 DPx5 hynix 10 components 0 22 o8_LgJF_XU[3A5M_AZLI@0
+Z97 DPx6 micron 10 components 0 22 0TIhCD]P[_JiP8=;eZK8f2
 R66
 R67
 R3
 R5
 R4
-R77
+R78
 R6
 R7
 R8
 R10
 R9
-Z97 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+Z98 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
 R11
 R12
 R13
-Z98 8C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
-Z99 FC:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z99 8C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
+Z100 FC:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd
 l0
 L42
 VQWHaMiY@PTmT?P5U?[MI_1
 R16
 31
-Z100 !s108 1666991353.255000
-Z101 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
-Z102 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z101 !s108 1666998760.320000
+Z102 !s90 -reportprogress|300|-work|work|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
+Z103 !s107 C:/Users/vn22984/OneDrive - University of Bristol/LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation/designs/leon3-xilinx-xc3sd-1800/testbench.vhd|
 R52
 R53
 R21
 !s100 hdYXOz[00TYb6Ac2n@MoH2
 !i10b 1
 Abehav
-R74
 R75
 R76
-R78
+R77
 R79
 R80
-R86
-R73
-R93
+R81
+R87
+R74
 R94
 R95
 R96
+R97
 R66
 R67
 R3
 R5
 R4
-R77
+R78
 R6
 R7
 R8
 R10
 R9
-R97
+R98
 R11
 R12
 DEx4 work 9 testbench 0 22 QWHaMiY@PTmT?P5U?[MI_1
@@ -724,9 +724,9 @@ L55
 V;FBK2MR[S>BiZ@^9KzJn83
 R16
 31
-R100
 R101
 R102
+R103
 R52
 R53
 R21
