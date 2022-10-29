@@ -161,10 +161,10 @@ component cm0_wrapper is
     ahbmo_hburst : out STD_LOGIC_VECTOR ( 2 downto 0 ); 
     ahbmo_hprot : out STD_LOGIC_VECTOR ( 3 downto 0 ); 
     ahbmo_hwdata : out STD_LOGIC_VECTOR ( 31 downto 0 ); 
-    ahbmo_hirq : out STD_LOGIC_VECTOR ( 31 downto 0 ); 
+    ahbmo_hirq : out STD_LOGIC_VECTOR ( 31 downto 0 );
     -- ahbmo_hconfig : out STD_LOGIC_VECTOR2 ( 7 downto 0 , 31 downto 0 ); 
-    -- ahbmo_hindex : out STD_LOGIC_VECTOR ( 3 downto 0 ) 
-);
+    ahbmo_hindex : out STD_LOGIC_VECTOR ( 3 downto 0 ) 
+  );
 end component;
 
   signal vcc : std_logic;
@@ -293,8 +293,8 @@ begin
   u_com0_wrapper : cm0_wrapper
     port map (
       
-      clk => clkm,
-      rst_n => rstn,
+      clkm => clkm,
+      rstn => rstn,
       ahbmi_hready => ahbmi.hready,
       ahbmi_hcache => ahbmi.hcache,
       ahbmi_testen => ahbmi.testen,
@@ -317,9 +317,9 @@ begin
       ahbmo_hburst => ahbmo(0).hburst, 
       ahbmo_hprot => ahbmo(0).hprot,
       ahbmo_hwdata => ahbmo(0).hwdata,
-      ahbmo_hirq => ahbmo(0).hirq, 
-      -- ahbmo_hconfig : out STD_LOGIC_VECTOR2 ( 7 downto 0 , 31 downto 0 ); 
-      -- ahbmo_hindex : out STD_LOGIC_VECTOR ( 3 downto 0 ) 
+      ahbmo_hirq => ahbmo(0).hirq,
+      -- ahbmo_hconfig => (open, open), 
+      ahbmo_hindex => open
 
 
     );
