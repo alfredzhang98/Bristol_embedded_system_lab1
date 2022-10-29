@@ -1,0 +1,5842 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Eahb_mst_iface
+Z1 w1667074603
+Z2 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
+Z3 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+Z4 DPx7 gaisler 4 misc 0 22 d6SO014Ae7CN46I_AT_L73
+Z5 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z6 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z7 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z8 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z9 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z10 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z11 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z12 dC:\Users\alfred\Desktop\workstatsion\Bristol_LAB\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation_SDF\designs\leon3-xilinx-xc3sd-1800
+Z13 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahb_mst_iface.vhd
+Z14 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahb_mst_iface.vhd
+l0
+L33
+V5TT@G2[ZG0Fjm0ZVG3hLO3
+Z15 OL;C;10.1c;51
+31
+Z16 !s108 1667075373.674000
+Z17 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahb_mst_iface.vhd|
+Z18 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahb_mst_iface.vhd|
+Z19 !s102 -cover s
+Z20 o-work gaisler -93 -source -nowarn 1 -nowarn 5 -cover s
+Z21 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 Yb`65]NbIQP=1Xab<:aQB1
+!i10b 1
+Artl
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 13 ahb_mst_iface 0 22 5TT@G2[ZG0Fjm0ZVG3hLO3
+l62
+L49
+Vac5Zhc7@h:J>z6WB5oK=G1
+R15
+31
+R16
+R17
+R18
+R19
+R20
+R21
+!s100 USTeQzA4Seb3^eIB_k2SL0
+!i10b 1
+Eahbdpram
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z22 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbdpram.vhd
+Z23 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbdpram.vhd
+l0
+L35
+V>oZKnCEI2zk]DNCW;0fX32
+R15
+31
+Z24 !s108 1667075366.595000
+Z25 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbdpram.vhd|
+Z26 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbdpram.vhd|
+R19
+R20
+R21
+!s100 Ra<IDzzZn>:kdc3[T`X862
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ahbdpram 0 22 >oZKnCEI2zk]DNCW;0fX32
+l84
+L58
+V4_Z<L0S4D8OANFO1L<0cU3
+R15
+31
+R24
+R25
+R26
+R19
+R20
+R21
+!s100 U3Aj==Je:[0i7kXP2_ISI0
+!i10b 1
+Eahbjtag
+R1
+Z27 DPx7 gaisler 4 jtag 0 22 aLRhU_`ZK1e`=nEJfEJ<C2
+Z28 DPx7 gaisler 10 libjtagcom 0 22 :0?J?T@5c<RYHkJl9<<RQ3
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z29 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag.vhd
+Z30 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag.vhd
+l0
+L44
+V9z5z@5bkE673hP3[SGR=T2
+R15
+31
+Z31 !s108 1667075379.517000
+Z32 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag.vhd|
+Z33 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag.vhd|
+R19
+R20
+R21
+!s100 n_lYnGNCRdeJUG]EGicL32
+!i10b 1
+Astruct
+R27
+R28
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbjtag 0 22 9z5z@5bkE673hP3[SGR=T2
+l93
+L78
+VlkJK4>k9LC3XM3Z8gD7U82
+R15
+31
+R31
+R32
+R33
+R19
+R20
+R21
+!s100 b[Kn1]lFcDcBjA;b^CQJ@3
+!i10b 1
+Eahbjtag_bsd
+R1
+R27
+R28
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z34 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag_bsd.vhd
+Z35 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag_bsd.vhd
+l0
+L39
+V_=o?=OKMSR86W^9h4C3Ym3
+R15
+31
+Z36 !s108 1667075379.845000
+Z37 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag_bsd.vhd|
+Z38 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/ahbjtag_bsd.vhd|
+R19
+R20
+R21
+!s100 TXazKLzk21^`=J1;J;kgP3
+!i10b 1
+Astruct
+R27
+R28
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 11 ahbjtag_bsd 0 22 _=o?=OKMSR86W^9h4C3Ym3
+l75
+L60
+VBBzk_7d5cn_]N:ZdBXV0h2
+R15
+31
+R36
+R37
+R38
+R19
+R20
+R21
+!s100 >J[0^fm:l4>g7b`gNkEZc2
+!i10b 1
+Eahbmst
+Z39 w1666036631
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+Z40 dW:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\designs\leon3-xilinx-xc3sd-1800
+Z41 8W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\lib\gaisler\misc\ahbmst.vhd
+Z42 FW:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\lib\gaisler\misc\ahbmst.vhd
+l0
+L35
+V5jW]3W>4in9zQgOGD1H3<2
+R15
+31
+Z43 !s108 1666564218.152000
+Z44 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\lib\gaisler\misc\ahbmst.vhd|
+Z45 !s107 W:\Modelsim\Project\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation\lib\gaisler\misc\ahbmst.vhd|
+R19
+R20
+R21
+!s100 ^Ej8beK`nc8l`:]fgHNJ:3
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 ahbmst 0 22 5jW]3W>4in9zQgOGD1H3<2
+l69
+L54
+V0_Nb<hE]mJK6MO1a8MPh03
+R15
+31
+R43
+R44
+R45
+R19
+R20
+R21
+!s100 GWlTZbV2mmmRHedQb1G]O1
+!i10b 1
+Eahbmst2
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z46 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbmst2.vhd
+Z47 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbmst2.vhd
+l0
+L63
+VRKO`NPj:adm?91[iP__`a3
+R15
+31
+Z48 !s108 1667075373.439000
+Z49 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbmst2.vhd|
+Z50 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbmst2.vhd|
+R19
+R20
+R21
+!s100 9Z@[0O1NEUX>5[@^ELOkV0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbmst2 0 22 RKO`NPj:adm?91[iP__`a3
+l103
+L84
+VhC;BCTRiD<HiRXX^ZUhHa2
+R15
+31
+R48
+R49
+R50
+R19
+R20
+R21
+!s100 O5K0dU@2h4?>MW<WO_HF^2
+!i10b 1
+Eahbram
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z51 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbram.vhd
+Z52 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbram.vhd
+l0
+L43
+VziDJ^APf<n88Dd8UOegkZ0
+R15
+31
+Z53 !s108 1667075366.394000
+Z54 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbram.vhd|
+Z55 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbram.vhd|
+R19
+R20
+R21
+!s100 3TVh?^GJoA8mMn`cUM6`X2
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 ahbram 0 22 ziDJ^APf<n88Dd8UOegkZ0
+l88
+L60
+VVQgcFG:;LR_i3X0kVGYE^2
+R15
+31
+R53
+R54
+R55
+R19
+R20
+R21
+!s100 ??3DEOBzRmD?U>1X;HTGA2
+!i10b 1
+Eahbrep
+R1
+R3
+R5
+R6
+Z56 DPx5 grlib 5 stdio 0 22 a;KkQ@mB[4BjaV2P64L>^2
+R7
+R8
+R9
+Z57 DPx7 gaisler 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R10
+R11
+R12
+Z58 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ahbrep.vhd
+Z59 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ahbrep.vhd
+l0
+L44
+V_fa3kI:=N`3G5I=APOk3;2
+R15
+31
+Z60 !s108 1667075376.798000
+Z61 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ahbrep.vhd|
+Z62 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ahbrep.vhd|
+R19
+R20
+R21
+!s100 13G30b0PWGGUUMTin^[lh2
+!i10b 1
+Artl
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R57
+R10
+R11
+DEx4 work 6 ahbrep 0 22 _fa3kI:=N`3G5I=APOk3;2
+l77
+L58
+VkfEG3XZ1@HIMZV>2Kcfjk2
+R15
+31
+R60
+R61
+R62
+R19
+R20
+R21
+!s100 PiZU>fWoi3FQ`Z95PY@900
+!i10b 1
+Eahbstat
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z63 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbstat.vhd
+Z64 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbstat.vhd
+l0
+L38
+VUQ9_PJe<l^fLS@@NLDm3e0
+R15
+31
+Z65 !s108 1667075368.017000
+Z66 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbstat.vhd|
+Z67 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbstat.vhd|
+R19
+R20
+R21
+!s100 <XhBR4m>I0]e3F_V@@:EE0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbstat 0 22 UQ9_PJe<l^fLS@@NLDm3e0
+l76
+L56
+V3mTLf?;0bL2>TgG8O6moI0
+R15
+31
+R65
+R66
+R67
+R19
+R20
+R21
+!s100 c^3<AWFNEm<>F?o2:9U?J3
+!i10b 1
+Eahbtrace
+R1
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z68 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace.vhd
+Z69 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace.vhd
+l0
+L37
+V22Rz]P]_3cl]ALaHQo_QK3
+R15
+31
+Z70 !s108 1667075366.847000
+Z71 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace.vhd|
+Z72 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace.vhd|
+R19
+R20
+R21
+!s100 9L3bGXTIhFA@:ONIUkHQ`2
+!i10b 1
+Artl
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ahbtrace 0 22 22Rz]P]_3cl]ALaHQo_QK3
+l57
+L55
+VH9@FDJh=nk`L<fP7e6iT[2
+R15
+31
+R70
+R71
+R72
+R19
+R20
+R21
+!s100 J;@lgf:_3o77<k5k_GZoF2
+!i10b 1
+Eahbtrace_mb
+R1
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z73 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mb.vhd
+Z74 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mb.vhd
+l0
+L38
+VLSMe@dKco^KW[:5LcW`Tk0
+R15
+31
+Z75 !s108 1667075367.142000
+Z76 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mb.vhd|
+Z77 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mb.vhd|
+R19
+R20
+R21
+!s100 @Ez=_A6FkzQf]cUF9GCL?3
+!i10b 1
+Artl
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 11 ahbtrace_mb 0 22 LSMe@dKco^KW[:5LcW`Tk0
+l63
+L57
+VcXa=fU_zOncz2[jSN<_0X2
+R15
+31
+R75
+R76
+R77
+R19
+R20
+R21
+!s100 c7c0c@m4`2DeWEaJ?cdVM2
+!i10b 1
+Eahbtrace_mmb
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z78 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mmb.vhd
+Z79 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mmb.vhd
+l0
+L38
+V7CNVkBcT;h_51DN5_b4oN0
+R15
+31
+Z80 !s108 1667075367.408000
+Z81 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mmb.vhd|
+Z82 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/ahbtrace_mmb.vhd|
+R19
+R20
+R21
+!s100 l3UCLNTaV@4fm=i]Gk;c_0
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 12 ahbtrace_mmb 0 22 7CNVkBcT;h_51DN5_b4oN0
+l170
+L58
+VioYzWCn6P]J9b>jzFGk4E3
+R15
+31
+R80
+R81
+R82
+R19
+R20
+R21
+!s100 OZk@36`_mU3IlS@b;?jU80
+!i10b 1
+Eahbuart
+R1
+Z83 DPx7 gaisler 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+Z84 DPx7 gaisler 4 uart 0 22 gi__23a[PIZocPK>CR]iD2
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z85 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/ahbuart.vhd
+Z86 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/ahbuart.vhd
+l0
+L45
+VjfL;a?aA7ogO]Te0`2U4T3
+R15
+31
+Z87 !s108 1667075375.095000
+Z88 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/ahbuart.vhd|
+Z89 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/ahbuart.vhd|
+R19
+R20
+R21
+!s100 ORflfAaB8@1e:CdozK4o=3
+!i10b 1
+Astruct
+R83
+R84
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ahbuart 0 22 jfL;a?aA7ogO]Te0`2U4T3
+l72
+L63
+V?aP>@7;A3E21jaVo]]Y[W2
+R15
+31
+R87
+R88
+R89
+R19
+R20
+R21
+!s100 BDB`d4I@XBTmEUhd^fVOD0
+!i10b 1
+Eapbps2
+R1
+R2
+R4
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z90 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbps2.vhd
+Z91 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbps2.vhd
+l0
+L44
+VN8m^2CkmXRYKfAAFV]eS23
+R15
+31
+Z92 !s108 1667075368.943000
+Z93 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbps2.vhd|
+Z94 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbps2.vhd|
+R19
+R20
+R21
+!s100 g`]0N?UBNCokSeMzkA^=50
+!i10b 1
+Artl
+R2
+R4
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 6 apbps2 0 22 N8m^2CkmXRYKfAAFV]eS23
+l129
+L64
+V?FQ=R9ObL;31=OmbSn8X22
+R15
+31
+R92
+R93
+R94
+R19
+R20
+R21
+!s100 hD7J1k8<aHihQ3ZK:=Rio0
+!i10b 1
+Eapbuart
+R1
+R84
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z95 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/apbuart.vhd
+Z96 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/apbuart.vhd
+l0
+L47
+V8kcbiao>gSbgj_0fmcEb`2
+R15
+31
+Z97 !s108 1667075374.424000
+Z98 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/apbuart.vhd|
+Z99 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/apbuart.vhd|
+R19
+R20
+R21
+!s100 I94>[m?4UU=RnLnSKT@<Z2
+!i10b 1
+Artl
+R84
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 apbuart 0 22 8kcbiao>gSbgj_0fmcEb`2
+l140
+L68
+V[W5Oa??8iZJzVmBA5O?c_1
+R15
+31
+R97
+R98
+R99
+R19
+R20
+R21
+!s100 Pn<U?T7Ylch43C?fZXkSX3
+!i10b 1
+Eapbvga
+R1
+Z100 DPx7 gaisler 15 charrom_package 0 22 bHYeBhG4=]YW?X_NU@bzm3
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z101 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbvga.vhd
+Z102 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbvga.vhd
+l0
+L46
+VMl5VboUCFQG8V:MX]2Uic1
+R15
+31
+Z103 !s108 1667075369.970000
+Z104 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbvga.vhd|
+Z105 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/apbvga.vhd|
+R19
+R20
+R21
+!s100 Ge9VAGzKHTE?;1CSRL3cQ0
+!i10b 1
+Artl
+R100
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 apbvga 0 22 Ml5VboUCFQG8V:MX]2Uic1
+l133
+L62
+VHQ0jEEY5FfR52<7P0V78`2
+R15
+31
+R103
+R104
+R105
+R19
+R20
+R21
+!s100 zQ`mf1N?[;<0[_?[Ya`8N0
+!i10b 1
+Parith
+R8
+R10
+R11
+R1
+R12
+Z106 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/arith.vhd
+Z107 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/arith.vhd
+l0
+L30
+V_=LRYA4OXgl@aII>74dUj2
+R15
+31
+b1
+Z108 !s108 1667075346.278000
+Z109 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/arith.vhd|
+Z110 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/arith.vhd|
+R19
+R20
+R21
+!s100 ?eBFS6zfjkKW[YnUEAMX60
+!i10b 1
+Bbody
+DPx4 work 5 arith 0 22 _=LRYA4OXgl@aII>74dUj2
+R8
+R10
+R11
+l0
+L99
+VG`Ifk32bDge`g6JBXPBc]0
+R15
+31
+R108
+R109
+R110
+R19
+R20
+R21
+nbody
+!s100 Vj5f:918P^i=FCAfn@5NW3
+!i10b 1
+Eata_device
+R1
+R3
+R5
+R6
+R56
+R57
+R7
+R8
+R9
+R10
+R11
+R12
+Z111 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ata_device.vhd
+Z112 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ata_device.vhd
+l0
+L35
+V=ifOHnXco@4PHL`ZWQI8L1
+R15
+31
+Z113 !s108 1667075376.174000
+Z114 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ata_device.vhd|
+Z115 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/ata_device.vhd|
+R19
+R20
+R21
+!s100 kdBS5n@D6na39JOC<P<nR2
+!i10b 1
+Abehaveioral
+R3
+R5
+R6
+R56
+R57
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 ata_device 0 22 =ifOHnXco@4PHL`ZWQI8L1
+l162
+L54
+V1f4@LPOCD8cW_U=31MPzg1
+R15
+31
+R113
+R114
+R115
+R19
+R20
+R21
+!s100 BP?Qz_o>TYA^dA<8DjKEW3
+!i10b 1
+Ebscanregs
+R1
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z116 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregs.vhd
+Z117 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregs.vhd
+l0
+L31
+V=VmW_P]X^KYYj7]>f^:^30
+R15
+31
+Z118 !s108 1667075380.158000
+Z119 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregs.vhd|
+Z120 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregs.vhd|
+R19
+R20
+R21
+!s100 6nmljK:US2fEBmH@1cJHc3
+!i10b 1
+Ahier
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 9 bscanregs 0 22 =VmW_P]X^KYYj7]>f^:^30
+l57
+L53
+V;UAdVRi`o@9h4J?aHQ>YS3
+R15
+31
+R118
+R119
+R120
+R19
+R20
+R21
+!s100 4cco4U1ETMUSfbQA^7dnG1
+!i10b 1
+Ebscanregsbd
+R1
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z121 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregsbd.vhd
+Z122 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregsbd.vhd
+l0
+L31
+V]oIKFFHO2`jeZ6UDZ`BkS0
+R15
+31
+Z123 !s108 1667075380.423000
+Z124 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregsbd.vhd|
+Z125 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/bscanregsbd.vhd|
+R19
+R20
+R21
+!s100 ZRR:39DC]SzYbY[^FEbm`0
+!i10b 1
+Artl
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 11 bscanregsbd 0 22 ]oIKFFHO2`jeZ6UDZ`BkS0
+l61
+L59
+VjodX<TelIPhoi6=2ROD0`0
+R15
+31
+R123
+R124
+R125
+R19
+R20
+R21
+!s100 2_<JK=6dj^UU]6[^01KEA2
+!i10b 1
+Ecachemem
+R1
+Z126 DPx7 gaisler 8 mmuiface 0 22 Fhj]QMEY01od5C1T^g=eX0
+Z127 DPx7 gaisler 8 libcache 0 22 aV;=4A[>bbjog]X1Z0HJ:1
+Z128 DPx7 gaisler 9 mmuconfig 0 22 l9?hj8<QAo@SadNR1d7<`1
+Z129 DPx7 gaisler 5 arith 0 22 _=LRYA4OXgl@aII>74dUj2
+Z130 DPx7 gaisler 5 leon3 0 22 YH0AacVmlYB4c9kMe[z]o3
+R7
+R9
+R5
+R8
+R6
+R2
+Z131 DPx7 gaisler 5 libiu 0 22 JKP6N9;1X5QB9g3T9?[3o3
+R10
+R11
+R12
+Z132 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cachemem.vhd
+Z133 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cachemem.vhd
+l0
+L37
+VQ]oDan7meI[]zMaN@4DZU1
+R15
+31
+Z134 !s108 1667075352.406000
+Z135 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cachemem.vhd|
+Z136 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cachemem.vhd|
+R19
+R20
+R21
+!s100 c0T70S@;kUo1m^SN3eUJh0
+!i10b 1
+Artl
+R126
+R127
+R128
+R129
+R130
+R7
+R9
+R5
+R8
+R6
+R2
+R131
+R10
+R11
+DEx4 work 8 cachemem 0 22 Q]oDan7meI[]zMaN@4DZU1
+l160
+L68
+V3FHVlCI2FFbGlmoCbPABY0
+R15
+31
+R134
+R135
+R136
+R19
+R20
+R21
+!s100 2TlPOz<n7G>6HABHc6BV_3
+!i10b 1
+Echarrom
+R1
+R7
+R8
+R9
+R10
+R11
+R12
+Z137 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom.vhd
+Z138 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom.vhd
+l0
+L30
+VM^F:TRK1NHYPkjNYb@GmD2
+R15
+31
+Z139 !s108 1667075369.568000
+Z140 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom.vhd|
+Z141 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom.vhd|
+R19
+R20
+R21
+!s100 WEzz<c`^>E7Tm[Co?U`bR2
+!i10b 1
+Artl
+R7
+R8
+R9
+R10
+R11
+DEx4 work 7 charrom 0 22 M^F:TRK1NHYPkjNYb@GmD2
+l43
+L38
+VlE>kQ9Yh1:[T?74aIJzWG0
+R15
+31
+R139
+R140
+R141
+R19
+R20
+R21
+!s100 zkWWo18V7QaJFS3ihXZo`3
+!i10b 1
+Pcharrom_package
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom_package.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom_package.vhd
+l0
+L31
+VbHYeBhG4=]YW?X_NU@bzm3
+R15
+31
+R19
+R20
+R21
+!s100 OQ2@TAFFY_1aNVVg^g0E>1
+!i10b 1
+!s108 1667075369.318000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom_package.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/charrom_package.vhd|
+Ecpu_disasx
+R1
+Z142 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
+Z143 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
+R7
+R8
+R9
+DEx5 grlib 9 cpu_disas 0 22 gKUhgN8eCU9UVR9dX:eDR2
+R10
+R11
+R12
+Z144 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cpu_disasx.vhd
+Z145 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cpu_disasx.vhd
+l0
+L33
+V7AzHR=2C^6==@P7j@QCPg0
+R15
+31
+Z146 !s108 1667075357.215000
+Z147 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cpu_disasx.vhd|
+Z148 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/cpu_disasx.vhd|
+R19
+R20
+R21
+!s100 Qe>YXSG4UDDFZ[@7YBl483
+!i10b 1
+Abehav
+R142
+R143
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 cpu_disasx 0 22 7AzHR=2C^6==@P7j@QCPg0
+l68
+L50
+V=YLPQQR0?dCl7O^`X:3`V0
+R15
+31
+R146
+R147
+R148
+R19
+R20
+R21
+!s100 eJVK^IYk0zi;oA9bBVT3_2
+!i10b 1
+Edcom
+R1
+R84
+R83
+R2
+R3
+R4
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z149 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom.vhd
+Z150 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom.vhd
+l0
+L35
+V7fLJAFIghiC=^RWd]:7kj2
+R15
+31
+Z151 !s108 1667075374.626000
+Z152 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom.vhd|
+Z153 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom.vhd|
+R19
+R20
+R21
+!s100 T0AfMLXP[j;;E?S8VN`Jg0
+!i10b 1
+Astruct
+R84
+R83
+R2
+R3
+R4
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 4 dcom 0 22 7fLJAFIghiC=^RWd]:7kj2
+l63
+L47
+V0<:PLK^k53EH4mm>coB2=3
+R15
+31
+R151
+R152
+R153
+R19
+R20
+R21
+!s100 ee_ReJjI>eNOYLeioQzH91
+!i10b 1
+Edcom_uart
+R1
+R2
+R4
+R84
+R83
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z154 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom_uart.vhd
+Z155 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom_uart.vhd
+l0
+L39
+Vci]RZVFdW_dnFME60KEic2
+R15
+31
+Z156 !s108 1667075374.876000
+Z157 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom_uart.vhd|
+Z158 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/dcom_uart.vhd|
+R19
+R20
+R21
+!s100 [PoI<ZZIG5mECmO3M:hF93
+!i10b 1
+Artl
+R2
+R4
+R84
+R83
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 dcom_uart 0 22 ci]RZVFdW_dnFME60KEic2
+l98
+L57
+V9;0]HIRH@KENUfCT9I20?0
+R15
+31
+R156
+R157
+R158
+R19
+R20
+R21
+!s100 UjoVGPae:MlX01H556X890
+!i10b 1
+Eddr2buf
+R1
+R5
+R6
+R2
+R7
+R9
+R8
+R10
+R11
+R12
+Z159 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2buf.vhd
+Z160 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2buf.vhd
+l0
+L41
+Vfmgl^na]lIJnQZOS73l@?3
+R15
+31
+Z161 !s108 1667075386.723000
+Z162 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2buf.vhd|
+Z163 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2buf.vhd|
+R19
+R20
+R21
+!s100 HJdV;Y7OT^2_eOXJD2RcK3
+!i10b 1
+Artl
+R5
+R6
+R2
+R7
+R9
+R8
+R10
+R11
+DEx4 work 7 ddr2buf 0 22 fmgl^na]lIJnQZOS73l@?3
+l105
+L58
+V^azVjFTecDS^l3<:MgAgT0
+R15
+31
+R161
+R162
+R163
+R19
+R20
+R21
+!s100 UYj41`ANe69A3L=zaIiU51
+!i10b 1
+Eddr2phy_wrap
+R1
+Z164 DPx7 gaisler 7 memctrl 0 22 <6TodZlN8gn:cQ8J;14iQ1
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+Z165 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrphy_wrap.vhd
+Z166 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrphy_wrap.vhd
+l0
+L109
+Vn<LcLS31iC]O@O?Jle8S[2
+R15
+31
+Z167 !s108 1667075383.941000
+Z168 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrphy_wrap.vhd|
+Z169 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrphy_wrap.vhd|
+R19
+R20
+R21
+!s100 L69gLi6K<V^RRLB5b=C:Y3
+!i10b 1
+Artl
+R164
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 12 ddr2phy_wrap 0 22 n<LcLS31iC]O@O?Jle8S[2
+l199
+L161
+VfFQmIiP7gV^5J4=7IMR@`0
+R15
+31
+R167
+R168
+R169
+R19
+R20
+R21
+!s100 5W[eBXzY>^CdJimm9nzoN2
+!i10b 1
+Eddr2phy_wrap_cbd
+R1
+R164
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+R165
+R166
+l0
+L276
+VSzbfZF;eD:CjY8d`k377:3
+R15
+31
+R167
+R168
+R169
+R19
+R20
+R21
+!s100 5b2_b9>e5`GdhQO[]NemG0
+!i10b 1
+Artl
+R164
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 16 ddr2phy_wrap_cbd 0 22 SzbfZF;eD:CjY8d`k377:3
+l375
+L324
+V@cnb:NElnT]Q;a`[>30Im3
+R15
+31
+R167
+R168
+R169
+R19
+R20
+R21
+!s100 6LdhzRI55Io6LV>WVO<<83
+!i10b 1
+Eddr2spa
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z170 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spa.vhd
+Z171 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spa.vhd
+l0
+L37
+V4oP7B8I[H>4CAP9_[KQbc0
+R15
+31
+Z172 !s108 1667075386.268000
+Z173 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spa.vhd|
+Z174 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spa.vhd|
+R19
+R20
+R21
+!s100 OBD``UAQfm_>99]9b?e6P2
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 ddr2spa 0 22 4oP7B8I[H>4CAP9_[KQbc0
+l143
+L117
+VZRbcF=f[:ejSo8odN5mjI3
+R15
+31
+R172
+R173
+R174
+R19
+R20
+R21
+!s100 T>2mm1SH>eRa?0c9P_RkB3
+!i10b 1
+Eddr2spax
+R1
+R2
+R164
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+R12
+Z175 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax.vhd
+Z176 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax.vhd
+l0
+L37
+V^g22L5z@`RZTY_Xz?<dli2
+R15
+31
+Z177 !s108 1667075387.084000
+Z178 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax.vhd|
+Z179 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax.vhd|
+R19
+R20
+R21
+!s100 LY^:>3hnA?HC_4aCmOAS^3
+!i10b 1
+Artl
+R2
+R164
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+DEx4 work 8 ddr2spax 0 22 ^g22L5z@`RZTY_Xz?<dli2
+l145
+L82
+VTIkUaAI4`1z5oakGnNN^k1
+R15
+31
+R177
+R178
+R179
+R19
+R20
+R21
+!s100 Td9=oFk?[QcZ6f_^gE=?W3
+!i10b 1
+Eddr2spax_ahb
+R1
+R2
+R164
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+R12
+Z180 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ahb.vhd
+Z181 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ahb.vhd
+l0
+L37
+VC_Q_[3A0H26l<Iaj579QA2
+R15
+31
+Z182 !s108 1667075387.459000
+Z183 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ahb.vhd|
+Z184 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ahb.vhd|
+R19
+R20
+R21
+!s100 B1R`hdTggOQUKo6TV_oSH3
+!i10b 1
+Artl
+R2
+R164
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+DEx4 work 12 ddr2spax_ahb 0 22 C_Q_[3A0H26l<Iaj579QA2
+l123
+L65
+Vb[[1@MCn6WLbdMnO4R]OY3
+!s100 o5ZCgbbz42zZ:QJ]hBPV_1
+R15
+31
+R182
+R183
+R184
+R19
+R20
+R21
+!i10b 1
+Eddr2spax_ddr
+R1
+R2
+R164
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+R12
+Z185 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ddr.vhd
+Z186 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ddr.vhd
+l0
+L37
+V`KPfN72kImKhDVPWzDKi01
+!s100 10O1mX@a4hD02UV1fg7JX1
+R15
+31
+!i10b 1
+Z187 !s108 1667075387.846000
+Z188 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ddr.vhd|
+Z189 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddr2spax_ddr.vhd|
+R19
+R20
+R21
+Artl
+R2
+R164
+R3
+R5
+R6
+R7
+R9
+R8
+R10
+R11
+Z190 DEx4 work 12 ddr2spax_ddr 0 22 `KPfN72kImKhDVPWzDKi01
+l220
+L79
+Z191 V7KS`bamdlh[Pl2D1W2^4n3
+Z192 !s100 ZSW=DKb;aZ[1_^f7L5U<G1
+R15
+31
+!i10b 1
+R187
+R188
+R189
+R19
+R20
+R21
+Eddrphy_wrap
+R1
+R164
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+R165
+R166
+l0
+L40
+VITo>?lj7kO6]a_U]ln9Hn2
+R15
+31
+R167
+R168
+R169
+R19
+R20
+R21
+!s100 aFSdKgbV1mM=dZheC>AcT0
+!i10b 1
+Artl
+R164
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 11 ddrphy_wrap 0 22 ITo>?lj7kO6]a_U]ln9Hn2
+l73
+L71
+V=4BiWX::oHRRDCa2AKf7J2
+R15
+31
+R167
+R168
+R169
+R19
+R20
+R21
+!s100 9VH0<h:De_DDe6S>;Cl;42
+!i10b 1
+Eddrsp16a
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z193 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp16a.vhd
+Z194 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp16a.vhd
+l0
+L37
+VWc;YUW3:Cg6JzAQHBzAAN0
+R15
+31
+Z195 !s108 1667075384.503000
+Z196 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp16a.vhd|
+Z197 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp16a.vhd|
+R19
+R20
+R21
+!s100 1UKQH[mVnoWoPPi^f2:2j2
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ddrsp16a 0 22 Wc;YUW3:Cg6JzAQHBzAAN0
+l205
+L69
+VkEEP03EaUhB9:L2PGfehR2
+R15
+31
+R195
+R196
+R197
+R19
+R20
+R21
+!s100 ohmR9H[nkSzM]D9]c08OG3
+!i10b 1
+Eddrsp32a
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z198 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp32a.vhd
+Z199 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp32a.vhd
+l0
+L37
+VETQzUm?NcY[bbM912kkRG2
+R15
+31
+Z200 !s108 1667075384.893000
+Z201 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp32a.vhd|
+Z202 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp32a.vhd|
+R19
+R20
+R21
+!s100 mhT`8GP[V=kE?X>=l8g?m0
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ddrsp32a 0 22 ETQzUm?NcY[bbM912kkRG2
+l204
+L68
+Vm]hbbHknW4dB:RSB:?;Yj0
+R15
+31
+R200
+R201
+R202
+R19
+R20
+R21
+!s100 ?Sg?GCl>OE^1RiH[zB8_52
+!i10b 1
+Eddrsp64a
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z203 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp64a.vhd
+Z204 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp64a.vhd
+l0
+L37
+VJbUW4JA=h>X3WJGeCICEX1
+R15
+31
+Z205 !s108 1667075385.315000
+Z206 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp64a.vhd|
+Z207 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrsp64a.vhd|
+R19
+R20
+R21
+!s100 [M6mz56l]H8b6MdV^N7j[3
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 ddrsp64a 0 22 JbUW4JA=h>X3WJGeCICEX1
+l204
+L68
+V?:fbaRSIRL?E_bMl;m8HQ1
+R15
+31
+R205
+R206
+R207
+R19
+R20
+R21
+!s100 >VSKjecWjQl4Se4eleeN=1
+!i10b 1
+Eddrspa
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z208 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrspa.vhd
+Z209 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrspa.vhd
+l0
+L37
+V=Q0QC^hAMN1DASbG:;1dB3
+R15
+31
+Z210 !s108 1667075385.846000
+Z211 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrspa.vhd|
+Z212 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/ddr/ddrspa.vhd|
+R19
+R20
+R21
+!s100 `[iQ_[BS9ooTSU71aBWE]2
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 ddrspa 0 22 =Q0QC^hAMN1DASbG:;1dB3
+l99
+L91
+V]CKN9<1]]X94[HWPLY<4U3
+R15
+31
+R210
+R211
+R212
+R19
+R20
+R21
+!s100 a@76F^NC_RfK>hRanbHKH0
+!i10b 1
+Edelay_wire
+R1
+R10
+R11
+R12
+Z213 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/delay_wire.vhd
+Z214 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/delay_wire.vhd
+l0
+L27
+Vl==7Q>UZ[U1HhW;B^K6b@0
+R15
+31
+Z215 !s108 1667075377.002000
+Z216 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/delay_wire.vhd|
+Z217 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/delay_wire.vhd|
+R19
+R20
+R21
+!s100 [003b2n>@=EeA3XoSC`hn0
+!i10b 1
+Artl
+R10
+R11
+DEx4 work 10 delay_wire 0 22 l==7Q>UZ[U1HhW;B^K6b@0
+l44
+L39
+V3IbkN;2>jR?oDb1FzCXLM1
+R15
+31
+R215
+R216
+R217
+R19
+R20
+R21
+!s100 >h<mGMBARMe[U^W=Z=Y012
+!i10b 1
+Ediv32
+R1
+R129
+R7
+R8
+R9
+R10
+R11
+R12
+Z218 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/div32.vhd
+Z219 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/div32.vhd
+l0
+L40
+V[e61BRcOXbNTBQmea;V6=2
+R15
+31
+Z220 !s108 1667075347.012000
+Z221 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/div32.vhd|
+Z222 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/div32.vhd|
+R19
+R20
+R21
+!s100 4nNlWncOE69CWGJbT57eM2
+!i10b 1
+Artl
+R129
+R7
+R8
+R9
+R10
+R11
+DEx4 work 5 div32 0 22 [e61BRcOXbNTBQmea;V6=2
+l70
+L50
+VJTQARf@`^doj>GzQimYoJ0
+R15
+31
+R220
+R221
+R222
+R19
+R20
+R21
+!s100 `X]>@_LghckUCiFcFLcHJ0
+!i10b 1
+Edsu3
+R1
+R2
+R130
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z223 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3.vhd
+Z224 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3.vhd
+l0
+L44
+VC9ib@R>A[ZFWgeFBN1PbM1
+R15
+31
+Z225 !s108 1667075360.591000
+Z226 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3.vhd|
+Z227 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3.vhd|
+R19
+R20
+R21
+!s100 PD[e0XEedZadL3ogBmldc0
+!i10b 1
+Artl
+R2
+R130
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 4 dsu3 0 22 C9ib@R>A[ZFWgeFBN1PbM1
+l73
+L69
+Vc7OJUP3L@LPaCCEEl1RdN3
+R15
+31
+R225
+R226
+R227
+R19
+R20
+R21
+!s100 FdmnW`Rd8zU2JlI@LCdG70
+!i10b 1
+Edsu3x
+R1
+R2
+R130
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z228 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3x.vhd
+Z229 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3x.vhd
+l0
+L37
+Ve9Vm0]aokieNikc`ciY9^3
+R15
+31
+Z230 !s108 1667075360.029000
+Z231 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3x.vhd|
+Z232 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/dsu3x.vhd|
+R19
+R20
+R21
+!s100 Z85dcoClJ><]X=^B8Lz^a3
+!i10b 1
+Artl
+R2
+R130
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 dsu3x 0 22 e9Vm0]aokieNikc`ciY9^3
+l162
+L65
+VW96>bF9amScbTeGe2_mY:1
+R15
+31
+R230
+R231
+R232
+R19
+R20
+R21
+!s100 e_ML]GazUcYY@5]PLk5IV2
+!i10b 1
+Pethernet_mac
+R2
+R7
+R9
+R5
+R8
+R6
+Z233 DPx7 gaisler 3 net 0 22 Uf43:zzRWfjleTaedzkWL0
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/ethernet_mac.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/ethernet_mac.vhd
+l0
+L30
+VmlGggTJ0_jR;?gD:=hLfb0
+R15
+31
+R19
+R20
+R21
+!s100 h32IzUCJ5<`VoRNNVVZV00
+!i10b 1
+!s108 1667075381.251000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/ethernet_mac.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/ethernet_mac.vhd|
+Egptimer
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z234 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gptimer.vhd
+Z235 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gptimer.vhd
+l0
+L47
+VT2W8k4MHgU8WBeADDiD^h2
+R15
+31
+Z236 !s108 1667075366.142000
+Z237 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gptimer.vhd|
+Z238 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gptimer.vhd|
+R19
+R20
+R21
+!s100 i3559Ylk5_Q7?4aI0]ajn0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 gptimer 0 22 T2W8k4MHgU8WBeADDiD^h2
+l107
+L70
+V[KQdOk8e]L>fbS@:aRN8[3
+R15
+31
+R236
+R237
+R238
+R19
+R20
+R21
+!s100 1Zd7lOR1`jODmVI^Vz8il2
+!i10b 1
+Egracectrl
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z239 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gracectrl.vhd
+Z240 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gracectrl.vhd
+l0
+L34
+V2Tl?g8=SCC`lkB_7Q=nWP0
+R15
+31
+Z241 !s108 1667075373.002000
+Z242 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gracectrl.vhd|
+Z243 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/gracectrl.vhd|
+R19
+R20
+R21
+!s100 k=cJBYGkP1:a`FBCkAcce0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 gracectrl 0 22 2Tl?g8=SCC`lkB_7Q=nWP0
+l135
+L55
+VGLV;3G3UV@m7Lbm]hLW>U0
+R15
+31
+R241
+R242
+R243
+R19
+R20
+R21
+!s100 4I@lG?2DXaCL2Cj:hY>Cc3
+!i10b 1
+Egreth
+R1
+Z244 DPx3 eth 7 ethcomp 0 22 :NkR42G2[l8bz@5`D79KF2
+R4
+Z245 DPx7 gaisler 12 ethernet_mac 0 22 mlGggTJ0_jR;?gD:=hLfb0
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z246 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth.vhd
+Z247 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth.vhd
+l0
+L41
+VI2?n:F[TegTK>6CzkTd?i0
+R15
+31
+Z248 !s108 1667075381.565000
+Z249 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth.vhd|
+Z250 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth.vhd|
+R19
+R20
+R21
+!s100 mh3^?eTW:^9:B6KZQ<eLd2
+!i10b 1
+Artl
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 5 greth 0 22 I2?n:F[TegTK>6CzkTd?i0
+l149
+L85
+V8K`VZEb5DT3Wl95cnh:][1
+R15
+31
+R248
+R249
+R250
+R19
+R20
+R21
+!s100 E0UARDZkBCZ7MB<92[DLe0
+!i10b 1
+Egreth_gbit
+R1
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z251 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit.vhd
+Z252 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit.vhd
+l0
+L41
+VnD9L3>_441Vm5D6jN4a1i2
+R15
+31
+Z253 !s108 1667075382.643000
+Z254 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit.vhd|
+Z255 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit.vhd|
+R19
+R20
+R21
+!s100 :2baEX3HSYoGM[G7dDSl13
+!i10b 1
+Artl
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 10 greth_gbit 0 22 nD9L3>_441Vm5D6jN4a1i2
+l141
+L84
+V=d_JT<>g^`Zd2LC9IM5ID0
+R15
+31
+R253
+R254
+R255
+R19
+R20
+R21
+!s100 b6bgZ?SoJ9K@YDd:e0BOk3
+!i10b 1
+Egreth_gbit_mb
+R1
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z256 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit_mb.vhd
+Z257 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit_mb.vhd
+l0
+L41
+VmT^l]eT4zRllVlB^o0SkE1
+R15
+31
+Z258 !s108 1667075383.175000
+Z259 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit_mb.vhd|
+Z260 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_gbit_mb.vhd|
+R19
+R20
+R21
+!s100 K^Ck[?[n_@L]kajfhnZ^_2
+!i10b 1
+Artl
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 13 greth_gbit_mb 0 22 mT^l]eT4zRllVlB^o0SkE1
+l146
+L88
+Vg8RF];`lmO@FjHT<C`ToU2
+R15
+31
+R258
+R259
+R260
+R19
+R20
+R21
+!s100 Bhc@nC?fE?3M<z]h4Kbl00
+!i10b 1
+Egreth_mb
+R1
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z261 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_mb.vhd
+Z262 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_mb.vhd
+l0
+L41
+V?hgzf0TeV;Q<`9;LC4`g=0
+R15
+31
+Z263 !s108 1667075382.065000
+Z264 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_mb.vhd|
+Z265 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/greth_mb.vhd|
+R19
+R20
+R21
+!s100 QJO9P86kKh3CdLI<QLcDC0
+!i10b 1
+Artl
+R244
+R4
+R245
+R233
+R2
+R3
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 8 greth_mb 0 22 ?hgzf0TeV;Q<`9;LC4`g=0
+l155
+L89
+VaUOIH9F>3lCKU`o48_eKZ0
+R15
+31
+R263
+R264
+R265
+R19
+R20
+R21
+!s100 zRX[U=jeadgbgUG4>TDaC2
+!i10b 1
+Egrethm
+R1
+R233
+R2
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+Z266 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/grethm.vhd
+Z267 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/grethm.vhd
+l0
+L35
+V_5QSnFHNRcbRfW<[I?W[b1
+R15
+31
+Z268 !s108 1667075383.580000
+Z269 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/grethm.vhd|
+Z270 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/greth/grethm.vhd|
+R19
+R20
+R21
+!s100 EI3hE6jlK9TiMaYjUMXGn3
+!i10b 1
+Artl
+R233
+R2
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+DEx4 work 6 grethm 0 22 _5QSnFHNRcbRfW<[I?W[b1
+l83
+L82
+V9]B2KImCHJRi]:SUU?d]i1
+R15
+31
+R268
+R269
+R270
+R19
+R20
+R21
+!s100 bN?kUeBc>`[QnWZ>zTNl60
+!i10b 1
+Egrfpushwx
+R1
+R2
+R5
+R6
+R130
+R7
+R8
+R9
+R10
+R11
+R12
+Z271 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpushwx.vhd
+Z272 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpushwx.vhd
+l0
+L16
+VjVgVkoLU7Cand4CiIUCoo3
+R15
+31
+Z273 !s108 1667075364.252000
+Z274 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpushwx.vhd|
+Z275 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpushwx.vhd|
+R19
+R20
+R21
+!s100 C@9Aa5E5eLng[M0iie]<N3
+!i10b 1
+Artl
+R2
+R5
+R6
+R130
+R7
+R8
+R9
+R10
+R11
+DEx4 work 9 grfpushwx 0 22 jVgVkoLU7Cand4CiIUCoo3
+l170
+L29
+V0okAKzb:KO=fdJLF`a5PK1
+R15
+31
+R273
+R274
+R275
+R19
+R20
+R21
+!s100 AKWT4QgaIM:SBHNZ_KKJJ3
+!i10b 1
+Egrfpwx
+R1
+Z276 DPx7 techmap 7 netcomp 0 22 OWgRMf4Taz>X_3j0e_Ge90
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+R12
+Z277 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwx.vhd
+Z278 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwx.vhd
+l0
+L37
+V`Y4<];BGP9iOk7^PA1=j23
+R15
+31
+Z279 !s108 1667075358.498000
+Z280 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwx.vhd|
+Z281 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwx.vhd|
+R19
+R20
+R21
+!s100 HO<@3=GT:T5a8UDQ@Ykmc2
+!i10b 1
+Artl
+R276
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+DEx4 work 6 grfpwx 0 22 `Y4<];BGP9iOk7^PA1=j23
+l60
+L55
+VWcCN@d;I?LfcMPWgeIe_g3
+R15
+31
+R279
+R280
+R281
+R19
+R20
+R21
+!s100 9T;Dg=K:0@JAgon1NH^Il1
+!i10b 1
+Egrfpwxsh
+R1
+R130
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z282 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwxsh.vhd
+Z283 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwxsh.vhd
+l0
+L33
+VG02I_@WHol5]9o1@Cn5>_3
+R15
+31
+Z284 !s108 1667075363.751000
+Z285 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwxsh.vhd|
+Z286 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grfpwxsh.vhd|
+R19
+R20
+R21
+!s100 3GD?<4IJVaA6J<Af3zRJ^1
+!i10b 1
+Artl
+R130
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 8 grfpwxsh 0 22 G02I_@WHol5]9o1@Cn5>_3
+l155
+L50
+VZDTQ1ml7ORl65NG>W<V_[2
+R15
+31
+R284
+R285
+R286
+R19
+R20
+R21
+!s100 RSKk2Mke@l34BPF7QMaVf0
+!i10b 1
+Egrgpio
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z287 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpio.vhd
+Z288 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpio.vhd
+l0
+L45
+VCcb1zD_XamWc88FVf<@nH3
+R15
+31
+Z289 !s108 1667075367.736000
+Z290 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpio.vhd|
+Z291 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpio.vhd|
+R19
+R20
+R21
+!s100 [8il9Kkf?S9_^kgThG_<@0
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 grgpio 0 22 Ccb1zD_XamWc88FVf<@nH3
+l111
+L70
+V;eGR5:^2Y33gGl=@lIkDL0
+R15
+31
+R289
+R290
+R291
+R19
+R20
+R21
+!s100 Nn;C=0]Ygl]4ffNmO2:2j0
+!i10b 1
+Egrgpreg
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+R12
+Z292 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpreg.vhd
+Z293 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpreg.vhd
+l0
+L40
+V870K]gfU3=LQoG1ckzPb62
+R15
+31
+Z294 !s108 1667075373.220000
+Z295 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpreg.vhd|
+Z296 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grgpreg.vhd|
+R19
+R20
+R21
+!s100 Ea0hm8:JO6^d<GdN:QSTG3
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+DEx4 work 7 grgpreg 0 22 870K]gfU3=LQoG1ckzPb62
+l75
+L60
+V44W7Xi02deQgX7dnZ8oWO2
+R15
+31
+R294
+R295
+R296
+R19
+R20
+R21
+!s100 THJ1Jk7C??AzU1kWfSnlC0
+!i10b 1
+Egrlfpwx
+R1
+R276
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+R12
+Z297 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grlfpwx.vhd
+Z298 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grlfpwx.vhd
+l0
+L36
+V9X1GYHfGNYjaR@i1<@PD?0
+R15
+31
+Z299 !s108 1667075359.215000
+Z300 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grlfpwx.vhd|
+Z301 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/grlfpwx.vhd|
+R19
+R20
+R21
+!s100 S1>o:lOFYe]>ldi]8HK7W3
+!i10b 1
+Artl
+R276
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+DEx4 work 7 grlfpwx 0 22 9X1GYHfGNYjaR@i1<@PD?0
+l58
+L53
+VTYeP[NJY0Q`8A`8QbAbVE0
+R15
+31
+R299
+R300
+R301
+R19
+R20
+R21
+!s100 FW:1X?2zdbRSDndNZKaST2
+!i10b 1
+Egrsysmon
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z302 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grsysmon.vhd
+Z303 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grsysmon.vhd
+l0
+L37
+V2DZPUa]HNLCKQQ6jYiHP22
+R15
+31
+Z304 !s108 1667075372.783000
+Z305 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grsysmon.vhd|
+Z306 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/grsysmon.vhd|
+R19
+R20
+R21
+!s100 8La85InmaFOEOn2bC60gm3
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 grsysmon 0 22 2DZPUa]HNLCKQQ6jYiHP22
+l175
+L86
+VaR2WLW4Zl6fNKOW1V08En2
+R15
+31
+R304
+R305
+R306
+R19
+R20
+R21
+!s100 nfm0b@Xl@OSMmMH3=YK8z2
+!i10b 1
+Egrusb_dclsim
+R1
+Z307 DPx7 gaisler 6 usbsim 0 22 =K]O^Rl33<[]PX:3aV;GH0
+R3
+R5
+R6
+R56
+R57
+R7
+R9
+R8
+R10
+R11
+R12
+Z308 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusb_dclsim.vhd
+Z309 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusb_dclsim.vhd
+l0
+L101
+VF9[]PbK5h7[5lG0[QG9fe1
+R15
+31
+Z310 !s108 1667075378.236000
+Z311 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusb_dclsim.vhd|
+Z312 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusb_dclsim.vhd|
+R19
+R20
+R21
+!s100 oZ_ee;A8gY[KA9DbV>ZYi2
+!i10b 1
+Abehav
+R307
+R3
+R5
+R6
+R56
+R57
+R7
+R9
+R8
+R10
+R11
+DEx4 work 12 grusb_dclsim 0 22 F9[]PbK5h7[5lG0[QG9fe1
+l131
+L122
+V?aBE2UzReL<R3Mb9CXi>63
+R15
+31
+R310
+R311
+R312
+R19
+R20
+R21
+!s100 M<k`h:cHWI[]?7K3E<1_[2
+!i10b 1
+Egrusbdcsim
+R1
+R307
+R7
+R9
+R8
+R10
+R11
+R12
+Z313 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusbdcsim.vhd
+Z314 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusbdcsim.vhd
+l0
+L46
+VF?L3IF@5obeZ[G0[ReZ971
+R15
+31
+Z315 !s108 1667075377.986000
+Z316 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusbdcsim.vhd|
+Z317 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/grusbdcsim.vhd|
+R19
+R20
+R21
+!s100 8X2>NCJIdc_Za0oEZ6ZPN3
+!i10b 1
+Abehav
+R307
+R7
+R9
+R8
+R10
+R11
+DEx4 work 10 grusbdcsim 0 22 F?L3IF@5obeZ[G0[ReZ971
+l68
+L59
+V;C4m28LR0BTai2<K]UC9O3
+R15
+31
+R315
+R316
+R317
+R19
+R20
+R21
+!s100 ??d^G^9VhO8;HAUXnzAEV1
+!i10b 1
+vi2c_slave_model
+I0C:CDQU=:ii51na96OMGA2
+Vo4NFQ]cPUgk_kU2`QENA20
+R12
+R1
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/i2c_slave_model.v
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/i2c_slave_model.v
+L0 76
+Z318 OL;L;10.1c;51
+r1
+31
+o-work gaisler
+tQuiet 1
+!i10b 1
+!s100 YBNXDhHmVmR7S34;0;A2h0
+!s85 0
+!s108 1667075375.361000
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/i2c_slave_model.v|
+!s90 -reportprogress|300|-work|gaisler|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/i2c_slave_model.v|
+Ei2cmst_gen
+R1
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+R12
+Z319 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cmst_gen.vhd
+Z320 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cmst_gen.vhd
+l0
+L39
+V_gPOBK?U]UFfc7X]eRj1b1
+R15
+31
+Z321 !s108 1667075370.832000
+Z322 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cmst_gen.vhd|
+Z323 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cmst_gen.vhd|
+R19
+R20
+R21
+!s100 f0a@2M6eOZd1=Y?`_WEn>1
+!i10b 1
+Artl
+R2
+R4
+R3
+R7
+R9
+R5
+R6
+R8
+R10
+R11
+DEx4 work 10 i2cmst_gen 0 22 _gPOBK?U]UFfc7X]eRj1b1
+l77
+L67
+Vz8kRK6Obf0R>mD4:F8oiF3
+R15
+31
+R321
+R322
+R323
+R19
+R20
+R21
+!s100 ^T2<B;PgX:b?U<8oi:@oK0
+!i10b 1
+Ei2cslv
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R4
+R10
+R11
+R12
+Z324 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cslv.vhd
+Z325 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cslv.vhd
+l0
+L80
+VCAA5`XH6=NXkH0h]Agd640
+R15
+31
+Z326 !s108 1667075372.064000
+Z327 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cslv.vhd|
+Z328 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/i2cslv.vhd|
+R19
+R20
+R21
+!s100 nZceX3Lc1:[b4J>S63OEo3
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R4
+R10
+R11
+DEx4 work 6 i2cslv 0 22 CAA5`XH6=NXkH0h]Agd640
+l241
+L106
+V]hJ]zAP3oUmciiF`_]z@13
+R15
+31
+R326
+R327
+R328
+R19
+R20
+R21
+!s100 L^dDe^Jb0EgbXQDGoR2Bf1
+!i10b 1
+Eirqmp
+R1
+R2
+R130
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z329 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/irqmp.vhd
+Z330 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/irqmp.vhd
+l0
+L43
+V:;IESMOdHfLc[LiWV^JQ`1
+R15
+31
+Z331 !s108 1667075363.267000
+Z332 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/irqmp.vhd|
+Z333 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/irqmp.vhd|
+R19
+R20
+R21
+!s100 TSh[`QK4bJXz894@]cLTm1
+!i10b 1
+Artl
+R2
+R130
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 irqmp 0 22 :;IESMOdHfLc[LiWV^JQ`1
+l107
+L61
+Vdac6R`M8d]?`>XiQPh0_k0
+R15
+31
+R331
+R332
+R333
+R19
+R20
+R21
+!s100 SiO6E@V>AfZ[G3]52fB7T2
+!i10b 1
+Eiu3
+R1
+R142
+R128
+R129
+R131
+R130
+R5
+R6
+R2
+R7
+R9
+R143
+R8
+R10
+R11
+R12
+Z334 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/iu3.vhd
+Z335 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/iu3.vhd
+l0
+L42
+VCF3NCUm>z[^^djZk[J6Va0
+R15
+31
+Z336 !s108 1667075357.809000
+Z337 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/iu3.vhd|
+Z338 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/iu3.vhd|
+R19
+R20
+R21
+!s100 [_ReCZf<cRcA[IiGchY8A0
+!i10b 1
+Artl
+R142
+R128
+R129
+R131
+R130
+R5
+R6
+R2
+R7
+R9
+R143
+R8
+R10
+R11
+DEx4 work 3 iu3 0 22 CF3NCUm>z[^^djZk[J6Va0
+l2352
+L95
+VRnEWFcfWL9zL0:Yl9:1OR3
+R15
+31
+R336
+R337
+R338
+R19
+R20
+R21
+!s100 >FIdTfj3DSFdOn8NPlC:61
+!i10b 1
+Pjtag
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtag.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtag.vhd
+l0
+L33
+VaLRhU_`ZK1e`=nEJfEJ<C2
+R15
+31
+R19
+R20
+R21
+!s100 9j>NPzGdnV12CM01nV0CJ2
+!i10b 1
+!s108 1667075378.611000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtag.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtag.vhd|
+Ejtagcom
+R1
+R3
+R4
+R28
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z339 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagcom.vhd
+Z340 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagcom.vhd
+l0
+L39
+V2f2FS8YK1D[zVMRg;<Ii[2
+R15
+31
+Z341 !s108 1667075379.204000
+Z342 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagcom.vhd|
+Z343 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagcom.vhd|
+R19
+R20
+R21
+!s100 Aal1KD_Hj`XWgdC8G_WIP3
+!i10b 1
+Artl
+R3
+R4
+R28
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 jtagcom 0 22 2f2FS8YK1D[zVMRg;<Ii[2
+l85
+L57
+Vzk4DJ=zhhcKmYh?IzX`bL2
+R15
+31
+R341
+R342
+R343
+R19
+R20
+R21
+!s100 VoeR[a6G`6G4lhJ?JJXA@3
+!i10b 1
+Pjtagtst
+R5
+R6
+R56
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z344 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagtst.vhd
+Z345 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagtst.vhd
+l0
+L36
+VB51KY]5@QIT]fj7@=j6XX0
+R15
+31
+b1
+Z346 !s108 1667075380.862000
+Z347 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagtst.vhd|
+Z348 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/jtagtst.vhd|
+R19
+R20
+R21
+!s100 _Mj2c:PMDWR>TcY[:?U]72
+!i10b 1
+Bbody
+DPx4 work 7 jtagtst 0 22 B51KY]5@QIT]fj7@=j6XX0
+R5
+R6
+R56
+R7
+R8
+R9
+R10
+R11
+l0
+L106
+VZ98]A01WI1MAl;ViV1LW41
+R15
+31
+R346
+R347
+R348
+R19
+R20
+R21
+nbody
+!s100 H`zeUN>R9XBHHC=P>^_lB0
+!i10b 1
+Pleon3
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3.vhd
+l0
+L34
+VYH0AacVmlYB4c9kMe[z]o3
+R15
+31
+R19
+R20
+R21
+!s100 dHSkWc?8`]=K0D1I8n=K]0
+!i10b 1
+!s108 1667075349.594000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3.vhd|
+Eleon3cg
+R1
+Z349 DPx7 gaisler 8 libproc3 0 22 mAAc749RiEl4Rh7@]O5D81
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z350 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3cg.vhd
+Z351 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3cg.vhd
+l0
+L42
+VNk9L5a[WW4lE@8m`UCi3B2
+R15
+31
+Z352 !s108 1667075362.830000
+Z353 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3cg.vhd|
+Z354 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3cg.vhd|
+R19
+R20
+R21
+!s100 <M;;o1YVNo0LFl4KcjdzB2
+!i10b 1
+Artl
+R349
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 leon3cg 0 22 Nk9L5a[WW4lE@8m`UCi3B2
+l136
+L107
+VM5angOHSC6UUmN]<;kn:X3
+R15
+31
+R352
+R353
+R354
+R19
+R20
+R21
+!s100 Z_JUWehJTPDa5OmC8P7Ed3
+!i10b 1
+Eleon3s
+R1
+R349
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z355 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3s.vhd
+Z356 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3s.vhd
+l0
+L158
+VYfeazCQmT1PY_5YR5P;Yf3
+R15
+31
+Z357 !s108 1667075361.942000
+Z358 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3s.vhd|
+Z359 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3s.vhd|
+R19
+R20
+R21
+!s100 aL7VZCAMfW[l7h]SjGJQT3
+!i10b 1
+Artl
+R349
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 leon3s 0 22 YfeazCQmT1PY_5YR5P;Yf3
+l252
+L222
+VmYPhJ1_M:Fn;k@_3zA8Ic2
+R15
+31
+R357
+R358
+R359
+R19
+R20
+R21
+!s100 ?M@YVBgNC9@6<5Xe5ha>33
+!i10b 1
+Eleon3sh
+R1
+R349
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z360 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3sh.vhd
+Z361 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3sh.vhd
+l0
+L42
+V;o[5M2k?MG00Wk;G>hN141
+R15
+31
+Z362 !s108 1667075364.673000
+Z363 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3sh.vhd|
+Z364 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/leon3sh.vhd|
+R19
+R20
+R21
+!s100 0V8SBS:h4:?hcOj5JGn:z1
+!i10b 1
+Artl
+R349
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 leon3sh 0 22 ;o[5M2k?MG00Wk;G>hN141
+l134
+L108
+VSc3bdhaIfJ:YUXY86Qij;3
+R15
+31
+R362
+R363
+R364
+R19
+R20
+R21
+!s100 _?B;R_DOU[YQM`Ul:nO:50
+!i10b 1
+Plibcache
+R126
+R128
+R129
+R130
+R131
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+Z365 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libcache.vhd
+Z366 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libcache.vhd
+l0
+L38
+VaV;=4A[>bbjog]X1Z0HJ:1
+R15
+31
+b1
+Z367 !s108 1667075351.450000
+Z368 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libcache.vhd|
+Z369 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libcache.vhd|
+R19
+R20
+R21
+!s100 lUYMcIi1?5ZBQjA?LNN^J2
+!i10b 1
+Bbody
+DPx4 work 8 libcache 0 22 aV;=4A[>bbjog]X1Z0HJ:1
+R126
+R128
+R129
+R130
+R131
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l0
+L669
+VZLOAGO;b0NY>A[H6Gh=H@2
+R15
+31
+R367
+R368
+R369
+R19
+R20
+R21
+nbody
+!s100 X9A5zCAaI49l>O0WU@hbO2
+!i10b 1
+Plibdcom
+R2
+R3
+R4
+R84
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+Z370 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/libdcom.vhd
+Z371 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/libdcom.vhd
+l0
+L35
+VaBf[HY;mCCl`R5]fmGVVS0
+R15
+31
+b1
+Z372 !s108 1667075374.205000
+Z373 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/libdcom.vhd|
+Z374 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/libdcom.vhd|
+R19
+R20
+R21
+!s100 FHVR0RF85P?]BaK>1ZzfQ0
+!i10b 1
+Bbody
+DPx4 work 7 libdcom 0 22 aBf[HY;mCCl`R5]fmGVVS0
+R2
+R3
+R4
+R84
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l0
+L107
+VijNd>6zC[VnM7XHQAKLmE2
+R15
+31
+R372
+R373
+R374
+R19
+R20
+R21
+nbody
+!s100 eUX3g=B=33bL<FW]PaC5G0
+!i10b 1
+Plibiu
+R128
+R129
+R130
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libiu.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libiu.vhd
+l0
+L37
+VJKP6N9;1X5QB9g3T9?[3o3
+R15
+31
+R19
+R20
+R21
+!s100 YQ]:Q6XHmBWNRbTRfikY22
+!i10b 1
+!s108 1667075350.934000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libiu.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libiu.vhd|
+Plibjtagcom
+R2
+R3
+R4
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/libjtagcom.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/libjtagcom.vhd
+l0
+L33
+V:0?J?T@5c<RYHkJl9<<RQ3
+R15
+31
+R19
+R20
+R21
+!s100 JonYV<K=:lTV;Jk8lekd83
+!i10b 1
+!s108 1667075378.877000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/libjtagcom.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/jtag/libjtagcom.vhd|
+Plibmmu
+R126
+R128
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z375 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libmmu.vhd
+Z376 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libmmu.vhd
+l0
+L36
+VS[HB3kOBjB>HWKUdNGg711
+R15
+31
+b1
+Z377 !s108 1667075350.597000
+Z378 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libmmu.vhd|
+Z379 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libmmu.vhd|
+R19
+R20
+R21
+!s100 LeI5maj6EO0:9=X9M466z1
+!i10b 1
+Bbody
+DPx4 work 6 libmmu 0 22 S[HB3kOBjB>HWKUdNGg711
+R126
+R128
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+l0
+L99
+V_=>S;kNa@;>?27_6]?c9S1
+R15
+31
+R377
+R378
+R379
+R19
+R20
+R21
+nbody
+!s100 a9;N6DF7iXGMLB<0YCB;o0
+!i10b 1
+Plibproc3
+R126
+R128
+R129
+R131
+R127
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libproc3.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libproc3.vhd
+l0
+L39
+VmAAc749RiEl4Rh7@]O5D81
+R15
+31
+R19
+R20
+R21
+!s100 JgiG<SA^40?jFL>J>kG;l2
+!i10b 1
+!s108 1667075351.955000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libproc3.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/libproc3.vhd|
+Elogan
+R1
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z380 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/logan.vhd
+Z381 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/logan.vhd
+l0
+L36
+V`[3k3f>X1goUI?neGcffa2
+R15
+31
+Z382 !s108 1667075368.486000
+Z383 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/logan.vhd|
+Z384 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/logan.vhd|
+R19
+R20
+R21
+!s100 m8H27QV;Zd4MQ8d5Wha]H3
+!i10b 1
+Artl
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 logan 0 22 `[3k3f>X1goUI?neGcffa2
+l113
+L58
+VMa:eVglnJZ:C1?5JiceKD0
+R15
+31
+R382
+R383
+R384
+R19
+R20
+R21
+!s100 7LPd>d>@nBlCEdMRXo]@D2
+!i10b 1
+Pmemctrl
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/memctrl.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/memctrl.vhd
+l0
+L34
+V<6TodZlN8gn:cQ8J;14iQ1
+R15
+31
+R19
+R20
+R21
+!s100 Jgok3?I>G`1;X2n6gl^^a1
+!i10b 1
+!s108 1667075347.325000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/memctrl.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/memctrl.vhd|
+Emfpwx
+R1
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+R12
+Z385 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mfpwx.vhd
+Z386 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mfpwx.vhd
+l0
+L33
+VAd:L42XUVRTZ1LAhW<iSg1
+R15
+31
+Z387 !s108 1667075358.857000
+Z388 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mfpwx.vhd|
+Z389 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mfpwx.vhd|
+R19
+R20
+R21
+!s100 jMB;gES3JGP2cg;^NnbF60
+!i10b 1
+Artl
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+DEx4 work 5 mfpwx 0 22 Ad:L42XUVRTZ1LAhW<iSg1
+l132
+L47
+V:mkmL?U?g1iLj1dgC`QHO2
+R15
+31
+R387
+R388
+R389
+R19
+R20
+R21
+!s100 jBB4b0zVTB__97Doz[FQK1
+!i10b 1
+Pmisc
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+Z390 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/misc.vhd
+Z391 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/misc.vhd
+l0
+L37
+Vd6SO014Ae7CN46I_AT_L73
+R15
+31
+b1
+Z392 !s108 1667075365.222000
+Z393 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/misc.vhd|
+Z394 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/misc.vhd|
+R19
+R20
+R21
+!s100 HMBQ]S4_T:5[?AezgafO^0
+!i10b 1
+Bbody
+DPx4 work 4 misc 0 22 d6SO014Ae7CN46I_AT_L73
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l0
+L1187
+VUI;NL@aB_;83moE[V3D5E2
+R15
+31
+R392
+R393
+R394
+R19
+R20
+R21
+nbody
+!s100 ;_6fVgMcih`fnI<`70[Oj2
+!i10b 1
+Emmu
+R1
+Z395 DPx7 gaisler 6 libmmu 0 22 S[HB3kOBjB>HWKUdNGg711
+R126
+R128
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+R12
+Z396 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu.vhd
+Z397 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu.vhd
+l0
+L37
+VdhbZ]aQz7^KgWzTm=:UG63
+R15
+31
+Z398 !s108 1667075356.294000
+Z399 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu.vhd|
+Z400 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu.vhd|
+R19
+R20
+R21
+!s100 ;_SncUbBQ5Ra[?_REgZZ`3
+!i10b 1
+Artl
+R395
+R126
+R128
+R5
+R6
+R2
+R7
+R8
+R9
+R10
+R11
+DEx4 work 3 mmu 0 22 dhbZ]aQz7^KgWzTm=:UG63
+l148
+L61
+VW7M25PK6SENU:7kMcV>QF1
+R15
+31
+R398
+R399
+R400
+R19
+R20
+R21
+!s100 31gzY;LV3Qa8m?>R8XTLE2
+!i10b 1
+Emmu_acache
+R1
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z401 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_acache.vhd
+Z402 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_acache.vhd
+l0
+L40
+V><KIIcXnD]loDiFdF;CRI2
+R15
+31
+Z403 !s108 1667075353.856000
+Z404 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_acache.vhd|
+Z405 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_acache.vhd|
+R19
+R20
+R21
+!s100 KR2cl]c5ODn_FaXaS>GMA1
+!i10b 1
+Artl
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 10 mmu_acache 0 22 ><KIIcXnD]loDiFdF;CRI2
+l98
+L63
+Vc<Az[D>]>j`06F;Y=0OdQ2
+R15
+31
+R403
+R404
+R405
+R19
+R20
+R21
+!s100 [_WT8]_BV;4>Z5?en3kK`2
+!i10b 1
+Emmu_cache
+R1
+R395
+R126
+R127
+R128
+R129
+R130
+R131
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z406 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_cache.vhd
+Z407 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_cache.vhd
+l0
+L39
+VF<93NYXU4=P4n]Lgha6N_0
+R15
+31
+Z408 !s108 1667075356.717000
+Z409 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_cache.vhd|
+Z410 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_cache.vhd|
+R19
+R20
+R21
+!s100 ];XdJnIlflVcj910N[0C=2
+!i10b 1
+Artl
+R395
+R126
+R127
+R128
+R129
+R130
+R131
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 mmu_cache 0 22 F<93NYXU4=P4n]Lgha6N_0
+l114
+L93
+VlNRi^5`jK?6Oc_bL=[0kc2
+R15
+31
+R408
+R409
+R410
+R19
+R20
+R21
+!s100 h>0[WTnc8l:ES4B]5_Cld3
+!i10b 1
+Emmu_dcache
+R1
+R395
+R126
+R127
+R128
+R129
+R130
+R131
+R143
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+R12
+Z411 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_dcache.vhd
+Z412 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_dcache.vhd
+l0
+L41
+VWie?;LZcCZd3Gi1maA2IE2
+R15
+31
+Z413 !s108 1667075353.389000
+Z414 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_dcache.vhd|
+Z415 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_dcache.vhd|
+R19
+R20
+R21
+!s100 Y5[2iSgnlH:8J`3lQmWM33
+!i10b 1
+Artl
+R395
+R126
+R127
+R128
+R129
+R130
+R131
+R143
+R7
+R9
+R5
+R8
+R6
+R2
+R10
+R11
+DEx4 work 10 mmu_dcache 0 22 Wie?;LZcCZd3Gi1maA2IE2
+l279
+L83
+Vc9hnFbB9dQ1Z`5:TB287h3
+R15
+31
+R413
+R414
+R415
+R19
+R20
+R21
+!s100 6Ub=Yfo;JTj><QOg5E=LM0
+!i10b 1
+Emmu_icache
+R1
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z416 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_icache.vhd
+Z417 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_icache.vhd
+l0
+L37
+VBg_Gz:61Wd15To3f1cC7]1
+R15
+31
+Z418 !s108 1667075352.934000
+Z419 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_icache.vhd|
+Z420 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmu_icache.vhd|
+R19
+R20
+R21
+!s100 TmQ@9FD86dn^g5n?U7DXi3
+!i10b 1
+Artl
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 10 mmu_icache 0 22 Bg_Gz:61Wd15To3f1cC7]1
+l206
+L68
+VXZ5TIL12G=AK]0A4[SE@l3
+R15
+31
+R418
+R419
+R420
+R19
+R20
+R21
+!s100 EnZlF<RBR``X3]IMcSPU[1
+!i10b 1
+Pmmuconfig
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuconfig.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuconfig.vhd
+l0
+L32
+Vl9?hj8<QAo@SadNR1d7<`1
+R15
+31
+R19
+R20
+R21
+!s100 =c^AUd7ogz3dic[KNS4R01
+!i10b 1
+!s108 1667075349.918000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuconfig.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuconfig.vhd|
+Pmmuiface
+R128
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuiface.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuiface.vhd
+l0
+L33
+VFhj]QMEY01od5C1T^g=eX0
+R15
+31
+R19
+R20
+R21
+!s100 QAZWPh]hWm<P5>iRXeVn02
+!i10b 1
+!s108 1667075350.231000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuiface.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmuiface.vhd|
+Emmulru
+R1
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z421 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulru.vhd
+Z422 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulru.vhd
+l0
+L38
+VR=MjiOBTdObiP>iIbOn4?1
+R15
+31
+Z423 !s108 1667075355.106000
+Z424 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulru.vhd|
+Z425 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulru.vhd|
+R19
+R20
+R21
+!s100 QM?Om2n<hd2zRPaD1cNC]1
+!i10b 1
+Artl
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 mmulru 0 22 R=MjiOBTdObiP>iIbOn4?1
+l79
+L50
+V?NH1XDH6h@3k2M``g8oOV1
+R15
+31
+R423
+R424
+R425
+R19
+R20
+R21
+!s100 oEIa=zUDQ^D8?EM_>78V<1
+!i10b 1
+Emmulrue
+R1
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z426 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulrue.vhd
+Z427 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulrue.vhd
+l0
+L38
+V_foHi3nZBS0:`DPWL5zR40
+R15
+31
+Z428 !s108 1667075354.700000
+Z429 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulrue.vhd|
+Z430 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmulrue.vhd|
+R19
+R20
+R21
+!s100 5[S7gCjTJ53JJhcOi_gIQ0
+!i10b 1
+Artl
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 mmulrue 0 22 _foHi3nZBS0:`DPWL5zR40
+l61
+L49
+VQK:Ydag=c]Ff?V`73oaZ:3
+R15
+31
+R428
+R429
+R430
+R19
+R20
+R21
+!s100 VD6Bn5RDAhCl?AzLkZ`h52
+!i10b 1
+Emmutlb
+R1
+R395
+R126
+R127
+R128
+R129
+R130
+R131
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z431 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlb.vhd
+Z432 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlb.vhd
+l0
+L41
+V9XT^WQI0_20>Z27B2DXSF0
+R15
+31
+Z433 !s108 1667075355.544000
+Z434 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlb.vhd|
+Z435 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlb.vhd|
+R19
+R20
+R21
+!s100 46_d_ZAHj[J[I9F8E6MIn2
+!i10b 1
+Artl
+R395
+R126
+R127
+R128
+R129
+R130
+R131
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 mmutlb 0 22 9XT^WQI0_20>Z27B2DXSF0
+l130
+L59
+V7YB4cgYobF6dKL:=PLE@J0
+R15
+31
+R433
+R434
+R435
+R19
+R20
+R21
+!s100 QVKXe3@giX6X29IOCSnKD3
+!i10b 1
+Emmutlbcam
+R1
+R395
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z436 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlbcam.vhd
+Z437 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlbcam.vhd
+l0
+L39
+VneA:TLHoCDVOKMfz4f:>]2
+R15
+31
+Z438 !s108 1667075354.294000
+Z439 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlbcam.vhd|
+Z440 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutlbcam.vhd|
+R19
+R20
+R21
+!s100 U@z>E`OVAOQADDP>g7Vm72
+!i10b 1
+Artl
+R395
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 9 mmutlbcam 0 22 neA:TLHoCDVOKMfz4f:>]2
+l61
+L52
+V3dMNLl5jT;A>UUnQjKM=j2
+R15
+31
+R438
+R439
+R440
+R19
+R20
+R21
+!s100 bgi4kk]27giXi`NA>S6>K0
+!i10b 1
+Emmutw
+R1
+R395
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z441 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutw.vhd
+Z442 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutw.vhd
+l0
+L39
+VMS2535fZfSc3ndZ[@eH=A2
+R15
+31
+Z443 !s108 1667075355.981000
+Z444 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutw.vhd|
+Z445 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/mmutw.vhd|
+R19
+R20
+R21
+!s100 WoCg46lYdXd50V=zMCcI>3
+!i10b 1
+Artl
+R395
+R126
+R127
+R128
+R129
+R130
+R2
+R131
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 mmutw 0 22 MS2535fZfSc3ndZ[@eH=A2
+l83
+L54
+VH6ViG<>3jLDI]`2UG4@FC0
+R15
+31
+R443
+R444
+R445
+R19
+R20
+R21
+!s100 a:;0bA64JGm3O9?cB>BnT0
+!i10b 1
+Emul32
+R1
+R5
+R6
+R2
+R129
+Z446 DPx5 grlib 7 multlib 0 22 TSl4zNHn?9GB:GbEU8HaL1
+R7
+R8
+R9
+R10
+R11
+R12
+Z447 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/mul32.vhd
+Z448 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/mul32.vhd
+l0
+L37
+V8W1]@Li8bW9mBbgPZT21M3
+R15
+31
+Z449 !s108 1667075346.609000
+Z450 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/mul32.vhd|
+Z451 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/arith/mul32.vhd|
+R19
+R20
+R21
+!s100 bL:FBB[LQhIJDWkAb0VBj0
+!i10b 1
+Artl
+R5
+R6
+R2
+R129
+R446
+R7
+R8
+R9
+R10
+R11
+DEx4 work 5 mul32 0 22 8W1]@Li8bW9mBbgPZT21M3
+l88
+L54
+V6eDa5UK0lORM[jo38k1Gn0
+R15
+31
+R449
+R450
+R451
+R19
+R20
+R21
+!s100 HR]GC0I1U<9?Y[kjl4bKM1
+!i10b 1
+Pnet
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/net/net.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/net/net.vhd
+l0
+L31
+VUf43:zzRWfjleTaedzkWL0
+R15
+31
+R19
+R20
+R21
+!s100 ^ch7KIj?JJInOlc<Mj]Ni0
+!i10b 1
+!s108 1667075373.876000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/net/net.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/net/net.vhd|
+Ephy
+R1
+R7
+R8
+R9
+R10
+R11
+R12
+Z452 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/phy.vhd
+Z453 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/phy.vhd
+l0
+L34
+V@gCOnk?gV5T]U0OVn@73n1
+R15
+31
+Z454 !s108 1667075376.611000
+Z455 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/phy.vhd|
+Z456 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/phy.vhd|
+R19
+R20
+R21
+!s100 RAYN=^<`D0d_X=QhhXkRk3
+!i10b 1
+Abehavioral
+R7
+R8
+R9
+R10
+R11
+DEx4 work 3 phy 0 22 @gCOnk?gV5T]U0OVn@73n1
+l181
+L70
+VQjM3XQMz2nnLKb2KTZ03B0
+R15
+31
+R454
+R455
+R456
+R19
+R20
+R21
+!s100 0AMN]fIC4ZH9SVk`]kGUR0
+!i10b 1
+Eproc3
+R1
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z457 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/proc3.vhd
+Z458 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/proc3.vhd
+l0
+L43
+V_VoU[=nPV@cP:BhgnSEc`2
+R15
+31
+Z459 !s108 1667075361.044000
+Z460 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/proc3.vhd|
+Z461 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/proc3.vhd|
+R19
+R20
+R21
+!s100 ?3<RSjbaifK8K<f0LKCd91
+!i10b 1
+Artl
+R126
+R127
+R128
+R129
+R131
+R130
+R2
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 5 proc3 0 22 _VoU[=nPV@cP:BhgnSEc`2
+l136
+L121
+VYLmV_X9n?_z1DBk<B=Kgh0
+R15
+31
+R459
+R460
+R461
+R19
+R20
+R21
+!s100 R`XIMH[XU>KPaDYR<:FF=0
+!i10b 1
+Epwm_check
+R1
+R57
+R5
+R6
+R3
+R56
+R7
+R8
+R9
+R10
+R11
+R12
+Z462 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/pwm_check.vhd
+Z463 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/pwm_check.vhd
+l0
+L42
+V=KCQ_m;lM[hmAHKCblhof3
+R15
+31
+Z464 !s108 1667075377.423000
+Z465 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/pwm_check.vhd|
+Z466 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/pwm_check.vhd|
+R19
+R20
+R21
+!s100 =E3V1l32i7VMzU1mk:QS82
+!i10b 1
+Asim
+R57
+R5
+R6
+R3
+R56
+R7
+R8
+R9
+R10
+R11
+DEx4 work 9 pwm_check 0 22 =KCQ_m;lM[hmAHKCblhof3
+l691
+L55
+VAGEm98BjPQ`1ad?oGD0HU0
+R15
+31
+R464
+R465
+R466
+R19
+R20
+R21
+!s100 CJi[Rz<5A3V3KoCK?b1CS3
+!i10b 1
+Erstgen
+R1
+R10
+R11
+R12
+Z467 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/rstgen.vhd
+Z468 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/rstgen.vhd
+l0
+L29
+VoiWKf_Y3iKQA65cQz]]gS3
+R15
+31
+Z469 !s108 1667075365.767000
+Z470 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/rstgen.vhd|
+Z471 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/rstgen.vhd|
+R19
+R20
+R21
+!s100 >AF54hIQbBIzRMm9eRkHR1
+!i10b 1
+Artl
+R10
+R11
+DEx4 work 6 rstgen 0 22 oiWKf_Y3iKQA65cQz]]gS3
+l48
+L45
+Vk]G<Bij^@eNEHYHCF[M^=1
+R15
+31
+R469
+R470
+R471
+R19
+R20
+R21
+!s100 ]c3@[^KZmA4ebBdGX:@_L3
+!i10b 1
+Esdctrl
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z472 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl.vhd
+Z473 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl.vhd
+l0
+L35
+VaYVAJUAgmdeV`@YnVD7mc1
+R15
+31
+Z474 !s108 1667075347.657000
+Z475 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl.vhd|
+Z476 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl.vhd|
+R19
+R20
+R21
+!s100 Rgb`zFoBO:z3OY@]JA4]e0
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 sdctrl 0 22 aYVAJUAgmdeV`@YnVD7mc1
+l156
+L61
+V8RT[f@@176T3f^WN1PZn52
+R15
+31
+R474
+R475
+R476
+R19
+R20
+R21
+!s100 leHfkTWeMgNgM8>2N[zD23
+!i10b 1
+Esdctrl64
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z477 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl64.vhd
+Z478 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl64.vhd
+l0
+L38
+VV0om5732g_8WV=bzXY0zg3
+R15
+31
+Z479 !s108 1667075348.037000
+Z480 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl64.vhd|
+Z481 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdctrl64.vhd|
+R19
+R20
+R21
+!s100 `^3Om[@S9JLEg;jl6mKC83
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 sdctrl64 0 22 V0om5732g_8WV=bzXY0zg3
+l155
+L63
+V3EYfhHE@4S6a`O^Nn7QS:1
+R15
+31
+R479
+R480
+R481
+R19
+R20
+R21
+!s100 PUf^Z9P6bW6OEHgZTbLLz3
+!i10b 1
+Esdmctrl
+R1
+R2
+R164
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z482 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdmctrl.vhd
+Z483 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdmctrl.vhd
+l0
+L34
+VHog@[m?X0gj]nln210UPV1
+R15
+31
+Z484 !s108 1667075348.403000
+Z485 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdmctrl.vhd|
+Z486 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/sdmctrl.vhd|
+R19
+R20
+R21
+!s100 giViH:Tf:[0Q28jfHKA9a0
+!i10b 1
+Artl
+R2
+R164
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 7 sdmctrl 0 22 Hog@[m?X0gj]nln210UPV1
+l130
+L55
+Vc_NT:I;Z[^8_FVHKPI_=j1
+R15
+31
+R484
+R485
+R486
+R19
+R20
+R21
+!s100 7Be>XYV6H<<l3SmWTk<1j0
+!i10b 1
+Psim
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z487 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sim.vhd
+Z488 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sim.vhd
+l0
+L38
+VkQiV@MFUHYXA]HOY1jGSl1
+R15
+31
+b1
+Z489 !s108 1667075375.611000
+Z490 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sim.vhd|
+Z491 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sim.vhd|
+R19
+R20
+R21
+!s100 8?jfSCma<SZ]?obU1DKW20
+!i10b 1
+Bbody
+DPx4 work 3 sim 0 22 kQiV@MFUHYXA]HOY1jGSl1
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R10
+R11
+l0
+L355
+VC>bJ^VD=PI0oFDNl=gOFM1
+R15
+31
+R489
+R490
+R491
+R19
+R20
+R21
+nbody
+!s100 Gm8A9odaBOB4l45C<01YP1
+!i10b 1
+Espi_flash
+R1
+R3
+R5
+R6
+R56
+R57
+R7
+R8
+R9
+R10
+R11
+R12
+Z492 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/spi_flash.vhd
+Z493 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/spi_flash.vhd
+l0
+L48
+VE7Ng<jYoXP^c4a?`METC`3
+R15
+31
+Z494 !s108 1667075377.190000
+Z495 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/spi_flash.vhd|
+Z496 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/spi_flash.vhd|
+R19
+R20
+R21
+!s100 :zDae^eI4SbK:bmllQm^A2
+!i10b 1
+Asim
+R3
+R5
+R6
+R56
+R57
+R7
+R8
+R9
+R10
+R11
+DEx4 work 9 spi_flash 0 22 E7Ng<jYoXP^c4a?`METC`3
+l494
+L69
+V^c2@oLbh@^J0Bc@S]bWm=3
+R15
+31
+R494
+R495
+R496
+R19
+R20
+R21
+!s100 d2Slkza]S^@1iNSB?[i5Z0
+!i10b 1
+Espictrl
+R1
+R4
+R3
+R276
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+R12
+Z497 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrl.vhd
+Z498 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrl.vhd
+l0
+L42
+VD86bVaaGTJh8l=Ym3VXMg1
+R15
+31
+Z499 !s108 1667075371.736000
+Z500 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrl.vhd|
+Z501 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrl.vhd|
+R19
+R20
+R21
+!s100 aKC_k`W@h?N`JJaH_K[fF3
+!i10b 1
+Artl
+R4
+R3
+R276
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+DEx4 work 7 spictrl 0 22 D86bVaaGTJh8l=Ym3VXMg1
+l153
+L85
+VibK=;;X@`YKA6>o^QP]Im2
+R15
+31
+R499
+R500
+R501
+R19
+R20
+R21
+!s100 6J@3^fGBQ9NR9F37MJP@B0
+!i10b 1
+Espictrlx
+R1
+R3
+R4
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+R12
+Z502 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrlx.vhd
+Z503 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrlx.vhd
+l0
+L94
+VDXeNF[d_j]H=`k1b^hT<d2
+R15
+31
+Z504 !s108 1667075371.392000
+Z505 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrlx.vhd|
+Z506 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/spictrlx.vhd|
+R19
+R20
+R21
+!s100 FYJEOGgcg7[b6:FOBdM=;1
+!i10b 1
+Artl
+R3
+R4
+R7
+R9
+R5
+R6
+R2
+R11
+R10
+R8
+DEx4 work 8 spictrlx 0 22 DXeNF[d_j]H=`k1b^hT<d2
+l497
+L149
+VnU76PGF;a<<KbekegWz;O3
+R15
+31
+R504
+R505
+R506
+R19
+R20
+R21
+!s100 b^zZjWeAMNEG_3F`JcD]>2
+!i10b 1
+Espimctrl
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z507 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/spimctrl.vhd
+Z508 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/spimctrl.vhd
+l0
+L45
+V0ed?3b7DSaIg5161lYROK2
+R15
+31
+Z509 !s108 1667075349.137000
+Z510 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/spimctrl.vhd|
+Z511 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/spimctrl.vhd|
+R19
+R20
+R21
+!s100 =Zk0kIPQT?:AX;0EcIV:I2
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 spimctrl 0 22 0ed?3b7DSaIg5161lYROK2
+l343
+L74
+VJXORB8AM0FPE`4o`<9Q^N1
+R15
+31
+R509
+R510
+R511
+R19
+R20
+R21
+!s100 ]32C98[Y18K_SJ_cDT1c;2
+!i10b 1
+Esram
+R1
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R57
+R10
+R11
+R12
+Z512 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram.vhd
+Z513 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram.vhd
+l0
+L37
+V^dg_L:mQQSA[V2B=_A:SY0
+R15
+31
+Z514 !s108 1667075375.923000
+Z515 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram.vhd|
+Z516 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram.vhd|
+R19
+R20
+R21
+!s100 9=c`6NM5>:hL3Qm;bjGm70
+!i10b 1
+Asim
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R57
+R10
+R11
+DEx4 work 4 sram 0 22 ^dg_L:mQQSA[V2B=_A:SY0
+l71
+L53
+V=d<GE[:36=N9BNLI]0Z]33
+R15
+31
+R514
+R515
+R516
+R19
+R20
+R21
+!s100 l^H[MnZK`54zTn73i1RCk1
+!i10b 1
+Esram16
+R1
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R57
+R10
+R11
+R12
+Z517 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram16.vhd
+Z518 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram16.vhd
+l0
+L37
+V1JPgmgifD7CWWmjWWX7^13
+R15
+31
+Z519 !s108 1667075376.408000
+Z520 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram16.vhd|
+Z521 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/sram16.vhd|
+R19
+R20
+R21
+!s100 cN=hV>9PVRR`IWkafmT2@0
+!i10b 1
+Asim
+R3
+R5
+R6
+R56
+R7
+R8
+R9
+R57
+R10
+R11
+DEx4 work 6 sram16 0 22 1JPgmgifD7CWWmjWWX7^13
+l59
+L55
+VRE263zGSl`;N^;YTBbJOI1
+R15
+31
+R519
+R520
+R521
+R19
+R20
+R21
+!s100 lUh4WP279Bz5z`8aCQ06C2
+!i10b 1
+Esrctrl
+R1
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z522 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/srctrl.vhd
+Z523 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/srctrl.vhd
+l0
+L37
+Vl`nih4RzT7RYW`EfaB9Y]3
+R15
+31
+Z524 !s108 1667075348.778000
+Z525 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/srctrl.vhd|
+Z526 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/memctrl/srctrl.vhd|
+R19
+R20
+R21
+!s100 >C_2[AK5idIaaL14@cn1[2
+!i10b 1
+Artl
+R2
+R164
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 6 srctrl 0 22 l`nih4RzT7RYW`EfaB9Y]3
+l142
+L67
+V]HN4i2lchJJ9D7NoB0zRP1
+R15
+31
+R524
+R525
+R526
+R19
+R20
+R21
+!s100 k71WFz6nD<:oebm2RfRbb2
+!i10b 1
+Esvgactrl
+R1
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z527 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/svgactrl.vhd
+Z528 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/svgactrl.vhd
+l0
+L47
+Vd`4Fk_1mYeLgEBPIQf@oC1
+R15
+31
+Z529 !s108 1667075370.408000
+Z530 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/svgactrl.vhd|
+Z531 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/svgactrl.vhd|
+R19
+R20
+R21
+!s100 X55Q[`dC0S7FY@eEU?BCP2
+!i10b 1
+Artl
+R4
+R2
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+DEx4 work 8 svgactrl 0 22 d`4Fk_1mYeLgEBPIQf@oC1
+l201
+L82
+VA2T]OfSE9X[PFz2l>9dAe1
+R15
+31
+R529
+R530
+R531
+R19
+R20
+R21
+!s100 6>zJn^12fY<CaAfzg8c<k3
+!i10b 1
+Etbufmem
+R1
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+R12
+Z532 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/tbufmem.vhd
+Z533 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/tbufmem.vhd
+l0
+L35
+VdMG6[nJQYWRcO?`N7:VMl0
+R15
+31
+Z534 !s108 1667075359.688000
+Z535 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/tbufmem.vhd|
+Z536 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/leon3/tbufmem.vhd|
+R19
+R20
+R21
+!s100 Ta=Ua8fQ0V>3@3;<`di153
+!i10b 1
+Artl
+R2
+R7
+R9
+R5
+R8
+R6
+R130
+R10
+R11
+DEx4 work 7 tbufmem 0 22 dMG6[nJQYWRcO?`N7:VMl0
+l52
+L47
+VX@I]BefCADl]FeULkW<8L0
+R15
+31
+R534
+R535
+R536
+R19
+R20
+R21
+!s100 bWY]i7`o@jX2`=fc=0dNX1
+!i10b 1
+Puart
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/uart.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/uart.vhd
+l0
+L31
+Vgi__23a[PIZocPK>CR]iD2
+R15
+31
+R19
+R20
+R21
+!s100 N^f6eOkJX4;A0b]T[zI5B3
+!i10b 1
+!s108 1667075374.033000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/uart.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/uart/uart.vhd|
+Pusbsim
+R7
+R8
+R9
+R10
+R11
+R1
+R12
+Z537 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/usbsim.vhd
+Z538 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/usbsim.vhd
+l0
+L35
+V=K]O^Rl33<[]PX:3aV;GH0
+R15
+31
+b1
+Z539 !s108 1667075377.673000
+Z540 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/usbsim.vhd|
+Z541 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/sim/usbsim.vhd|
+R19
+R20
+R21
+!s100 RkCGgdHc2J`kFO1ndBHW71
+!i10b 1
+Bbody
+DPx4 work 6 usbsim 0 22 =K]O^Rl33<[]PX:3aV;GH0
+R7
+R8
+R9
+R10
+R11
+l0
+L410
+VbH8B8hO?@jiX><^A^Fh0U2
+R15
+31
+R539
+R540
+R541
+R19
+R20
+R21
+nbody
+!s100 X5mbgj<@T^BH1kc?H6?4o3
+!i10b 1
+Pwild
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R1
+R12
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild.vhd
+l0
+L50
+VUzW]=SM`bV0Co[_Noaldc1
+R15
+31
+R19
+R20
+R21
+!s100 IDW0NfQQ7^0D_=Ec8aB@G2
+!i10b 1
+!s108 1667075372.392000
+!s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild.vhd|
+Ewild2ahb
+R1
+Z542 DPx7 gaisler 4 wild 0 22 UzW]=SM`bV0Co[_Noaldc1
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+R12
+Z543 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild2ahb.vhd
+Z544 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild2ahb.vhd
+l0
+L47
+VO>9X;;BoKQCkh:nACoMPB2
+R15
+31
+Z545 !s108 1667075372.580000
+Z546 !s90 -reportprogress|300|-work|gaisler|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild2ahb.vhd|
+Z547 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/gaisler/misc/wild2ahb.vhd|
+R19
+R20
+R21
+!s100 9KNOaEEQdf:1GW8b0_?Sn0
+!i10b 1
+Artl
+R542
+DEx4 work 8 wild2ahb 0 22 O>9X;;BoKQCkh:nACoMPB2
+Z548 DPx5 grlib 15 dma2ahb_package 0 22 ^ZTWmC<oiC2jgYBd20e5e3
+R3
+R7
+R9
+R5
+R8
+R6
+R10
+R11
+l237
+L76
+VH;mHfK>P57dP5J4jkFK9[3
+R15
+31
+R545
+R546
+R547
+R19
+R20
+R21
+!s100 ]oO5:Vl@6?ScNUR3UZ5ES0
+!i10b 1

@@ -1,0 +1,6982 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/eejlny/projects/leon3_ERTS/grlib-gpl-1.1.0-b4108/designs/leon3-xilinx-xc3sd-1800
+Pallclkgen
+Z1 DPx5 grlib 7 version 0 22 >jR3zO06i<iLn<WLl>[7h0
+Z2 DPx5 grlib 6 stdlib 0 22 o2[D5dlKH>oYhgb]5XZZk0
+Z3 DPx5 grlib 6 config 0 22 iQh6CG>o^WbeQZSL:=]Ai2
+Z4 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z5 DPx5 grlib 4 amba 0 22 f_JkUSh>VSK]e^QdO^JMD0
+Z6 DPx7 techmap 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
+Z7 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z8 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z9 w1667074604
+Z10 dC:\Users\alfred\Desktop\workstatsion\Bristol_LAB\Embedded_Unit_Lab\LAB2_MAIN\group4_mainWorkstation_SDF\designs\leon3-xilinx-xc3sd-1800
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allclkgen.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allclkgen.vhd
+l0
+L31
+Vce2LeHMGTnQzYoUO:1^;W3
+Z11 OL;C;10.1c;51
+31
+Z12 !s102 -cover s
+Z13 o-work techmap -93 -source -nowarn 1 -nowarn 5 -cover s
+Z14 tShow_source 1 Show_Warning1 0 Show_Warning5 0 Explicit 1 Quiet 1
+!s100 jeS293HnBMmzX?;0T4]>]3
+!i10b 1
+!s108 1667075321.809000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allclkgen.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allclkgen.vhd|
+Pallddr
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allddr.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allddr.vhd
+l0
+L31
+VFG[AX:c_PloIYDN;fz6K52
+R11
+31
+R12
+R13
+R14
+!s100 bCcL0>9LGg7QCnZi8imkm3
+!i10b 1
+!s108 1667075322.122000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allddr.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allddr.vhd|
+Pallmem
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmem.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmem.vhd
+l0
+L29
+V;V_Z@8eCU4^Tm2XnPLJZ^1
+R11
+31
+R12
+R13
+R14
+!s100 oQlXYY2L`e4P;8:6ghJU]2
+!i10b 1
+!s108 1667075322.418000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmem.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmem.vhd|
+Pallmul
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmul.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmul.vhd
+l0
+L29
+VmbbR@APd`XJfe6l?hNeYQ3
+R11
+31
+R12
+R13
+R14
+!s100 PBE44goDV9cn6g`iVmLE]2
+!i10b 1
+!s108 1667075322.700000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmul.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allmul.vhd|
+Pallpads
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allpads.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allpads.vhd
+l0
+L31
+VGEG?UbQzAC?z37lXhMR531
+R11
+31
+R12
+R13
+R14
+!s100 KZmP8ede25H3kdm6PeEES0
+!i10b 1
+!s108 1667075322.965000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allpads.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/allpads.vhd|
+Palltap
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/alltap.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/alltap.vhd
+l0
+L30
+V<A1CDhZI`3>P9]XQJ_5101
+R11
+31
+R12
+R13
+R14
+!s100 VG5SM^5KfB`TZjAal9c:W1
+!i10b 1
+!s108 1667075323.267000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/alltap.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/alltap.vhd|
+Eclkand
+R9
+Z15 DPx4 work 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
+R1
+R2
+R3
+R4
+R5
+Z16 DPx4 work 7 gencomp 0 22 fA@NZ:l4lLPzZlfC6BX<H0
+R7
+R8
+R10
+Z17 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkand.vhd
+Z18 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkand.vhd
+l0
+L31
+Vi:V2cfCFil]G5d6fDlDh10
+R11
+31
+Z19 !s108 1667075324.267000
+Z20 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkand.vhd|
+Z21 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkand.vhd|
+R12
+R13
+R14
+!s100 B7_4TJN[X?ME^3oik`F:B3
+!i10b 1
+Artl
+R15
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+DEx4 work 6 clkand 0 22 i:V2cfCFil]G5d6fDlDh10
+l44
+L42
+V^fFm[Cf=l1bj]CImZAl8m1
+R11
+31
+R19
+R20
+R21
+R12
+R13
+R14
+!s100 2mOB[<8Ioe9EJNM1N]g5F1
+!i10b 1
+Eclkand_unisim
+R9
+Z22 DEx6 unisim 7 bufgmux 0 22 A<MCIU4Y@XhTAHXi3=Coj0
+R7
+R8
+R10
+Z23 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/clkgen_unisim.vhd
+Z24 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/clkgen_unisim.vhd
+l0
+L925
+VeBdLXGH>]g5oDDDlOOk<H1
+R11
+31
+Z25 !s108 1667075313.423000
+Z26 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/clkgen_unisim.vhd|
+Z27 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/clkgen_unisim.vhd|
+R12
+R13
+R14
+!s100 g<hAgCL_<TYKd]H==6::f1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 13 clkand_unisim 0 22 eBdLXGH>]g5oDDDlOOk<H1
+l943
+L933
+VCD8ZFPNQiiQA9W1<S9>151
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 RTPF@X[:84?ee3V6F[CbI3
+!i10b 1
+Eclkbuf_xilinx
+R9
+Z28 DEx6 unisim 7 bufgdll 0 22 zP5=BUT^b2I^o83Vh9:_V0
+Z29 DEx6 unisim 4 bufg 0 22 b>?H4giDoE7BK7_mOz_NS3
+R22
+R7
+R8
+R10
+Z30 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/buffer_unisim.vhd
+Z31 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/buffer_unisim.vhd
+l0
+L34
+Vm]1_CY9l;Vll2IhzE;d2D2
+R11
+31
+Z32 !s108 1667075311.622000
+Z33 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/buffer_unisim.vhd|
+Z34 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/buffer_unisim.vhd|
+R12
+R13
+R14
+!s100 DjCl=C]?T0=Djh97PR>0]1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 13 clkbuf_xilinx 0 22 m]1_CY9l;Vll2IhzE;d2D2
+l51
+L43
+VWY7kE[_I<2ljWYjShg`=o0
+R11
+31
+R32
+R33
+R34
+R12
+R13
+R14
+!s100 PhMEXb1]iUIV3[@9S>dQI0
+!i10b 1
+Eclkgen
+R9
+Z35 DPx7 techmap 9 allclkgen 0 22 ce2LeHMGTnQzYoUO:1^;W3
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z36 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkgen.vhd
+Z37 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkgen.vhd
+l0
+L32
+VZi^aP:BL>=Ieibg8jlRWh2
+R11
+31
+Z38 !s108 1667075323.531000
+Z39 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkgen.vhd|
+Z40 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkgen.vhd|
+R12
+R13
+R14
+!s100 O?<0>Aghfd[]^A6QF0YU@1
+!i10b 1
+Astruct
+R35
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 clkgen 0 22 Zi^aP:BL>=Ieibg8jlRWh2
+l68
+L65
+Vg4eb32iChc`SGm6_EE3Te2
+R11
+31
+R38
+R39
+R40
+R12
+R13
+R14
+!s100 ;jjDRoA0d7C1DgMKK`FXI2
+!i10b 1
+Eclkgen_spartan3
+R9
+R3
+R5
+R6
+R22
+R28
+Z41 DEx6 unisim 3 dcm 0 22 ^YCN:n[UBZlVoOZ_1f5fV2
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R23
+R24
+l0
+L475
+VNlckOBH=aF?khbQ<>>jhC1
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 ^>LcNSeXbj8IgBJ?k=aX@0
+!i10b 1
+Astruct
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+DEx4 work 15 clkgen_spartan3 0 22 NlckOBH=aF?khbQ<>>jhC1
+l559
+L502
+VmTgGGHOzm:m4P??LQD=g52
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 8EMilUG5IPM1[J1k?VF]f2
+!i10b 1
+Eclkgen_virtex
+R9
+R3
+R5
+R6
+R28
+Z42 DPx6 unisim 4 vpkg 0 22 A=J5_d=G`j57R0_VBc6K12
+Z43 DPx4 ieee 12 vital_timing 0 22 7h8zz2S4HVg:a;2TBMI[j1
+Z44 DPx4 ieee 16 vital_primitives 0 22 9W@YP9_VCb?_GCJ8e:;YQ0
+DEx6 unisim 6 clkdll 0 22 @cCWn3hWiYY_8k0eLW0on0
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R23
+R24
+l0
+L264
+V;EBGhaL[XJgXil`;XNgJ21
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 J^O=]g9W:dMUWW=TG:Af[3
+!i10b 1
+Artl
+R3
+R5
+R6
+R42
+R43
+R44
+R1
+R4
+R2
+R7
+R8
+DEx4 work 13 clkgen_virtex 0 22 ;EBGhaL[XJgXil`;XNgJ21
+l308
+L286
+V8PQT6ESXG<hnz<QJgSJ_71
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 c]T][VeYEFA>>j8Oa1@;k2
+!i10b 1
+Eclkgen_virtex2
+R9
+R3
+R5
+R6
+R22
+R28
+R41
+R29
+Z45 DEx6 unisim 5 ibufg 0 22 UTAHL1<_<[>mV8S>c`KN00
+R1
+R4
+R2
+R7
+R8
+R10
+R23
+R24
+l0
+L47
+VbXcJjhgObD>U?f@`0n:ja2
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 V6afB^U:JhlKQQY@?Ie=d3
+!i10b 1
+Astruct
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+DEx4 work 14 clkgen_virtex2 0 22 bXcJjhgObD>U?f@`0n:ja2
+l132
+L74
+VK1OlbWF99J92eB3AlLlhf3
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 ]D?@=h0?`oJdS65bj>L?X3
+!i10b 1
+Eclkgen_virtex5
+R9
+R3
+R5
+R6
+R22
+R28
+R41
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R23
+R24
+l0
+L687
+V3?G30ia05=UN;TCJ[2OR_0
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 JiZT7nGdA8PlUghaI[VCO1
+!i10b 1
+Astruct
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+DEx4 work 14 clkgen_virtex5 0 22 3?G30ia05=UN;TCJ[2OR_0
+l775
+L714
+VGo[[LDQ8iba0jL<_jHzHg0
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 S[Vo[c>G?8ebVWMCbRj5^3
+!i10b 1
+Eclkmul_virtex2
+R9
+R3
+R5
+R6
+R41
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R23
+R24
+l0
+L375
+V24Mi`6`kPBHg3UZ7Sc?bo2
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 2Ga_Yk:Ic<ifC@Mo3hgY>0
+!i10b 1
+Astruct
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+DEx4 work 14 clkmul_virtex2 0 22 24Mi`6`kPBHg3UZ7Sc?bo2
+l445
+L385
+Vl@a_FdLL>FzbNPSG^o4=H0
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 >:@NHLdIzRVG2z0^hIACl1
+!i10b 1
+Eclkmux
+R9
+R15
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+R10
+Z46 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkmux.vhd
+Z47 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkmux.vhd
+l0
+L31
+VEb[KcHzX8@ek^OOM<RkG<1
+R11
+31
+Z48 !s108 1667075323.857000
+Z49 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkmux.vhd|
+Z50 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkmux.vhd|
+R12
+R13
+R14
+!s100 0@z>_YBh2iG60l5JD03^91
+!i10b 1
+Artl
+R15
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+DEx4 work 6 clkmux 0 22 Eb[KcHzX8@ek^OOM<RkG<1
+l44
+L42
+V0KLRXj2LeQ60Vn5EZV>520
+R11
+31
+R48
+R49
+R50
+R12
+R13
+R14
+!s100 V[gn359dGDk9hC[U0:GBi0
+!i10b 1
+Eclkmux_unisim
+R9
+R22
+R7
+R8
+R10
+R23
+R24
+l0
+L955
+VgO3HT6<kDU?h>Di6L[4mE0
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 DKdglzd6K;K8:;l[[dna;0
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 13 clkmux_unisim 0 22 gO3HT6<kDU?h>Di6L[4mE0
+l971
+L963
+V@GA5SPOm?NW4D8VhLaha[1
+R11
+31
+R25
+R26
+R27
+R12
+R13
+R14
+!s100 zf`EVmZ<=MlX;9YLLlbiQ3
+!i10b 1
+Eclkmux_xilinx
+R9
+R22
+R7
+R8
+R10
+R30
+R31
+l0
+L72
+VN]UR:SP==5NlAnZYFVa4d2
+R11
+31
+R32
+R33
+R34
+R12
+R13
+R14
+!s100 o[:>3mlfH?HCWKET>BRD:0
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 13 clkmux_xilinx 0 22 N]UR:SP==5NlAnZYFVa4d2
+l82
+L80
+Vn8E]ZVK4GU0Z`WSQDB0h[2
+R11
+31
+R32
+R33
+R34
+R12
+R13
+R14
+!s100 [0`Y;Pem_`z]7Lnnk_;B32
+!i10b 1
+Eclkpad
+R9
+Z51 DPx7 techmap 7 allpads 0 22 GEG?UbQzAC?z37lXhMR531
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z52 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad.vhd
+Z53 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad.vhd
+l0
+L32
+VS9K=[NmV9Ro2@nU=BWh_n0
+R11
+31
+Z54 !s108 1667075329.215000
+Z55 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad.vhd|
+Z56 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad.vhd|
+R12
+R13
+R14
+!s100 AeTK@j1L7LX0=Y:]Nl0B00
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 clkpad 0 22 S9K=[NmV9Ro2@nU=BWh_n0
+l40
+L39
+V][;DmVSilhGa3oLGILm2e2
+R11
+31
+R54
+R55
+R56
+R12
+R13
+R14
+!s100 mDbieGV5]Z1dRe?@S7N870
+!i10b 1
+Eclkpad_ds
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z57 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad_ds.vhd
+Z58 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad_ds.vhd
+l0
+L32
+VhU1d3gYYjT@=<bNQH7__a2
+R11
+31
+Z59 !s108 1667075329.590000
+Z60 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad_ds.vhd|
+Z61 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/clkpad_ds.vhd|
+R12
+R13
+R14
+!s100 =zmmlhd[elCKmA190XdXP3
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 clkpad_ds 0 22 hU1d3gYYjT@=<bNQH7__a2
+l40
+L38
+VQBTG7;`OV8]XRMg725UPo2
+R11
+31
+R59
+R60
+R61
+R12
+R13
+R14
+!s100 H335LdRF8iC7YQLaiMRZ93
+!i10b 1
+Eclkrand
+R9
+R15
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+R10
+R17
+R18
+l0
+L89
+VW54hLOB<VTCTRk?d2BOA93
+R11
+31
+R19
+R20
+R21
+R12
+R13
+R14
+!s100 UU]YXeX=cFS6gS>TF]ejW1
+!i10b 1
+Artl
+R15
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+DEx4 work 7 clkrand 0 22 W54hLOB<VTCTRk?d2BOA93
+l101
+L99
+V_ODl6KnCgiOm<ETe=0WGK2
+R11
+31
+R19
+R20
+R21
+R12
+R13
+R14
+!s100 dC0NDlBM?DkmFC<<o=fIR2
+!i10b 1
+Ecpu_disas_net
+R9
+Z62 DPx5 grlib 11 sparc_disas 0 22 ?h3QW`cB[>Z;J67F?z9nQ0
+Z63 DPx5 grlib 5 sparc 0 22 R?GCaYSbA`Kg3XYU^Tdlz2
+R1
+R4
+R2
+R7
+R8
+R10
+Z64 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/cpu_disas_net.vhd
+Z65 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/cpu_disas_net.vhd
+l0
+L35
+VMz`YhQlFPAzofP=5iK>8N3
+R11
+31
+Z66 !s108 1667075337.810000
+Z67 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/cpu_disas_net.vhd|
+Z68 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/cpu_disas_net.vhd|
+R12
+R13
+R14
+!s100 X]OM=a;XJEnMm8KE[YF870
+!i10b 1
+Abehav
+R62
+R63
+R1
+R4
+R2
+R7
+R8
+DEx4 work 13 cpu_disas_net 0 22 Mz`YhQlFPAzofP=5iK>8N3
+l53
+L52
+V`h1lZGKJn@do[VdVm19V52
+R11
+31
+R66
+R67
+R68
+R12
+R13
+R14
+!s100 30APF`b1=T=H=:JQjzUHC3
+!i10b 1
+Eddr2phy
+R9
+Z69 DPx7 techmap 6 allddr 0 22 FG[AX:c_PloIYDN;fz6K52
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+R10
+Z70 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddrphy.vhd
+Z71 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddrphy.vhd
+l0
+L223
+VoBM[aJBHeNZE]O82@8MNN2
+R11
+31
+Z72 !s108 1667075325.435000
+Z73 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddrphy.vhd|
+Z74 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddrphy.vhd|
+R12
+R13
+R14
+!s100 oeh<mXoU9TSo?35:doaOX3
+!i10b 1
+Artl
+R69
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+DEx4 work 7 ddr2phy 0 22 oBM[aJBHeNZE]O82@8MNN2
+l304
+L303
+V>Y6lo<>6LSRT?l9d]1D]52
+R11
+31
+R72
+R73
+R74
+R12
+R13
+R14
+!s100 kBY=B2X^>zzRczzki13i23
+!i10b 1
+Eddr_ireg
+R9
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z75 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_ireg.vhd
+Z76 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_ireg.vhd
+l0
+L31
+V4XjPa9eRYZ18I^i[a_izL1
+R11
+31
+Z77 !s108 1667075324.700000
+Z78 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_ireg.vhd|
+Z79 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_ireg.vhd|
+R12
+R13
+R14
+!s100 PBG876785W>8Iem`lj_If2
+!i10b 1
+Artl
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 ddr_ireg 0 22 4XjPa9eRYZ18I^i[a_izL1
+l44
+L43
+VL>X_k^gec]nF`_z_Ui50P1
+R11
+31
+R77
+R78
+R79
+R12
+R13
+R14
+!s100 KKfZMOPCY`:_5la1:EgTc0
+!i10b 1
+Eddr_oreg
+R9
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z80 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_oreg.vhd
+Z81 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_oreg.vhd
+l0
+L31
+VJQV8CROnz5>>76MblTgBb3
+R11
+31
+Z82 !s108 1667075325.059000
+Z83 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_oreg.vhd|
+Z84 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ddr_oreg.vhd|
+R12
+R13
+R14
+!s100 4SP_:4WQ?4>cBe39kaF@h1
+!i10b 1
+Artl
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 ddr_oreg 0 22 JQV8CROnz5>>76MblTgBb3
+l44
+L43
+V[M?dC3DY4QZFeHW28Ja4j0
+R11
+31
+R82
+R83
+R84
+R12
+R13
+R14
+!s100 4hzBe1CPi>22:GWVSRmFM0
+!i10b 1
+Eddrphy
+R9
+R69
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+R10
+R70
+R71
+l0
+L39
+Vc?iX9d?W@W[5UXdUR]BcY3
+R11
+31
+R72
+R73
+R74
+R12
+R13
+R14
+!s100 n>^i4gWVTNK;Q2d9gIjDF0
+!i10b 1
+Artl
+R69
+R3
+R5
+R6
+R1
+R4
+R2
+R7
+R8
+DEx4 work 6 ddrphy 0 22 c?iX9d?W@W[5UXdUR]BcY3
+l86
+L84
+V4n5G;@TFaYi=JFD6XG[V20
+R11
+31
+R72
+R73
+R74
+R12
+R13
+R14
+!s100 HkVF]TZ>b?2n[dkg:XBkz1
+!i10b 1
+Edw_mul_61x61
+R9
+Z85 DPx8 synopsys 10 attributes 0 22 J^T`lPA_8_J<l8kQiVE]>2
+Z86 DPx4 ieee 14 std_logic_misc 0 22 >dU:RInm^_6_mBJ^<6QGY2
+Z87 DPx5 dware 24 dw_foundation_comp_arith 0 22 ]DBO3]dgg[MdhJz7^a@Wh3
+Z88 DPx5 dware 10 dwpackages 0 22 >WR`7h5N_cLWa>U[;H75@2
+R7
+R8
+R10
+Z89 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/dware/mul_dware.vhd
+Z90 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/dware/mul_dware.vhd
+l0
+L77
+V?Am=TTYCl_OH_KPmMndSC3
+R11
+31
+Z91 !s108 1667075310.075000
+Z92 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/dware/mul_dware.vhd|
+Z93 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/dware/mul_dware.vhd|
+R12
+R13
+R14
+!s100 _I22a3b0R@3mkOUn0DF`H3
+!i10b 1
+Artl
+R85
+R86
+R87
+R88
+R7
+R8
+DEx4 work 12 dw_mul_61x61 0 22 ?Am=TTYCl_OH_KPmMndSC3
+l89
+L84
+VE3dcOn<EaWgFKzF=UN48B1
+R11
+31
+R91
+R92
+R93
+R12
+R13
+R14
+!s100 E@6AZdm5hGB[ZUeeBeOll0
+!i10b 1
+Efpu_disas_net
+R9
+R62
+R63
+R1
+R4
+R2
+R7
+R8
+R10
+R64
+R65
+l0
+L89
+VhdcnnTMho;1>:N^>EUU:63
+R11
+31
+R66
+R67
+R68
+R12
+R13
+R14
+!s100 L[WM6hk`Q@6j:NSU=0cPz1
+!i10b 1
+Abehav
+R62
+R63
+R1
+R4
+R2
+R7
+R8
+DEx4 work 13 fpu_disas_net 0 22 hdcnnTMho;1>:N^>EUU:63
+l112
+L111
+VQW9Ya;jbm7YMY7f6X9gG=1
+R11
+31
+R66
+R67
+R68
+R12
+R13
+R14
+!s100 bJTWB<1d[mPTo:6oF0HfU2
+!i10b 1
+Egen_ddr_phy_ireg
+R9
+R7
+R8
+R10
+Z94 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_phy_inferred.vhd
+Z95 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_phy_inferred.vhd
+l0
+L86
+VgjAnN5Z9nc<_HIe`8MYnb0
+R11
+31
+Z96 !s108 1667075309.309000
+Z97 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_phy_inferred.vhd|
+Z98 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_phy_inferred.vhd|
+R12
+R13
+R14
+!s100 Njh=^JGRdV2J9^Nz163aD3
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 16 gen_ddr_phy_ireg 0 22 gjAnN5Z9nc<_HIe`8MYnb0
+l100
+L99
+Vm?nIb^2[]OOX==@[EkD7i3
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 KV8]b_3P4Wn?A70Gbi;i`2
+!i10b 1
+Egen_ddr_phy_oreg
+R9
+R7
+R8
+R10
+R94
+R95
+l0
+L31
+Vj[<72Mm8I>Ie8fCUCXeS@0
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 ANdmFD8zi<mXQ`iMRj6D:0
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 16 gen_ddr_phy_oreg 0 22 j[<72Mm8I>Ie8fCUCXeS@0
+l49
+L47
+VIo7KW]QbYYVCZdkbhhKWU3
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 ZHh=2ZV=;fCf0b<C70EG=3
+!i10b 1
+Egen_ddr_phy_reg
+R9
+R7
+R8
+R10
+R94
+R95
+l0
+L124
+V0agIUFP6[Ne4OGCcUb1>Y2
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 d=1`^ocG<T>4zf:=6FGMF1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 15 gen_ddr_phy_reg 0 22 0agIUFP6[Ne4OGCcUb1>Y2
+l133
+L132
+VY?]K4[]aMeUf@GXnBe^_c3
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 V<J>nI?_:8dhKiOWVZNi<2
+!i10b 1
+Egen_iddr_reg
+R9
+R7
+R8
+R10
+Z99 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_inferred.vhd
+Z100 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_inferred.vhd
+l0
+L29
+V]4FlTzMEORKUY=I^c]WY]0
+R11
+31
+Z101 !s108 1667075308.608000
+Z102 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_inferred.vhd|
+Z103 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/ddr_inferred.vhd|
+R12
+R13
+R14
+!s100 d_G]jE2Rd;9;goYA@K<gR1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 12 gen_iddr_reg 0 22 ]4FlTzMEORKUY=I^c]WY]0
+l45
+L42
+Va43R9eKQI81m@<lzEIQ6@3
+R11
+31
+R101
+R102
+R103
+R12
+R13
+R14
+!s100 Y;be4bTA1X;UTilGH7Y><0
+!i10b 1
+Egen_mul_61x61
+R9
+R1
+R2
+R4
+R7
+R8
+R10
+Z104 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/mul_inferred.vhd
+Z105 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/mul_inferred.vhd
+l0
+L32
+VGBlEhL7=BCAAGAA2YCo8U0
+R11
+31
+Z106 !s108 1667075308.903000
+Z107 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/mul_inferred.vhd|
+Z108 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/mul_inferred.vhd|
+R12
+R13
+R14
+!s100 iR9@9z`NS<fim6BcoBg]b2
+!i10b 1
+Artl
+R1
+R2
+R4
+R7
+R8
+DEx4 work 13 gen_mul_61x61 0 22 GBlEhL7=BCAAGAA2YCo8U0
+l44
+L40
+Vcz26J6V2k1INndEcH_@972
+R11
+31
+R106
+R107
+R108
+R12
+R13
+R14
+!s100 FhHVGM?LUM6amOUC^OIbL2
+!i10b 1
+Egen_mult_pipe
+R9
+R1
+R4
+R2
+Z109 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R7
+R8
+R10
+R104
+R105
+l0
+L75
+VNPL5dei=PaZR:BW3`POX@1
+R11
+31
+R106
+R107
+R108
+R12
+R13
+R14
+!s100 k_el<baZbRB608cM:?_Cl2
+!i10b 1
+Asimple
+R1
+R4
+R2
+R109
+R7
+R8
+DEx4 work 13 gen_mult_pipe 0 22 NPL5dei=PaZR:BW3`POX@1
+l97
+L90
+V2=UXU4<=?MCd:eo;`YT@>0
+R11
+31
+R106
+R107
+R108
+R12
+R13
+R14
+!s100 4RC_@]QXh0onF;84F5=o81
+!i10b 1
+Pgencomp
+R1
+R2
+R3
+R4
+R5
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/gencomp.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/gencomp.vhd
+l0
+L31
+VfA@NZ:l4lLPzZlfC6BX<H0
+R11
+31
+R12
+R13
+R14
+!s100 dGefN0<WWFXWPD>LcI21h3
+!i10b 1
+!s108 1667075307.215000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/gencomp.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/gencomp.vhd|
+Egeneric_ddr2_phy
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R94
+R95
+l0
+L454
+V9fRAQ:oFR88BUeG2RD^IQ1
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 ?W[V=Djga_8<>1>e5Dd102
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 16 generic_ddr2_phy 0 22 9fRAQ:oFR88BUeG2RD^IQ1
+l567
+L511
+VU=902Fon@Bl_]5G;CMKd?1
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 gn25h>RSAdXg@bzknDko]3
+!i10b 1
+Egeneric_ddr_phy
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R94
+R95
+l0
+L150
+V89HPhOUG`YKmN3_X<Ie5?3
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 6OXgdFV2KJ@0dbEofHi5V3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 15 generic_ddr_phy 0 22 89HPhOUG`YKmN3_X<Ie5?3
+l236
+L194
+V;`EA_DmQzA>45bz1kEflF1
+R11
+31
+R96
+R97
+R98
+R12
+R13
+R14
+!s100 aS[D[cZM8aQH]QQ5DOIcg0
+!i10b 1
+Egeneric_regfile_3p
+R9
+R1
+R4
+R2
+R7
+R8
+R10
+Z110 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/memory_inferred.vhd
+Z111 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/memory_inferred.vhd
+l0
+L219
+V7T00EeeY=kGFm9fdFOj5;0
+R11
+31
+Z112 !s108 1667075307.827000
+Z113 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/memory_inferred.vhd|
+Z114 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/inferred/memory_inferred.vhd|
+R12
+R13
+R14
+!s100 gIa0zfT4g;XdRXE]ED1lz3
+!i10b 1
+Artl
+R1
+R4
+R2
+R7
+R8
+DEx4 work 18 generic_regfile_3p 0 22 7T00EeeY=kGFm9fdFOj5;0
+l245
+L237
+V1Ri>35OQ6_Pk5eXk[[L5K3
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 O^6Kk5Yh:7I<jfc6R;0b11
+!i10b 1
+Egeneric_regfile_4p
+R9
+R1
+R4
+R2
+R7
+R8
+R10
+R110
+R111
+l0
+L285
+VQCPi5knW??ij[XT`oGlB?0
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 lT6fHB?l0H0Vc4Q1:gf5=3
+!i10b 1
+Artl
+R1
+R4
+R2
+R7
+R8
+DEx4 work 18 generic_regfile_4p 0 22 QCPi5knW??ij[XT`oGlB?0
+l314
+L306
+Vc2FRYDnzkb2n18^gkj13D2
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 [hf@:SzIIPld4[cG0?RV]2
+!i10b 1
+Egeneric_syncram
+R9
+R1
+R4
+R2
+R7
+R8
+R10
+R110
+R111
+l0
+L31
+Vo4Xbb7iFa9cSNJbdnVRQe1
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 H;2_?ThYCZXS^]ffOZ29R3
+!i10b 1
+Abehavioral
+R1
+R4
+R2
+R7
+R8
+DEx4 work 15 generic_syncram 0 22 o4Xbb7iFa9cSNJbdnVRQe1
+l49
+L42
+Vjb[K7RSEdZI3U9YQEYh;72
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 z_8GXo8gfJU9=o^KV9Zn53
+!i10b 1
+Egeneric_syncram_2p
+R9
+R1
+R4
+R2
+R7
+R8
+R10
+R110
+R111
+l0
+L113
+VkoT2VH_QcR6oUf5iO`zbO1
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 ZVTA?o>3>Tml14QHXjA5f1
+!i10b 1
+Abehav
+R1
+R4
+R2
+R7
+R8
+DEx4 work 18 generic_syncram_2p 0 22 koT2VH_QcR6oUf5iO`zbO1
+l134
+L130
+V[gJz64lO>ZMP_T6BfnY<Y2
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 KD7R]zKV94joe4NkG^i:k0
+!i10b 1
+Egeneric_syncram_2p_reg
+R9
+R1
+R4
+R2
+R7
+R8
+R10
+R110
+R111
+l0
+L165
+VSmI2FAlGfg9YOBRM@JIk^1
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 9FzKU<]Me0@AG4kmNCZZL3
+!i10b 1
+Abehav
+R1
+R4
+R2
+R7
+R8
+DEx4 work 22 generic_syncram_2p_reg 0 22 SmI2FAlGfg9YOBRM@JIk^1
+l189
+L182
+V[^H?BzOTo<n8]=LBGaU3i1
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 QBDSfJzO_Y]XCkT7SoOo^3
+!i10b 1
+Egeneric_syncram_reg
+R9
+R1
+R4
+R2
+R7
+R8
+R10
+R110
+R111
+l0
+L70
+VTFWH==F[ohQ>0=1QGk[aG2
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 ?4gQFKoAiA]EEzk3]^[EQ1
+!i10b 1
+Abehavioral
+R1
+R4
+R2
+R7
+R8
+DEx4 work 19 generic_syncram_reg 0 22 TFWH==F[ohQ>0=1QGk[aG2
+l90
+L81
+V^KhzhnlgV][7fcK^6K5B_3
+R11
+31
+R112
+R113
+R114
+R12
+R13
+R14
+!s100 `6^Na^`LMXYmVoIo07@Eh1
+!i10b 1
+Egrfpw_net
+R9
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+R10
+Z115 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grfpw_net.vhd
+Z116 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grfpw_net.vhd
+l0
+L31
+VQC3HhGinJSa94H3W8C9oU1
+R11
+31
+Z117 !s108 1667075336.500000
+Z118 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grfpw_net.vhd|
+Z119 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grfpw_net.vhd|
+R12
+R13
+R14
+!s100 TfdoIoomlY13g3f7P^ZVJ2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+DEx4 work 9 grfpw_net 0 22 QC3HhGinJSa94H3W8C9oU1
+l638
+L114
+Vohc0h;GU;@ATKcXKYK0L02
+R11
+31
+R117
+R118
+R119
+R12
+R13
+R14
+!s100 XgzfVTU3CL3RHUdnm[OYA3
+!i10b 1
+Egrlfpw_net
+R9
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+R10
+Z120 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grlfpw_net.vhd
+Z121 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grlfpw_net.vhd
+l0
+L31
+V=AXUBkYXj1b]o`@=V1B]b3
+R11
+31
+Z122 !s108 1667075336.153000
+Z123 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grlfpw_net.vhd|
+Z124 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grlfpw_net.vhd|
+R12
+R13
+R14
+!s100 mOznE`R_2aeN9mN<bNFzZ2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R16
+R7
+R8
+DEx4 work 10 grlfpw_net 0 22 =AXUBkYXj1b]o`@=V1B]b3
+l755
+L114
+VMR:QaE_FA2N`VB40ngU?n0
+R11
+31
+R122
+R123
+R124
+R12
+R13
+R14
+!s100 @C:cBQTd8?NYdHJo3PHFT3
+!i10b 1
+Egrmux2
+R9
+R15
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z125 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grgates.vhd
+Z126 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grgates.vhd
+l0
+L31
+V]mcQ_UL=4FRg_?2[Ql]kd2
+R11
+31
+Z127 !s108 1667075339.184000
+Z128 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grgates.vhd|
+Z129 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grgates.vhd|
+R12
+R13
+R14
+!s100 4c>:iZ5o^Ha06ZjITY=jz2
+!i10b 1
+Artl
+R15
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 grmux2 0 22 ]mcQ_UL=4FRg_?2[Ql]kd2
+l36
+L34
+V4Q;Dd:?N;J;jRXJVEBlF=3
+R11
+31
+R127
+R128
+R129
+R12
+R13
+R14
+!s100 BinRjmeczRfDb20Z_?d@^0
+!i10b 1
+Egrspwc2_net
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z130 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc2_net.vhd
+Z131 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc2_net.vhd
+l0
+L31
+V20FFCiCe5STOWzeo4kzDP2
+R11
+31
+Z132 !s108 1667075335.731000
+Z133 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc2_net.vhd|
+Z134 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc2_net.vhd|
+R12
+R13
+R14
+!s100 bG28WolDIAY5W0gO>1e^g3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 grspwc2_net 0 22 20FFCiCe5STOWzeo4kzDP2
+l622
+L130
+VUo=JBmUW8jM6:B`[jNVZW2
+R11
+31
+R132
+R133
+R134
+R12
+R13
+R14
+!s100 Y?5>Vz2^0o6WmFV<`8l3T1
+!i10b 1
+Egrspwc2_unisim
+R9
+R7
+R8
+R10
+Z135 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc2_unisim.vhd
+Z136 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc2_unisim.vhd
+l0
+L30
+VNF6zgaM<S_<E@`RGkZE930
+R11
+31
+Z137 !s108 1667075317.215000
+Z138 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc2_unisim.vhd|
+Z139 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc2_unisim.vhd|
+R12
+R13
+R14
+!s100 n4Di9blnU_[490kAPN?zf1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 14 grspwc2_unisim 0 22 NF6zgaM<S_<E@`RGkZE930
+l198
+L128
+VzgM6[NXQ6DT6ceO;PA[Lz2
+R11
+31
+R137
+R138
+R139
+R12
+R13
+R14
+!s100 1KnfFjKB6]S^5Y1BI3O:I3
+!i10b 1
+Egrspwc_net
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z140 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc_net.vhd
+Z141 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc_net.vhd
+l0
+L31
+V2<>9EHe4]gLTPe=2j0dRC3
+R11
+31
+Z142 !s108 1667075335.356000
+Z143 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc_net.vhd|
+Z144 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grspwc_net.vhd|
+R12
+R13
+R14
+!s100 jlGUU_o4dm7b:K[VKn2g^2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 grspwc_net 0 22 2<>9EHe4]gLTPe=2j0dRC3
+l610
+L128
+V_XHcQo3_8ZA4nTTJ:h;RW3
+R11
+31
+R142
+R143
+R144
+R12
+R13
+R14
+!s100 [Pf<8BRAZCO^6mYTnhKDJ2
+!i10b 1
+Egrspwc_unisim
+R9
+R7
+R8
+R10
+Z145 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc_unisim.vhd
+Z146 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc_unisim.vhd
+l0
+L30
+V?9[C<kT7R7c6HGGX6n4V;2
+R11
+31
+Z147 !s108 1667075316.793000
+Z148 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc_unisim.vhd|
+Z149 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grspwc_unisim.vhd|
+R12
+R13
+R14
+!s100 fG`8lVPTbHQ;aam`JejBg1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 13 grspwc_unisim 0 22 ?9[C<kT7R7c6HGGX6n4V;2
+l262
+L124
+V]GGSG[P^`P3>jFQBP6E3i0
+R11
+31
+R147
+R148
+R149
+R12
+R13
+R14
+!s100 B:4>eXT3@1>]:jdLeU[3Z3
+!i10b 1
+Egrusbhc_net
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z150 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grusbhc_net.vhd
+Z151 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grusbhc_net.vhd
+l0
+L30
+VQ=P9TeAmOd;J?ccZaHafo0
+R11
+31
+Z152 !s108 1667075338.200000
+Z153 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grusbhc_net.vhd|
+Z154 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/grusbhc_net.vhd|
+R12
+R13
+R14
+!s100 b?Y37gS[eDCQ`@=c[RKPG1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 grusbhc_net 0 22 Q=P9TeAmOd;J?ccZaHafo0
+l838
+L192
+V>n:Qk8`2agliQng<[fRN<3
+R11
+31
+R152
+R153
+R154
+R12
+R13
+R14
+!s100 XDNG^[2zXlABPnZLM75Lk3
+!i10b 1
+Egrusbhc_unisim
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z155 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grusbhc_unisim.vhd
+Z156 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grusbhc_unisim.vhd
+l0
+L40
+V?[hQcNU@BNOl7jQMg]PoW0
+R11
+31
+Z157 !s108 1667075317.575000
+Z158 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grusbhc_unisim.vhd|
+Z159 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/grusbhc_unisim.vhd|
+R12
+R13
+R14
+!s100 W<c<7jimo6kW`DaoE8[EH2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 14 grusbhc_unisim 0 22 ?[hQcNU@BNOl7jQMg]PoW0
+l828
+L201
+VkL`oCn6ELSdfVJ>@F8d`a0
+R11
+31
+R157
+R158
+R159
+R12
+R13
+R14
+!s100 E8;>3f]7U;I`fcF^XhYDP2
+!i10b 1
+Einpad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z160 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad.vhd
+Z161 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad.vhd
+l0
+L32
+V>QzzSRjNb[]ENn<3^g71l1
+R11
+31
+Z162 !s108 1667075330.044000
+Z163 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad.vhd|
+Z164 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad.vhd|
+R12
+R13
+R14
+!s100 H7M;];TOWP[8dhRdf5k?Y2
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 5 inpad 0 22 >QzzSRjNb[]ENn<3^g71l1
+l40
+L39
+V6bYj>4jfd9YMR=A?2`JDo3
+R11
+31
+R162
+R163
+R164
+R12
+R13
+R14
+!s100 nRM?XUQDa6OflODQF3CT23
+!i10b 1
+Einpad_ddr
+R9
+R51
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z165 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ddr.vhd
+Z166 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ddr.vhd
+l0
+L35
+VQ:Vi5NQGm4bhM:DzzoWW32
+R11
+31
+Z167 !s108 1667075339.403000
+Z168 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ddr.vhd|
+Z169 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ddr.vhd|
+R12
+R13
+R14
+!s100 0>bdnzFUf08II9V8=JBPd2
+!i10b 1
+Artl
+R51
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 inpad_ddr 0 22 Q:Vi5NQGm4bhM:DzzoWW32
+l57
+L53
+V55S`nXl5NbhQ5D^?@?eFD0
+R11
+31
+R167
+R168
+R169
+R12
+R13
+R14
+!s100 dURSDnV47AkXdMC6:i?@e1
+!i10b 1
+Einpad_ddrv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R165
+R166
+l0
+L87
+Vz_If_F;cO0Z@]N>Hblg2>1
+R11
+31
+R167
+R168
+R169
+R12
+R13
+R14
+!s100 0Qg9mcI`NiVE=i=zO=>Yo2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 inpad_ddrv 0 22 z_If_F;cO0Z@]N>Hblg2>1
+l107
+L106
+VYToZcfcS^_ekRG6`:A1CD1
+R11
+31
+R167
+R168
+R169
+R12
+R13
+R14
+!s100 6mSk988lI9YjFHbdRJCRf1
+!i10b 1
+Einpad_ds
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z170 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ds.vhd
+Z171 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ds.vhd
+l0
+L32
+VZ?=hFb1LCPDz7GoGRR`L43
+R11
+31
+Z172 !s108 1667075330.594000
+Z173 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ds.vhd|
+Z174 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/inpad_ds.vhd|
+R12
+R13
+R14
+!s100 ?<5`?`]iSzAUR]d3iRAL>1
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 inpad_ds 0 22 Z?=hFb1LCPDz7GoGRR`L43
+l39
+L37
+VNEJ3^zc[PGbUcL:S^e1Z:0
+R11
+31
+R172
+R173
+R174
+R12
+R13
+R14
+!s100 >`AX5R74kBzW;=gd;d`G`3
+!i10b 1
+Einpad_dsv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R170
+R171
+l0
+L78
+V9`j;dC6hR4E_X8dnh;VWk3
+R11
+31
+R172
+R173
+R174
+R12
+R13
+R14
+!s100 T6I:81cAZLWR[idL160OH3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 inpad_dsv 0 22 9`j;dC6hR4E_X8dnh;VWk3
+l87
+L86
+V=NDmYO54]kTge9FbO2h9F3
+R11
+31
+R172
+R173
+R174
+R12
+R13
+R14
+!s100 5?mzHWY2XzQeG]nnZncii1
+!i10b 1
+Einpadv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R160
+R161
+l0
+L108
+V_>LYcjLO>`_lWKm3^o9gC0
+R11
+31
+R162
+R163
+R164
+R12
+R13
+R14
+!s100 I53GEjU<=6Q^cVJERC6d61
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 inpadv 0 22 _>LYcjLO>`_lWKm3^o9gC0
+l116
+L115
+VW<Tn6]1@MOD^e^AQdAMPn0
+R11
+31
+R162
+R163
+R164
+R12
+R13
+R14
+!s100 DK94:eaPX4OBk2_9PfGE>2
+!i10b 1
+Eiodpad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z175 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iodpad.vhd
+Z176 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iodpad.vhd
+l0
+L32
+VYW]<3[Ub85n;3AfTF@ma70
+R11
+31
+Z177 !s108 1667075330.981000
+Z178 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iodpad.vhd|
+Z179 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iodpad.vhd|
+R12
+R13
+R14
+!s100 m>0WWNH;LA]j32z==^aU81
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 iodpad 0 22 YW]<3[Ub85n;3AfTF@ma70
+l41
+L39
+V=XhR_J:W7P8BzSV6`Y`mI0
+R11
+31
+R177
+R178
+R179
+R12
+R13
+R14
+!s100 =fi4kEmXg^@^fEJ3nSTHe0
+!i10b 1
+Eiodpadv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R175
+R176
+l0
+L110
+Vb2WW`1Hbon7N8;SW0TLmS2
+R11
+31
+R177
+R178
+R179
+R12
+R13
+R14
+!s100 ^5V3_c=j8WX9QaIfPz5<Z2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 iodpadv 0 22 b2WW`1Hbon7N8;SW0TLmS2
+l120
+L119
+Vhf<Nk=M9n8o[^b2HR5oZF1
+R11
+31
+R177
+R178
+R179
+R12
+R13
+R14
+!s100 FD8^Ihbn5VBcIUPBMlKiA3
+!i10b 1
+Eiopad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z180 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad.vhd
+Z181 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad.vhd
+l0
+L32
+VRX2X][PWNAJ>eK;PJZ`KC3
+R11
+31
+Z182 !s108 1667075331.497000
+Z183 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad.vhd|
+Z184 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad.vhd|
+R12
+R13
+R14
+!s100 c0:ZPm]2[ULZFP]dGzDFe3
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 5 iopad 0 22 RX2X][PWNAJ>eK;PJZ`KC3
+l41
+L39
+VQJgU=V4jLYoUKNUYzLc`G0
+R11
+31
+R182
+R183
+R184
+R12
+R13
+R14
+!s100 <PBTKE9PGM;TS^zVf7?]K1
+!i10b 1
+Eiopad_ddr
+R9
+R51
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z185 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ddr.vhd
+Z186 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ddr.vhd
+l0
+L35
+Vm?<jUW^X5Nd94<fM<AKcI0
+R11
+31
+Z187 !s108 1667075340.044000
+Z188 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ddr.vhd|
+Z189 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ddr.vhd|
+R12
+R13
+R14
+!s100 kK`TZzae33OeRcaPG8L4j1
+!i10b 1
+Artl
+R51
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 iopad_ddr 0 22 m?<jUW^X5Nd94<fM<AKcI0
+l56
+L54
+VGoYif7;:4zMNdf_fNCniI1
+R11
+31
+R187
+R188
+R189
+R12
+R13
+R14
+!s100 zK3lhQ_Fh>UJgX^P0GR`81
+!i10b 1
+Eiopad_ddrv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R185
+R186
+l0
+L84
+V=f544<_BDR6<<U=IOOFnl0
+R11
+31
+R187
+R188
+R189
+R12
+R13
+R14
+!s100 <R:SS?3^F=NdCEC8gi<nU0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 iopad_ddrv 0 22 =f544<_BDR6<<U=IOOFnl0
+l104
+L103
+VW`aLT`i`zAWQ8]O6P=lPV0
+R11
+31
+R187
+R188
+R189
+R12
+R13
+R14
+!s100 nT_`GgEoABYn?hz^XU?7Y1
+!i10b 1
+Eiopad_ddrvv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R185
+R186
+l0
+L116
+VSJ5j7CH6U6B[1da3QRFo90
+R11
+31
+R187
+R188
+R189
+R12
+R13
+R14
+!s100 ]H>O1R=LAl_=Kd4fAcVcP3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 iopad_ddrvv 0 22 SJ5j7CH6U6B[1da3QRFo90
+l136
+L135
+VM>;1YzbbAOHJdh_EnJeT^0
+R11
+31
+R187
+R188
+R189
+R12
+R13
+R14
+!s100 4PWCaAcI<19[Tm6dE4AhY3
+!i10b 1
+Eiopad_ds
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z190 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ds.vhd
+Z191 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ds.vhd
+l0
+L32
+VTlba^z24Jc9hRW1J3JWA32
+R11
+31
+Z192 !s108 1667075332.028000
+Z193 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ds.vhd|
+Z194 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/iopad_ds.vhd|
+R12
+R13
+R14
+!s100 4Ib5VO6nI932YPO:gO12e0
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 iopad_ds 0 22 Tlba^z24Jc9hRW1J3JWA32
+l41
+L39
+VL6Se=KffKX^=MiKfS[@@`0
+R11
+31
+R192
+R193
+R194
+R12
+R13
+R14
+!s100 Hib?SXgViFLEF`UKV@IAg2
+!i10b 1
+Eiopad_dsv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R190
+R191
+l0
+L89
+V5QZK7<L@:_WgE^egN?^G@2
+R11
+31
+R192
+R193
+R194
+R12
+R13
+R14
+!s100 cOW9B8g`0Fd>i=0dJz3^11
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 iopad_dsv 0 22 5QZK7<L@:_WgE^egN?^G@2
+l100
+L99
+VmB?55:Z_^eH9NYUQ8c0mz2
+R11
+31
+R192
+R193
+R194
+R12
+R13
+R14
+!s100 Scb_fTC>kf`JC_CWbO]H42
+!i10b 1
+Eiopad_dsvv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R190
+R191
+l0
+L112
+VH^zaBC09`GR9KAW]4kJd62
+R11
+31
+R192
+R193
+R194
+R12
+R13
+R14
+!s100 34jmc<W=QlRXheJjA5VM<0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 iopad_dsvv 0 22 H^zaBC09`GR9KAW]4kJd62
+l123
+L122
+VbGAKaDe<hE@AHk2GMD7881
+R11
+31
+R192
+R193
+R194
+R12
+R13
+R14
+!s100 XQ7gHQ^C2lbUCk;^G_hlW0
+!i10b 1
+Eiopadv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R180
+R181
+l0
+L137
+VG2m:L<QPVe@3F=V7<4IFB0
+R11
+31
+R182
+R183
+R184
+R12
+R13
+R14
+!s100 J14MoFMmN^Yja]zk14Bdo2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 iopadv 0 22 G2m:L<QPVe@3F=V7<4IFB0
+l148
+L147
+V5gU7MN`4nTZEa=1dEfFZk0
+R11
+31
+R182
+R183
+R184
+R12
+R13
+R14
+!s100 aZb7jNg>f>Tj8]W]cd4Ke3
+!i10b 1
+Eiopadvv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R180
+R181
+l0
+L160
+VNXcS>H9MKFK>UlUnafc9i3
+R11
+31
+R182
+R183
+R184
+R12
+R13
+R14
+!s100 3dML[GTHgn^RkiWG;;UTn3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 iopadvv 0 22 NXcS>H9MKFK>UlUnafc9i3
+l171
+L170
+VAIdJ:N2>kBHcDK2_LVQNC0
+R11
+31
+R182
+R183
+R184
+R12
+R13
+R14
+!s100 >EH`LNBZ]B6;f2k9WVizi2
+!i10b 1
+Eleon4_net
+R9
+R16
+Z195 DPx5 grlib 7 devices 0 22 nEIY2egb_A1[g<OiA2GW70
+R1
+R2
+R3
+R4
+R5
+R7
+R8
+R10
+Z196 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/leon4_net.vhd
+Z197 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/leon4_net.vhd
+l0
+L28
+VzUB1<7V`M`5B]8MkX60VW3
+R11
+31
+Z198 !s108 1667075336.903000
+Z199 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/leon4_net.vhd|
+Z200 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/leon4_net.vhd|
+R12
+R13
+R14
+!s100 IWVbLA83U3=a2n1I?Y0S]2
+!i10b 1
+Artl
+R16
+R195
+R1
+R2
+R3
+R4
+R5
+R7
+R8
+DEx4 work 9 leon4_net 0 22 zUB1<7V`M`5B]8MkX60VW3
+l336
+L142
+VYHT1laF5iIa=9_g4J:OJH2
+R11
+31
+R198
+R199
+R200
+R12
+R13
+R14
+!s100 =]JX2LJl4nGaaza?L_JXb0
+!i10b 1
+Elvds_combo
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z201 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/lvds_combo.vhd
+Z202 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/lvds_combo.vhd
+l0
+L32
+V@N9Wgoz`U[1`SelLMi[`W0
+R11
+31
+Z203 !s108 1667075332.716000
+Z204 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/lvds_combo.vhd|
+Z205 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/lvds_combo.vhd|
+R12
+R13
+R14
+!s100 2enmI`chzBV1]zFi8diRL0
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 lvds_combo 0 22 @N9Wgoz`U[1`SelLMi[`W0
+l47
+L43
+VVd4Y:>Xo3`FR`=P2R?Hg_3
+R11
+31
+R203
+R204
+R205
+R12
+R13
+R14
+!s100 XO8^H`lg;XA1@VSP^lDjg3
+!i10b 1
+Emul_61x61
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z206 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/mul_61x61.vhd
+Z207 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/mul_61x61.vhd
+l0
+L31
+VSWKF]I:kg<io=`A1HgiDL0
+R11
+31
+Z208 !s108 1667075337.375000
+Z209 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/mul_61x61.vhd|
+Z210 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/mul_61x61.vhd|
+R12
+R13
+R14
+!s100 nCTE`IS@colU5f_EDj:E?2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 mul_61x61 0 22 SWKF]I:kg<io=`A1HgiDL0
+l85
+L42
+V`AXQ?d[Bm7I56]PIF=83@1
+R11
+31
+R208
+R209
+R210
+R12
+R13
+R14
+!s100 o4Cnz]BCA0XPCWTZDIgb80
+!i10b 1
+Emul_dw
+R9
+R85
+R86
+R87
+R88
+R7
+R8
+R10
+R89
+R90
+l0
+L32
+V0R`W4=1V6DVkL;753En]10
+R11
+31
+R91
+R92
+R93
+R12
+R13
+R14
+!s100 @_6Vld27Z;OEkVkfm486E0
+!i10b 1
+Artl
+R85
+R86
+R87
+R88
+R7
+R8
+DEx4 work 6 mul_dw 0 22 0R`W4=1V6DVkL;753En]10
+l51
+L47
+V[8lzFWbQ_@enWOzPBVKUW1
+R11
+31
+R91
+R92
+R93
+R12
+R13
+R14
+!s100 `2U@3fOMN55dc^[O6bc1N2
+!i10b 1
+Enandtree
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z211 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/nandtree.vhd
+Z212 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/nandtree.vhd
+l0
+L30
+VEaScl^QO<:MW@h0A1D^Tf3
+R11
+31
+Z213 !s108 1667075328.872000
+Z214 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/nandtree.vhd|
+Z215 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/nandtree.vhd|
+R12
+R13
+R14
+!s100 PI6e>`H3l7>@4A]FP<6mB1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 nandtree 0 22 EaScl^QO<:MW@h0A1D^Tf3
+l67
+L41
+VOkh3j8TzCjb:Lz=D4XcnZ0
+R11
+31
+R213
+R214
+R215
+R12
+R13
+R14
+!s100 fQo2<M:Ck6g7OgDbiLQEo2
+!i10b 1
+Pnetcomp
+R16
+R1
+R2
+R3
+R4
+R5
+R7
+R8
+R9
+R10
+8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/netcomp.vhd
+FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/netcomp.vhd
+l0
+L32
+VOWgRMf4Taz>X_3j0e_Ge90
+R11
+31
+R12
+R13
+R14
+!s100 Il4K5:E87QhmPbMcCT^fh3
+!i10b 1
+!s108 1667075307.529000
+!s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/netcomp.vhd|
+!s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/gencomp/netcomp.vhd|
+Eoddrc3e
+R9
+R42
+Z216 DEx6 unisim 5 oddr2 0 22 `MQH7i4Ejk;X770W@Rj9S1
+Z217 DEx6 unisim 2 fd 0 22 80Pm<6HJ^idF>:_;g:oA12
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z218 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_unisim.vhd
+Z219 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_unisim.vhd
+l0
+L347
+Vi7kmG:UVGU8eQJ42i6WRA2
+R11
+31
+Z220 !s108 1667075315.242000
+Z221 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_unisim.vhd|
+Z222 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_unisim.vhd|
+R12
+R13
+R14
+!s100 f6JXY9RQ:<;RY:::l:7V<2
+!i10b 1
+Artl
+R42
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 oddrc3e 0 22 i7kmG:UVGU8eQJ42i6WRA2
+l390
+L360
+V3g;WkNKLW8J`[Y0m5MIkP1
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 G`nOUNJnVO[@n54XD16ic1
+!i10b 1
+Eoddrv2
+R9
+Z223 DEx6 unisim 7 fddrrse 0 22 47RR5FM53XT`e0][jWS`:1
+R217
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R218
+R219
+l0
+L292
+V1lN@3FKeNbG5i<VP0j6K<0
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 ZhM<TIBG7n]4e@JAbM7hL2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 oddrv2 0 22 1lN@3FKeNbG5i<VP0j6K<0
+l329
+L305
+VXgL;ehg0e=0mOVeQ_;glD3
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 g_SX^Oj5Mni=nOHLAlKZ_3
+!i10b 1
+Eodpad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z224 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/odpad.vhd
+Z225 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/odpad.vhd
+l0
+L32
+V8[SKL]]CKCdP4Z^I:5L[`0
+R11
+31
+Z226 !s108 1667075333.078000
+Z227 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/odpad.vhd|
+Z228 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/odpad.vhd|
+R12
+R13
+R14
+!s100 618ejGhZ2lLjPFbn]2hI50
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 5 odpad 0 22 8[SKL]]CKCdP4Z^I:5L[`0
+l41
+L39
+V<X9`XL;6GnF6]90oj=0n01
+R11
+31
+R226
+R227
+R228
+R12
+R13
+R14
+!s100 L][jz?l9jdX:[U3LQk@S;3
+!i10b 1
+Eodpadv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R224
+R225
+l0
+L127
+VOhZee6P4H^lZPPzb0@]950
+R11
+31
+R226
+R227
+R228
+R12
+R13
+R14
+!s100 GglHKHkKUK0Q05Z>VZCKD1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 odpadv 0 22 OhZee6P4H^lZPPzb0@]950
+l136
+L135
+V3RkeHD]bOa^_8b[fh_1I>2
+R11
+31
+R226
+R227
+R228
+R12
+R13
+R14
+!s100 M>DRlRdfYGMSLXO;nM19Q1
+!i10b 1
+Eoutpad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z229 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad.vhd
+Z230 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad.vhd
+l0
+L32
+Vf2ZO3=4iRbkQS]A>U4FT63
+R11
+31
+Z231 !s108 1667075333.499000
+Z232 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad.vhd|
+Z233 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad.vhd|
+R12
+R13
+R14
+!s100 afiSKea66?aBlLclDzXZ^2
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 6 outpad 0 22 f2ZO3=4iRbkQS]A>U4FT63
+l40
+L38
+VhdiF9Ph]RlK8@VoggiJA^1
+R11
+31
+R231
+R232
+R233
+R12
+R13
+R14
+!s100 dR7:;W0JJOEi_ge:<<lQE3
+!i10b 1
+Eoutpad_ddr
+R9
+R51
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z234 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ddr.vhd
+Z235 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ddr.vhd
+l0
+L36
+VW>Jj^aS]DBWfP]H16GhW81
+R11
+31
+Z236 !s108 1667075339.653000
+Z237 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ddr.vhd|
+Z238 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ddr.vhd|
+R12
+R13
+R14
+!s100 9iCV;?>2[idgPBdE`BY2I0
+!i10b 1
+Artl
+R51
+R69
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 outpad_ddr 0 22 W>Jj^aS]DBWfP]H16GhW81
+l56
+L54
+VhPbVzOiz>9A3LM=dFYJA32
+R11
+31
+R236
+R237
+R238
+R12
+R13
+R14
+!s100 VDRK^::6;>1ZP^ZH@nADS1
+!i10b 1
+Eoutpad_ddrv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R234
+R235
+l0
+L91
+VSP<H^[Lno`P1_;f:hROF21
+R11
+31
+R236
+R237
+R238
+R12
+R13
+R14
+!s100 Pdk@`5Me@@HAJLL39IEa?1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 outpad_ddrv 0 22 SP<H^[Lno`P1_;f:hROF21
+l110
+L109
+VEL?eO@c>XcYC3Hh<9A5co1
+R11
+31
+R236
+R237
+R238
+R12
+R13
+R14
+!s100 E=L1I`9aKcDkfMUDNMa4[2
+!i10b 1
+Eoutpad_ds
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z239 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ds.vhd
+Z240 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ds.vhd
+l0
+L32
+V:4dA]m@J`>R8oZIG4Ff4L0
+R11
+31
+Z241 !s108 1667075333.934000
+Z242 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ds.vhd|
+Z243 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/outpad_ds.vhd|
+R12
+R13
+R14
+!s100 ckWJ9n`S=5nej6BU9gCzR2
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 outpad_ds 0 22 :4dA]m@J`>R8oZIG4Ff4L0
+l40
+L38
+VTbL2=AK9W1z@0Y6AMlnPC1
+R11
+31
+R241
+R242
+R243
+R12
+R13
+R14
+!s100 5UkaD^?[o80m:SaT9dDek1
+!i10b 1
+Eoutpad_dsv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R239
+R240
+l0
+L78
+V024lI@eCEF`VCP87[@6MA2
+R11
+31
+R241
+R242
+R243
+R12
+R13
+R14
+!s100 `lf:jlX<`6^YVo3YGBGRm1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 outpad_dsv 0 22 024lI@eCEF`VCP87[@6MA2
+l88
+L87
+Vohmi5Vc77dA54o?kA3<Q21
+R11
+31
+R241
+R242
+R243
+R12
+R13
+R14
+!s100 JaoP6Ljl9fYT8NQB1heG01
+!i10b 1
+Eoutpadv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R229
+R230
+l0
+L115
+V<`5PLommBPm7m5Io1Fbl32
+R11
+31
+R231
+R232
+R233
+R12
+R13
+R14
+!s100 9U438f=AKAkHZcORPhX4S1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 outpadv 0 22 <`5PLommBPm7m5Io1Fbl32
+l123
+L122
+VB[[U?fN@@;beTeWnJUL@Q1
+R11
+31
+R231
+R232
+R233
+R12
+R13
+R14
+!s100 KgaH5HX9D]?4[l?bPFfd@0
+!i10b 1
+Eregfile_3p
+R9
+Z244 DPx7 techmap 6 allmem 0 22 ;V_Z@8eCU4^Tm2XnPLJZ^1
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z245 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/regfile_3p.vhd
+Z246 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/regfile_3p.vhd
+l0
+L32
+VTF8Oo:o2@BP_Nf<=G]<k]2
+R11
+31
+Z247 !s108 1667075327.762000
+Z248 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/regfile_3p.vhd|
+Z249 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/regfile_3p.vhd|
+R12
+R13
+R14
+!s100 XZ[PRJ6>ij7^hkKz40Z0>2
+!i10b 1
+Artl
+R244
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 regfile_3p 0 22 TF8Oo:o2@BP_Nf<=G]<k]2
+l53
+L50
+V`al4DOFlfYlZB_8D]I>>j0
+R11
+31
+R247
+R248
+R249
+R12
+R13
+R14
+!s100 0C:=Cde`dlbzldSi<Q_Bc3
+!i10b 1
+Eringosc
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z250 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ringosc.vhd
+Z251 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ringosc.vhd
+l0
+L30
+VVGcIifWo??LlAb=VcXE_a0
+R11
+31
+Z252 !s108 1667075338.497000
+Z253 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ringosc.vhd|
+Z254 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ringosc.vhd|
+R12
+R13
+R14
+!s100 IF<8FWYVQ<h46BjzQa0GY1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 ringosc 0 22 VGcIifWo??LlAb=VcXE_a0
+l44
+L37
+Vh[4Jcka1?<_S6[A2@=eUG1
+R11
+31
+R252
+R253
+R254
+R12
+R13
+R14
+!s100 6=gLGzNM=^faU^EoQPHG;0
+!i10b 1
+Escanregi
+R9
+Z255 DPx7 techmap 6 alltap 0 22 <A1CDhZI`3>P9]XQJ_5101
+R7
+R8
+R10
+Z256 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/scanreg.vhd
+Z257 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/scanreg.vhd
+l0
+L31
+Vd4g2?;N;fj3fiWT=``AK;0
+!s100 UUQO:TPIP4<MMR;Of_=X?2
+R11
+31
+!i10b 1
+Z258 !s108 1667075342.513000
+Z259 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/scanreg.vhd|
+Z260 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/scanreg.vhd|
+R12
+R13
+R14
+Atmap
+R255
+R7
+R8
+Z261 DEx4 work 8 scanregi 0 22 d4g2?;N;fj3fiWT=``AK;0
+l50
+L49
+Z262 VT2hjB>dC[m=UZCU`X_h[o2
+Z263 !s100 lVAFj9kT6WY]AQYR2BD6H0
+R11
+31
+!i10b 1
+R258
+R259
+R260
+R12
+R13
+R14
+Escanregio
+R9
+R255
+R7
+R8
+R10
+R256
+R257
+l0
+L99
+VT]lDNc9TkhcCo[7TU4?i03
+!s100 34kFZ6aV?ea6Oo@4Q^fe02
+R11
+31
+!i10b 1
+R258
+R259
+R260
+R12
+R13
+R14
+Atmap
+R255
+R7
+R8
+Z264 DEx4 work 9 scanregio 0 22 T]lDNc9TkhcCo[7TU4?i03
+l124
+L123
+Z265 Vb4Y7zn<@8SnO6iHD>7QNN3
+Z266 !s100 o03gBlMl:5J]K00h=E]__0
+R11
+31
+!i10b 1
+R258
+R259
+R260
+R12
+R13
+R14
+Escanrego
+R9
+R255
+R7
+R8
+R10
+R256
+R257
+l0
+L65
+VBBiSVkeQm[LmXPV_aa4Zm2
+!s100 XHgJN5EaYS:OLPRE];JfL2
+R11
+31
+!i10b 1
+R258
+R259
+R260
+R12
+R13
+R14
+Atmap
+R255
+R7
+R8
+Z267 DEx4 work 8 scanrego 0 22 BBiSVkeQm[LmXPV_aa4Zm2
+l84
+L83
+Z268 V2A9`H1ZDb=gX?<bk9Nm=13
+Z269 !s100 Q7a;l3`BklWzzPFNzElPS3
+R11
+31
+!i10b 1
+R258
+R259
+R260
+R12
+R13
+R14
+Eskew_outpad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z270 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/skew_outpad.vhd
+Z271 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/skew_outpad.vhd
+l0
+L32
+VCY_UI23L1k<91R84Um?J21
+R11
+31
+Z272 !s108 1667075334.950000
+Z273 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/skew_outpad.vhd|
+Z274 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/skew_outpad.vhd|
+R12
+R13
+R14
+!s100 AiFi<fL`_7>]l53O5<n9m3
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 skew_outpad 0 22 CY_UI23L1k<91R84Um?J21
+l41
+L39
+VEbSJ3HO8cH0ESXLO92D][3
+R11
+31
+R272
+R273
+R274
+R12
+R13
+R14
+!s100 iI@abDA>02T`CCcQofO=B2
+!i10b 1
+Espartan3_tap
+R9
+DEx6 unisim 14 bscan_spartan3 0 22 =c:_ZCI;Dd5Qn6[ZWd;J00
+R7
+R8
+R10
+Z275 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/tap_unisim.vhd
+Z276 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/tap_unisim.vhd
+l0
+L151
+Vi1:d=hhH91nNh?lojR44>3
+R11
+31
+Z277 !s108 1667075314.403000
+Z278 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/tap_unisim.vhd|
+Z279 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/tap_unisim.vhd|
+R12
+R13
+R14
+!s100 AmM]Y>>P;oiz>a_kjCPeZ0
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 12 spartan3_tap 0 22 i1:d=hhH91nNh?lojR44>3
+l185
+L166
+VkM[3[eZFEXGXol2D=3JfQ1
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 jRY6fUPn6lIaMjCo9f5QZ2
+!i10b 1
+Espartan3a_ddr2_phy
+R9
+R3
+R5
+R6
+Z280 DEx6 unisim 5 bufio 0 22 7J1MB;6FIP=21hALP1ffM1
+R217
+R216
+R42
+Z281 DEx6 unisim 5 iddr2 0 22 A_Qk=ONzhaDoIX9i[8?PD3
+R41
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+Z282 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_phy_unisim.vhd
+Z283 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_phy_unisim.vhd
+l0
+L2041
+V?ddOScHAXNU8MQPVKDW5j2
+R11
+31
+Z284 !s108 1667075315.845000
+Z285 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_phy_unisim.vhd|
+Z286 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ddr_phy_unisim.vhd|
+R12
+R13
+R14
+!s100 I2_M`dF>=hoNW`:lX8M8A0
+!i10b 1
+Artl
+R3
+R5
+R6
+R42
+R1
+R4
+R2
+R7
+R8
+DEx4 work 18 spartan3a_ddr2_phy 0 22 ?ddOScHAXNU8MQPVKDW5j2
+l2217
+L2085
+VgB66HUF:KoiTjeW_aW4W32
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 h2A;MgAN8`i<5VFYlEg]i1
+!i10b 1
+Espartan3e_ddr_phy
+R9
+DEx7 techmap 7 oddrc3e 0 22 i7kmG:UVGU8eQJ42i6WRA2
+R3
+R5
+R6
+R1
+R4
+R2
+R217
+R281
+R42
+R216
+R41
+R29
+R7
+R8
+R10
+R282
+R283
+l0
+L876
+VZ;R81;N`J^al_iD9ff8m:0
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 1g2RKXQU:KeYBikL=n[g21
+!i10b 1
+Artl
+R3
+R5
+R6
+R1
+R4
+R2
+R42
+R7
+R8
+DEx4 work 17 spartan3e_ddr_phy 0 22 Z;R81;N`J^al_iD9ff8m:0
+l1059
+L920
+VAKVhT<XAm0<3gC0Jb[cTc2
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 74?=0?:F9O[IVI^^^^?SS3
+!i10b 1
+Espartan6_ddr2_phy
+R9
+R3
+R5
+R6
+R280
+R217
+R216
+R42
+R281
+R41
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R282
+R283
+l0
+L2491
+VaAUkOzmSj0^IOR<]2c^Kf2
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 9KB;S5>4bjdoLZbCAS^o92
+!i10b 1
+Artl
+R3
+R5
+R6
+R42
+R1
+R4
+R2
+R7
+R8
+DEx4 work 17 spartan6_ddr2_phy 0 22 aAUkOzmSj0^IOR<]2c^Kf2
+l2667
+L2535
+VnQJG?Kj>j:CFTg=le3P121
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 JzHbz4SO9MgF<A__K=Z4G0
+!i10b 1
+Espartan6_tap
+R9
+R7
+R8
+R10
+R275
+R276
+l0
+L469
+V[nUG`bZCl<l`D^2bPZ[:83
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 fig[Ze9=L:bVAl_NoNWQ30
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 12 spartan6_tap 0 22 [nUG`bZCl<l`D^2bPZ[:83
+l513
+L484
+V1:B4fz;o`lRWQ9PN1UaE92
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 ?Pmz:FdEbKIS<C@j02@zZ0
+!i10b 1
+Espictrl_net
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z287 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/spictrl_net.vhd
+Z288 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/spictrl_net.vhd
+l0
+L32
+V]S`09iQ_h>HnRm5`mdeXb2
+R11
+31
+Z289 !s108 1667075342.075000
+Z290 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/spictrl_net.vhd|
+Z291 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/spictrl_net.vhd|
+R12
+R13
+R14
+!s100 9edYYP0APfJ=]b420OiX10
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 spictrl_net 0 22 ]S`09iQ_h>HnRm5`mdeXb2
+l117
+L79
+Vm<SP1>bEW^6Q=nX2ngV?[1
+!s100 QhZJU`nP=GCR1P:P`af0M2
+R11
+31
+R289
+R290
+R291
+R12
+R13
+R14
+!i10b 1
+Espictrl_unisim
+R9
+R4
+R7
+R8
+R10
+Z292 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim.vhd
+Z293 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim.vhd
+l0
+L17
+VDT1DSIN17Jk;SIMiWFlLf2
+R11
+31
+Z294 !s108 1667075320.109000
+Z295 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim.vhd|
+Z296 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim.vhd|
+R12
+R13
+R14
+!s100 0VU`h<Kz]oh4=9O=XomRJ0
+!i10b 1
+Artl
+R4
+R7
+R8
+DEx4 work 14 spictrl_unisim 0 22 DT1DSIN17Jk;SIMiWFlLf2
+l123
+L53
+Vfmkh8TFh3b9KLH>GVe`<Y0
+R11
+31
+R294
+R295
+R296
+R12
+R13
+R14
+!s100 h6lS6>1MW0ciS1VYbiTRG2
+!i10b 1
+Espictrl_unisim_comb0
+R9
+Z297 DPx6 unisim 11 vcomponents 0 22 hMjo2zK]ScI_H][A^HPNj0
+R4
+R7
+R8
+R10
+Z298 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb0.vhd
+Z299 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb0.vhd
+l0
+L77
+VJ_<eo=KCJn[Qin5VB3mOL2
+R11
+31
+Z300 !s108 1667075320.465000
+Z301 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb0.vhd|
+Z302 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb0.vhd|
+R12
+R13
+R14
+!s100 z<:3eSU`OcAQi]f4_^GC62
+!i10b 1
+Abeh
+R297
+R4
+R7
+R8
+DEx4 work 20 spictrl_unisim_comb0 0 22 J_<eo=KCJn[Qin5VB3mOL2
+l761
+L108
+VW_4`8Sb[=b]cAXUiKD=JI2
+R11
+31
+R300
+R301
+R302
+R12
+R13
+R14
+!s100 Nk^E?D>DPNhXYFmA0bXYH1
+!i10b 1
+Espictrl_unisim_comb1
+R9
+R297
+R4
+R7
+R8
+R10
+Z303 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb1.vhd
+Z304 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb1.vhd
+l0
+L76
+VhYD`i3cSo;<g4_];7B::P2
+R11
+31
+Z305 !s108 1667075321.123000
+Z306 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb1.vhd|
+Z307 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/spictrl_unisim_comb1.vhd|
+R12
+R13
+R14
+!s100 ObnRFBhoFdM@@NL8jV7;<1
+!i10b 1
+Abeh
+R297
+R4
+R7
+R8
+DEx4 work 20 spictrl_unisim_comb1 0 22 hYD`i3cSo;<g4_];7B::P2
+l741
+L107
+VUkbXM2bK[UPkV[AKbH6a?2
+R11
+31
+R305
+R306
+R307
+R12
+R13
+R14
+!s100 feBgjdnc0HFz0H>RAcJI>2
+!i10b 1
+Essrctrl_net
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z308 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ssrctrl_net.vhd
+Z309 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ssrctrl_net.vhd
+l0
+L30
+Vo_Ek5HKaO:R3BoW:1NGHY1
+R11
+31
+Z310 !s108 1667075338.747000
+Z311 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ssrctrl_net.vhd|
+Z312 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/ssrctrl_net.vhd|
+R12
+R13
+R14
+!s100 @OJUil9<CmE@aPldG9gBH2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 11 ssrctrl_net 0 22 o_Ek5HKaO:R3BoW:1NGHY1
+l180
+L106
+VU9@YJ4k<KAI81:<[82SLg1
+R11
+31
+R310
+R311
+R312
+R12
+R13
+R14
+!s100 ?3L>a]OOWk0UdP0>8kS0i3
+!i10b 1
+Essrctrl_unisim
+R9
+R297
+R7
+R8
+R10
+Z313 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ssrctrl_unisim.vhd
+Z314 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ssrctrl_unisim.vhd
+l0
+L31
+VdTi=8lZDD9ES4Z>3g06zZ1
+R11
+31
+Z315 !s108 1667075317.998000
+Z316 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ssrctrl_unisim.vhd|
+Z317 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/ssrctrl_unisim.vhd|
+R12
+R13
+R14
+!s100 0gPZ@a@8FNI3P0]LNbG4L1
+!i10b 1
+Abeh
+DEx4 work 14 ssrctrl_unisim 0 22 dTi=8lZDD9ES4Z>3g06zZ1
+R297
+R7
+R8
+l4981
+L4656
+VTC]62_FFAA;<JTBAiWS5R0
+R11
+31
+R315
+R316
+R317
+R12
+R13
+R14
+!s100 U8d=eiW7_N]_31UkSCaIA0
+!i10b 1
+Essrctrl_unisim_netlist
+R9
+R297
+R7
+R8
+R10
+R313
+R314
+l0
+L104
+V6OJKR[di?4`<lF=JgWzcB0
+R11
+31
+R315
+R316
+R317
+R12
+R13
+R14
+!s100 =]dg1zcU<c<4M^V?V_YUl1
+!i10b 1
+Abeh
+R297
+R7
+R8
+DEx4 work 22 ssrctrl_unisim_netlist 0 22 6OJKR[di?4`<lF=JgWzcB0
+l518
+L260
+V]ii7<CnfWaBcSAHRENiO=0
+R11
+31
+R315
+R316
+R317
+R12
+R13
+R14
+!s100 :IzKNKC7hooRV[60lK9Qm2
+!i10b 1
+Esyncfifo
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z318 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncfifo.vhd
+Z319 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncfifo.vhd
+l0
+L33
+VnJc1ca?:KHm[maCQg2Jz[1
+R11
+31
+Z320 !s108 1667075327.387000
+Z321 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncfifo.vhd|
+Z322 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncfifo.vhd|
+R12
+R13
+R14
+!s100 3I^N_SV;IJje33^KZT<Bc3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 syncfifo 0 22 nJc1ca?:KHm[maCQg2Jz[1
+l57
+L49
+VZU;YjNlI?Va50Ig9OO=P:1
+R11
+31
+R320
+R321
+R322
+R12
+R13
+R14
+!s100 0o>i3n5@05QXnP;eD^_121
+!i10b 1
+Esyncram
+R9
+Z323 DPx4 work 6 allmem 0 22 ;V_Z@8eCU4^Tm2XnPLJZ^1
+R5
+R16
+R1
+R4
+R2
+R3
+R7
+R8
+R10
+Z324 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram.vhd
+Z325 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram.vhd
+l0
+L34
+V_6nc<^<TY[W2IU6F51W[63
+R11
+31
+Z326 !s108 1667075325.858000
+Z327 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram.vhd|
+Z328 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram.vhd|
+R12
+R13
+R14
+!s100 dBiC0V>bVEKV;`;<7JJ800
+!i10b 1
+Artl
+R323
+R5
+R16
+R1
+R4
+R2
+R3
+R7
+R8
+DEx4 work 7 syncram 0 22 _6nc<^<TY[W2IU6F51W[63
+l52
+L47
+VdH4SR][ff^fW7L8kMjYfA3
+R11
+31
+R326
+R327
+R328
+R12
+R13
+R14
+!s100 GkW87Ie=0`VY5H]h1oO<<0
+!i10b 1
+Esyncram128
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z329 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128.vhd
+Z330 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128.vhd
+l0
+L35
+VJ0:3?Um;m>FmgL]25Sn^G1
+R11
+31
+Z331 !s108 1667075340.997000
+Z332 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128.vhd|
+Z333 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128.vhd|
+R12
+R13
+R14
+!s100 6^0D>TE5V5bFmeKnzPfR73
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 syncram128 0 22 J0:3?Um;m>FmgL]25Sn^G1
+l64
+L47
+VOcFZj@k93AMz:M>:3OG8L0
+R11
+31
+R331
+R332
+R333
+R12
+R13
+R14
+!s100 oHV5Koh:9d12e8YJ265Rl1
+!i10b 1
+Esyncram128bw
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z334 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128bw.vhd
+Z335 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128bw.vhd
+l0
+L35
+VPiCNePZEXY0>15DKjKU@g2
+R11
+31
+Z336 !s108 1667075340.590000
+Z337 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128bw.vhd|
+Z338 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram128bw.vhd|
+R12
+R13
+R14
+!s100 @;8>zk`?5[HP3<BJEW=AN0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 12 syncram128bw 0 22 PiCNePZEXY0>15DKjKU@g2
+l105
+L47
+VK0<k=J4HzXSMPJ3le<b]A2
+R11
+31
+R336
+R337
+R338
+R12
+R13
+R14
+!s100 R8dKDBaml3A>bCzf>CL2F2
+!i10b 1
+Esyncram156bw
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z339 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram156bw.vhd
+Z340 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram156bw.vhd
+l0
+L33
+V5EkmPU_dVz]UJ[e=D@2Ce0
+R11
+31
+Z341 !s108 1667075341.360000
+Z342 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram156bw.vhd|
+Z343 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram156bw.vhd|
+R12
+R13
+R14
+!s100 dBIYY4Y97c6nP?el7GW`@3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 12 syncram156bw 0 22 5EkmPU_dVz]UJ[e=D@2Ce0
+l102
+L45
+VOK_20ghXL7:WB76J>;^AW1
+R11
+31
+R341
+R342
+R343
+R12
+R13
+R14
+!s100 ZhQS9K_Bh:ino@7eJf5l`2
+!i10b 1
+Esyncram64
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z344 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram64.vhd
+Z345 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram64.vhd
+l0
+L35
+Vd`XWhn^2_nE=1;kT@9_cP0
+R11
+31
+Z346 !s108 1667075326.184000
+Z347 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram64.vhd|
+Z348 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram64.vhd|
+R12
+R13
+R14
+!s100 <A`FMOZiUj1@iIbidlE[e2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 syncram64 0 22 d`XWhn^2_nE=1;kT@9_cP0
+l96
+L47
+V0jgfeB[95L54bDO>oI[3m0
+R11
+31
+R346
+R347
+R348
+R12
+R13
+R14
+!s100 IFDiSLOXP`8d[DV;dnM@I3
+!i10b 1
+Esyncram_2p
+R9
+R323
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z349 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_2p.vhd
+Z350 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_2p.vhd
+l0
+L35
+VU58jK7IeBLlIYD_o4IdKB2
+R11
+31
+Z351 !s108 1667075326.542000
+Z352 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_2p.vhd|
+Z353 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_2p.vhd|
+R12
+R13
+R14
+!s100 E>;o;0AldR62]Z^30__O43
+!i10b 1
+Artl
+R323
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 syncram_2p 0 22 U58jK7IeBLlIYD_o4IdKB2
+l63
+L51
+VQ4PmO4?cn=6<YXf>^mWc90
+R11
+31
+R351
+R352
+R353
+R12
+R13
+R14
+!s100 ;ocBBh6:J==j2:EnF2XJd0
+!i10b 1
+Esyncram_dp
+R9
+R323
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z354 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_dp.vhd
+Z355 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_dp.vhd
+l0
+L35
+VL<B@FTkOY97m0V0FCBWWG3
+R11
+31
+Z356 !s108 1667075327.044000
+Z357 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_dp.vhd|
+Z358 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/syncram_dp.vhd|
+R12
+R13
+R14
+!s100 ZYk^;^^0G`:KUR;=CEezH0
+!i10b 1
+Artl
+R323
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 10 syncram_dp 0 22 L<B@FTkOY97m0V0FCBWWG3
+l55
+L54
+VdTE<]P]=0kXi7iVSh`KNZ0
+R11
+31
+R356
+R357
+R358
+R12
+R13
+R14
+!s100 D>gdOD<a2BI;29NhW9GbX1
+!i10b 1
+Esysmon_virtex5
+R9
+R42
+R4
+DEx6 unisim 6 sysmon 0 22 i2S6minI5kX5`klIdk2TR3
+R7
+R8
+R10
+Z359 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/sysmon_unisim.vhd
+Z360 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/sysmon_unisim.vhd
+l0
+L38
+VKRRC01_39GG6HUbVka>L40
+R11
+31
+Z361 !s108 1667075318.575000
+Z362 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/sysmon_unisim.vhd|
+Z363 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/sysmon_unisim.vhd|
+R12
+R13
+R14
+!s100 1hg9_YB5k47c_lndI5=_W2
+!i10b 1
+Astruct
+R42
+R4
+R7
+R8
+DEx4 work 14 sysmon_virtex5 0 22 KRRC01_39GG6HUbVka>L40
+l149
+L92
+Va]lUSKYa40YTTM0Hibn>i1
+R11
+31
+R361
+R362
+R363
+R12
+R13
+R14
+!s100 J^kl1>lJjZUT4N=^ONK^H1
+!i10b 1
+Esystem_monitor
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z364 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/system_monitor.vhd
+Z365 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/system_monitor.vhd
+l0
+L31
+VVdd4Vk;?:P1jhbTUXk2bS1
+R11
+31
+Z366 !s108 1667075338.965000
+Z367 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/system_monitor.vhd|
+Z368 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/system_monitor.vhd|
+R12
+R13
+R14
+!s100 @>C67:0>o:;S=FY@@g5NK3
+!i10b 1
+Astruct
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 14 system_monitor 0 22 Vdd4Vk;?:P1jhbTUXk2bS1
+l200
+L89
+VJ:b][8KY<df>3za4z>oUT3
+R11
+31
+R366
+R367
+R368
+R12
+R13
+R14
+!s100 IN7`NPV8]zLHg`7hlEOg03
+!i10b 1
+Etap
+R9
+R255
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z369 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/tap.vhd
+Z370 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/tap.vhd
+l0
+L35
+V]hY<nY1OI>PVIeaJOTF][0
+R11
+31
+Z371 !s108 1667075328.122000
+Z372 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/tap.vhd|
+Z373 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/tap.vhd|
+R12
+R13
+R14
+!s100 kW[=JNHc;[:@4fCehe`LI1
+!i10b 1
+Artl
+R255
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 3 tap 0 22 ]hY<nY1OI>PVIeaJOTF][0
+l72
+L70
+VA`k[]ln@Wn<z^YOz>gi7R3
+R11
+31
+R371
+R372
+R373
+R12
+R13
+R14
+!s100 QcVBJSG3l5B@iIZj9>DD02
+!i10b 1
+Etechbuf
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z374 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techbuf.vhd
+Z375 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techbuf.vhd
+l0
+L30
+V^3W=9F8k1bjF^iSib1c5E2
+R11
+31
+Z376 !s108 1667075328.499000
+Z377 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techbuf.vhd|
+Z378 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techbuf.vhd|
+R12
+R13
+R14
+!s100 kNkO>Z75nQdhK^T=mRTeo2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 techbuf 0 22 ^3W=9F8k1bjF^iSib1c5E2
+l69
+L37
+VFc[``Ya;A6:@XF2?l3AIn1
+R11
+31
+R376
+R377
+R378
+R12
+R13
+R14
+!s100 m=FPV0lzBPd[bKK<Q^NkQ3
+!i10b 1
+Etechmult
+R9
+R3
+R5
+R6
+Z379 DPx7 techmap 6 allmul 0 22 mbbR@APd`XJfe6l?hNeYQ3
+Z380 DPx5 grlib 7 multlib 0 22 TSl4zNHn?9GB:GbEU8HaL1
+R1
+R4
+R2
+R7
+R8
+R10
+Z381 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techmult.vhd
+Z382 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techmult.vhd
+l0
+L35
+VA]BZOP07C`H0jPLZ@P<m=1
+R11
+31
+Z383 !s108 1667075341.700000
+Z384 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techmult.vhd|
+Z385 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/techmult.vhd|
+R12
+R13
+R14
+!s100 Po2IgYznVDCBhNEg3;HRb3
+!i10b 1
+Artl
+R3
+R5
+R6
+R379
+R380
+R1
+R4
+R2
+R7
+R8
+DEx4 work 8 techmult 0 22 A]BZOP07C`H0jPLZ@P<m=1
+l58
+L52
+V:gzn9iWzYCZ4bCiKYPY5S2
+R11
+31
+R383
+R384
+R385
+R12
+R13
+R14
+!s100 QYFIXYYmICDVOej;mlgXc3
+!i10b 1
+Etoutpad
+R9
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z386 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/toutpad.vhd
+Z387 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/toutpad.vhd
+l0
+L32
+Vb3i>`3CnFGMA2MZ^JUn6m0
+R11
+31
+Z388 !s108 1667075334.356000
+Z389 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/toutpad.vhd|
+Z390 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/maps/toutpad.vhd|
+R12
+R13
+R14
+!s100 VQWeX8eW=C3WB^@TPB7hd3
+!i10b 1
+Artl
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 toutpad 0 22 b3i>`3CnFGMA2MZ^JUn6m0
+l42
+L39
+V_8HNjMUAANgf@29LK4dgJ1
+R11
+31
+R388
+R389
+R390
+R12
+R13
+R14
+!s100 YOL>_7]SKV5LGXH^][:W^0
+!i10b 1
+Etoutpadv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R386
+R387
+l0
+L135
+VUF5j^=0jFGfVzPPEGLVLM3
+R11
+31
+R388
+R389
+R390
+R12
+R13
+R14
+!s100 RmN`@7T1^jCdd1FEIWa0n2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 8 toutpadv 0 22 UF5j^=0jFGfVzPPEGLVLM3
+l145
+L144
+VMBdFjoG7MYk;gKVFN55f42
+R11
+31
+R388
+R389
+R390
+R12
+R13
+R14
+!s100 EB>P5RG77QOY4Qm`KYM8i1
+!i10b 1
+Etoutpadvv
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R386
+R387
+l0
+L157
+VkH5_TJS[2[SHAn0=jZ6Nj2
+R11
+31
+R388
+R389
+R390
+R12
+R13
+R14
+!s100 CDVaMZCGcoeiS[HK<WJYj2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 9 toutpadvv 0 22 kH5_TJS[2[SHAn0=jZ6Nj2
+l167
+L166
+VI6dz16X;Z9LRzbCdoULJ_3
+R11
+31
+R388
+R389
+R390
+R12
+R13
+R14
+!s100 df@Ji7diEPgEg@AWOoo2e2
+!i10b 1
+Eunisim_clkpad
+R9
+R29
+R22
+Z391 DEx6 unisim 4 ibuf 0 22 R14USl4d_@e>HmcKnO8FB3
+R45
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+Z392 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/pads_unisim.vhd
+Z393 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/pads_unisim.vhd
+l0
+L479
+VgT[RA3zMZjPoAhz6lbR7D1
+R11
+31
+Z394 !s108 1667075312.028000
+Z395 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/pads_unisim.vhd|
+Z396 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/pads_unisim.vhd|
+R12
+R13
+R14
+!s100 aD98BV7WT?=d:2E0G[DB;1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 13 unisim_clkpad 0 22 gT[RA3zMZjPoAhz6lbR7D1
+l507
+L483
+VaAmNed>iREgd6T3l^]c^A3
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 gQgAz=VV`m;S]Z_i_eAbK2
+!i10b 1
+Eunisim_clkpad_ds
+R9
+DEx6 unisim 15 ibufgds_lvds_33 0 22 f8fGKS?0n4K`JiG]dhjWV3
+DEx6 unisim 15 ibufgds_lvds_25 0 22 5?1z[X4BZ9B[Vi7KCY41O0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L670
+VgK^dDM?XekdZcQ6J_Q[z=0
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 afjI72ZI;g`E[j>c>i@Ja2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 16 unisim_clkpad_ds 0 22 gK^dDM?XekdZcQ6J_Q[z=0
+l687
+L675
+VYMInH1LJ3Q[;RYjU@3fS@1
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 nBC>M26739eZ2_7GBmU7a1
+!i10b 1
+Eunisim_iddr_reg
+R9
+R42
+Z397 DEx6 unisim 4 iddr 0 22 B69j2PHjc2R6chkNLhJQe3
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R218
+R219
+l0
+L35
+V>_jJ6e_h]3]dS[0BYf>4E0
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 QHF=1B=G7_VK<R1=O3WZ52
+!i10b 1
+Artl
+R42
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 15 unisim_iddr_reg 0 22 >_jJ6e_h]3]dS[0BYf>4E0
+l90
+L49
+VcPgehJoGY>dYnGjMB`=Vz0
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 RFFB3fiNKPS3Kc?bezKXL1
+!i10b 1
+Eunisim_inpad
+R9
+R391
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L35
+VR;AeI82iKZl>i77=z=XAF1
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 _7nineCQeWF@g5hNMall<2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 12 unisim_inpad 0 22 R;AeI82iKZl>i77=z=XAF1
+l47
+L39
+V9_e2j`aRIaNnXo^nnVEXN2
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 j53lGgmb8G;7EF:ENn@VM0
+!i10b 1
+Eunisim_inpad_ds
+R9
+DEx6 unisim 14 ibufds_lvds_33 0 22 IF`LMP38^C[D?MK?Oh8iH3
+DEx6 unisim 14 ibufds_lvds_25 0 22 BoOcCjJDzTFPWQ^6QkT?m0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L634
+VOF4ARJaDdFQoGPAaVll>`2
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 ]h:MH^e63U3G^bD117=FL0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 15 unisim_inpad_ds 0 22 OF4ARJaDdFQoGPAaVll>`2
+l646
+L639
+V;kedE[RNdR5h;iSbczF]A2
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 6NAD^PZZeXL;[?9o;J8^50
+!i10b 1
+Eunisim_iopad
+R9
+DEx6 unisim 5 iobuf 0 22 3]<0<PUFhz0f]bRGYOWoR2
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L94
+VkF21@f9KIPf8L>c>QdcXW1
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 5`9;5IJI@IG3hR>YDd[j02
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 12 unisim_iopad 0 22 kF21@f9KIPf8L>c>QdcXW1
+l108
+L99
+VgW=El:S9X?5QZ=BBD3GCA3
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 R^3LDP]<LBzSQC?BoPod:3
+!i10b 1
+Eunisim_iopad_ds
+R9
+DEx6 unisim 7 iobufds 0 22 h4>K>H`m_;E<;9d`8`PNU2
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L792
+Vo8ZH_bGj5V97PSXM19INE0
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 H3kZQB2E=ddl92I50:Q[91
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 15 unisim_iopad_ds 0 22 o8ZH_bGj5V97PSXM19INE0
+l806
+L797
+Vk<Oi@z@DZNFK^PUMo^Pd30
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 KE<_FMJhdUh@YYfdMEhAo0
+!i10b 1
+Eunisim_oddr_reg
+R9
+R223
+R42
+Z398 DEx6 unisim 4 oddr 0 22 H@16I=QbT6c6W0Ml^1maL1
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R218
+R219
+l0
+L175
+Vez^;[BV2d@Rif]Bh7CG9=3
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 GffdP1AGbD;T8NL`TE?0h1
+!i10b 1
+Artl
+R42
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 15 unisim_oddr_reg 0 22 ez^;[BV2d@Rif]Bh7CG9=3
+l230
+L188
+V8D<lIf=<lmJCC^_G8UW[R0
+R11
+31
+R220
+R221
+R222
+R12
+R13
+R14
+!s100 _j^fk=LemWe_YDA<Vl;n>0
+!i10b 1
+Eunisim_outpad
+R9
+Z399 DEx6 unisim 4 obuf 0 22 =zJlfREW]B?4QXI3Q9WUS1
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L182
+Vg?N@SJzL]c2A0TH1FY[LM2
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 kb=ZA<X<Ph:XV7SS?N@z_3
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 13 unisim_outpad 0 22 g?N@SJzL]c2A0TH1FY[LM2
+l196
+L187
+Vn?<9@mjj?9b4m=QhjohN03
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 U4LcZ>;ND6]GVM7J]A0G?1
+!i10b 1
+Eunisim_outpad_ds
+R9
+DEx6 unisim 6 obufds 0 22 RPf=>fcUN>>bHTX^1@;@M1
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L840
+VT_2A0XG^?a]:^<C1eQWHP3
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 gKngcH57L]aaU6beWd]D03
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 16 unisim_outpad_ds 0 22 T_2A0XG^?a]:^<C1eQWHP3
+l852
+L844
+V2zMFDZl]Oj?hd5QXlzUJZ3
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 X8kh>;YWTi5TKV>N5EUWD3
+!i10b 1
+Eunisim_skew_outpad
+R9
+R41
+R29
+R399
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L344
+VlWbfeMaho3:FXIGdYXonK2
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 A6RBV2DKn7S>7R>OG1NE61
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 18 unisim_skew_outpad 0 22 lWbfeMaho3:FXIGdYXonK2
+l401
+L350
+Vn_^XbY6Obo]a5co]O`6i>3
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 7KzB>Wd=1LmZ?dOmb_OkB2
+!i10b 1
+Eunisim_syncram
+R9
+DEx6 unisim 9 ramb16_s1 0 22 1khgz:KSHES8cK7:Gm1]C2
+DEx6 unisim 9 ramb16_s2 0 22 [o^XVM5QUG8:43ZKD=0Aa1
+DEx6 unisim 9 ramb16_s4 0 22 @7:J76h0a3NQdnog4Ve8H3
+DEx6 unisim 9 ramb16_s9 0 22 JMn7ZI2L<K0eJaXS=Poec2
+DEx6 unisim 10 ramb16_s18 0 22 af]0<_kWb[24OTe8MeT^[3
+DEx6 unisim 10 ramb16_s36 0 22 ^i;Mb0TJnG;kfMo8bdWC;3
+Z400 DPx6 unisim 14 simple_simprim 0 22 8mS6D65ERe@TYAIgOmGQ`3
+Z401 DEx6 unisim 14 ramb16_s36_s36 0 22 aR7d_P6GHz?k`5gCRQ`UD2
+R7
+R8
+R10
+Z402 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/memory_unisim.vhd
+Z403 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/memory_unisim.vhd
+l0
+L394
+VoE4H6Q;eC^m68`=g4kTjU3
+R11
+31
+Z404 !s108 1667075310.500000
+Z405 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/memory_unisim.vhd|
+Z406 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/memory_unisim.vhd|
+R12
+R13
+R14
+!s100 DdaS31dPfCLFlLUKWVb:^1
+!i10b 1
+Abehav
+R400
+R7
+R8
+DEx4 work 14 unisim_syncram 0 22 oE4H6Q;eC^m68`=g4kTjU3
+l520
+L406
+VN2=<`1iB=[J0=cA=i=m@h2
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 Ozl7U]TKnJg:XN;zZRJ?J0
+!i10b 1
+Eunisim_syncram128
+R9
+R7
+R8
+R10
+R402
+R403
+l0
+L1037
+VQeEYe8Ln9J00F>:0i<2zP1
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 8DN];Rj;7P=;]jY4HEzAL1
+!i10b 1
+Abehav
+R7
+R8
+DEx4 work 17 unisim_syncram128 0 22 QeEYe8Ln9J00F>:0i<2zP1
+l1060
+L1048
+V>NjWYXTSfTaN038]MBDgV2
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 hLTPCeNVNF5SGDVH=HM=T1
+!i10b 1
+Eunisim_syncram128bw
+R9
+R400
+R401
+R7
+R8
+R10
+R402
+R403
+l0
+L1076
+V1ORjMClCMn0_nKmBXLXTX2
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 `L8dKjGefF>moOhY?eJo`3
+!i10b 1
+Abehav
+R400
+R7
+R8
+DEx4 work 19 unisim_syncram128bw 0 22 1ORjMClCMn0_nKmBXLXTX2
+l1125
+L1088
+V493ILzMXAaW^1=^5S4]FW3
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 <V9]QS5UiB^3<kZCB59FN3
+!i10b 1
+Eunisim_syncram64
+R9
+R400
+R401
+R7
+R8
+R10
+R402
+R403
+l0
+L963
+V:ZfAkR7mzFMaYE6SI?@M;1
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 @XZD@MTli8OG@_>8_>92]3
+!i10b 1
+Abehav
+R400
+R7
+R8
+DEx4 work 16 unisim_syncram64 0 22 :ZfAkR7mzFMaYE6SI?@M;1
+l1011
+L975
+VRWeb;P@SWWkjRNEgTnVEF3
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 bBZU3J^TH9=1FE`JSk:n`3
+!i10b 1
+Eunisim_syncram_2p
+R9
+R7
+R8
+R10
+R402
+R403
+l0
+L882
+VGK]0c27BS;R8^Gh?3UPVR1
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 TcYn^:0lFQEGjcOg:K^JW1
+!i10b 1
+Abehav
+R7
+R8
+DEx4 work 17 unisim_syncram_2p 0 22 GK]0c27BS;R8^Gh?3UPVR1
+l931
+L896
+VL?iY5EgR6aVIJ04<Bd;`U3
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 hJTz_XAUz90W[33Jhde1@2
+!i10b 1
+Eunisim_syncram_dp
+R9
+DEx6 unisim 12 ramb16_s1_s1 0 22 lkPgz=oDjdz``cEZ3XdO82
+DEx6 unisim 12 ramb16_s2_s2 0 22 ]5]CiGHJKPK3DbHf;jG>i0
+DEx6 unisim 12 ramb16_s4_s4 0 22 Uf4FdWCAE6n?HVH8<V7E50
+DEx6 unisim 12 ramb16_s9_s9 0 22 SVYaQcS_zc8Jmil3ZUzR_0
+DEx6 unisim 14 ramb16_s18_s18 0 22 <LcXR7a]HK[1TCALc0@I50
+R400
+R401
+R7
+R8
+R10
+R402
+R403
+l0
+L625
+VCQ3nkdoQ1Rn[c@BZh8;F?0
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 lmOK3fAb4YnYH9;@;oLGV1
+!i10b 1
+Abehav
+R400
+R7
+R8
+DEx4 work 17 unisim_syncram_dp 0 22 CQ3nkdoQ1Rn[c@BZh8;F?0
+l773
+L644
+V:XD8El45n7n<CHXP=ad1j3
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 z9iW:z23_4g2lTDGhZ9bo2
+!i10b 1
+Eunisim_toutpad
+R9
+DEx6 unisim 5 obuft 0 22 n?2PUYh<?LYzWEaieS]=Z3
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L271
+V;eb=IaZ;kK;n0:WFWN8iS0
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 oHg^[@^5M2L:]Ng0IGm690
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 14 unisim_toutpad 0 22 ;eb=IaZ;kK;n0:WFWN8iS0
+l285
+L276
+Vi^;OACIW2LlUB49=VmcG^1
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 U0hC=1=FE4Fb19h7;XSeb3
+!i10b 1
+Evirtex2_ddr_phy
+R9
+DEx7 techmap 6 oddrv2 0 22 1lN@3FKeNbG5i<VP0j6K<0
+R3
+R5
+R6
+R1
+R4
+R2
+R217
+R297
+DEx6 unisim 8 ifddrrse 0 22 8@DSDQ7`HN<o=ZX5lNbkL1
+R223
+R41
+R29
+R7
+R8
+R10
+R282
+R283
+l0
+L466
+VU?eWXB8YkSfAk9ZjkXZGE3
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 W8[z^A5UeX=lZB78C10j91
+!i10b 1
+Artl
+R3
+R5
+R6
+R1
+R4
+R2
+R297
+R7
+R8
+DEx4 work 15 virtex2_ddr_phy 0 22 U?eWXB8YkSfAk9ZjkXZGE3
+l634
+L509
+VPffYUFb_F`jT]JG3@2X3g2
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 U7ZDe4o_JOVBLBIST3Y<00
+!i10b 1
+Evirtex2_tap
+R9
+R7
+R8
+R10
+R275
+R276
+l0
+L91
+VlG6BR[E`MS<<zWQDKfNaR1
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 63o^`b=ggBFbRTHTeNlRC3
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 11 virtex2_tap 0 22 lG6BR[E`MS<<zWQDKfNaR1
+l126
+L106
+V8_3e9l`;e;Z;iJO9h54oI3
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 O>eUE6bk3zj1ZELbO:3cR2
+!i10b 1
+Evirtex4_clkpad_ds
+R9
+DEx6 unisim 7 ibufgds 0 22 62kMCm3ojF;;EYC6`VU?f0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L751
+V54<<?za^]_Y2SN0[I`3YI0
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 R`0]PU:C6H5_UTch@VYzo0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 17 virtex4_clkpad_ds 0 22 54<<?za^]_Y2SN0[I`3YI0
+l767
+L756
+V9>8bJ8TULFZEo=]]M9:Nc1
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 =AGUEL?@TKbgK4^G6khIe1
+!i10b 1
+Evirtex4_ddr_phy
+R9
+R3
+R5
+R6
+R397
+R217
+R42
+R398
+R41
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R282
+R283
+l0
+L46
+V=GA[P@hd74hR1^AG<4aY`0
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 kH5MA>QM^haZ_7TH^<KTf2
+!i10b 1
+Artl
+R3
+R5
+R6
+R42
+R1
+R4
+R2
+R7
+R8
+DEx4 work 15 virtex4_ddr_phy 0 22 =GA[P@hd74hR1^AG<4aY`0
+l213
+L90
+VfL4c@VAdjb^9?VA7l@dWe2
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 7^z:gVgMX57FNC28h37DC0
+!i10b 1
+Evirtex4_inpad_ds
+R9
+DEx6 unisim 6 ibufds 0 22 LzC5fPFUfi^Hk5;CKS9@g2
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R10
+R392
+R393
+l0
+L710
+V0>DF0HNce:^VBeoK54AIn1
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 1_WQL7J40gdCTMnA1@LT>1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 16 virtex4_inpad_ds 0 22 0>DF0HNce:^VBeoK54AIn1
+l726
+L715
+VhWO`mkl@6RdJ1BDaBfiW`0
+R11
+31
+R394
+R395
+R396
+R12
+R13
+R14
+!s100 j2R?X0AZZ1lUUXhIkdEeD2
+!i10b 1
+Evirtex4_mul_61x61
+R9
+R297
+R7
+R8
+R10
+Z407 8C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/mul_unisim.vhd
+Z408 FC:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/mul_unisim.vhd
+l0
+L7
+V3XFDoVWcbbWLoRkPGNhj:2
+R11
+31
+Z409 !s108 1667075318.936000
+Z410 !s90 -reportprogress|300|-work|techmap|-93|-source|-nowarn|1|-nowarn|5|-cover|s|C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/mul_unisim.vhd|
+Z411 !s107 C:/Users/alfred/Desktop/workstatsion/Bristol_LAB/Embedded_Unit_Lab/LAB2_MAIN/group4_mainWorkstation_SDF/lib/techmap/unisim/mul_unisim.vhd|
+R12
+R13
+R14
+!s100 hhZJDMgA9Ycj6z77>EZ;o0
+!i10b 1
+Abeh
+R297
+R7
+R8
+DEx4 work 17 virtex4_mul_61x61 0 22 3XFDoVWcbbWLoRkPGNhj:2
+l2063
+L16
+VQLF`k8[RikX_o47O@`98@0
+R11
+31
+R409
+R410
+R411
+R12
+R13
+R14
+!s100 NX?@eEHhl0X<Sl[5V9zn^2
+!i10b 1
+Evirtex4_tap
+R9
+DEx6 unisim 13 bscan_virtex4 0 22 iU;g4_aHNR9WmUeaZT?Sb3
+R7
+R8
+R10
+R275
+R276
+l0
+L211
+VH2Ia9fGH9mhCj>kDa93Ij2
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 Hg_cm@Ie_4M5zD?M8cd5A3
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 11 virtex4_tap 0 22 H2Ia9fGH9mhCj>kDa93Ij2
+l246
+L226
+VPoznVYAi_8aLgIo8V=Ck90
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 N2;:UHlFn8TZk8SRJV:8K1
+!i10b 1
+Evirtex5_ddr2_phy
+R9
+R3
+R5
+R6
+DEx6 unisim 10 idelayctrl 0 22 c@<a0j84bf3G_bZAj^dRL3
+R280
+R297
+R109
+DEx6 unisim 7 iserdes 0 22 Yc4?nKbk>XFZQYTNN]>G52
+DEx6 unisim 6 idelay 0 22 UWCI9]NYg1@:0l;nFL>WN2
+R217
+R42
+R398
+R41
+R29
+R1
+R4
+R2
+R7
+R8
+R10
+R282
+R283
+l0
+L1295
+V5k3:PnBJjzJKbcV;P^i<]0
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 RF1HVzW>TMoNIQW@Me0n`1
+!i10b 1
+Artl
+R3
+R5
+R6
+R297
+R109
+R42
+R1
+R4
+R2
+R7
+R8
+DEx4 work 16 virtex5_ddr2_phy 0 22 5k3:PnBJjzJKbcV;P^i<]0
+l1600
+L1372
+V@52LT4nzI`im>F^]=Bi]K2
+R11
+31
+R284
+R285
+R286
+R12
+R13
+R14
+!s100 Hen<<n=QONXIl5[a^_baM1
+!i10b 1
+Evirtex5_tap
+R9
+DEx6 unisim 13 bscan_virtex5 0 22 Z@6;]K`]o4Ya78m@^;fh_3
+R7
+R8
+R10
+R275
+R276
+l0
+L293
+VW>B;IicaeEY?KiW7e=Bjz0
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 gE:KVL2WUlb:J]2NXH@C;1
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 11 virtex5_tap 0 22 W>B;IicaeEY?KiW7e=Bjz0
+l328
+L308
+VQLX0_H1O9G?mn_3cYPCWj0
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 ^SlJXHO:PW6D5okd]8`<W2
+!i10b 1
+Evirtex6_mul_61x61
+R9
+R297
+R7
+R8
+R10
+R407
+R408
+l0
+L16583
+V^Nl@W=2Bkj3CeIGkMnWC90
+R11
+31
+R409
+R410
+R411
+R12
+R13
+R14
+!s100 1iSHmG6D[L^Zz;g^zO`DU2
+!i10b 1
+Abeh
+R297
+R7
+R8
+DEx4 work 17 virtex6_mul_61x61 0 22 ^Nl@W=2Bkj3CeIGkMnWC90
+l19778
+L16592
+VOezU@Blm:iK<@U6g1WMNT1
+R11
+31
+R409
+R410
+R411
+R12
+R13
+R14
+!s100 5WEefG15<g_VVeRJ[b:NH3
+!i10b 1
+Evirtex6_tap
+R9
+R7
+R8
+R10
+R275
+R276
+l0
+L377
+VaL_Hl0RLg9RV^_CLYUD3]3
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 O_0LKn1e2YFhFM5UGh@X31
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 11 virtex6_tap 0 22 aL_Hl0RLg9RV^_CLYUD3]3
+l422
+L392
+Vfj:k9cNZnj0jIW^M4k2OT2
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 :DG=91jNZgEaYk86LQROi3
+!i10b 1
+Evirtex_syncram
+R9
+R1
+R2
+R3
+R4
+R5
+R6
+Z412 DEx6 unisim 13 ramb4_s16_s16 0 22 P05h?RD]cL=i?R>J_7OMN2
+DEx6 unisim 9 ramb4_s16 0 22 ^2BTBE<A>dL1VGBj]1SzG1
+DEx6 unisim 8 ramb4_s8 0 22 7X_XKCY6<Pi>EZjdg61W]3
+DEx6 unisim 8 ramb4_s4 0 22 oGIbKBd1;[mXD[0>=1fgX1
+DEx6 unisim 8 ramb4_s2 0 22 Hz7mLLEL547kba^dE5mE90
+R400
+DEx6 unisim 8 ramb4_s1 0 22 h9e^lULNV9mh08V0?G?5`2
+R7
+R8
+R10
+R402
+R403
+l0
+L42
+Vf<hMo[6GGlanJYbP1_7W`3
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 _m>AEARRQVR8GkQKH=@1B0
+!i10b 1
+Abehav
+R1
+R2
+R3
+R4
+R5
+R6
+R400
+R7
+R8
+DEx4 work 14 virtex_syncram 0 22 f<hMo[6GGlanJYbP1_7W`3
+l120
+L54
+VI@EQQ:d1MC7SYX];Xo_mJ1
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 XE@:Aci[XgeX1nkJOgfHD2
+!i10b 1
+Evirtex_syncram_dp
+R9
+R412
+DEx6 unisim 11 ramb4_s8_s8 0 22 Ag^5<SolEi[^HP>AQ>6?93
+DEx6 unisim 11 ramb4_s4_s4 0 22 DbVH<Q:a_QU6T[F_S>ZQM2
+DEx6 unisim 11 ramb4_s2_s2 0 22 kW8maBV620HP0ALJVBXfT1
+R400
+R4
+DEx6 unisim 11 ramb4_s1_s1 0 22 _J]N^b@a[=EejW`mdW2ii3
+R7
+R8
+R10
+R402
+R403
+l0
+L193
+Vc@JDHk>VO157XM2;?XK6o0
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 IC4XI3>Z2b4T_TcnZKcKJ1
+!i10b 1
+Abehav
+R400
+R4
+R7
+R8
+DEx4 work 17 virtex_syncram_dp 0 22 c@JDHk>VO157XM2;?XK6o0
+l307
+L212
+VbTLlnYN@B<jnUMCOlWKB40
+R11
+31
+R404
+R405
+R406
+R12
+R13
+R14
+!s100 fD@Ei=8jAIS^7G9S9COgH1
+!i10b 1
+Evirtex_tap
+R9
+R7
+R8
+R10
+R275
+R276
+l0
+L33
+V<`UN7F5<Hf2kA3XF:1ffi2
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 mRlY:`B[Wh<zRZni2NCAE0
+!i10b 1
+Artl
+R7
+R8
+DEx4 work 10 virtex_tap 0 22 <`UN7F5<Hf2kA3XF:1ffi2
+l66
+L48
+VUgjTmQhQNM?9fR;DnMAML1
+R11
+31
+R277
+R278
+R279
+R12
+R13
+R14
+!s100 diiMHJzB_Jh>f>hjKPO6X0
+!i10b 1
